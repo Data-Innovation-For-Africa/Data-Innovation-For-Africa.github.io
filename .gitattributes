@@ -2,3 +2,4 @@ Insights/ filter=lfs diff=lfs merge=lfs -text
 Insights/* filter=lfs diff=lfs merge=lfs -text
 Insights/** filter=lfs diff=lfs merge=lfs -text
 Insights/*.pdf filter=lfs diff=lfs merge=lfs -text
+flags/*.png filter=lfs diff=lfs merge=lfs -text
