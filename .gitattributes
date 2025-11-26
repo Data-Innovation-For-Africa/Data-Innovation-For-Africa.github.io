@@ -1,3 +1,0 @@
-Insights/ filter=lfs diff=lfs merge=lfs -text
-Insights/* filter=lfs diff=lfs merge=lfs -text
-Insights/** filter=lfs diff=lfs merge=lfs -text
