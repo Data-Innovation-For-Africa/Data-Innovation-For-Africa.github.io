@@ -1,0 +1,755 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Adamaoua","Djerem",2012,39.9523544311523
+"Adamaoua","Djerem",2013,46.7030181884766
+"Adamaoua","Djerem",2014,57.165454864502
+"Adamaoua","Djerem",2015,57.1942253112793
+"Adamaoua","Djerem",2016,42.9368934631348
+"Adamaoua","Djerem",2017,25.6825180053711
+"Adamaoua","Djerem",2018,7.95429277420044
+"Adamaoua","Djerem",2019,16.8756084442139
+"Adamaoua","Djerem",2020,28.6804275512695
+"Adamaoua","Djerem",2021,24.781192779541
+"Adamaoua","Djerem",2022,41.3206024169922
+"Adamaoua","Djerem",2023,47.4114036560059
+"Adamaoua","Djerem",2024,65.1198348999023
+"Adamaoua","Faro et Déo",2012,6.46062469482422
+"Adamaoua","Faro et Déo",2013,3.41462302207947
+"Adamaoua","Faro et Déo",2014,4.38186073303223
+"Adamaoua","Faro et Déo",2015,8.34238052368164
+"Adamaoua","Faro et Déo",2016,5.02745914459229
+"Adamaoua","Faro et Déo",2017,2.64307308197021
+"Adamaoua","Faro et Déo",2018,0
+"Adamaoua","Faro et Déo",2019,0
+"Adamaoua","Faro et Déo",2020,0
+"Adamaoua","Faro et Déo",2021,0.0743076056241989
+"Adamaoua","Faro et Déo",2022,0.987481951713562
+"Adamaoua","Faro et Déo",2023,0.412273347377777
+"Adamaoua","Faro et Déo",2024,1.34479486942291
+"Adamaoua","Mayo Banyo",2012,19.6329746246338
+"Adamaoua","Mayo Banyo",2013,14.1821432113647
+"Adamaoua","Mayo Banyo",2014,12.9261913299561
+"Adamaoua","Mayo Banyo",2015,18.8132038116455
+"Adamaoua","Mayo Banyo",2016,19.2876129150391
+"Adamaoua","Mayo Banyo",2017,18.0376434326172
+"Adamaoua","Mayo Banyo",2018,12.9467458724976
+"Adamaoua","Mayo Banyo",2019,13.2401132583618
+"Adamaoua","Mayo Banyo",2020,21.1710739135742
+"Adamaoua","Mayo Banyo",2021,21.0460510253906
+"Adamaoua","Mayo Banyo",2022,47.1073036193848
+"Adamaoua","Mayo Banyo",2023,56.6124801635742
+"Adamaoua","Mayo Banyo",2024,72.6918106079102
+"Adamaoua","Mbéré",2012,63.1304473876953
+"Adamaoua","Mbéré",2013,41.9612121582031
+"Adamaoua","Mbéré",2014,38.7375106811523
+"Adamaoua","Mbéré",2015,41.4239463806152
+"Adamaoua","Mbéré",2016,37.3241195678711
+"Adamaoua","Mbéré",2017,32.7886619567871
+"Adamaoua","Mbéré",2018,22.1054496765137
+"Adamaoua","Mbéré",2019,24.1240062713623
+"Adamaoua","Mbéré",2020,19.8162384033203
+"Adamaoua","Mbéré",2021,34.6434669494629
+"Adamaoua","Mbéré",2022,66.889518737793
+"Adamaoua","Mbéré",2023,85.2085113525391
+"Adamaoua","Mbéré",2024,121.816879272461
+"Adamaoua","Vina",2012,436.262878417969
+"Adamaoua","Vina",2013,470.049591064453
+"Adamaoua","Vina",2014,513.429809570312
+"Adamaoua","Vina",2015,577.876037597656
+"Adamaoua","Vina",2016,557.101318359375
+"Adamaoua","Vina",2017,547.425415039062
+"Adamaoua","Vina",2018,604.937194824219
+"Adamaoua","Vina",2019,646.250122070312
+"Adamaoua","Vina",2020,738.652709960938
+"Adamaoua","Vina",2021,857.051879882812
+"Adamaoua","Vina",2022,1172.04272460938
+"Adamaoua","Vina",2023,1250.74194335938
+"Adamaoua","Vina",2024,1669.01843261719
+"Centre","Haute Sanaga",2012,165.020095825195
+"Centre","Haute Sanaga",2013,141.294097900391
+"Centre","Haute Sanaga",2014,141.913131713867
+"Centre","Haute Sanaga",2015,130.509567260742
+"Centre","Haute Sanaga",2016,122.736358642578
+"Centre","Haute Sanaga",2017,153.182846069336
+"Centre","Haute Sanaga",2018,130.3095703125
+"Centre","Haute Sanaga",2019,168.10514831543
+"Centre","Haute Sanaga",2020,196.167266845703
+"Centre","Haute Sanaga",2021,522.650817871094
+"Centre","Haute Sanaga",2022,583.57080078125
+"Centre","Haute Sanaga",2023,527.625854492188
+"Centre","Haute Sanaga",2024,407.316467285156
+"Centre","Lekié",2012,477.7255859375
+"Centre","Lekié",2013,355.246490478516
+"Centre","Lekié",2014,506.253845214844
+"Centre","Lekié",2015,610.596618652344
+"Centre","Lekié",2016,617.679504394531
+"Centre","Lekié",2017,793.598999023438
+"Centre","Lekié",2018,750.259948730469
+"Centre","Lekié",2019,893.36865234375
+"Centre","Lekié",2020,847.828430175781
+"Centre","Lekié",2021,988.668640136719
+"Centre","Lekié",2022,1147.60876464844
+"Centre","Lekié",2023,1548.50549316406
+"Centre","Lekié",2024,1731.06970214844
+"Centre","Mbam et Inoubou",2012,681.69287109375
+"Centre","Mbam et Inoubou",2013,128.415786743164
+"Centre","Mbam et Inoubou",2014,314.654571533203
+"Centre","Mbam et Inoubou",2015,150.071075439453
+"Centre","Mbam et Inoubou",2016,114.110740661621
+"Centre","Mbam et Inoubou",2017,148.883010864258
+"Centre","Mbam et Inoubou",2018,149.268798828125
+"Centre","Mbam et Inoubou",2019,144.52278137207
+"Centre","Mbam et Inoubou",2020,157.211517333984
+"Centre","Mbam et Inoubou",2021,140.516128540039
+"Centre","Mbam et Inoubou",2022,448.397430419922
+"Centre","Mbam et Inoubou",2023,479.412628173828
+"Centre","Mbam et Inoubou",2024,283.097290039062
+"Centre","Mbam et Kim",2012,92.772087097168
+"Centre","Mbam et Kim",2013,22.5016994476318
+"Centre","Mbam et Kim",2014,352.33837890625
+"Centre","Mbam et Kim",2015,26.566535949707
+"Centre","Mbam et Kim",2016,16.114372253418
+"Centre","Mbam et Kim",2017,19.0458126068115
+"Centre","Mbam et Kim",2018,26.7044944763184
+"Centre","Mbam et Kim",2019,31.9909076690674
+"Centre","Mbam et Kim",2020,28.1487236022949
+"Centre","Mbam et Kim",2021,33.2361907958984
+"Centre","Mbam et Kim",2022,64.3747329711914
+"Centre","Mbam et Kim",2023,124.898826599121
+"Centre","Mbam et Kim",2024,74.8109359741211
+"Centre","Mefou et Afamba",2012,1424.30065917969
+"Centre","Mefou et Afamba",2013,1573.923828125
+"Centre","Mefou et Afamba",2014,1915.31665039062
+"Centre","Mefou et Afamba",2015,2519.11181640625
+"Centre","Mefou et Afamba",2016,2900.3779296875
+"Centre","Mefou et Afamba",2017,3205.86181640625
+"Centre","Mefou et Afamba",2018,3526.32690429688
+"Centre","Mefou et Afamba",2019,3969.619140625
+"Centre","Mefou et Afamba",2020,3845.19116210938
+"Centre","Mefou et Afamba",2021,4320.12158203125
+"Centre","Mefou et Afamba",2022,4567.52587890625
+"Centre","Mefou et Afamba",2023,4866.5947265625
+"Centre","Mefou et Afamba",2024,5470.35498046875
+"Centre","Mefou et Akono",2012,592.864196777344
+"Centre","Mefou et Akono",2013,398.856384277344
+"Centre","Mefou et Akono",2014,543.819641113281
+"Centre","Mefou et Akono",2015,564.315673828125
+"Centre","Mefou et Akono",2016,631.7490234375
+"Centre","Mefou et Akono",2017,827.233459472656
+"Centre","Mefou et Akono",2018,830.403442382812
+"Centre","Mefou et Akono",2019,939.574523925781
+"Centre","Mefou et Akono",2020,880.495727539062
+"Centre","Mefou et Akono",2021,1258.06555175781
+"Centre","Mefou et Akono",2022,1403.41186523438
+"Centre","Mefou et Akono",2023,1839.029296875
+"Centre","Mefou et Akono",2024,1866.07092285156
+"Centre","Mfoundi",2012,11314.216796875
+"Centre","Mfoundi",2013,11320.0830078125
+"Centre","Mfoundi",2014,12405.3671875
+"Centre","Mfoundi",2015,14302.12109375
+"Centre","Mfoundi",2016,15049.6982421875
+"Centre","Mfoundi",2017,16036.873046875
+"Centre","Mfoundi",2018,15946.654296875
+"Centre","Mfoundi",2019,16421.23046875
+"Centre","Mfoundi",2020,15635.9716796875
+"Centre","Mfoundi",2021,15808.8486328125
+"Centre","Mfoundi",2022,15419.404296875
+"Centre","Mfoundi",2023,15048.080078125
+"Centre","Mfoundi",2024,16376.15234375
+"Centre","Nyong et Kéllé",2012,520.742309570312
+"Centre","Nyong et Kéllé",2013,304.409027099609
+"Centre","Nyong et Kéllé",2014,396.916625976562
+"Centre","Nyong et Kéllé",2015,126.456146240234
+"Centre","Nyong et Kéllé",2016,79.3918914794922
+"Centre","Nyong et Kéllé",2017,158.951400756836
+"Centre","Nyong et Kéllé",2018,303.216217041016
+"Centre","Nyong et Kéllé",2019,110.24397277832
+"Centre","Nyong et Kéllé",2020,60.3657569885254
+"Centre","Nyong et Kéllé",2021,377.698913574219
+"Centre","Nyong et Kéllé",2022,165.307388305664
+"Centre","Nyong et Kéllé",2023,496.805328369141
+"Centre","Nyong et Kéllé",2024,270.353149414062
+"Centre","Nyong et Mfoumou",2012,47.3024368286133
+"Centre","Nyong et Mfoumou",2013,49.9397506713867
+"Centre","Nyong et Mfoumou",2014,65.8001098632812
+"Centre","Nyong et Mfoumou",2015,49.6042060852051
+"Centre","Nyong et Mfoumou",2016,37.5107192993164
+"Centre","Nyong et Mfoumou",2017,51.4577674865723
+"Centre","Nyong et Mfoumou",2018,30.8825855255127
+"Centre","Nyong et Mfoumou",2019,36.8829040527344
+"Centre","Nyong et Mfoumou",2020,15.8714075088501
+"Centre","Nyong et Mfoumou",2021,41.6245422363281
+"Centre","Nyong et Mfoumou",2022,48.356071472168
+"Centre","Nyong et Mfoumou",2023,57.2085342407227
+"Centre","Nyong et Mfoumou",2024,48.7666053771973
+"Centre","Nyong et So'o",2012,308.776763916016
+"Centre","Nyong et So'o",2013,203.497970581055
+"Centre","Nyong et So'o",2014,235.881820678711
+"Centre","Nyong et So'o",2015,201.77961730957
+"Centre","Nyong et So'o",2016,232.774337768555
+"Centre","Nyong et So'o",2017,307.808227539062
+"Centre","Nyong et So'o",2018,328.170135498047
+"Centre","Nyong et So'o",2019,326.284271240234
+"Centre","Nyong et So'o",2020,241.006103515625
+"Centre","Nyong et So'o",2021,393.82470703125
+"Centre","Nyong et So'o",2022,357.660980224609
+"Centre","Nyong et So'o",2023,450.385650634766
+"Centre","Nyong et So'o",2024,394.348388671875
+"Est","Boumba et Ngoko",2012,87.9595108032227
+"Est","Boumba et Ngoko",2013,64.7590103149414
+"Est","Boumba et Ngoko",2014,71.7312393188477
+"Est","Boumba et Ngoko",2015,66.8342971801758
+"Est","Boumba et Ngoko",2016,56.7895622253418
+"Est","Boumba et Ngoko",2017,94.7793273925781
+"Est","Boumba et Ngoko",2018,60.1714782714844
+"Est","Boumba et Ngoko",2019,96.9523010253906
+"Est","Boumba et Ngoko",2020,133.987655639648
+"Est","Boumba et Ngoko",2021,60.3360862731934
+"Est","Boumba et Ngoko",2022,70.317138671875
+"Est","Boumba et Ngoko",2023,88.0028457641602
+"Est","Boumba et Ngoko",2024,89.6463317871094
+"Est","Haut Nyong",2012,34.6457672119141
+"Est","Haut Nyong",2013,43.8789405822754
+"Est","Haut Nyong",2014,36.3262672424316
+"Est","Haut Nyong",2015,33.9423027038574
+"Est","Haut Nyong",2016,8.50455379486084
+"Est","Haut Nyong",2017,17.6509857177734
+"Est","Haut Nyong",2018,21.2282047271729
+"Est","Haut Nyong",2019,31.096586227417
+"Est","Haut Nyong",2020,10.3925828933716
+"Est","Haut Nyong",2021,30.5835609436035
+"Est","Haut Nyong",2022,46.7890205383301
+"Est","Haut Nyong",2023,80.5492248535156
+"Est","Haut Nyong",2024,109.807250976562
+"Est","Kadey",2012,92.3009948730469
+"Est","Kadey",2013,72.641242980957
+"Est","Kadey",2014,56.017894744873
+"Est","Kadey",2015,63.821102142334
+"Est","Kadey",2016,34.0705757141113
+"Est","Kadey",2017,42.3846435546875
+"Est","Kadey",2018,30.0964832305908
+"Est","Kadey",2019,22.3102245330811
+"Est","Kadey",2020,22.4196605682373
+"Est","Kadey",2021,33.4956474304199
+"Est","Kadey",2022,111.851066589355
+"Est","Kadey",2023,203.440505981445
+"Est","Kadey",2024,388.696441650391
+"Est","Lom et Djerem",2012,470.195922851562
+"Est","Lom et Djerem",2013,724.638854980469
+"Est","Lom et Djerem",2014,784.510070800781
+"Est","Lom et Djerem",2015,724.698913574219
+"Est","Lom et Djerem",2016,586.864135742188
+"Est","Lom et Djerem",2017,460.735504150391
+"Est","Lom et Djerem",2018,512.092956542969
+"Est","Lom et Djerem",2019,537.358154296875
+"Est","Lom et Djerem",2020,599.372619628906
+"Est","Lom et Djerem",2021,771.510925292969
+"Est","Lom et Djerem",2022,1059.03881835938
+"Est","Lom et Djerem",2023,1160.95983886719
+"Est","Lom et Djerem",2024,1488.30920410156
+"Extrême-Nord","Diamaré",2012,578.957458496094
+"Extrême-Nord","Diamaré",2013,566.27587890625
+"Extrême-Nord","Diamaré",2014,617.295715332031
+"Extrême-Nord","Diamaré",2015,690.944152832031
+"Extrême-Nord","Diamaré",2016,631.198913574219
+"Extrême-Nord","Diamaré",2017,661.88818359375
+"Extrême-Nord","Diamaré",2018,710.927795410156
+"Extrême-Nord","Diamaré",2019,890.453735351562
+"Extrême-Nord","Diamaré",2020,1078.45422363281
+"Extrême-Nord","Diamaré",2021,1491.61145019531
+"Extrême-Nord","Diamaré",2022,1966.62316894531
+"Extrême-Nord","Diamaré",2023,2482.27026367188
+"Extrême-Nord","Diamaré",2024,2851.12573242188
+"Extrême-Nord","Logone et Chari",2012,225.180099487305
+"Extrême-Nord","Logone et Chari",2013,232.667022705078
+"Extrême-Nord","Logone et Chari",2014,235.196670532227
+"Extrême-Nord","Logone et Chari",2015,229.58512878418
+"Extrême-Nord","Logone et Chari",2016,208.546127319336
+"Extrême-Nord","Logone et Chari",2017,211.95280456543
+"Extrême-Nord","Logone et Chari",2018,202.81184387207
+"Extrême-Nord","Logone et Chari",2019,214.862716674805
+"Extrême-Nord","Logone et Chari",2020,224.278854370117
+"Extrême-Nord","Logone et Chari",2021,270.031402587891
+"Extrême-Nord","Logone et Chari",2022,335.072448730469
+"Extrême-Nord","Logone et Chari",2023,516.697814941406
+"Extrême-Nord","Logone et Chari",2024,501.753814697266
+"Extrême-Nord","Mayo Danay",2012,79.0664825439453
+"Extrême-Nord","Mayo Danay",2013,64.2012252807617
+"Extrême-Nord","Mayo Danay",2014,78.4943542480469
+"Extrême-Nord","Mayo Danay",2015,87.5527038574219
+"Extrême-Nord","Mayo Danay",2016,75.9265365600586
+"Extrême-Nord","Mayo Danay",2017,78.3024673461914
+"Extrême-Nord","Mayo Danay",2018,71.9033126831055
+"Extrême-Nord","Mayo Danay",2019,83.2268753051758
+"Extrême-Nord","Mayo Danay",2020,94.5833358764648
+"Extrême-Nord","Mayo Danay",2021,135.049545288086
+"Extrême-Nord","Mayo Danay",2022,230.460144042969
+"Extrême-Nord","Mayo Danay",2023,307.986785888672
+"Extrême-Nord","Mayo Danay",2024,376.259765625
+"Extrême-Nord","Mayo Kani",2012,69.0700225830078
+"Extrême-Nord","Mayo Kani",2013,56.3140907287598
+"Extrême-Nord","Mayo Kani",2014,55.5310745239258
+"Extrême-Nord","Mayo Kani",2015,48.3476409912109
+"Extrême-Nord","Mayo Kani",2016,41.676513671875
+"Extrême-Nord","Mayo Kani",2017,41.221736907959
+"Extrême-Nord","Mayo Kani",2018,39.651927947998
+"Extrême-Nord","Mayo Kani",2019,39.4427680969238
+"Extrême-Nord","Mayo Kani",2020,56.7728424072266
+"Extrême-Nord","Mayo Kani",2021,110.30298614502
+"Extrême-Nord","Mayo Kani",2022,209.93586730957
+"Extrême-Nord","Mayo Kani",2023,253.442535400391
+"Extrême-Nord","Mayo Kani",2024,283.134948730469
+"Extrême-Nord","Mayo Sava",2012,138.794799804688
+"Extrême-Nord","Mayo Sava",2013,116.35514831543
+"Extrême-Nord","Mayo Sava",2014,92.8971786499023
+"Extrême-Nord","Mayo Sava",2015,62.0956497192383
+"Extrême-Nord","Mayo Sava",2016,48.6859474182129
+"Extrême-Nord","Mayo Sava",2017,54.8614387512207
+"Extrême-Nord","Mayo Sava",2018,46.9194526672363
+"Extrême-Nord","Mayo Sava",2019,61.6440963745117
+"Extrême-Nord","Mayo Sava",2020,90.064567565918
+"Extrême-Nord","Mayo Sava",2021,104.521049499512
+"Extrême-Nord","Mayo Sava",2022,148.478988647461
+"Extrême-Nord","Mayo Sava",2023,310.443572998047
+"Extrême-Nord","Mayo Sava",2024,342.180358886719
+"Extrême-Nord","Mayo Tsanaga",2012,67.3061218261719
+"Extrême-Nord","Mayo Tsanaga",2013,65.1557769775391
+"Extrême-Nord","Mayo Tsanaga",2014,69.8312759399414
+"Extrême-Nord","Mayo Tsanaga",2015,74.63671875
+"Extrême-Nord","Mayo Tsanaga",2016,76.7191390991211
+"Extrême-Nord","Mayo Tsanaga",2017,73.3740005493164
+"Extrême-Nord","Mayo Tsanaga",2018,84.0761184692383
+"Extrême-Nord","Mayo Tsanaga",2019,85.4108657836914
+"Extrême-Nord","Mayo Tsanaga",2020,109.165000915527
+"Extrême-Nord","Mayo Tsanaga",2021,145.228897094727
+"Extrême-Nord","Mayo Tsanaga",2022,247.559555053711
+"Extrême-Nord","Mayo Tsanaga",2023,345.396514892578
+"Extrême-Nord","Mayo Tsanaga",2024,441.850799560547
+"Littoral","Moungo",2012,609.668029785156
+"Littoral","Moungo",2013,523.58544921875
+"Littoral","Moungo",2014,645.474365234375
+"Littoral","Moungo",2015,839.228698730469
+"Littoral","Moungo",2016,848.214965820312
+"Littoral","Moungo",2017,940.789916992188
+"Littoral","Moungo",2018,897.678955078125
+"Littoral","Moungo",2019,1056.71691894531
+"Littoral","Moungo",2020,1358.51831054688
+"Littoral","Moungo",2021,1382.06982421875
+"Littoral","Moungo",2022,1861.05090332031
+"Littoral","Moungo",2023,1908.36950683594
+"Littoral","Moungo",2024,2119.04663085938
+"Littoral","Nkam",2012,100.641044616699
+"Littoral","Nkam",2013,17.529748916626
+"Littoral","Nkam",2014,94.817512512207
+"Littoral","Nkam",2015,14.8699750900269
+"Littoral","Nkam",2016,10.8181715011597
+"Littoral","Nkam",2017,31.191967010498
+"Littoral","Nkam",2018,19.5020046234131
+"Littoral","Nkam",2019,53.858772277832
+"Littoral","Nkam",2020,55.1823043823242
+"Littoral","Nkam",2021,190.568710327148
+"Littoral","Nkam",2022,168.603546142578
+"Littoral","Nkam",2023,1012.97613525391
+"Littoral","Nkam",2024,273.735748291016
+"Littoral","Sanaga Maritime",2012,753.847229003906
+"Littoral","Sanaga Maritime",2013,586.685546875
+"Littoral","Sanaga Maritime",2014,1146.27856445312
+"Littoral","Sanaga Maritime",2015,1283.71276855469
+"Littoral","Sanaga Maritime",2016,1019.39044189453
+"Littoral","Sanaga Maritime",2017,888.282043457031
+"Littoral","Sanaga Maritime",2018,719.189208984375
+"Littoral","Sanaga Maritime",2019,717.216369628906
+"Littoral","Sanaga Maritime",2020,812.41748046875
+"Littoral","Sanaga Maritime",2021,1151.73046875
+"Littoral","Sanaga Maritime",2022,1425.47985839844
+"Littoral","Sanaga Maritime",2023,1917.21667480469
+"Littoral","Sanaga Maritime",2024,1473.0126953125
+"Littoral","Wouri",2012,11686.609375
+"Littoral","Wouri",2013,11403.298828125
+"Littoral","Wouri",2014,11818.587890625
+"Littoral","Wouri",2015,12195.681640625
+"Littoral","Wouri",2016,12989.83984375
+"Littoral","Wouri",2017,13793.025390625
+"Littoral","Wouri",2018,14199.27734375
+"Littoral","Wouri",2019,15200.6171875
+"Littoral","Wouri",2020,16032.42578125
+"Littoral","Wouri",2021,17336.935546875
+"Littoral","Wouri",2022,18032.23046875
+"Littoral","Wouri",2023,17122.484375
+"Littoral","Wouri",2024,19634.45703125
+"Nord","Bénoué",2012,1445.43273925781
+"Nord","Bénoué",2013,1451.9326171875
+"Nord","Bénoué",2014,1499.47314453125
+"Nord","Bénoué",2015,1460.01379394531
+"Nord","Bénoué",2016,1571.86755371094
+"Nord","Bénoué",2017,1772.75988769531
+"Nord","Bénoué",2018,1667.2890625
+"Nord","Bénoué",2019,1795.81079101562
+"Nord","Bénoué",2020,2068.68408203125
+"Nord","Bénoué",2021,2637.00024414062
+"Nord","Bénoué",2022,3550.54956054688
+"Nord","Bénoué",2023,3842.619140625
+"Nord","Bénoué",2024,4150.34375
+"Nord","Faro",2012,6.73299503326416
+"Nord","Faro",2013,7.23564481735229
+"Nord","Faro",2014,7.12811183929443
+"Nord","Faro",2015,5.29689884185791
+"Nord","Faro",2016,8.49781703948975
+"Nord","Faro",2017,4.29149103164673
+"Nord","Faro",2018,0.810481309890747
+"Nord","Faro",2019,0.951349854469299
+"Nord","Faro",2020,0.753661632537842
+"Nord","Faro",2021,1.5551050901413
+"Nord","Faro",2022,5.24044036865234
+"Nord","Faro",2023,10.6809110641479
+"Nord","Faro",2024,10.8110332489014
+"Nord","Mayo Louti",2012,151.318313598633
+"Nord","Mayo Louti",2013,239.955200195312
+"Nord","Mayo Louti",2014,188.426422119141
+"Nord","Mayo Louti",2015,152.720550537109
+"Nord","Mayo Louti",2016,141.841094970703
+"Nord","Mayo Louti",2017,153.913223266602
+"Nord","Mayo Louti",2018,156.505294799805
+"Nord","Mayo Louti",2019,156.124862670898
+"Nord","Mayo Louti",2020,164.902282714844
+"Nord","Mayo Louti",2021,253.233688354492
+"Nord","Mayo Louti",2022,405.894989013672
+"Nord","Mayo Louti",2023,601.51806640625
+"Nord","Mayo Louti",2024,701.459106445312
+"Nord","Mayo Rey",2012,255.284973144531
+"Nord","Mayo Rey",2013,199.483947753906
+"Nord","Mayo Rey",2014,224.676040649414
+"Nord","Mayo Rey",2015,260.489868164062
+"Nord","Mayo Rey",2016,245.596054077148
+"Nord","Mayo Rey",2017,224.677505493164
+"Nord","Mayo Rey",2018,188.988006591797
+"Nord","Mayo Rey",2019,163.837936401367
+"Nord","Mayo Rey",2020,172.400817871094
+"Nord","Mayo Rey",2021,224.041931152344
+"Nord","Mayo Rey",2022,252.266357421875
+"Nord","Mayo Rey",2023,267.931640625
+"Nord","Mayo Rey",2024,317.962768554688
+"Nord-Ouest","Boyo",2012,0
+"Nord-Ouest","Boyo",2013,0
+"Nord-Ouest","Boyo",2014,1.69101667404175
+"Nord-Ouest","Boyo",2015,1.10493624210358
+"Nord-Ouest","Boyo",2016,0.581270813941956
+"Nord-Ouest","Boyo",2017,1.01375675201416
+"Nord-Ouest","Boyo",2018,0
+"Nord-Ouest","Boyo",2019,0
+"Nord-Ouest","Boyo",2020,0
+"Nord-Ouest","Boyo",2021,0
+"Nord-Ouest","Boyo",2022,0
+"Nord-Ouest","Boyo",2023,1.54363834857941
+"Nord-Ouest","Boyo",2024,6.42725658416748
+"Nord-Ouest","Bui",2012,3.87716221809387
+"Nord-Ouest","Bui",2013,5.10732364654541
+"Nord-Ouest","Bui",2014,10.3771305084229
+"Nord-Ouest","Bui",2015,9.11378479003906
+"Nord-Ouest","Bui",2016,8.14069080352783
+"Nord-Ouest","Bui",2017,8.24612998962402
+"Nord-Ouest","Bui",2018,2.68960118293762
+"Nord-Ouest","Bui",2019,0
+"Nord-Ouest","Bui",2020,0
+"Nord-Ouest","Bui",2021,0
+"Nord-Ouest","Bui",2022,0
+"Nord-Ouest","Bui",2023,0
+"Nord-Ouest","Bui",2024,0
+"Nord-Ouest","Donga Mantung",2012,0.517035245895386
+"Nord-Ouest","Donga Mantung",2013,0
+"Nord-Ouest","Donga Mantung",2014,4.87669944763184
+"Nord-Ouest","Donga Mantung",2015,5.6897668838501
+"Nord-Ouest","Donga Mantung",2016,1.04359126091003
+"Nord-Ouest","Donga Mantung",2017,1.12674355506897
+"Nord-Ouest","Donga Mantung",2018,0
+"Nord-Ouest","Donga Mantung",2019,0
+"Nord-Ouest","Donga Mantung",2020,0
+"Nord-Ouest","Donga Mantung",2021,0
+"Nord-Ouest","Donga Mantung",2022,0
+"Nord-Ouest","Donga Mantung",2023,1.98816657066345
+"Nord-Ouest","Donga Mantung",2024,3.86911106109619
+"Nord-Ouest","Menchum",2012,1.23508667945862
+"Nord-Ouest","Menchum",2013,0.645417392253876
+"Nord-Ouest","Menchum",2014,5.56842517852783
+"Nord-Ouest","Menchum",2015,4.6779522895813
+"Nord-Ouest","Menchum",2016,3.61281490325928
+"Nord-Ouest","Menchum",2017,3.33598518371582
+"Nord-Ouest","Menchum",2018,0
+"Nord-Ouest","Menchum",2019,0
+"Nord-Ouest","Menchum",2020,0
+"Nord-Ouest","Menchum",2021,0
+"Nord-Ouest","Menchum",2022,0
+"Nord-Ouest","Menchum",2023,0
+"Nord-Ouest","Menchum",2024,0
+"Nord-Ouest","Mezam",2012,683.784912109375
+"Nord-Ouest","Mezam",2013,571.196044921875
+"Nord-Ouest","Mezam",2014,549.091613769531
+"Nord-Ouest","Mezam",2015,488.421081542969
+"Nord-Ouest","Mezam",2016,562.413452148438
+"Nord-Ouest","Mezam",2017,501.93310546875
+"Nord-Ouest","Mezam",2018,413.473571777344
+"Nord-Ouest","Mezam",2019,349.795654296875
+"Nord-Ouest","Mezam",2020,497.633697509766
+"Nord-Ouest","Mezam",2021,601.303833007812
+"Nord-Ouest","Mezam",2022,898.991149902344
+"Nord-Ouest","Mezam",2023,1062.82666015625
+"Nord-Ouest","Mezam",2024,1426.06579589844
+"Nord-Ouest","Momo",2012,2.18496108055115
+"Nord-Ouest","Momo",2013,0.516425788402557
+"Nord-Ouest","Momo",2014,1.62517142295837
+"Nord-Ouest","Momo",2015,1.68049347400665
+"Nord-Ouest","Momo",2016,1.10815262794495
+"Nord-Ouest","Momo",2017,0.621350705623627
+"Nord-Ouest","Momo",2018,0
+"Nord-Ouest","Momo",2019,0
+"Nord-Ouest","Momo",2020,1.19004833698273
+"Nord-Ouest","Momo",2021,3.43252110481262
+"Nord-Ouest","Momo",2022,12.4741868972778
+"Nord-Ouest","Momo",2023,4.44930362701416
+"Nord-Ouest","Momo",2024,10.8938512802124
+"Nord-Ouest","Ngo Ketunjia",2012,7.54776000976562
+"Nord-Ouest","Ngo Ketunjia",2013,2.84694671630859
+"Nord-Ouest","Ngo Ketunjia",2014,10.8757581710815
+"Nord-Ouest","Ngo Ketunjia",2015,8.87745189666748
+"Nord-Ouest","Ngo Ketunjia",2016,6.82433271408081
+"Nord-Ouest","Ngo Ketunjia",2017,4.34879112243652
+"Nord-Ouest","Ngo Ketunjia",2018,0.80044037103653
+"Nord-Ouest","Ngo Ketunjia",2019,0
+"Nord-Ouest","Ngo Ketunjia",2020,0
+"Nord-Ouest","Ngo Ketunjia",2021,0
+"Nord-Ouest","Ngo Ketunjia",2022,2.53959989547729
+"Nord-Ouest","Ngo Ketunjia",2023,6.94730234146118
+"Nord-Ouest","Ngo Ketunjia",2024,9.33028697967529
+"Ouest","Bamboutos",2012,35.6083717346191
+"Ouest","Bamboutos",2013,28.8868999481201
+"Ouest","Bamboutos",2014,38.7210655212402
+"Ouest","Bamboutos",2015,52.9703330993652
+"Ouest","Bamboutos",2016,75.7548217773438
+"Ouest","Bamboutos",2017,109.722602844238
+"Ouest","Bamboutos",2018,88.8619842529297
+"Ouest","Bamboutos",2019,109.061943054199
+"Ouest","Bamboutos",2020,97.8602905273438
+"Ouest","Bamboutos",2021,140.329147338867
+"Ouest","Bamboutos",2022,176.108016967773
+"Ouest","Bamboutos",2023,188.487762451172
+"Ouest","Bamboutos",2024,348.585815429688
+"Ouest","Haut Nkam",2012,63.1623497009277
+"Ouest","Haut Nkam",2013,46.6986808776855
+"Ouest","Haut Nkam",2014,66.7217483520508
+"Ouest","Haut Nkam",2015,107.190452575684
+"Ouest","Haut Nkam",2016,117.027069091797
+"Ouest","Haut Nkam",2017,143.412109375
+"Ouest","Haut Nkam",2018,169.154556274414
+"Ouest","Haut Nkam",2019,210.60285949707
+"Ouest","Haut Nkam",2020,240.454803466797
+"Ouest","Haut Nkam",2021,244.121551513672
+"Ouest","Haut Nkam",2022,365.597076416016
+"Ouest","Haut Nkam",2023,417.170440673828
+"Ouest","Haut Nkam",2024,520.157531738281
+"Ouest","Hauts Plateaux",2012,4.65718460083008
+"Ouest","Hauts Plateaux",2013,2.5329327583313
+"Ouest","Hauts Plateaux",2014,1.71265923976898
+"Ouest","Hauts Plateaux",2015,3.99428224563599
+"Ouest","Hauts Plateaux",2016,8.17141532897949
+"Ouest","Hauts Plateaux",2017,12.1771993637085
+"Ouest","Hauts Plateaux",2018,4.8733434677124
+"Ouest","Hauts Plateaux",2019,13.0693626403809
+"Ouest","Hauts Plateaux",2020,15.6042585372925
+"Ouest","Hauts Plateaux",2021,26.4302024841309
+"Ouest","Hauts Plateaux",2022,194.082733154297
+"Ouest","Hauts Plateaux",2023,198.077453613281
+"Ouest","Hauts Plateaux",2024,315.912963867188
+"Ouest","Koung Khi",2012,25.0366172790527
+"Ouest","Koung Khi",2013,23.7378215789795
+"Ouest","Koung Khi",2014,26.0230712890625
+"Ouest","Koung Khi",2015,29.4340744018555
+"Ouest","Koung Khi",2016,27.5256328582764
+"Ouest","Koung Khi",2017,45.5782737731934
+"Ouest","Koung Khi",2018,33.2126998901367
+"Ouest","Koung Khi",2019,73.9518585205078
+"Ouest","Koung Khi",2020,93.782470703125
+"Ouest","Koung Khi",2021,152.756423950195
+"Ouest","Koung Khi",2022,392.643280029297
+"Ouest","Koung Khi",2023,376.990447998047
+"Ouest","Koung Khi",2024,485.263153076172
+"Ouest","Menoua",2012,66.8757247924805
+"Ouest","Menoua",2013,66.6664733886719
+"Ouest","Menoua",2014,86.6916961669922
+"Ouest","Menoua",2015,86.0051422119141
+"Ouest","Menoua",2016,106.002006530762
+"Ouest","Menoua",2017,120.732513427734
+"Ouest","Menoua",2018,117.329750061035
+"Ouest","Menoua",2019,120.31706237793
+"Ouest","Menoua",2020,126.265144348145
+"Ouest","Menoua",2021,152.536270141602
+"Ouest","Menoua",2022,312.966552734375
+"Ouest","Menoua",2023,309.015747070312
+"Ouest","Menoua",2024,511.452178955078
+"Ouest","Mifi",2012,292.279602050781
+"Ouest","Mifi",2013,294.845855712891
+"Ouest","Mifi",2014,291.788330078125
+"Ouest","Mifi",2015,302.985107421875
+"Ouest","Mifi",2016,362.820037841797
+"Ouest","Mifi",2017,440.558074951172
+"Ouest","Mifi",2018,587.543029785156
+"Ouest","Mifi",2019,688.669677734375
+"Ouest","Mifi",2020,918.729125976562
+"Ouest","Mifi",2021,1557.26403808594
+"Ouest","Mifi",2022,1719.27392578125
+"Ouest","Mifi",2023,1579.15441894531
+"Ouest","Mifi",2024,1856.67834472656
+"Ouest","Ndé",2012,45.1117401123047
+"Ouest","Ndé",2013,53.8668632507324
+"Ouest","Ndé",2014,71.7112121582031
+"Ouest","Ndé",2015,93.8802947998047
+"Ouest","Ndé",2016,78.7917404174805
+"Ouest","Ndé",2017,89.4185180664062
+"Ouest","Ndé",2018,90.9113159179688
+"Ouest","Ndé",2019,173.566253662109
+"Ouest","Ndé",2020,217.104537963867
+"Ouest","Ndé",2021,251.732315063477
+"Ouest","Ndé",2022,430.312774658203
+"Ouest","Ndé",2023,323.797912597656
+"Ouest","Ndé",2024,408.019226074219
+"Ouest","Noun",2012,124.983131408691
+"Ouest","Noun",2013,96.6870040893555
+"Ouest","Noun",2014,127.313903808594
+"Ouest","Noun",2015,138.598815917969
+"Ouest","Noun",2016,120.195693969727
+"Ouest","Noun",2017,114.679817199707
+"Ouest","Noun",2018,119.740783691406
+"Ouest","Noun",2019,91.5154571533203
+"Ouest","Noun",2020,140.194412231445
+"Ouest","Noun",2021,157.487411499023
+"Ouest","Noun",2022,260.286865234375
+"Ouest","Noun",2023,266.263702392578
+"Ouest","Noun",2024,399.312255859375
+"Sud","Dja et Lobo",2012,242.396850585938
+"Sud","Dja et Lobo",2013,261.790649414062
+"Sud","Dja et Lobo",2014,270.699005126953
+"Sud","Dja et Lobo",2015,304.218231201172
+"Sud","Dja et Lobo",2016,285.642608642578
+"Sud","Dja et Lobo",2017,248.970306396484
+"Sud","Dja et Lobo",2018,207.464004516602
+"Sud","Dja et Lobo",2019,316.794189453125
+"Sud","Dja et Lobo",2020,250.937484741211
+"Sud","Dja et Lobo",2021,254.515487670898
+"Sud","Dja et Lobo",2022,380.167907714844
+"Sud","Dja et Lobo",2023,423.600433349609
+"Sud","Dja et Lobo",2024,394.875427246094
+"Sud","Mvila",2012,498.987701416016
+"Sud","Mvila",2013,384.790649414062
+"Sud","Mvila",2014,412.536499023438
+"Sud","Mvila",2015,247.382354736328
+"Sud","Mvila",2016,203.107269287109
+"Sud","Mvila",2017,346.462554931641
+"Sud","Mvila",2018,388.764526367188
+"Sud","Mvila",2019,523.870666503906
+"Sud","Mvila",2020,425.259979248047
+"Sud","Mvila",2021,524.130981445312
+"Sud","Mvila",2022,791.657043457031
+"Sud","Mvila",2023,913.271484375
+"Sud","Mvila",2024,846.034240722656
+"Sud","Océan",2012,614.715209960938
+"Sud","Océan",2013,622.506042480469
+"Sud","Océan",2014,610.029174804688
+"Sud","Océan",2015,578.656433105469
+"Sud","Océan",2016,476.503936767578
+"Sud","Océan",2017,772.737976074219
+"Sud","Océan",2018,1412.97241210938
+"Sud","Océan",2019,1055.890625
+"Sud","Océan",2020,842.38916015625
+"Sud","Océan",2021,1141.9111328125
+"Sud","Océan",2022,1557.44677734375
+"Sud","Océan",2023,2587.66625976562
+"Sud","Océan",2024,1834.37976074219
+"Sud","Vallée du Ntem",2012,1383.79284667969
+"Sud","Vallée du Ntem",2013,101.493103027344
+"Sud","Vallée du Ntem",2014,143.231643676758
+"Sud","Vallée du Ntem",2015,179.033264160156
+"Sud","Vallée du Ntem",2016,91.3305358886719
+"Sud","Vallée du Ntem",2017,62.059986114502
+"Sud","Vallée du Ntem",2018,36.9588432312012
+"Sud","Vallée du Ntem",2019,231.811904907227
+"Sud","Vallée du Ntem",2020,40.8662757873535
+"Sud","Vallée du Ntem",2021,521.864990234375
+"Sud","Vallée du Ntem",2022,168.910934448242
+"Sud","Vallée du Ntem",2023,411.572082519531
+"Sud","Vallée du Ntem",2024,232.398590087891
+"Sud-Ouest","Fako",2012,1103.294921875
+"Sud-Ouest","Fako",2013,1111.45727539062
+"Sud-Ouest","Fako",2014,1245.904296875
+"Sud-Ouest","Fako",2015,1323.06860351562
+"Sud-Ouest","Fako",2016,1388.93017578125
+"Sud-Ouest","Fako",2017,1205.78991699219
+"Sud-Ouest","Fako",2018,1154.23376464844
+"Sud-Ouest","Fako",2019,1285.76672363281
+"Sud-Ouest","Fako",2020,1131.24182128906
+"Sud-Ouest","Fako",2021,1407.23132324219
+"Sud-Ouest","Fako",2022,1871.29870605469
+"Sud-Ouest","Fako",2023,1913.20324707031
+"Sud-Ouest","Fako",2024,2507.02392578125
+"Sud-Ouest","Koupé Manengouba",2012,7.24440765380859
+"Sud-Ouest","Koupé Manengouba",2013,1.007657289505
+"Sud-Ouest","Koupé Manengouba",2014,1.01508665084839
+"Sud-Ouest","Koupé Manengouba",2015,0
+"Sud-Ouest","Koupé Manengouba",2016,0.26381379365921
+"Sud-Ouest","Koupé Manengouba",2017,2.17496800422668
+"Sud-Ouest","Koupé Manengouba",2018,0
+"Sud-Ouest","Koupé Manengouba",2019,4.0952091217041
+"Sud-Ouest","Koupé Manengouba",2020,6.8287296295166
+"Sud-Ouest","Koupé Manengouba",2021,3.41343307495117
+"Sud-Ouest","Koupé Manengouba",2022,11.1630592346191
+"Sud-Ouest","Koupé Manengouba",2023,1.76207137107849
+"Sud-Ouest","Koupé Manengouba",2024,18.222053527832
+"Sud-Ouest","Lebialem",2012,0
+"Sud-Ouest","Lebialem",2013,0
+"Sud-Ouest","Lebialem",2014,0
+"Sud-Ouest","Lebialem",2015,0
+"Sud-Ouest","Lebialem",2016,0
+"Sud-Ouest","Lebialem",2017,0
+"Sud-Ouest","Lebialem",2018,0
+"Sud-Ouest","Lebialem",2019,0
+"Sud-Ouest","Lebialem",2020,0
+"Sud-Ouest","Lebialem",2021,0
+"Sud-Ouest","Lebialem",2022,0
+"Sud-Ouest","Lebialem",2023,0
+"Sud-Ouest","Lebialem",2024,0
+"Sud-Ouest","Manyu",2012,39.2690124511719
+"Sud-Ouest","Manyu",2013,46.767147064209
+"Sud-Ouest","Manyu",2014,26.3043632507324
+"Sud-Ouest","Manyu",2015,34.0049133300781
+"Sud-Ouest","Manyu",2016,23.6389465332031
+"Sud-Ouest","Manyu",2017,13.4951486587524
+"Sud-Ouest","Manyu",2018,2.87611651420593
+"Sud-Ouest","Manyu",2019,0
+"Sud-Ouest","Manyu",2020,0.50371241569519
+"Sud-Ouest","Manyu",2021,1.017906665802
+"Sud-Ouest","Manyu",2022,1.07994341850281
+"Sud-Ouest","Manyu",2023,1.13603043556213
+"Sud-Ouest","Manyu",2024,2.16152548789978
+"Sud-Ouest","Meme",2012,230.347183227539
+"Sud-Ouest","Meme",2013,244.32389831543
+"Sud-Ouest","Meme",2014,345.544158935547
+"Sud-Ouest","Meme",2015,327.915588378906
+"Sud-Ouest","Meme",2016,326.226440429688
+"Sud-Ouest","Meme",2017,412.599548339844
+"Sud-Ouest","Meme",2018,317.528045654297
+"Sud-Ouest","Meme",2019,301.270202636719
+"Sud-Ouest","Meme",2020,245.255996704102
+"Sud-Ouest","Meme",2021,265.915161132812
+"Sud-Ouest","Meme",2022,400.943450927734
+"Sud-Ouest","Meme",2023,432.683532714844
+"Sud-Ouest","Meme",2024,552.546997070312
+"Sud-Ouest","Ndian",2012,73.2629470825195
+"Sud-Ouest","Ndian",2013,21.7191200256348
+"Sud-Ouest","Ndian",2014,113.700492858887
+"Sud-Ouest","Ndian",2015,71.564323425293
+"Sud-Ouest","Ndian",2016,55.2351493835449
+"Sud-Ouest","Ndian",2017,48.1594886779785
+"Sud-Ouest","Ndian",2018,35.6946563720703
+"Sud-Ouest","Ndian",2019,30.6746387481689
+"Sud-Ouest","Ndian",2020,24.9644432067871
+"Sud-Ouest","Ndian",2021,77.9554138183594
+"Sud-Ouest","Ndian",2022,28.2740364074707
+"Sud-Ouest","Ndian",2023,105.428321838379
+"Sud-Ouest","Ndian",2024,19.8540096282959

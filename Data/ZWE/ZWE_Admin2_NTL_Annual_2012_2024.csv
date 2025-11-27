@@ -1,0 +1,1184 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Bulawayo","Bulawayo",2012,5231.11474609375
+"Bulawayo","Bulawayo",2013,4572.41845703125
+"Bulawayo","Bulawayo",2014,4029.19604492188
+"Bulawayo","Bulawayo",2015,4055.11401367188
+"Bulawayo","Bulawayo",2016,3877.13647460938
+"Bulawayo","Bulawayo",2017,3267.26171875
+"Bulawayo","Bulawayo",2018,3256.37866210938
+"Bulawayo","Bulawayo",2019,2987.6015625
+"Bulawayo","Bulawayo",2020,2762.42578125
+"Bulawayo","Bulawayo",2021,3234.32153320312
+"Bulawayo","Bulawayo",2022,3963.15966796875
+"Bulawayo","Bulawayo",2023,4789.9736328125
+"Bulawayo","Bulawayo",2024,5098.61279296875
+"Harare","Chitungwiza",2012,1482.1923828125
+"Harare","Chitungwiza",2013,1190.62805175781
+"Harare","Chitungwiza",2014,990.883117675781
+"Harare","Chitungwiza",2015,1136.27917480469
+"Harare","Chitungwiza",2016,1451.24230957031
+"Harare","Chitungwiza",2017,1368.57067871094
+"Harare","Chitungwiza",2018,1206.51940917969
+"Harare","Chitungwiza",2019,1094.66455078125
+"Harare","Chitungwiza",2020,1012.6513671875
+"Harare","Chitungwiza",2021,1148.90173339844
+"Harare","Chitungwiza",2022,1138.71484375
+"Harare","Chitungwiza",2023,1311.318359375
+"Harare","Chitungwiza",2024,1326.458984375
+"Harare","Epworth",2012,121.145774841309
+"Harare","Epworth",2013,121.837394714355
+"Harare","Epworth",2014,105.02660369873
+"Harare","Epworth",2015,120.127670288086
+"Harare","Epworth",2016,155.883056640625
+"Harare","Epworth",2017,132.560958862305
+"Harare","Epworth",2018,128.663909912109
+"Harare","Epworth",2019,148.045715332031
+"Harare","Epworth",2020,154.943801879883
+"Harare","Epworth",2021,220.922790527344
+"Harare","Epworth",2022,302.216461181641
+"Harare","Epworth",2023,384.180358886719
+"Harare","Epworth",2024,443.747924804688
+"Harare","Harare",2012,18241.84765625
+"Harare","Harare",2013,16375.607421875
+"Harare","Harare",2014,13706.3330078125
+"Harare","Harare",2015,12790.5478515625
+"Harare","Harare",2016,13368.5712890625
+"Harare","Harare",2017,12749.2431640625
+"Harare","Harare",2018,12589.3935546875
+"Harare","Harare",2019,11986.6201171875
+"Harare","Harare",2020,11915.685546875
+"Harare","Harare",2021,13499.8212890625
+"Harare","Harare",2022,15698.2275390625
+"Harare","Harare",2023,18338.54296875
+"Harare","Harare",2024,19724.1953125
+"Harare","Harare Rural",2012,1088.82836914062
+"Harare","Harare Rural",2013,1097.57824707031
+"Harare","Harare Rural",2014,954.01611328125
+"Harare","Harare Rural",2015,963.064880371094
+"Harare","Harare Rural",2016,1103.64221191406
+"Harare","Harare Rural",2017,929.291076660156
+"Harare","Harare Rural",2018,875.734008789062
+"Harare","Harare Rural",2019,801.485717773438
+"Harare","Harare Rural",2020,916.007263183594
+"Harare","Harare Rural",2021,1086.98547363281
+"Harare","Harare Rural",2022,1487.45532226562
+"Harare","Harare Rural",2023,1983.79821777344
+"Harare","Harare Rural",2024,2123.4326171875
+"Manicaland","Buhera",2012,73.5758209228516
+"Manicaland","Buhera",2013,58.1283760070801
+"Manicaland","Buhera",2014,46.3922157287598
+"Manicaland","Buhera",2015,56.9824485778809
+"Manicaland","Buhera",2016,56.0683898925781
+"Manicaland","Buhera",2017,58.7053298950195
+"Manicaland","Buhera",2018,45.0984840393066
+"Manicaland","Buhera",2019,41.817268371582
+"Manicaland","Buhera",2020,32.2773933410645
+"Manicaland","Buhera",2021,34.8741416931152
+"Manicaland","Buhera",2022,62.0920791625977
+"Manicaland","Buhera",2023,200.412780761719
+"Manicaland","Buhera",2024,306.354827880859
+"Manicaland","Chimanimani",2012,130.527130126953
+"Manicaland","Chimanimani",2013,125.542907714844
+"Manicaland","Chimanimani",2014,94.114616394043
+"Manicaland","Chimanimani",2015,81.6341247558594
+"Manicaland","Chimanimani",2016,62.1324157714844
+"Manicaland","Chimanimani",2017,45.4137306213379
+"Manicaland","Chimanimani",2018,42.7045402526855
+"Manicaland","Chimanimani",2019,20.8874588012695
+"Manicaland","Chimanimani",2020,22.78782081604
+"Manicaland","Chimanimani",2021,20.9916934967041
+"Manicaland","Chimanimani",2022,61.3292655944824
+"Manicaland","Chimanimani",2023,58.6950569152832
+"Manicaland","Chimanimani",2024,60.0793609619141
+"Manicaland","Chipinge",2012,188.01057434082
+"Manicaland","Chipinge",2013,206.042526245117
+"Manicaland","Chipinge",2014,216.58381652832
+"Manicaland","Chipinge",2015,183.129684448242
+"Manicaland","Chipinge",2016,169.318328857422
+"Manicaland","Chipinge",2017,160.574798583984
+"Manicaland","Chipinge",2018,141.432144165039
+"Manicaland","Chipinge",2019,115.342811584473
+"Manicaland","Chipinge",2020,122.088722229004
+"Manicaland","Chipinge",2021,142.126068115234
+"Manicaland","Chipinge",2022,181.031295776367
+"Manicaland","Chipinge",2023,224.151290893555
+"Manicaland","Chipinge",2024,207.414047241211
+"Manicaland","Chipinge Urban",2012,86.0095825195312
+"Manicaland","Chipinge Urban",2013,81.2059631347656
+"Manicaland","Chipinge Urban",2014,81.1067962646484
+"Manicaland","Chipinge Urban",2015,78.0538940429688
+"Manicaland","Chipinge Urban",2016,82.549072265625
+"Manicaland","Chipinge Urban",2017,73.5757675170898
+"Manicaland","Chipinge Urban",2018,69.9633560180664
+"Manicaland","Chipinge Urban",2019,57.4101982116699
+"Manicaland","Chipinge Urban",2020,48.8103981018066
+"Manicaland","Chipinge Urban",2021,57.2270736694336
+"Manicaland","Chipinge Urban",2022,88.3436965942383
+"Manicaland","Chipinge Urban",2023,108.908195495605
+"Manicaland","Chipinge Urban",2024,132.671188354492
+"Manicaland","Makoni",2012,73.5818786621094
+"Manicaland","Makoni",2013,53.459831237793
+"Manicaland","Makoni",2014,49.1233901977539
+"Manicaland","Makoni",2015,55.5809631347656
+"Manicaland","Makoni",2016,64.4086303710938
+"Manicaland","Makoni",2017,37.4484519958496
+"Manicaland","Makoni",2018,33.5659370422363
+"Manicaland","Makoni",2019,29.6375579833984
+"Manicaland","Makoni",2020,16.3093109130859
+"Manicaland","Makoni",2021,35.1941795349121
+"Manicaland","Makoni",2022,54.4854965209961
+"Manicaland","Makoni",2023,95.1735458374023
+"Manicaland","Makoni",2024,85.2627487182617
+"Manicaland","Mutare",2012,538.591125488281
+"Manicaland","Mutare",2013,680.724670410156
+"Manicaland","Mutare",2014,559.695739746094
+"Manicaland","Mutare",2015,434.951507568359
+"Manicaland","Mutare",2016,373.8955078125
+"Manicaland","Mutare",2017,209.986938476562
+"Manicaland","Mutare",2018,250.038589477539
+"Manicaland","Mutare",2019,179.082229614258
+"Manicaland","Mutare",2020,157.839447021484
+"Manicaland","Mutare",2021,134.343811035156
+"Manicaland","Mutare",2022,169.246276855469
+"Manicaland","Mutare",2023,364.729553222656
+"Manicaland","Mutare",2024,447.660675048828
+"Manicaland","Mutare Urban",2012,1504.61291503906
+"Manicaland","Mutare Urban",2013,1269.5
+"Manicaland","Mutare Urban",2014,985.596618652344
+"Manicaland","Mutare Urban",2015,970.801147460938
+"Manicaland","Mutare Urban",2016,992.456665039062
+"Manicaland","Mutare Urban",2017,967.377197265625
+"Manicaland","Mutare Urban",2018,894.027221679688
+"Manicaland","Mutare Urban",2019,861.791076660156
+"Manicaland","Mutare Urban",2020,757.705932617188
+"Manicaland","Mutare Urban",2021,872.352905273438
+"Manicaland","Mutare Urban",2022,1117.14367675781
+"Manicaland","Mutare Urban",2023,1410.08154296875
+"Manicaland","Mutare Urban",2024,1650.97436523438
+"Manicaland","Mutasa",2012,143.560485839844
+"Manicaland","Mutasa",2013,117.812553405762
+"Manicaland","Mutasa",2014,84.0764694213867
+"Manicaland","Mutasa",2015,87.5917892456055
+"Manicaland","Mutasa",2016,93.3206939697266
+"Manicaland","Mutasa",2017,84.9701766967773
+"Manicaland","Mutasa",2018,93.4739303588867
+"Manicaland","Mutasa",2019,81.4849243164062
+"Manicaland","Mutasa",2020,18.7365093231201
+"Manicaland","Mutasa",2021,32.107120513916
+"Manicaland","Mutasa",2022,73.7342910766602
+"Manicaland","Mutasa",2023,141.886535644531
+"Manicaland","Mutasa",2024,163.784225463867
+"Manicaland","Nyanga",2012,168.860702514648
+"Manicaland","Nyanga",2013,164.830322265625
+"Manicaland","Nyanga",2014,143.116165161133
+"Manicaland","Nyanga",2015,133.397354125977
+"Manicaland","Nyanga",2016,148.590103149414
+"Manicaland","Nyanga",2017,175.061279296875
+"Manicaland","Nyanga",2018,154.600219726562
+"Manicaland","Nyanga",2019,51.9312171936035
+"Manicaland","Nyanga",2020,86.2500686645508
+"Manicaland","Nyanga",2021,133.43896484375
+"Manicaland","Nyanga",2022,143.506362915039
+"Manicaland","Nyanga",2023,172.383865356445
+"Manicaland","Nyanga",2024,183.302459716797
+"Manicaland","Rusape",2012,169.143264770508
+"Manicaland","Rusape",2013,150.805404663086
+"Manicaland","Rusape",2014,144.650100708008
+"Manicaland","Rusape",2015,147.529525756836
+"Manicaland","Rusape",2016,158.951019287109
+"Manicaland","Rusape",2017,165.743423461914
+"Manicaland","Rusape",2018,165.85009765625
+"Manicaland","Rusape",2019,178.85432434082
+"Manicaland","Rusape",2020,132.307861328125
+"Manicaland","Rusape",2021,161.943420410156
+"Manicaland","Rusape",2022,190.627548217773
+"Manicaland","Rusape",2023,217.497680664062
+"Manicaland","Rusape",2024,233.344650268555
+"Mashonaland Central","Bindura",2012,124.487823486328
+"Mashonaland Central","Bindura",2013,176.355880737305
+"Mashonaland Central","Bindura",2014,145.821350097656
+"Mashonaland Central","Bindura",2015,166.359313964844
+"Mashonaland Central","Bindura",2016,159.353469848633
+"Mashonaland Central","Bindura",2017,179.365844726562
+"Mashonaland Central","Bindura",2018,184.816207885742
+"Mashonaland Central","Bindura",2019,185.816711425781
+"Mashonaland Central","Bindura",2020,210.551284790039
+"Mashonaland Central","Bindura",2021,293.163665771484
+"Mashonaland Central","Bindura",2022,419.560943603516
+"Mashonaland Central","Bindura",2023,611.093444824219
+"Mashonaland Central","Bindura",2024,582.028991699219
+"Mashonaland Central","Bindura Urban",2012,230.178405761719
+"Mashonaland Central","Bindura Urban",2013,230.120010375977
+"Mashonaland Central","Bindura Urban",2014,191.193099975586
+"Mashonaland Central","Bindura Urban",2015,189.984130859375
+"Mashonaland Central","Bindura Urban",2016,172.513275146484
+"Mashonaland Central","Bindura Urban",2017,168.581558227539
+"Mashonaland Central","Bindura Urban",2018,172.376342773438
+"Mashonaland Central","Bindura Urban",2019,172.404998779297
+"Mashonaland Central","Bindura Urban",2020,169.518035888672
+"Mashonaland Central","Bindura Urban",2021,229.672897338867
+"Mashonaland Central","Bindura Urban",2022,280.237365722656
+"Mashonaland Central","Bindura Urban",2023,356.25146484375
+"Mashonaland Central","Bindura Urban",2024,431.1650390625
+"Mashonaland Central","Centenary/ Muzarabani",2012,20.7548122406006
+"Mashonaland Central","Centenary/ Muzarabani",2013,14.4642353057861
+"Mashonaland Central","Centenary/ Muzarabani",2014,13.7799730300903
+"Mashonaland Central","Centenary/ Muzarabani",2015,8.54984283447266
+"Mashonaland Central","Centenary/ Muzarabani",2016,9.48893737792969
+"Mashonaland Central","Centenary/ Muzarabani",2017,14.0679740905762
+"Mashonaland Central","Centenary/ Muzarabani",2018,11.585578918457
+"Mashonaland Central","Centenary/ Muzarabani",2019,8.14528369903564
+"Mashonaland Central","Centenary/ Muzarabani",2020,7.60061645507812
+"Mashonaland Central","Centenary/ Muzarabani",2021,10.926872253418
+"Mashonaland Central","Centenary/ Muzarabani",2022,15.2863607406616
+"Mashonaland Central","Centenary/ Muzarabani",2023,28.1297550201416
+"Mashonaland Central","Centenary/ Muzarabani",2024,26.503438949585
+"Mashonaland Central","Guruve",2012,23.3025150299072
+"Mashonaland Central","Guruve",2013,29.1434936523438
+"Mashonaland Central","Guruve",2014,23.5699062347412
+"Mashonaland Central","Guruve",2015,21.2902011871338
+"Mashonaland Central","Guruve",2016,21.7070980072021
+"Mashonaland Central","Guruve",2017,14.6762132644653
+"Mashonaland Central","Guruve",2018,19.0797576904297
+"Mashonaland Central","Guruve",2019,11.2661571502686
+"Mashonaland Central","Guruve",2020,9.69879722595215
+"Mashonaland Central","Guruve",2021,71.1885757446289
+"Mashonaland Central","Guruve",2022,161.040756225586
+"Mashonaland Central","Guruve",2023,213.378967285156
+"Mashonaland Central","Guruve",2024,244.855514526367
+"Mashonaland Central","Mazowe",2012,515.222961425781
+"Mashonaland Central","Mazowe",2013,479.071685791016
+"Mashonaland Central","Mazowe",2014,336.885833740234
+"Mashonaland Central","Mazowe",2015,273.923431396484
+"Mashonaland Central","Mazowe",2016,285.508941650391
+"Mashonaland Central","Mazowe",2017,275.322296142578
+"Mashonaland Central","Mazowe",2018,308.912139892578
+"Mashonaland Central","Mazowe",2019,253.482360839844
+"Mashonaland Central","Mazowe",2020,236.115692138672
+"Mashonaland Central","Mazowe",2021,327.568695068359
+"Mashonaland Central","Mazowe",2022,457.329376220703
+"Mashonaland Central","Mazowe",2023,630.818420410156
+"Mashonaland Central","Mazowe",2024,689.809387207031
+"Mashonaland Central","Mbire",2012,15.1651887893677
+"Mashonaland Central","Mbire",2013,15.7334003448486
+"Mashonaland Central","Mbire",2014,16.460880279541
+"Mashonaland Central","Mbire",2015,17.0435695648193
+"Mashonaland Central","Mbire",2016,12.971529006958
+"Mashonaland Central","Mbire",2017,11.1468572616577
+"Mashonaland Central","Mbire",2018,11.5690279006958
+"Mashonaland Central","Mbire",2019,9.33409881591797
+"Mashonaland Central","Mbire",2020,10.0263032913208
+"Mashonaland Central","Mbire",2021,9.96443653106689
+"Mashonaland Central","Mbire",2022,15.3715724945068
+"Mashonaland Central","Mbire",2023,18.5076236724854
+"Mashonaland Central","Mbire",2024,18.0271492004395
+"Mashonaland Central","Mount Darwin",2012,63.6761169433594
+"Mashonaland Central","Mount Darwin",2013,68.6261215209961
+"Mashonaland Central","Mount Darwin",2014,39.8559188842773
+"Mashonaland Central","Mount Darwin",2015,44.5769424438477
+"Mashonaland Central","Mount Darwin",2016,54.0572738647461
+"Mashonaland Central","Mount Darwin",2017,57.0960006713867
+"Mashonaland Central","Mount Darwin",2018,47.5934867858887
+"Mashonaland Central","Mount Darwin",2019,29.4043159484863
+"Mashonaland Central","Mount Darwin",2020,26.9684257507324
+"Mashonaland Central","Mount Darwin",2021,35.080005645752
+"Mashonaland Central","Mount Darwin",2022,61.5929145812988
+"Mashonaland Central","Mount Darwin",2023,103.479606628418
+"Mashonaland Central","Mount Darwin",2024,119.748016357422
+"Mashonaland Central","Mvurwi",2012,38.2668418884277
+"Mashonaland Central","Mvurwi",2013,36.4412384033203
+"Mashonaland Central","Mvurwi",2014,29.076904296875
+"Mashonaland Central","Mvurwi",2015,31.3759746551514
+"Mashonaland Central","Mvurwi",2016,35.9370651245117
+"Mashonaland Central","Mvurwi",2017,29.3186340332031
+"Mashonaland Central","Mvurwi",2018,22.3221225738525
+"Mashonaland Central","Mvurwi",2019,20.8041324615479
+"Mashonaland Central","Mvurwi",2020,18.8151969909668
+"Mashonaland Central","Mvurwi",2021,23.5912437438965
+"Mashonaland Central","Mvurwi",2022,30.7812576293945
+"Mashonaland Central","Mvurwi",2023,39.8131446838379
+"Mashonaland Central","Mvurwi",2024,48.2975578308105
+"Mashonaland Central","Rushinga",2012,14.4217386245728
+"Mashonaland Central","Rushinga",2013,13.4810390472412
+"Mashonaland Central","Rushinga",2014,4.30444526672363
+"Mashonaland Central","Rushinga",2015,4.24174642562866
+"Mashonaland Central","Rushinga",2016,4.04488563537598
+"Mashonaland Central","Rushinga",2017,2.8042893409729
+"Mashonaland Central","Rushinga",2018,0
+"Mashonaland Central","Rushinga",2019,0
+"Mashonaland Central","Rushinga",2020,0.951135218143463
+"Mashonaland Central","Rushinga",2021,0
+"Mashonaland Central","Rushinga",2022,13.1173534393311
+"Mashonaland Central","Rushinga",2023,26.6383972167969
+"Mashonaland Central","Rushinga",2024,15.10631275177
+"Mashonaland Central","Shamva",2012,115.399253845215
+"Mashonaland Central","Shamva",2013,109.760864257812
+"Mashonaland Central","Shamva",2014,79.0601501464844
+"Mashonaland Central","Shamva",2015,65.7614059448242
+"Mashonaland Central","Shamva",2016,59.0153007507324
+"Mashonaland Central","Shamva",2017,55.8414726257324
+"Mashonaland Central","Shamva",2018,49.2299461364746
+"Mashonaland Central","Shamva",2019,50.9029808044434
+"Mashonaland Central","Shamva",2020,46.2575416564941
+"Mashonaland Central","Shamva",2021,95.1120376586914
+"Mashonaland Central","Shamva",2022,152.828231811523
+"Mashonaland Central","Shamva",2023,204.786529541016
+"Mashonaland Central","Shamva",2024,267.463012695312
+"Mashonaland East","Chikomba",2012,61.2481498718262
+"Mashonaland East","Chikomba",2013,63.0519485473633
+"Mashonaland East","Chikomba",2014,43.6999359130859
+"Mashonaland East","Chikomba",2015,51.1377143859863
+"Mashonaland East","Chikomba",2016,54.3403511047363
+"Mashonaland East","Chikomba",2017,61.9792976379395
+"Mashonaland East","Chikomba",2018,52.3633575439453
+"Mashonaland East","Chikomba",2019,45.7950172424316
+"Mashonaland East","Chikomba",2020,31.1974487304688
+"Mashonaland East","Chikomba",2021,43.6301002502441
+"Mashonaland East","Chikomba",2022,98.0820388793945
+"Mashonaland East","Chikomba",2023,136.966171264648
+"Mashonaland East","Chikomba",2024,148.659896850586
+"Mashonaland East","Goromonzi",2012,708.989501953125
+"Mashonaland East","Goromonzi",2013,677.769226074219
+"Mashonaland East","Goromonzi",2014,447.985626220703
+"Mashonaland East","Goromonzi",2015,448.092803955078
+"Mashonaland East","Goromonzi",2016,448.268951416016
+"Mashonaland East","Goromonzi",2017,432.362365722656
+"Mashonaland East","Goromonzi",2018,388.133697509766
+"Mashonaland East","Goromonzi",2019,406.834991455078
+"Mashonaland East","Goromonzi",2020,360.647979736328
+"Mashonaland East","Goromonzi",2021,600.712585449219
+"Mashonaland East","Goromonzi",2022,1022.30383300781
+"Mashonaland East","Goromonzi",2023,2126.4404296875
+"Mashonaland East","Goromonzi",2024,1973.33728027344
+"Mashonaland East","Hwedza",2012,25.9170379638672
+"Mashonaland East","Hwedza",2013,14.1686353683472
+"Mashonaland East","Hwedza",2014,13.3333930969238
+"Mashonaland East","Hwedza",2015,12.5539922714233
+"Mashonaland East","Hwedza",2016,7.97804546356201
+"Mashonaland East","Hwedza",2017,3.64065742492676
+"Mashonaland East","Hwedza",2018,4.59993362426758
+"Mashonaland East","Hwedza",2019,7.05280017852783
+"Mashonaland East","Hwedza",2020,4.7094841003418
+"Mashonaland East","Hwedza",2021,8.25170993804932
+"Mashonaland East","Hwedza",2022,14.9618616104126
+"Mashonaland East","Hwedza",2023,21.4274997711182
+"Mashonaland East","Hwedza",2024,28.5058574676514
+"Mashonaland East","Marondera",2012,506.590972900391
+"Mashonaland East","Marondera",2013,427.240997314453
+"Mashonaland East","Marondera",2014,276.4482421875
+"Mashonaland East","Marondera",2015,201.902801513672
+"Mashonaland East","Marondera",2016,204.260223388672
+"Mashonaland East","Marondera",2017,154.695861816406
+"Mashonaland East","Marondera",2018,115.193710327148
+"Mashonaland East","Marondera",2019,90.2605819702148
+"Mashonaland East","Marondera",2020,121.851440429688
+"Mashonaland East","Marondera",2021,150.729827880859
+"Mashonaland East","Marondera",2022,160.351806640625
+"Mashonaland East","Marondera",2023,208.204788208008
+"Mashonaland East","Marondera",2024,169.150695800781
+"Mashonaland East","Marondera Urban",2012,531.302185058594
+"Mashonaland East","Marondera Urban",2013,434.381866455078
+"Mashonaland East","Marondera Urban",2014,372.425933837891
+"Mashonaland East","Marondera Urban",2015,308.510650634766
+"Mashonaland East","Marondera Urban",2016,302.409515380859
+"Mashonaland East","Marondera Urban",2017,269.128540039062
+"Mashonaland East","Marondera Urban",2018,328.6240234375
+"Mashonaland East","Marondera Urban",2019,253.669128417969
+"Mashonaland East","Marondera Urban",2020,245.737091064453
+"Mashonaland East","Marondera Urban",2021,371.585723876953
+"Mashonaland East","Marondera Urban",2022,407.179473876953
+"Mashonaland East","Marondera Urban",2023,474.845825195312
+"Mashonaland East","Marondera Urban",2024,503.158050537109
+"Mashonaland East","Mudzi",2012,35.8436965942383
+"Mashonaland East","Mudzi",2013,40.1856460571289
+"Mashonaland East","Mudzi",2014,30.6348056793213
+"Mashonaland East","Mudzi",2015,24.4626846313477
+"Mashonaland East","Mudzi",2016,27.6036224365234
+"Mashonaland East","Mudzi",2017,27.3064384460449
+"Mashonaland East","Mudzi",2018,28.4324989318848
+"Mashonaland East","Mudzi",2019,30.5951519012451
+"Mashonaland East","Mudzi",2020,29.5751705169678
+"Mashonaland East","Mudzi",2021,57.7465286254883
+"Mashonaland East","Mudzi",2022,99.3451232910156
+"Mashonaland East","Mudzi",2023,107.527770996094
+"Mashonaland East","Mudzi",2024,121.381317138672
+"Mashonaland East","Murehwa",2012,152.481475830078
+"Mashonaland East","Murehwa",2013,152.101028442383
+"Mashonaland East","Murehwa",2014,125.417251586914
+"Mashonaland East","Murehwa",2015,100.599014282227
+"Mashonaland East","Murehwa",2016,136.653778076172
+"Mashonaland East","Murehwa",2017,105.629386901855
+"Mashonaland East","Murehwa",2018,72.7295303344727
+"Mashonaland East","Murehwa",2019,49.6544189453125
+"Mashonaland East","Murehwa",2020,28.1349468231201
+"Mashonaland East","Murehwa",2021,48.6357650756836
+"Mashonaland East","Murehwa",2022,73.9760131835938
+"Mashonaland East","Murehwa",2023,104.873657226562
+"Mashonaland East","Murehwa",2024,129.878387451172
+"Mashonaland East","Mutoko",2012,102.31298828125
+"Mashonaland East","Mutoko",2013,120.795516967773
+"Mashonaland East","Mutoko",2014,90.206428527832
+"Mashonaland East","Mutoko",2015,87.2394027709961
+"Mashonaland East","Mutoko",2016,93.4896545410156
+"Mashonaland East","Mutoko",2017,78.4162673950195
+"Mashonaland East","Mutoko",2018,55.5850677490234
+"Mashonaland East","Mutoko",2019,52.8658561706543
+"Mashonaland East","Mutoko",2020,48.8178215026855
+"Mashonaland East","Mutoko",2021,88.0860748291016
+"Mashonaland East","Mutoko",2022,116.565910339355
+"Mashonaland East","Mutoko",2023,151.33869934082
+"Mashonaland East","Mutoko",2024,199.611724853516
+"Mashonaland East","Ruwa",2012,476.691558837891
+"Mashonaland East","Ruwa",2013,432.368865966797
+"Mashonaland East","Ruwa",2014,374.12939453125
+"Mashonaland East","Ruwa",2015,351.500549316406
+"Mashonaland East","Ruwa",2016,424.960235595703
+"Mashonaland East","Ruwa",2017,383.756805419922
+"Mashonaland East","Ruwa",2018,378.315673828125
+"Mashonaland East","Ruwa",2019,382.069458007812
+"Mashonaland East","Ruwa",2020,412.873901367188
+"Mashonaland East","Ruwa",2021,510.497344970703
+"Mashonaland East","Ruwa",2022,611.894592285156
+"Mashonaland East","Ruwa",2023,729.899169921875
+"Mashonaland East","Ruwa",2024,817.177673339844
+"Mashonaland East","Seke",2012,276.670532226562
+"Mashonaland East","Seke",2013,228.4384765625
+"Mashonaland East","Seke",2014,227.589584350586
+"Mashonaland East","Seke",2015,221.487457275391
+"Mashonaland East","Seke",2016,291.348815917969
+"Mashonaland East","Seke",2017,252.221878051758
+"Mashonaland East","Seke",2018,243.320434570312
+"Mashonaland East","Seke",2019,215.761108398438
+"Mashonaland East","Seke",2020,229.336837768555
+"Mashonaland East","Seke",2021,350.947479248047
+"Mashonaland East","Seke",2022,523.601501464844
+"Mashonaland East","Seke",2023,849.865905761719
+"Mashonaland East","Seke",2024,865.524719238281
+"Mashonaland East","Uzumba Maramba Pfungwe",2012,18.0624179840088
+"Mashonaland East","Uzumba Maramba Pfungwe",2013,13.7634935379028
+"Mashonaland East","Uzumba Maramba Pfungwe",2014,11.1260280609131
+"Mashonaland East","Uzumba Maramba Pfungwe",2015,12.2996377944946
+"Mashonaland East","Uzumba Maramba Pfungwe",2016,15.9782609939575
+"Mashonaland East","Uzumba Maramba Pfungwe",2017,17.5938034057617
+"Mashonaland East","Uzumba Maramba Pfungwe",2018,13.7708787918091
+"Mashonaland East","Uzumba Maramba Pfungwe",2019,6.13894176483154
+"Mashonaland East","Uzumba Maramba Pfungwe",2020,3.28955936431885
+"Mashonaland East","Uzumba Maramba Pfungwe",2021,13.0150508880615
+"Mashonaland East","Uzumba Maramba Pfungwe",2022,23.4491424560547
+"Mashonaland East","Uzumba Maramba Pfungwe",2023,26.3728446960449
+"Mashonaland East","Uzumba Maramba Pfungwe",2024,47.2255058288574
+"Mashonaland West","Chegutu",2012,240.078948974609
+"Mashonaland West","Chegutu",2013,217.809127807617
+"Mashonaland West","Chegutu",2014,228.396759033203
+"Mashonaland West","Chegutu",2015,169.85905456543
+"Mashonaland West","Chegutu",2016,159.79248046875
+"Mashonaland West","Chegutu",2017,158.093322753906
+"Mashonaland West","Chegutu",2018,200.358779907227
+"Mashonaland West","Chegutu",2019,196.994735717773
+"Mashonaland West","Chegutu",2020,230.767822265625
+"Mashonaland West","Chegutu",2021,305.783508300781
+"Mashonaland West","Chegutu",2022,386.438781738281
+"Mashonaland West","Chegutu",2023,659.894653320312
+"Mashonaland West","Chegutu",2024,817.374633789062
+"Mashonaland West","Chegutu Urban",2012,214.301116943359
+"Mashonaland West","Chegutu Urban",2013,206.494827270508
+"Mashonaland West","Chegutu Urban",2014,148.470138549805
+"Mashonaland West","Chegutu Urban",2015,138.934783935547
+"Mashonaland West","Chegutu Urban",2016,155.014297485352
+"Mashonaland West","Chegutu Urban",2017,160.585830688477
+"Mashonaland West","Chegutu Urban",2018,176.977432250977
+"Mashonaland West","Chegutu Urban",2019,195.704177856445
+"Mashonaland West","Chegutu Urban",2020,178.985305786133
+"Mashonaland West","Chegutu Urban",2021,230.405685424805
+"Mashonaland West","Chegutu Urban",2022,276.798217773438
+"Mashonaland West","Chegutu Urban",2023,309.537139892578
+"Mashonaland West","Chegutu Urban",2024,323.561248779297
+"Mashonaland West","Chinhoyi",2012,435.33056640625
+"Mashonaland West","Chinhoyi",2013,373.790191650391
+"Mashonaland West","Chinhoyi",2014,301.542907714844
+"Mashonaland West","Chinhoyi",2015,342.12646484375
+"Mashonaland West","Chinhoyi",2016,365.658569335938
+"Mashonaland West","Chinhoyi",2017,362.996734619141
+"Mashonaland West","Chinhoyi",2018,327.031707763672
+"Mashonaland West","Chinhoyi",2019,294.979614257812
+"Mashonaland West","Chinhoyi",2020,261.888580322266
+"Mashonaland West","Chinhoyi",2021,325.8232421875
+"Mashonaland West","Chinhoyi",2022,420.853759765625
+"Mashonaland West","Chinhoyi",2023,505.891265869141
+"Mashonaland West","Chinhoyi",2024,618.038940429688
+"Mashonaland West","Hurungwe",2012,67.5837326049805
+"Mashonaland West","Hurungwe",2013,44.9929351806641
+"Mashonaland West","Hurungwe",2014,38.0586929321289
+"Mashonaland West","Hurungwe",2015,31.4895973205566
+"Mashonaland West","Hurungwe",2016,43.0615425109863
+"Mashonaland West","Hurungwe",2017,40.6806411743164
+"Mashonaland West","Hurungwe",2018,41.6001434326172
+"Mashonaland West","Hurungwe",2019,32.6236801147461
+"Mashonaland West","Hurungwe",2020,31.2555332183838
+"Mashonaland West","Hurungwe",2021,52.3269195556641
+"Mashonaland West","Hurungwe",2022,63.9730834960938
+"Mashonaland West","Hurungwe",2023,93.5923080444336
+"Mashonaland West","Hurungwe",2024,125.992645263672
+"Mashonaland West","Kadoma Urban",2012,584.584899902344
+"Mashonaland West","Kadoma Urban",2013,547.127014160156
+"Mashonaland West","Kadoma Urban",2014,459.424041748047
+"Mashonaland West","Kadoma Urban",2015,386.113739013672
+"Mashonaland West","Kadoma Urban",2016,402.368103027344
+"Mashonaland West","Kadoma Urban",2017,386.959625244141
+"Mashonaland West","Kadoma Urban",2018,425.400482177734
+"Mashonaland West","Kadoma Urban",2019,406.707397460938
+"Mashonaland West","Kadoma Urban",2020,344.555450439453
+"Mashonaland West","Kadoma Urban",2021,460.749786376953
+"Mashonaland West","Kadoma Urban",2022,662.925964355469
+"Mashonaland West","Kadoma Urban",2023,742.924011230469
+"Mashonaland West","Kadoma Urban",2024,887.025451660156
+"Mashonaland West","Kariba",2012,53.4891548156738
+"Mashonaland West","Kariba",2013,41.8544464111328
+"Mashonaland West","Kariba",2014,34.075439453125
+"Mashonaland West","Kariba",2015,42.2527732849121
+"Mashonaland West","Kariba",2016,41.3493232727051
+"Mashonaland West","Kariba",2017,30.4282722473145
+"Mashonaland West","Kariba",2018,24.9473857879639
+"Mashonaland West","Kariba",2019,21.4463920593262
+"Mashonaland West","Kariba",2020,19.4257011413574
+"Mashonaland West","Kariba",2021,24.1057090759277
+"Mashonaland West","Kariba",2022,35.8820533752441
+"Mashonaland West","Kariba",2023,57.3901214599609
+"Mashonaland West","Kariba",2024,37.1540222167969
+"Mashonaland West","Kariba Urban",2012,169.073135375977
+"Mashonaland West","Kariba Urban",2013,136.661560058594
+"Mashonaland West","Kariba Urban",2014,104.993179321289
+"Mashonaland West","Kariba Urban",2015,133.216888427734
+"Mashonaland West","Kariba Urban",2016,126.720825195312
+"Mashonaland West","Kariba Urban",2017,116.337440490723
+"Mashonaland West","Kariba Urban",2018,95.985466003418
+"Mashonaland West","Kariba Urban",2019,94.2353897094727
+"Mashonaland West","Kariba Urban",2020,79.8601608276367
+"Mashonaland West","Kariba Urban",2021,90.4669494628906
+"Mashonaland West","Kariba Urban",2022,108.738250732422
+"Mashonaland West","Kariba Urban",2023,138.773742675781
+"Mashonaland West","Kariba Urban",2024,132.420806884766
+"Mashonaland West","Karoi",2012,90.1943511962891
+"Mashonaland West","Karoi",2013,79.3478775024414
+"Mashonaland West","Karoi",2014,60.6481552124023
+"Mashonaland West","Karoi",2015,66.8536529541016
+"Mashonaland West","Karoi",2016,81.9289321899414
+"Mashonaland West","Karoi",2017,90.4790954589844
+"Mashonaland West","Karoi",2018,82.0294799804688
+"Mashonaland West","Karoi",2019,67.098876953125
+"Mashonaland West","Karoi",2020,76.6381301879883
+"Mashonaland West","Karoi",2021,105.441581726074
+"Mashonaland West","Karoi",2022,139.176544189453
+"Mashonaland West","Karoi",2023,167.869186401367
+"Mashonaland West","Karoi",2024,213.887710571289
+"Mashonaland West","Makonde",2012,50.8884429931641
+"Mashonaland West","Makonde",2013,64.1122055053711
+"Mashonaland West","Makonde",2014,58.2092018127441
+"Mashonaland West","Makonde",2015,45.6078147888184
+"Mashonaland West","Makonde",2016,41.6228218078613
+"Mashonaland West","Makonde",2017,40.3788948059082
+"Mashonaland West","Makonde",2018,39.3717460632324
+"Mashonaland West","Makonde",2019,28.1395969390869
+"Mashonaland West","Makonde",2020,18.2474517822266
+"Mashonaland West","Makonde",2021,31.569185256958
+"Mashonaland West","Makonde",2022,51.320743560791
+"Mashonaland West","Makonde",2023,90.0450210571289
+"Mashonaland West","Makonde",2024,79.7175064086914
+"Mashonaland West","Mhondoro-Ngezi",2012,1001.47412109375
+"Mashonaland West","Mhondoro-Ngezi",2013,1258.37048339844
+"Mashonaland West","Mhondoro-Ngezi",2014,1085.28125
+"Mashonaland West","Mhondoro-Ngezi",2015,1013.36877441406
+"Mashonaland West","Mhondoro-Ngezi",2016,907.867126464844
+"Mashonaland West","Mhondoro-Ngezi",2017,797.194580078125
+"Mashonaland West","Mhondoro-Ngezi",2018,817.912231445312
+"Mashonaland West","Mhondoro-Ngezi",2019,766.484313964844
+"Mashonaland West","Mhondoro-Ngezi",2020,792.201232910156
+"Mashonaland West","Mhondoro-Ngezi",2021,834.275512695312
+"Mashonaland West","Mhondoro-Ngezi",2022,959.969909667969
+"Mashonaland West","Mhondoro-Ngezi",2023,1196.24377441406
+"Mashonaland West","Mhondoro-Ngezi",2024,1220.00854492188
+"Mashonaland West","Norton",2012,450.089630126953
+"Mashonaland West","Norton",2013,347.051727294922
+"Mashonaland West","Norton",2014,266.321868896484
+"Mashonaland West","Norton",2015,278.275848388672
+"Mashonaland West","Norton",2016,283.383972167969
+"Mashonaland West","Norton",2017,250.650848388672
+"Mashonaland West","Norton",2018,260.125305175781
+"Mashonaland West","Norton",2019,280.179718017578
+"Mashonaland West","Norton",2020,219.297546386719
+"Mashonaland West","Norton",2021,291.564361572266
+"Mashonaland West","Norton",2022,365.557281494141
+"Mashonaland West","Norton",2023,456.44189453125
+"Mashonaland West","Norton",2024,505.846008300781
+"Mashonaland West","Sanyati",2012,148.975402832031
+"Mashonaland West","Sanyati",2013,156.442047119141
+"Mashonaland West","Sanyati",2014,117.307418823242
+"Mashonaland West","Sanyati",2015,121.266784667969
+"Mashonaland West","Sanyati",2016,120.040092468262
+"Mashonaland West","Sanyati",2017,110.813720703125
+"Mashonaland West","Sanyati",2018,109.185028076172
+"Mashonaland West","Sanyati",2019,94.2921295166016
+"Mashonaland West","Sanyati",2020,75.1986846923828
+"Mashonaland West","Sanyati",2021,102.517883300781
+"Mashonaland West","Sanyati",2022,110.053642272949
+"Mashonaland West","Sanyati",2023,194.829544067383
+"Mashonaland West","Sanyati",2024,229.276657104492
+"Mashonaland West","Zvimba",2012,834.388488769531
+"Mashonaland West","Zvimba",2013,731.246337890625
+"Mashonaland West","Zvimba",2014,643.908447265625
+"Mashonaland West","Zvimba",2015,608.751953125
+"Mashonaland West","Zvimba",2016,584.783935546875
+"Mashonaland West","Zvimba",2017,512.732666015625
+"Mashonaland West","Zvimba",2018,545.781433105469
+"Mashonaland West","Zvimba",2019,518.594543457031
+"Mashonaland West","Zvimba",2020,549.306091308594
+"Mashonaland West","Zvimba",2021,693.900146484375
+"Mashonaland West","Zvimba",2022,1011.44061279297
+"Mashonaland West","Zvimba",2023,1357.20153808594
+"Mashonaland West","Zvimba",2024,1391.30688476562
+"Masvingo","Bikita",2012,39.9186515808105
+"Masvingo","Bikita",2013,33.1505393981934
+"Masvingo","Bikita",2014,21.6814956665039
+"Masvingo","Bikita",2015,25.0809364318848
+"Masvingo","Bikita",2016,22.5847434997559
+"Masvingo","Bikita",2017,18.412166595459
+"Masvingo","Bikita",2018,26.4040374755859
+"Masvingo","Bikita",2019,30.3701591491699
+"Masvingo","Bikita",2020,23.9064388275146
+"Masvingo","Bikita",2021,24.1750621795654
+"Masvingo","Bikita",2022,52.1766777038574
+"Masvingo","Bikita",2023,195.886840820312
+"Masvingo","Bikita",2024,318.661102294922
+"Masvingo","Chiredzi",2012,400.366027832031
+"Masvingo","Chiredzi",2013,398.313690185547
+"Masvingo","Chiredzi",2014,359.806457519531
+"Masvingo","Chiredzi",2015,378.292022705078
+"Masvingo","Chiredzi",2016,374.0986328125
+"Masvingo","Chiredzi",2017,347.180938720703
+"Masvingo","Chiredzi",2018,395.642852783203
+"Masvingo","Chiredzi",2019,382.749328613281
+"Masvingo","Chiredzi",2020,339.843963623047
+"Masvingo","Chiredzi",2021,359.126770019531
+"Masvingo","Chiredzi",2022,452.631927490234
+"Masvingo","Chiredzi",2023,452.131561279297
+"Masvingo","Chiredzi",2024,410.207244873047
+"Masvingo","Chiredzi Urban",2012,156.897125244141
+"Masvingo","Chiredzi Urban",2013,172.249114990234
+"Masvingo","Chiredzi Urban",2014,155.297988891602
+"Masvingo","Chiredzi Urban",2015,135.961151123047
+"Masvingo","Chiredzi Urban",2016,138.892120361328
+"Masvingo","Chiredzi Urban",2017,152.947143554688
+"Masvingo","Chiredzi Urban",2018,147.986297607422
+"Masvingo","Chiredzi Urban",2019,143.802352905273
+"Masvingo","Chiredzi Urban",2020,116.128150939941
+"Masvingo","Chiredzi Urban",2021,137.387924194336
+"Masvingo","Chiredzi Urban",2022,177.12712097168
+"Masvingo","Chiredzi Urban",2023,205.196914672852
+"Masvingo","Chiredzi Urban",2024,232.834320068359
+"Masvingo","Chivi",2012,82.8832397460938
+"Masvingo","Chivi",2013,224.638870239258
+"Masvingo","Chivi",2014,178.649536132812
+"Masvingo","Chivi",2015,66.1644439697266
+"Masvingo","Chivi",2016,70.2112884521484
+"Masvingo","Chivi",2017,73.8174209594727
+"Masvingo","Chivi",2018,54.8632774353027
+"Masvingo","Chivi",2019,39.2218437194824
+"Masvingo","Chivi",2020,24.7037792205811
+"Masvingo","Chivi",2021,34.2243461608887
+"Masvingo","Chivi",2022,49.0991554260254
+"Masvingo","Chivi",2023,58.2889289855957
+"Masvingo","Chivi",2024,60.6193733215332
+"Masvingo","Gutu",2012,45.150089263916
+"Masvingo","Gutu",2013,42.2876739501953
+"Masvingo","Gutu",2014,22.0972347259521
+"Masvingo","Gutu",2015,46.0395774841309
+"Masvingo","Gutu",2016,40.605770111084
+"Masvingo","Gutu",2017,31.8381862640381
+"Masvingo","Gutu",2018,34.0424919128418
+"Masvingo","Gutu",2019,35.4778938293457
+"Masvingo","Gutu",2020,32.5319442749023
+"Masvingo","Gutu",2021,38.7011528015137
+"Masvingo","Gutu",2022,40.0917701721191
+"Masvingo","Gutu",2023,57.9319839477539
+"Masvingo","Gutu",2024,74.7680358886719
+"Masvingo","Masvingo",2012,90.1070175170898
+"Masvingo","Masvingo",2013,118.116394042969
+"Masvingo","Masvingo",2014,147.230392456055
+"Masvingo","Masvingo",2015,205.301177978516
+"Masvingo","Masvingo",2016,164.271408081055
+"Masvingo","Masvingo",2017,145.294326782227
+"Masvingo","Masvingo",2018,129.501708984375
+"Masvingo","Masvingo",2019,93.0180740356445
+"Masvingo","Masvingo",2020,68.376106262207
+"Masvingo","Masvingo",2021,58.5528793334961
+"Masvingo","Masvingo",2022,107.406890869141
+"Masvingo","Masvingo",2023,184.092559814453
+"Masvingo","Masvingo",2024,220.979461669922
+"Masvingo","Masvingo Urban",2012,383.789276123047
+"Masvingo","Masvingo Urban",2013,346.910583496094
+"Masvingo","Masvingo Urban",2014,310.720733642578
+"Masvingo","Masvingo Urban",2015,285.882049560547
+"Masvingo","Masvingo Urban",2016,299.225128173828
+"Masvingo","Masvingo Urban",2017,272.467407226562
+"Masvingo","Masvingo Urban",2018,278.7861328125
+"Masvingo","Masvingo Urban",2019,289.978820800781
+"Masvingo","Masvingo Urban",2020,243.480377197266
+"Masvingo","Masvingo Urban",2021,277.567413330078
+"Masvingo","Masvingo Urban",2022,389.127166748047
+"Masvingo","Masvingo Urban",2023,517.953918457031
+"Masvingo","Masvingo Urban",2024,660.010864257812
+"Masvingo","Mwenezi",2012,78.6908416748047
+"Masvingo","Mwenezi",2013,68.4737167358398
+"Masvingo","Mwenezi",2014,53.8828125
+"Masvingo","Mwenezi",2015,54.4062805175781
+"Masvingo","Mwenezi",2016,48.5204238891602
+"Masvingo","Mwenezi",2017,30.799503326416
+"Masvingo","Mwenezi",2018,28.8874816894531
+"Masvingo","Mwenezi",2019,30.7068252563477
+"Masvingo","Mwenezi",2020,21.6624088287354
+"Masvingo","Mwenezi",2021,24.1957206726074
+"Masvingo","Mwenezi",2022,33.3230476379395
+"Masvingo","Mwenezi",2023,44.1389122009277
+"Masvingo","Mwenezi",2024,47.9013710021973
+"Masvingo","Zaka",2012,7.30695152282715
+"Masvingo","Zaka",2013,8.6917896270752
+"Masvingo","Zaka",2014,7.79561758041382
+"Masvingo","Zaka",2015,8.41334056854248
+"Masvingo","Zaka",2016,8.78647804260254
+"Masvingo","Zaka",2017,5.2570219039917
+"Masvingo","Zaka",2018,6.98422288894653
+"Masvingo","Zaka",2019,5.06021404266357
+"Masvingo","Zaka",2020,6.35584402084351
+"Masvingo","Zaka",2021,8.22975444793701
+"Masvingo","Zaka",2022,16.9158458709717
+"Masvingo","Zaka",2023,23.8031425476074
+"Masvingo","Zaka",2024,27.9876823425293
+"Matabeleland North","Binga",2012,10.9880428314209
+"Matabeleland North","Binga",2013,9.70046329498291
+"Matabeleland North","Binga",2014,12.1187076568604
+"Matabeleland North","Binga",2015,8.88891983032227
+"Matabeleland North","Binga",2016,4.71328258514404
+"Matabeleland North","Binga",2017,1.62050759792328
+"Matabeleland North","Binga",2018,0
+"Matabeleland North","Binga",2019,0
+"Matabeleland North","Binga",2020,0
+"Matabeleland North","Binga",2021,0
+"Matabeleland North","Binga",2022,1.00294625759125
+"Matabeleland North","Binga",2023,8.62008666992188
+"Matabeleland North","Binga",2024,6.27042579650879
+"Matabeleland North","Bubi",2012,43.342098236084
+"Matabeleland North","Bubi",2013,46.2132225036621
+"Matabeleland North","Bubi",2014,46.5402641296387
+"Matabeleland North","Bubi",2015,33.331714630127
+"Matabeleland North","Bubi",2016,28.0610313415527
+"Matabeleland North","Bubi",2017,14.6628017425537
+"Matabeleland North","Bubi",2018,13.7259588241577
+"Matabeleland North","Bubi",2019,20.6788673400879
+"Matabeleland North","Bubi",2020,18.2722492218018
+"Matabeleland North","Bubi",2021,34.0243186950684
+"Matabeleland North","Bubi",2022,96.7685317993164
+"Matabeleland North","Bubi",2023,171.734069824219
+"Matabeleland North","Bubi",2024,194.212112426758
+"Matabeleland North","Hwange",2012,126.145774841309
+"Matabeleland North","Hwange",2013,136.977951049805
+"Matabeleland North","Hwange",2014,236.728927612305
+"Matabeleland North","Hwange",2015,185.949844360352
+"Matabeleland North","Hwange",2016,216.391723632812
+"Matabeleland North","Hwange",2017,215.302444458008
+"Matabeleland North","Hwange",2018,278.972229003906
+"Matabeleland North","Hwange",2019,238.96794128418
+"Matabeleland North","Hwange",2020,221.084945678711
+"Matabeleland North","Hwange",2021,598.15869140625
+"Matabeleland North","Hwange",2022,1683.25732421875
+"Matabeleland North","Hwange",2023,2165.734375
+"Matabeleland North","Hwange",2024,5661.767578125
+"Matabeleland North","Hwange Urban",2012,743.33642578125
+"Matabeleland North","Hwange Urban",2013,654.528015136719
+"Matabeleland North","Hwange Urban",2014,770.4853515625
+"Matabeleland North","Hwange Urban",2015,835.984497070312
+"Matabeleland North","Hwange Urban",2016,524.156921386719
+"Matabeleland North","Hwange Urban",2017,731.788818359375
+"Matabeleland North","Hwange Urban",2018,777.850708007812
+"Matabeleland North","Hwange Urban",2019,1114.78503417969
+"Matabeleland North","Hwange Urban",2020,1079.40795898438
+"Matabeleland North","Hwange Urban",2021,2396.64916992188
+"Matabeleland North","Hwange Urban",2022,1900.09973144531
+"Matabeleland North","Hwange Urban",2023,2912.76049804688
+"Matabeleland North","Hwange Urban",2024,3186.31127929688
+"Matabeleland North","Lupane",2012,19.3739433288574
+"Matabeleland North","Lupane",2013,19.6076526641846
+"Matabeleland North","Lupane",2014,10.3739814758301
+"Matabeleland North","Lupane",2015,13.787220954895
+"Matabeleland North","Lupane",2016,21.9607257843018
+"Matabeleland North","Lupane",2017,16.5338668823242
+"Matabeleland North","Lupane",2018,16.0526084899902
+"Matabeleland North","Lupane",2019,13.5437898635864
+"Matabeleland North","Lupane",2020,11.6282835006714
+"Matabeleland North","Lupane",2021,9.65490913391113
+"Matabeleland North","Lupane",2022,12.3448095321655
+"Matabeleland North","Lupane",2023,22.9174385070801
+"Matabeleland North","Lupane",2024,20.2568416595459
+"Matabeleland North","Nkayi",2012,5.34312725067139
+"Matabeleland North","Nkayi",2013,10.5328245162964
+"Matabeleland North","Nkayi",2014,7.62320566177368
+"Matabeleland North","Nkayi",2015,6.57247924804688
+"Matabeleland North","Nkayi",2016,8.25802421569824
+"Matabeleland North","Nkayi",2017,5.06825971603394
+"Matabeleland North","Nkayi",2018,4.16588830947876
+"Matabeleland North","Nkayi",2019,3.31054353713989
+"Matabeleland North","Nkayi",2020,0.614511370658875
+"Matabeleland North","Nkayi",2021,4.39734840393066
+"Matabeleland North","Nkayi",2022,11.8157196044922
+"Matabeleland North","Nkayi",2023,14.4131755828857
+"Matabeleland North","Nkayi",2024,17.4810619354248
+"Matabeleland North","Tsholotsho",2012,13.1724262237549
+"Matabeleland North","Tsholotsho",2013,10.3048706054688
+"Matabeleland North","Tsholotsho",2014,11.1724338531494
+"Matabeleland North","Tsholotsho",2015,7.37880086898804
+"Matabeleland North","Tsholotsho",2016,5.1659722328186
+"Matabeleland North","Tsholotsho",2017,7.69318246841431
+"Matabeleland North","Tsholotsho",2018,8.37284564971924
+"Matabeleland North","Tsholotsho",2019,3.70374727249146
+"Matabeleland North","Tsholotsho",2020,2.52692937850952
+"Matabeleland North","Tsholotsho",2021,4.88107776641846
+"Matabeleland North","Tsholotsho",2022,7.53535747528076
+"Matabeleland North","Tsholotsho",2023,12.4728059768677
+"Matabeleland North","Tsholotsho",2024,13.6739959716797
+"Matabeleland North","Umguza",2012,250.64631652832
+"Matabeleland North","Umguza",2013,234.98503112793
+"Matabeleland North","Umguza",2014,208.870269775391
+"Matabeleland North","Umguza",2015,207.747329711914
+"Matabeleland North","Umguza",2016,190.103866577148
+"Matabeleland North","Umguza",2017,143.858276367188
+"Matabeleland North","Umguza",2018,137.651947021484
+"Matabeleland North","Umguza",2019,116.500511169434
+"Matabeleland North","Umguza",2020,93.157958984375
+"Matabeleland North","Umguza",2021,137.110580444336
+"Matabeleland North","Umguza",2022,238.325408935547
+"Matabeleland North","Umguza",2023,365.647186279297
+"Matabeleland North","Umguza",2024,369.377410888672
+"Matabeleland North","Victoria Falls",2012,257.95458984375
+"Matabeleland North","Victoria Falls",2013,259.9580078125
+"Matabeleland North","Victoria Falls",2014,239.493896484375
+"Matabeleland North","Victoria Falls",2015,208.86767578125
+"Matabeleland North","Victoria Falls",2016,227.544403076172
+"Matabeleland North","Victoria Falls",2017,218.762939453125
+"Matabeleland North","Victoria Falls",2018,204.671417236328
+"Matabeleland North","Victoria Falls",2019,216.140487670898
+"Matabeleland North","Victoria Falls",2020,191.812789916992
+"Matabeleland North","Victoria Falls",2021,190.649703979492
+"Matabeleland North","Victoria Falls",2022,253.580718994141
+"Matabeleland North","Victoria Falls",2023,318.734893798828
+"Matabeleland North","Victoria Falls",2024,328.681549072266
+"Matabeleland South","Beitbridge",2012,81.8994522094727
+"Matabeleland South","Beitbridge",2013,54.3745918273926
+"Matabeleland South","Beitbridge",2014,25.384578704834
+"Matabeleland South","Beitbridge",2015,13.0166015625
+"Matabeleland South","Beitbridge",2016,11.9271183013916
+"Matabeleland South","Beitbridge",2017,12.1821708679199
+"Matabeleland South","Beitbridge",2018,23.8992443084717
+"Matabeleland South","Beitbridge",2019,22.3158168792725
+"Matabeleland South","Beitbridge",2020,15.0217437744141
+"Matabeleland South","Beitbridge",2021,21.6444778442383
+"Matabeleland South","Beitbridge",2022,30.1766090393066
+"Matabeleland South","Beitbridge",2023,41.4075241088867
+"Matabeleland South","Beitbridge",2024,31.0369834899902
+"Matabeleland South","Beitbridge Urban",2012,836.244018554688
+"Matabeleland South","Beitbridge Urban",2013,815.093444824219
+"Matabeleland South","Beitbridge Urban",2014,713.503479003906
+"Matabeleland South","Beitbridge Urban",2015,728.80517578125
+"Matabeleland South","Beitbridge Urban",2016,693.45263671875
+"Matabeleland South","Beitbridge Urban",2017,658.406860351562
+"Matabeleland South","Beitbridge Urban",2018,667.695434570312
+"Matabeleland South","Beitbridge Urban",2019,551.892883300781
+"Matabeleland South","Beitbridge Urban",2020,473.213500976562
+"Matabeleland South","Beitbridge Urban",2021,478.624328613281
+"Matabeleland South","Beitbridge Urban",2022,661.108276367188
+"Matabeleland South","Beitbridge Urban",2023,820.651123046875
+"Matabeleland South","Beitbridge Urban",2024,810.554016113281
+"Matabeleland South","Bulilima",2012,20.5522708892822
+"Matabeleland South","Bulilima",2013,20.8284587860107
+"Matabeleland South","Bulilima",2014,14.4915981292725
+"Matabeleland South","Bulilima",2015,16.8837661743164
+"Matabeleland South","Bulilima",2016,16.3873805999756
+"Matabeleland South","Bulilima",2017,11.9518251419067
+"Matabeleland South","Bulilima",2018,8.73376274108887
+"Matabeleland South","Bulilima",2019,1.63552403450012
+"Matabeleland South","Bulilima",2020,0
+"Matabeleland South","Bulilima",2021,0
+"Matabeleland South","Bulilima",2022,0.176387071609497
+"Matabeleland South","Bulilima",2023,4.87296342849731
+"Matabeleland South","Bulilima",2024,4.67214393615723
+"Matabeleland South","Gwanda",2012,266.171752929688
+"Matabeleland South","Gwanda",2013,255.290161132812
+"Matabeleland South","Gwanda",2014,230.560668945312
+"Matabeleland South","Gwanda",2015,229.61198425293
+"Matabeleland South","Gwanda",2016,223.418441772461
+"Matabeleland South","Gwanda",2017,196.437271118164
+"Matabeleland South","Gwanda",2018,180.09733581543
+"Matabeleland South","Gwanda",2019,174.406433105469
+"Matabeleland South","Gwanda",2020,169.985290527344
+"Matabeleland South","Gwanda",2021,197.019378662109
+"Matabeleland South","Gwanda",2022,276.142578125
+"Matabeleland South","Gwanda",2023,358.121276855469
+"Matabeleland South","Gwanda",2024,454.668640136719
+"Matabeleland South","Gwanda Urban",2012,74.0950698852539
+"Matabeleland South","Gwanda Urban",2013,81.1965637207031
+"Matabeleland South","Gwanda Urban",2014,72.2804718017578
+"Matabeleland South","Gwanda Urban",2015,88.1546936035156
+"Matabeleland South","Gwanda Urban",2016,96.5390243530273
+"Matabeleland South","Gwanda Urban",2017,82.2386016845703
+"Matabeleland South","Gwanda Urban",2018,72.3251495361328
+"Matabeleland South","Gwanda Urban",2019,60.8171691894531
+"Matabeleland South","Gwanda Urban",2020,58.9729080200195
+"Matabeleland South","Gwanda Urban",2021,90.3358764648438
+"Matabeleland South","Gwanda Urban",2022,122.081176757812
+"Matabeleland South","Gwanda Urban",2023,151.78271484375
+"Matabeleland South","Gwanda Urban",2024,166.989318847656
+"Matabeleland South","Insiza",2012,37.4105987548828
+"Matabeleland South","Insiza",2013,44.9509658813477
+"Matabeleland South","Insiza",2014,31.8191699981689
+"Matabeleland South","Insiza",2015,35.4124336242676
+"Matabeleland South","Insiza",2016,40.1544723510742
+"Matabeleland South","Insiza",2017,30.9490699768066
+"Matabeleland South","Insiza",2018,24.1615447998047
+"Matabeleland South","Insiza",2019,32.4175109863281
+"Matabeleland South","Insiza",2020,20.546049118042
+"Matabeleland South","Insiza",2021,40.7128944396973
+"Matabeleland South","Insiza",2022,70.4590225219727
+"Matabeleland South","Insiza",2023,147.522384643555
+"Matabeleland South","Insiza",2024,163.424896240234
+"Matabeleland South","Mangwe",2012,34.1276626586914
+"Matabeleland South","Mangwe",2013,25.2754936218262
+"Matabeleland South","Mangwe",2014,41.2389831542969
+"Matabeleland South","Mangwe",2015,54.9899864196777
+"Matabeleland South","Mangwe",2016,41.3787002563477
+"Matabeleland South","Mangwe",2017,36.2362022399902
+"Matabeleland South","Mangwe",2018,30.0632343292236
+"Matabeleland South","Mangwe",2019,26.1836585998535
+"Matabeleland South","Mangwe",2020,20.7267799377441
+"Matabeleland South","Mangwe",2021,21.2345104217529
+"Matabeleland South","Mangwe",2022,23.9349594116211
+"Matabeleland South","Mangwe",2023,32.285270690918
+"Matabeleland South","Mangwe",2024,26.1070785522461
+"Matabeleland South","Matobo",2012,44.2618751525879
+"Matabeleland South","Matobo",2013,32.2844886779785
+"Matabeleland South","Matobo",2014,28.1962490081787
+"Matabeleland South","Matobo",2015,23.1671600341797
+"Matabeleland South","Matobo",2016,25.4740352630615
+"Matabeleland South","Matobo",2017,17.8862705230713
+"Matabeleland South","Matobo",2018,18.6806888580322
+"Matabeleland South","Matobo",2019,12.0834827423096
+"Matabeleland South","Matobo",2020,9.35984516143799
+"Matabeleland South","Matobo",2021,16.7491283416748
+"Matabeleland South","Matobo",2022,35.4416618347168
+"Matabeleland South","Matobo",2023,117.19913482666
+"Matabeleland South","Matobo",2024,99.1835250854492
+"Matabeleland South","Plumtree",2012,60.0758514404297
+"Matabeleland South","Plumtree",2013,62.7410430908203
+"Matabeleland South","Plumtree",2014,50.3920059204102
+"Matabeleland South","Plumtree",2015,57.8676490783691
+"Matabeleland South","Plumtree",2016,44.2855682373047
+"Matabeleland South","Plumtree",2017,46.505672454834
+"Matabeleland South","Plumtree",2018,33.0635414123535
+"Matabeleland South","Plumtree",2019,22.4171657562256
+"Matabeleland South","Plumtree",2020,21.9326305389404
+"Matabeleland South","Plumtree",2021,27.3824234008789
+"Matabeleland South","Plumtree",2022,39.2738304138184
+"Matabeleland South","Plumtree",2023,53.6932373046875
+"Matabeleland South","Plumtree",2024,65.4784622192383
+"Matabeleland South","Umzingwane",2012,92.7307662963867
+"Matabeleland South","Umzingwane",2013,89.5476379394531
+"Matabeleland South","Umzingwane",2014,65.3456039428711
+"Matabeleland South","Umzingwane",2015,65.1512069702148
+"Matabeleland South","Umzingwane",2016,51.1967735290527
+"Matabeleland South","Umzingwane",2017,33.9085884094238
+"Matabeleland South","Umzingwane",2018,29.5299911499023
+"Matabeleland South","Umzingwane",2019,32.7856864929199
+"Matabeleland South","Umzingwane",2020,20.2147483825684
+"Matabeleland South","Umzingwane",2021,36.3929481506348
+"Matabeleland South","Umzingwane",2022,52.8354759216309
+"Matabeleland South","Umzingwane",2023,92.082405090332
+"Matabeleland South","Umzingwane",2024,109.40550994873
+"Midlands","Chirumhanzu",2012,55.1932144165039
+"Midlands","Chirumhanzu",2013,52.4784469604492
+"Midlands","Chirumhanzu",2014,47.3663139343262
+"Midlands","Chirumhanzu",2015,36.6231994628906
+"Midlands","Chirumhanzu",2016,35.1729278564453
+"Midlands","Chirumhanzu",2017,25.6981220245361
+"Midlands","Chirumhanzu",2018,22.732494354248
+"Midlands","Chirumhanzu",2019,19.9058704376221
+"Midlands","Chirumhanzu",2020,13.1069536209106
+"Midlands","Chirumhanzu",2021,18.9854316711426
+"Midlands","Chirumhanzu",2022,46.3935852050781
+"Midlands","Chirumhanzu",2023,130.563034057617
+"Midlands","Chirumhanzu",2024,205.136611938477
+"Midlands","Gokwe North",2012,21.483491897583
+"Midlands","Gokwe North",2013,20.7222919464111
+"Midlands","Gokwe North",2014,20.1133785247803
+"Midlands","Gokwe North",2015,13.2399263381958
+"Midlands","Gokwe North",2016,8.53148174285889
+"Midlands","Gokwe North",2017,13.6084280014038
+"Midlands","Gokwe North",2018,13.3801374435425
+"Midlands","Gokwe North",2019,4.90640020370483
+"Midlands","Gokwe North",2020,1.22666001319885
+"Midlands","Gokwe North",2021,4.75086116790771
+"Midlands","Gokwe North",2022,6.27408933639526
+"Midlands","Gokwe North",2023,10.8670082092285
+"Midlands","Gokwe North",2024,11.2408561706543
+"Midlands","Gokwe South",2012,17.6489200592041
+"Midlands","Gokwe South",2013,18.8560390472412
+"Midlands","Gokwe South",2014,16.563627243042
+"Midlands","Gokwe South",2015,7.31339502334595
+"Midlands","Gokwe South",2016,8.62139701843262
+"Midlands","Gokwe South",2017,10.5941915512085
+"Midlands","Gokwe South",2018,20.1850452423096
+"Midlands","Gokwe South",2019,19.7140502929688
+"Midlands","Gokwe South",2020,17.8001346588135
+"Midlands","Gokwe South",2021,7.35348892211914
+"Midlands","Gokwe South",2022,9.30517768859863
+"Midlands","Gokwe South",2023,15.0727491378784
+"Midlands","Gokwe South",2024,17.9983348846436
+"Midlands","Gokwe South Urban",2012,108.538703918457
+"Midlands","Gokwe South Urban",2013,99.9632110595703
+"Midlands","Gokwe South Urban",2014,100.219261169434
+"Midlands","Gokwe South Urban",2015,91.0253219604492
+"Midlands","Gokwe South Urban",2016,94.0090637207031
+"Midlands","Gokwe South Urban",2017,86.8821563720703
+"Midlands","Gokwe South Urban",2018,66.2988662719727
+"Midlands","Gokwe South Urban",2019,70.8727951049805
+"Midlands","Gokwe South Urban",2020,52.6545028686523
+"Midlands","Gokwe South Urban",2021,74.6324996948242
+"Midlands","Gokwe South Urban",2022,99.2072982788086
+"Midlands","Gokwe South Urban",2023,113.019821166992
+"Midlands","Gokwe South Urban",2024,119.073249816895
+"Midlands","Gweru",2012,181.771850585938
+"Midlands","Gweru",2013,159.013137817383
+"Midlands","Gweru",2014,141.970993041992
+"Midlands","Gweru",2015,166.779586791992
+"Midlands","Gweru",2016,180.860076904297
+"Midlands","Gweru",2017,200.791198730469
+"Midlands","Gweru",2018,209.658309936523
+"Midlands","Gweru",2019,166.833358764648
+"Midlands","Gweru",2020,140.90576171875
+"Midlands","Gweru",2021,115.713264465332
+"Midlands","Gweru",2022,142.087051391602
+"Midlands","Gweru",2023,232.40966796875
+"Midlands","Gweru",2024,211.783996582031
+"Midlands","Gweru Urban",2012,939.722778320312
+"Midlands","Gweru Urban",2013,799.281372070312
+"Midlands","Gweru Urban",2014,736.122924804688
+"Midlands","Gweru Urban",2015,684.174011230469
+"Midlands","Gweru Urban",2016,744.585693359375
+"Midlands","Gweru Urban",2017,789.040710449219
+"Midlands","Gweru Urban",2018,802.423950195312
+"Midlands","Gweru Urban",2019,742.727294921875
+"Midlands","Gweru Urban",2020,677.128051757812
+"Midlands","Gweru Urban",2021,723.920776367188
+"Midlands","Gweru Urban",2022,918.617553710938
+"Midlands","Gweru Urban",2023,1359.33776855469
+"Midlands","Gweru Urban",2024,1342.17492675781
+"Midlands","Kwekwe",2012,222.52668762207
+"Midlands","Kwekwe",2013,184.101211547852
+"Midlands","Kwekwe",2014,175.420516967773
+"Midlands","Kwekwe",2015,236.849029541016
+"Midlands","Kwekwe",2016,203.899185180664
+"Midlands","Kwekwe",2017,191.183746337891
+"Midlands","Kwekwe",2018,200.770614624023
+"Midlands","Kwekwe",2019,161.665145874023
+"Midlands","Kwekwe",2020,134.255111694336
+"Midlands","Kwekwe",2021,213.581115722656
+"Midlands","Kwekwe",2022,342.019805908203
+"Midlands","Kwekwe",2023,677.874267578125
+"Midlands","Kwekwe",2024,525.99072265625
+"Midlands","Kwekwe Urban",2012,936.455749511719
+"Midlands","Kwekwe Urban",2013,749.101867675781
+"Midlands","Kwekwe Urban",2014,731.565612792969
+"Midlands","Kwekwe Urban",2015,723.622009277344
+"Midlands","Kwekwe Urban",2016,735.643615722656
+"Midlands","Kwekwe Urban",2017,732.045593261719
+"Midlands","Kwekwe Urban",2018,692.248168945312
+"Midlands","Kwekwe Urban",2019,700.906921386719
+"Midlands","Kwekwe Urban",2020,656.377624511719
+"Midlands","Kwekwe Urban",2021,789.339965820312
+"Midlands","Kwekwe Urban",2022,941.802734375
+"Midlands","Kwekwe Urban",2023,1099.87109375
+"Midlands","Kwekwe Urban",2024,1336.29479980469
+"Midlands","Mberengwa",2012,14.1332931518555
+"Midlands","Mberengwa",2013,14.9620218276978
+"Midlands","Mberengwa",2014,25.2645702362061
+"Midlands","Mberengwa",2015,23.753267288208
+"Midlands","Mberengwa",2016,19.8130302429199
+"Midlands","Mberengwa",2017,12.0059909820557
+"Midlands","Mberengwa",2018,10.5117149353027
+"Midlands","Mberengwa",2019,11.8605918884277
+"Midlands","Mberengwa",2020,10.4408588409424
+"Midlands","Mberengwa",2021,17.4147186279297
+"Midlands","Mberengwa",2022,29.4690494537354
+"Midlands","Mberengwa",2023,47.8606300354004
+"Midlands","Mberengwa",2024,40.1217498779297
+"Midlands","Redcliff",2012,194.448486328125
+"Midlands","Redcliff",2013,129.852478027344
+"Midlands","Redcliff",2014,112.371200561523
+"Midlands","Redcliff",2015,123.068534851074
+"Midlands","Redcliff",2016,141.127548217773
+"Midlands","Redcliff",2017,126.470336914062
+"Midlands","Redcliff",2018,189.755935668945
+"Midlands","Redcliff",2019,189.798538208008
+"Midlands","Redcliff",2020,160.456695556641
+"Midlands","Redcliff",2021,170.194458007812
+"Midlands","Redcliff",2022,208.820266723633
+"Midlands","Redcliff",2023,220.036209106445
+"Midlands","Redcliff",2024,229.419052124023
+"Midlands","Shurugwi",2012,423.558807373047
+"Midlands","Shurugwi",2013,519.889465332031
+"Midlands","Shurugwi",2014,606.930847167969
+"Midlands","Shurugwi",2015,516.777954101562
+"Midlands","Shurugwi",2016,462.093231201172
+"Midlands","Shurugwi",2017,403.704772949219
+"Midlands","Shurugwi",2018,364.962188720703
+"Midlands","Shurugwi",2019,324.723571777344
+"Midlands","Shurugwi",2020,301.854125976562
+"Midlands","Shurugwi",2021,272.907287597656
+"Midlands","Shurugwi",2022,304.866333007812
+"Midlands","Shurugwi",2023,337.508270263672
+"Midlands","Shurugwi",2024,374.210296630859
+"Midlands","Shurugwi Town",2012,84.1739807128906
+"Midlands","Shurugwi Town",2013,102.13892364502
+"Midlands","Shurugwi Town",2014,82.0650634765625
+"Midlands","Shurugwi Town",2015,54.7859992980957
+"Midlands","Shurugwi Town",2016,50.9743270874023
+"Midlands","Shurugwi Town",2017,35.0860023498535
+"Midlands","Shurugwi Town",2018,37.1149597167969
+"Midlands","Shurugwi Town",2019,37.4193496704102
+"Midlands","Shurugwi Town",2020,29.1025333404541
+"Midlands","Shurugwi Town",2021,47.2142295837402
+"Midlands","Shurugwi Town",2022,62.6045570373535
+"Midlands","Shurugwi Town",2023,106.205139160156
+"Midlands","Shurugwi Town",2024,140.355087280273
+"Midlands","Zvishavane",2012,252.505035400391
+"Midlands","Zvishavane",2013,272.665710449219
+"Midlands","Zvishavane",2014,261.091522216797
+"Midlands","Zvishavane",2015,304.632507324219
+"Midlands","Zvishavane",2016,268.268920898438
+"Midlands","Zvishavane",2017,225.00358581543
+"Midlands","Zvishavane",2018,223.982971191406
+"Midlands","Zvishavane",2019,229.338729858398
+"Midlands","Zvishavane",2020,238.949340820312
+"Midlands","Zvishavane",2021,248.290649414062
+"Midlands","Zvishavane",2022,310.373992919922
+"Midlands","Zvishavane",2023,411.426788330078
+"Midlands","Zvishavane",2024,424.873992919922
+"Midlands","Zvishavane Urban",2012,366.256042480469
+"Midlands","Zvishavane Urban",2013,356.669647216797
+"Midlands","Zvishavane Urban",2014,286.558258056641
+"Midlands","Zvishavane Urban",2015,287.580963134766
+"Midlands","Zvishavane Urban",2016,328.843170166016
+"Midlands","Zvishavane Urban",2017,303.377593994141
+"Midlands","Zvishavane Urban",2018,337.714599609375
+"Midlands","Zvishavane Urban",2019,325.768310546875
+"Midlands","Zvishavane Urban",2020,272.001495361328
+"Midlands","Zvishavane Urban",2021,317.743469238281
+"Midlands","Zvishavane Urban",2022,329.746490478516
+"Midlands","Zvishavane Urban",2023,386.782043457031
+"Midlands","Zvishavane Urban",2024,442.786804199219

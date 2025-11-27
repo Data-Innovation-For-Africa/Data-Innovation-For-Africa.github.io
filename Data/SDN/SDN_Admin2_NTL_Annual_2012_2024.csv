@@ -1,0 +1,1041 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Al Jazirah","Al Kamlin",2012,282.189025878906
+"Al Jazirah","Al Kamlin",2013,272.339630126953
+"Al Jazirah","Al Kamlin",2014,364.153717041016
+"Al Jazirah","Al Kamlin",2015,454.639617919922
+"Al Jazirah","Al Kamlin",2016,449.413360595703
+"Al Jazirah","Al Kamlin",2017,540.183654785156
+"Al Jazirah","Al Kamlin",2018,652.180297851562
+"Al Jazirah","Al Kamlin",2019,828.016418457031
+"Al Jazirah","Al Kamlin",2020,1179.49560546875
+"Al Jazirah","Al Kamlin",2021,1261.89477539062
+"Al Jazirah","Al Kamlin",2022,1688.79577636719
+"Al Jazirah","Al Kamlin",2023,1425.56860351562
+"Al Jazirah","Al Kamlin",2024,463.864074707031
+"Al Jazirah","Al Mahagil",2012,100.723777770996
+"Al Jazirah","Al Mahagil",2013,96.577018737793
+"Al Jazirah","Al Mahagil",2014,133.715560913086
+"Al Jazirah","Al Mahagil",2015,192.730499267578
+"Al Jazirah","Al Mahagil",2016,190.589630126953
+"Al Jazirah","Al Mahagil",2017,235.966720581055
+"Al Jazirah","Al Mahagil",2018,286.731964111328
+"Al Jazirah","Al Mahagil",2019,352.370849609375
+"Al Jazirah","Al Mahagil",2020,522.158874511719
+"Al Jazirah","Al Mahagil",2021,519.859008789062
+"Al Jazirah","Al Mahagil",2022,704.043273925781
+"Al Jazirah","Al Mahagil",2023,716.860107421875
+"Al Jazirah","Al Mahagil",2024,103.478317260742
+"Al Jazirah","East al Gazera",2012,2478.37890625
+"Al Jazirah","East al Gazera",2013,2496.46948242188
+"Al Jazirah","East al Gazera",2014,2584.572265625
+"Al Jazirah","East al Gazera",2015,3079.56762695312
+"Al Jazirah","East al Gazera",2016,3243.76953125
+"Al Jazirah","East al Gazera",2017,4087.78198242188
+"Al Jazirah","East al Gazera",2018,4621.77685546875
+"Al Jazirah","East al Gazera",2019,4700.1123046875
+"Al Jazirah","East al Gazera",2020,5257.63134765625
+"Al Jazirah","East al Gazera",2021,5291.912109375
+"Al Jazirah","East al Gazera",2022,6722.90380859375
+"Al Jazirah","East al Gazera",2023,7232.9541015625
+"Al Jazirah","East al Gazera",2024,2537.53173828125
+"Al Jazirah","North al Gazera",2012,529.359191894531
+"Al Jazirah","North al Gazera",2013,531.674743652344
+"Al Jazirah","North al Gazera",2014,647.725036621094
+"Al Jazirah","North al Gazera",2015,750.596069335938
+"Al Jazirah","North al Gazera",2016,762.082214355469
+"Al Jazirah","North al Gazera",2017,905.55810546875
+"Al Jazirah","North al Gazera",2018,1049.79333496094
+"Al Jazirah","North al Gazera",2019,1264.61596679688
+"Al Jazirah","North al Gazera",2020,1653.75939941406
+"Al Jazirah","North al Gazera",2021,1701.04223632812
+"Al Jazirah","North al Gazera",2022,2252.35034179688
+"Al Jazirah","North al Gazera",2023,2226.38037109375
+"Al Jazirah","North al Gazera",2024,1359.02673339844
+"Al Jazirah","Sharq al Gazera",2012,691.123046875
+"Al Jazirah","Sharq al Gazera",2013,625.549255371094
+"Al Jazirah","Sharq al Gazera",2014,864.060363769531
+"Al Jazirah","Sharq al Gazera",2015,978.038024902344
+"Al Jazirah","Sharq al Gazera",2016,793.91796875
+"Al Jazirah","Sharq al Gazera",2017,982.761596679688
+"Al Jazirah","Sharq al Gazera",2018,1105.95361328125
+"Al Jazirah","Sharq al Gazera",2019,1403.72229003906
+"Al Jazirah","Sharq al Gazera",2020,1777.65307617188
+"Al Jazirah","Sharq al Gazera",2021,1869.966796875
+"Al Jazirah","Sharq al Gazera",2022,2589.39599609375
+"Al Jazirah","Sharq al Gazera",2023,2856.88256835938
+"Al Jazirah","Sharq al Gazera",2024,1287.357421875
+"Al Jazirah","South al Gazera",2012,101.970245361328
+"Al Jazirah","South al Gazera",2013,97.6962661743164
+"Al Jazirah","South al Gazera",2014,128.761245727539
+"Al Jazirah","South al Gazera",2015,177.764175415039
+"Al Jazirah","South al Gazera",2016,189.742523193359
+"Al Jazirah","South al Gazera",2017,228.887130737305
+"Al Jazirah","South al Gazera",2018,264.650115966797
+"Al Jazirah","South al Gazera",2019,309.412994384766
+"Al Jazirah","South al Gazera",2020,514.867248535156
+"Al Jazirah","South al Gazera",2021,471.789672851562
+"Al Jazirah","South al Gazera",2022,601.913269042969
+"Al Jazirah","South al Gazera",2023,611.752319335938
+"Al Jazirah","South al Gazera",2024,192.751876831055
+"Al Jazirah","Um Al Gura",2012,274.443664550781
+"Al Jazirah","Um Al Gura",2013,277.533569335938
+"Al Jazirah","Um Al Gura",2014,314.564422607422
+"Al Jazirah","Um Al Gura",2015,431.674713134766
+"Al Jazirah","Um Al Gura",2016,459.268188476562
+"Al Jazirah","Um Al Gura",2017,541.250549316406
+"Al Jazirah","Um Al Gura",2018,596.830383300781
+"Al Jazirah","Um Al Gura",2019,720.676574707031
+"Al Jazirah","Um Al Gura",2020,1014.34655761719
+"Al Jazirah","Um Al Gura",2021,1032.75866699219
+"Al Jazirah","Um Al Gura",2022,1536.28112792969
+"Al Jazirah","Um Al Gura",2023,1652.5634765625
+"Al Jazirah","Um Al Gura",2024,257.945129394531
+"Al Qadarif","Al Faw",2012,43.0558967590332
+"Al Qadarif","Al Faw",2013,29.541431427002
+"Al Qadarif","Al Faw",2014,38.2692222595215
+"Al Qadarif","Al Faw",2015,61.3353538513184
+"Al Qadarif","Al Faw",2016,110.592269897461
+"Al Qadarif","Al Faw",2017,98.03515625
+"Al Qadarif","Al Faw",2018,107.763534545898
+"Al Qadarif","Al Faw",2019,117.369369506836
+"Al Qadarif","Al Faw",2020,114.062660217285
+"Al Qadarif","Al Faw",2021,117.929908752441
+"Al Qadarif","Al Faw",2022,167.03141784668
+"Al Qadarif","Al Faw",2023,211.2880859375
+"Al Qadarif","Al Faw",2024,209.420150756836
+"Al Qadarif","Al Fushqa",2012,1825.55017089844
+"Al Qadarif","Al Fushqa",2013,1976.77795410156
+"Al Qadarif","Al Fushqa",2014,1428.20593261719
+"Al Qadarif","Al Fushqa",2015,801.846252441406
+"Al Qadarif","Al Fushqa",2016,768.244018554688
+"Al Qadarif","Al Fushqa",2017,689.111389160156
+"Al Qadarif","Al Fushqa",2018,770.697937011719
+"Al Qadarif","Al Fushqa",2019,826.909545898438
+"Al Qadarif","Al Fushqa",2020,730.785766601562
+"Al Qadarif","Al Fushqa",2021,663.556274414062
+"Al Qadarif","Al Fushqa",2022,785.35009765625
+"Al Qadarif","Al Fushqa",2023,839.515197753906
+"Al Qadarif","Al Fushqa",2024,831.90673828125
+"Al Qadarif","Al Gadaref",2012,782.148254394531
+"Al Qadarif","Al Gadaref",2013,944.152770996094
+"Al Qadarif","Al Gadaref",2014,1039.18408203125
+"Al Qadarif","Al Gadaref",2015,1218.47021484375
+"Al Qadarif","Al Gadaref",2016,1291.81164550781
+"Al Qadarif","Al Gadaref",2017,1367.27551269531
+"Al Qadarif","Al Gadaref",2018,1560.36193847656
+"Al Qadarif","Al Gadaref",2019,1848.28955078125
+"Al Qadarif","Al Gadaref",2020,2302.40356445312
+"Al Qadarif","Al Gadaref",2021,2206.01098632812
+"Al Qadarif","Al Gadaref",2022,2921.77368164062
+"Al Qadarif","Al Gadaref",2023,3523.63549804688
+"Al Qadarif","Al Gadaref",2024,3740.8095703125
+"Al Qadarif","Al Galabat",2012,6.93572330474854
+"Al Qadarif","Al Galabat",2013,14.492449760437
+"Al Qadarif","Al Galabat",2014,27.8176975250244
+"Al Qadarif","Al Galabat",2015,34.7631759643555
+"Al Qadarif","Al Galabat",2016,159.460494995117
+"Al Qadarif","Al Galabat",2017,170.049758911133
+"Al Qadarif","Al Galabat",2018,174.922973632812
+"Al Qadarif","Al Galabat",2019,220.910400390625
+"Al Qadarif","Al Galabat",2020,210.986099243164
+"Al Qadarif","Al Galabat",2021,151.860717773438
+"Al Qadarif","Al Galabat",2022,157.693649291992
+"Al Qadarif","Al Galabat",2023,217.346984863281
+"Al Qadarif","Al Galabat",2024,214.62109375
+"Al Qadarif","Al Rahd",2012,153.055267333984
+"Al Qadarif","Al Rahd",2013,138.897583007812
+"Al Qadarif","Al Rahd",2014,287.629150390625
+"Al Qadarif","Al Rahd",2015,401.360900878906
+"Al Qadarif","Al Rahd",2016,431.436126708984
+"Al Qadarif","Al Rahd",2017,642.997497558594
+"Al Qadarif","Al Rahd",2018,646.607971191406
+"Al Qadarif","Al Rahd",2019,766.181640625
+"Al Qadarif","Al Rahd",2020,725.679077148438
+"Al Qadarif","Al Rahd",2021,712.335144042969
+"Al Qadarif","Al Rahd",2022,888.018493652344
+"Al Qadarif","Al Rahd",2023,1043.07263183594
+"Al Qadarif","Al Rahd",2024,1070.56237792969
+"Blue Nile","Ad Damazin",2012,399.433746337891
+"Blue Nile","Ad Damazin",2013,405.973205566406
+"Blue Nile","Ad Damazin",2014,442.305999755859
+"Blue Nile","Ad Damazin",2015,519.435119628906
+"Blue Nile","Ad Damazin",2016,580.219299316406
+"Blue Nile","Ad Damazin",2017,760.913696289062
+"Blue Nile","Ad Damazin",2018,981.164672851562
+"Blue Nile","Ad Damazin",2019,1074.40161132812
+"Blue Nile","Ad Damazin",2020,1265.04650878906
+"Blue Nile","Ad Damazin",2021,1300.27954101562
+"Blue Nile","Ad Damazin",2022,1482.38806152344
+"Blue Nile","Ad Damazin",2023,1706.66284179688
+"Blue Nile","Ad Damazin",2024,1871.060546875
+"Blue Nile","Al Kurumik",2012,0
+"Blue Nile","Al Kurumik",2013,0
+"Blue Nile","Al Kurumik",2014,0
+"Blue Nile","Al Kurumik",2015,0
+"Blue Nile","Al Kurumik",2016,0
+"Blue Nile","Al Kurumik",2017,0
+"Blue Nile","Al Kurumik",2018,0
+"Blue Nile","Al Kurumik",2019,0
+"Blue Nile","Al Kurumik",2020,0
+"Blue Nile","Al Kurumik",2021,0
+"Blue Nile","Al Kurumik",2022,0
+"Blue Nile","Al Kurumik",2023,0
+"Blue Nile","Al Kurumik",2024,0
+"Blue Nile","Al Roseires",2012,275.676605224609
+"Blue Nile","Al Roseires",2013,263.796295166016
+"Blue Nile","Al Roseires",2014,290.420104980469
+"Blue Nile","Al Roseires",2015,327.201171875
+"Blue Nile","Al Roseires",2016,367.845245361328
+"Blue Nile","Al Roseires",2017,379.286254882812
+"Blue Nile","Al Roseires",2018,455.700958251953
+"Blue Nile","Al Roseires",2019,559.697021484375
+"Blue Nile","Al Roseires",2020,632.593811035156
+"Blue Nile","Al Roseires",2021,650.730773925781
+"Blue Nile","Al Roseires",2022,620.047485351562
+"Blue Nile","Al Roseires",2023,563.691345214844
+"Blue Nile","Al Roseires",2024,621.301940917969
+"Blue Nile","Baw",2012,0
+"Blue Nile","Baw",2013,0
+"Blue Nile","Baw",2014,0
+"Blue Nile","Baw",2015,0
+"Blue Nile","Baw",2016,0
+"Blue Nile","Baw",2017,0
+"Blue Nile","Baw",2018,0
+"Blue Nile","Baw",2019,0
+"Blue Nile","Baw",2020,0
+"Blue Nile","Baw",2021,0
+"Blue Nile","Baw",2022,0
+"Blue Nile","Baw",2023,0
+"Blue Nile","Baw",2024,0
+"Blue Nile","Geissan",2012,0
+"Blue Nile","Geissan",2013,0
+"Blue Nile","Geissan",2014,0
+"Blue Nile","Geissan",2015,0
+"Blue Nile","Geissan",2016,0
+"Blue Nile","Geissan",2017,1.6311194896698
+"Blue Nile","Geissan",2018,0.103710047900677
+"Blue Nile","Geissan",2019,0.227601110935211
+"Blue Nile","Geissan",2020,0.198280394077301
+"Blue Nile","Geissan",2021,0.196169927716255
+"Blue Nile","Geissan",2022,2.92323875427246
+"Blue Nile","Geissan",2023,0.658960521221161
+"Blue Nile","Geissan",2024,0.952935934066772
+"Central Darfur","Mukjar",2012,30.1327457427979
+"Central Darfur","Mukjar",2013,36.4731330871582
+"Central Darfur","Mukjar",2014,30.3252010345459
+"Central Darfur","Mukjar",2015,32.6441650390625
+"Central Darfur","Mukjar",2016,28.3724899291992
+"Central Darfur","Mukjar",2017,28.3547706604004
+"Central Darfur","Mukjar",2018,13.7071208953857
+"Central Darfur","Mukjar",2019,0
+"Central Darfur","Mukjar",2020,0
+"Central Darfur","Mukjar",2021,0.549990594387054
+"Central Darfur","Mukjar",2022,4.99483585357666
+"Central Darfur","Mukjar",2023,1.48723781108856
+"Central Darfur","Mukjar",2024,0
+"Central Darfur","Zallingi",2012,167.976959228516
+"Central Darfur","Zallingi",2013,164.297058105469
+"Central Darfur","Zallingi",2014,186.084579467773
+"Central Darfur","Zallingi",2015,224.040679931641
+"Central Darfur","Zallingi",2016,198.616394042969
+"Central Darfur","Zallingi",2017,217.562789916992
+"Central Darfur","Zallingi",2018,238.600524902344
+"Central Darfur","Zallingi",2019,214.328567504883
+"Central Darfur","Zallingi",2020,314.291137695312
+"Central Darfur","Zallingi",2021,89.8745651245117
+"Central Darfur","Zallingi",2022,45.4636306762695
+"Central Darfur","Zallingi",2023,19.0942401885986
+"Central Darfur","Zallingi",2024,4.25557327270508
+"East Darfur","Al Deain",2012,104.024925231934
+"East Darfur","Al Deain",2013,3394.65161132812
+"East Darfur","Al Deain",2014,746.068481445312
+"East Darfur","Al Deain",2015,813.352111816406
+"East Darfur","Al Deain",2016,975.305847167969
+"East Darfur","Al Deain",2017,1189.28125
+"East Darfur","Al Deain",2018,1224.57885742188
+"East Darfur","Al Deain",2019,796.721496582031
+"East Darfur","Al Deain",2020,633.015991210938
+"East Darfur","Al Deain",2021,692.609497070312
+"East Darfur","Al Deain",2022,772.364929199219
+"East Darfur","Al Deain",2023,601.338195800781
+"East Darfur","Al Deain",2024,4.15026712417603
+"East Darfur","Nyala",2012,168.444000244141
+"East Darfur","Nyala",2013,256.598999023438
+"East Darfur","Nyala",2014,316.728607177734
+"East Darfur","Nyala",2015,346.302185058594
+"East Darfur","Nyala",2016,305.267883300781
+"East Darfur","Nyala",2017,284.331970214844
+"East Darfur","Nyala",2018,267.045867919922
+"East Darfur","Nyala",2019,163.892074584961
+"East Darfur","Nyala",2020,19.6388187408447
+"East Darfur","Nyala",2021,11.4929294586182
+"East Darfur","Nyala",2022,27.7291278839111
+"East Darfur","Nyala",2023,17.8906345367432
+"East Darfur","Nyala",2024,0
+"Kassala","Al Gash",2012,25.8744487762451
+"Kassala","Al Gash",2013,14.259204864502
+"Kassala","Al Gash",2014,7.16505813598633
+"Kassala","Al Gash",2015,13.5243673324585
+"Kassala","Al Gash",2016,15.7575740814209
+"Kassala","Al Gash",2017,17.3405437469482
+"Kassala","Al Gash",2018,19.5533332824707
+"Kassala","Al Gash",2019,50.4453659057617
+"Kassala","Al Gash",2020,77.0772323608398
+"Kassala","Al Gash",2021,64.5954208374023
+"Kassala","Al Gash",2022,64.3923645019531
+"Kassala","Al Gash",2023,106.061416625977
+"Kassala","Al Gash",2024,95.0584106445312
+"Kassala","Hamashkorieb",2012,0
+"Kassala","Hamashkorieb",2013,0
+"Kassala","Hamashkorieb",2014,0
+"Kassala","Hamashkorieb",2015,0
+"Kassala","Hamashkorieb",2016,0
+"Kassala","Hamashkorieb",2017,0.570802330970764
+"Kassala","Hamashkorieb",2018,0
+"Kassala","Hamashkorieb",2019,0
+"Kassala","Hamashkorieb",2020,0
+"Kassala","Hamashkorieb",2021,0
+"Kassala","Hamashkorieb",2022,0
+"Kassala","Hamashkorieb",2023,0
+"Kassala","Hamashkorieb",2024,0
+"Kassala","Kassala",2012,1589.73291015625
+"Kassala","Kassala",2013,1546.41650390625
+"Kassala","Kassala",2014,1563.81762695312
+"Kassala","Kassala",2015,1817.833984375
+"Kassala","Kassala",2016,1838.48168945312
+"Kassala","Kassala",2017,2117.89721679688
+"Kassala","Kassala",2018,2051.61791992188
+"Kassala","Kassala",2019,1896.28149414062
+"Kassala","Kassala",2020,2249.39697265625
+"Kassala","Kassala",2021,2350.65771484375
+"Kassala","Kassala",2022,3086.453125
+"Kassala","Kassala",2023,3890.62939453125
+"Kassala","Kassala",2024,4478.68115234375
+"Kassala","Nahr Atbara",2012,615.718017578125
+"Kassala","Nahr Atbara",2013,545.652038574219
+"Kassala","Nahr Atbara",2014,563.671142578125
+"Kassala","Nahr Atbara",2015,631.628479003906
+"Kassala","Nahr Atbara",2016,609.152465820312
+"Kassala","Nahr Atbara",2017,643.743408203125
+"Kassala","Nahr Atbara",2018,694.36669921875
+"Kassala","Nahr Atbara",2019,741.324401855469
+"Kassala","Nahr Atbara",2020,853.366638183594
+"Kassala","Nahr Atbara",2021,874.198181152344
+"Kassala","Nahr Atbara",2022,1127.529296875
+"Kassala","Nahr Atbara",2023,1441.77783203125
+"Kassala","Nahr Atbara",2024,1537.13232421875
+"Kassala","Seteet",2012,0
+"Kassala","Seteet",2013,0
+"Kassala","Seteet",2014,0
+"Kassala","Seteet",2015,0
+"Kassala","Seteet",2016,0.528678894042969
+"Kassala","Seteet",2017,6.56972551345825
+"Kassala","Seteet",2018,6.53800678253174
+"Kassala","Seteet",2019,4.82724523544312
+"Kassala","Seteet",2020,7.99930047988892
+"Kassala","Seteet",2021,12.905234336853
+"Kassala","Seteet",2022,25.7341690063477
+"Kassala","Seteet",2023,33.8153762817383
+"Kassala","Seteet",2024,23.7896728515625
+"Khartoum","Karary",2012,127.80086517334
+"Khartoum","Karary",2013,139.426986694336
+"Khartoum","Karary",2014,167.713073730469
+"Khartoum","Karary",2015,216.804718017578
+"Khartoum","Karary",2016,184.205505371094
+"Khartoum","Karary",2017,211.552795410156
+"Khartoum","Karary",2018,198.385238647461
+"Khartoum","Karary",2019,221.745574951172
+"Khartoum","Karary",2020,315.838470458984
+"Khartoum","Karary",2021,324.587158203125
+"Khartoum","Karary",2022,435.882751464844
+"Khartoum","Karary",2023,420.849273681641
+"Khartoum","Karary",2024,395.34765625
+"Khartoum","Khartoum",2012,24425.185546875
+"Khartoum","Khartoum",2013,25355.654296875
+"Khartoum","Khartoum",2014,26519.33984375
+"Khartoum","Khartoum",2015,30515.349609375
+"Khartoum","Khartoum",2016,30913.9375
+"Khartoum","Khartoum",2017,33216.18359375
+"Khartoum","Khartoum",2018,32796.37109375
+"Khartoum","Khartoum",2019,31916.3203125
+"Khartoum","Khartoum",2020,33032.10546875
+"Khartoum","Khartoum",2021,33168.6953125
+"Khartoum","Khartoum",2022,36672.09375
+"Khartoum","Khartoum",2023,23335.716796875
+"Khartoum","Khartoum",2024,4612.97021484375
+"Khartoum","Khartoum Bahri",2012,17586.431640625
+"Khartoum","Khartoum Bahri",2013,18398.6640625
+"Khartoum","Khartoum Bahri",2014,19771.783203125
+"Khartoum","Khartoum Bahri",2015,22299.080078125
+"Khartoum","Khartoum Bahri",2016,23627.3828125
+"Khartoum","Khartoum Bahri",2017,25526.814453125
+"Khartoum","Khartoum Bahri",2018,26910.41015625
+"Khartoum","Khartoum Bahri",2019,27066.09765625
+"Khartoum","Khartoum Bahri",2020,31204.103515625
+"Khartoum","Khartoum Bahri",2021,32076.591796875
+"Khartoum","Khartoum Bahri",2022,34937.0390625
+"Khartoum","Khartoum Bahri",2023,27821.02734375
+"Khartoum","Khartoum Bahri",2024,7299.07861328125
+"Khartoum","Omdurman",2012,9065.15234375
+"Khartoum","Omdurman",2013,9561.6533203125
+"Khartoum","Omdurman",2014,11256.56640625
+"Khartoum","Omdurman",2015,13493.9775390625
+"Khartoum","Omdurman",2016,14345.1484375
+"Khartoum","Omdurman",2017,15830.794921875
+"Khartoum","Omdurman",2018,16630.56640625
+"Khartoum","Omdurman",2019,17956.95703125
+"Khartoum","Omdurman",2020,19965.70703125
+"Khartoum","Omdurman",2021,19916.458984375
+"Khartoum","Omdurman",2022,23005.62890625
+"Khartoum","Omdurman",2023,22000.337890625
+"Khartoum","Omdurman",2024,12581.09375
+"Khartoum","Sharg En Nile",2012,984.897216796875
+"Khartoum","Sharg En Nile",2013,864.097961425781
+"Khartoum","Sharg En Nile",2014,1022.43768310547
+"Khartoum","Sharg En Nile",2015,1386.25939941406
+"Khartoum","Sharg En Nile",2016,1576.03881835938
+"Khartoum","Sharg En Nile",2017,1859.43493652344
+"Khartoum","Sharg En Nile",2018,2029.71545410156
+"Khartoum","Sharg En Nile",2019,2222.21215820312
+"Khartoum","Sharg En Nile",2020,2938.40356445312
+"Khartoum","Sharg En Nile",2021,3401.15063476562
+"Khartoum","Sharg En Nile",2022,4541.13330078125
+"Khartoum","Sharg En Nile",2023,3486.10791015625
+"Khartoum","Sharg En Nile",2024,597.625366210938
+"Khartoum","South Khartoum",2012,2842.4208984375
+"Khartoum","South Khartoum",2013,3103.07104492188
+"Khartoum","South Khartoum",2014,3696.57861328125
+"Khartoum","South Khartoum",2015,4266.68408203125
+"Khartoum","South Khartoum",2016,4256.962890625
+"Khartoum","South Khartoum",2017,4958.41796875
+"Khartoum","South Khartoum",2018,5029.47021484375
+"Khartoum","South Khartoum",2019,5320.04248046875
+"Khartoum","South Khartoum",2020,6284.07861328125
+"Khartoum","South Khartoum",2021,6919.68115234375
+"Khartoum","South Khartoum",2022,8575.412109375
+"Khartoum","South Khartoum",2023,5732.08837890625
+"Khartoum","South Khartoum",2024,1768.84558105469
+"Khartoum","Um Badda",2012,2607.07421875
+"Khartoum","Um Badda",2013,2505.96630859375
+"Khartoum","Um Badda",2014,2695.90014648438
+"Khartoum","Um Badda",2015,3323.798828125
+"Khartoum","Um Badda",2016,3442.35961914062
+"Khartoum","Um Badda",2017,4021.88525390625
+"Khartoum","Um Badda",2018,4280.29248046875
+"Khartoum","Um Badda",2019,5037.98486328125
+"Khartoum","Um Badda",2020,6127.01904296875
+"Khartoum","Um Badda",2021,6529.14306640625
+"Khartoum","Um Badda",2022,8004.79248046875
+"Khartoum","Um Badda",2023,6871.09228515625
+"Khartoum","Um Badda",2024,4043.140625
+"North Darfur","Al Fasher",2012,1453.31127929688
+"North Darfur","Al Fasher",2013,1731.37072753906
+"North Darfur","Al Fasher",2014,1866.3671875
+"North Darfur","Al Fasher",2015,1965.77001953125
+"North Darfur","Al Fasher",2016,1882.88439941406
+"North Darfur","Al Fasher",2017,2031.97875976562
+"North Darfur","Al Fasher",2018,1860.89562988281
+"North Darfur","Al Fasher",2019,1930.42126464844
+"North Darfur","Al Fasher",2020,1963.52087402344
+"North Darfur","Al Fasher",2021,1936.44555664062
+"North Darfur","Al Fasher",2022,2069.39086914062
+"North Darfur","Al Fasher",2023,1084.98010253906
+"North Darfur","Al Fasher",2024,0
+"North Darfur","Kabkabiya",2012,104.135139465332
+"North Darfur","Kabkabiya",2013,78.303466796875
+"North Darfur","Kabkabiya",2014,85.8085784912109
+"North Darfur","Kabkabiya",2015,80.537353515625
+"North Darfur","Kabkabiya",2016,55.5184020996094
+"North Darfur","Kabkabiya",2017,28.7233600616455
+"North Darfur","Kabkabiya",2018,28.7608127593994
+"North Darfur","Kabkabiya",2019,53.0527572631836
+"North Darfur","Kabkabiya",2020,68.0835342407227
+"North Darfur","Kabkabiya",2021,9.51561450958252
+"North Darfur","Kabkabiya",2022,4.66545343399048
+"North Darfur","Kabkabiya",2023,8.77076625823975
+"North Darfur","Kabkabiya",2024,0
+"North Darfur","Kutum",2012,101.332183837891
+"North Darfur","Kutum",2013,116.792266845703
+"North Darfur","Kutum",2014,132.902084350586
+"North Darfur","Kutum",2015,131.326766967773
+"North Darfur","Kutum",2016,131.355133056641
+"North Darfur","Kutum",2017,92.6091537475586
+"North Darfur","Kutum",2018,42.7416954040527
+"North Darfur","Kutum",2019,47.6675796508789
+"North Darfur","Kutum",2020,33.5960388183594
+"North Darfur","Kutum",2021,1.47207617759705
+"North Darfur","Kutum",2022,1.51385951042175
+"North Darfur","Kutum",2023,0.817320287227631
+"North Darfur","Kutum",2024,0.24594846367836
+"North Darfur","Mellit",2012,47.2613182067871
+"North Darfur","Mellit",2013,33.1777229309082
+"North Darfur","Mellit",2014,35.2075805664062
+"North Darfur","Mellit",2015,32.9049110412598
+"North Darfur","Mellit",2016,25.6136856079102
+"North Darfur","Mellit",2017,13.016092300415
+"North Darfur","Mellit",2018,0
+"North Darfur","Mellit",2019,0
+"North Darfur","Mellit",2020,0
+"North Darfur","Mellit",2021,2.56810164451599
+"North Darfur","Mellit",2022,2.86307430267334
+"North Darfur","Mellit",2023,12.4667186737061
+"North Darfur","Mellit",2024,3.8633828163147
+"North Darfur","Um Kadada",2012,49.0490455627441
+"North Darfur","Um Kadada",2013,49.8038330078125
+"North Darfur","Um Kadada",2014,42.6958427429199
+"North Darfur","Um Kadada",2015,54.0292205810547
+"North Darfur","Um Kadada",2016,34.8496589660645
+"North Darfur","Um Kadada",2017,11.8760042190552
+"North Darfur","Um Kadada",2018,0
+"North Darfur","Um Kadada",2019,0
+"North Darfur","Um Kadada",2020,0
+"North Darfur","Um Kadada",2021,0
+"North Darfur","Um Kadada",2022,0
+"North Darfur","Um Kadada",2023,0
+"North Darfur","Um Kadada",2024,0
+"North Kurdufan","Bara",2012,1464.56420898438
+"North Kurdufan","Bara",2013,1543.65173339844
+"North Kurdufan","Bara",2014,1624.08251953125
+"North Kurdufan","Bara",2015,2005.24462890625
+"North Kurdufan","Bara",2016,2632.2119140625
+"North Kurdufan","Bara",2017,3036.5205078125
+"North Kurdufan","Bara",2018,3375.27075195312
+"North Kurdufan","Bara",2019,3652.70092773438
+"North Kurdufan","Bara",2020,4172.69873046875
+"North Kurdufan","Bara",2021,4006.99633789062
+"North Kurdufan","Bara",2022,4644.021484375
+"North Kurdufan","Bara",2023,4395.59716796875
+"North Kurdufan","Bara",2024,1501.53015136719
+"North Kurdufan","Jebrat al Sheikh",2012,7.69815444946289
+"North Kurdufan","Jebrat al Sheikh",2013,5.80456686019897
+"North Kurdufan","Jebrat al Sheikh",2014,4.21627950668335
+"North Kurdufan","Jebrat al Sheikh",2015,6.80075454711914
+"North Kurdufan","Jebrat al Sheikh",2016,3.81094408035278
+"North Kurdufan","Jebrat al Sheikh",2017,5.40270376205444
+"North Kurdufan","Jebrat al Sheikh",2018,7.57648706436157
+"North Kurdufan","Jebrat al Sheikh",2019,5.50778532028198
+"North Kurdufan","Jebrat al Sheikh",2020,3.87712121009827
+"North Kurdufan","Jebrat al Sheikh",2021,6.74749898910522
+"North Kurdufan","Jebrat al Sheikh",2022,17.4680309295654
+"North Kurdufan","Jebrat al Sheikh",2023,3.74294114112854
+"North Kurdufan","Jebrat al Sheikh",2024,0
+"North Kurdufan","Sheikan",2012,110.191436767578
+"North Kurdufan","Sheikan",2013,100.244529724121
+"North Kurdufan","Sheikan",2014,107.980422973633
+"North Kurdufan","Sheikan",2015,112.341804504395
+"North Kurdufan","Sheikan",2016,102.349639892578
+"North Kurdufan","Sheikan",2017,134.45539855957
+"North Kurdufan","Sheikan",2018,164.091979980469
+"North Kurdufan","Sheikan",2019,230.491424560547
+"North Kurdufan","Sheikan",2020,202.137176513672
+"North Kurdufan","Sheikan",2021,195.448226928711
+"North Kurdufan","Sheikan",2022,221.157470703125
+"North Kurdufan","Sheikan",2023,98.6552047729492
+"North Kurdufan","Sheikan",2024,18.0693244934082
+"North Kurdufan","Sowdari",2012,0
+"North Kurdufan","Sowdari",2013,0
+"North Kurdufan","Sowdari",2014,1.29471743106842
+"North Kurdufan","Sowdari",2015,19.4581623077393
+"North Kurdufan","Sowdari",2016,17.8223171234131
+"North Kurdufan","Sowdari",2017,41.0618553161621
+"North Kurdufan","Sowdari",2018,58.1272506713867
+"North Kurdufan","Sowdari",2019,61.6827621459961
+"North Kurdufan","Sowdari",2020,64.3255996704102
+"North Kurdufan","Sowdari",2021,64.2543334960938
+"North Kurdufan","Sowdari",2022,86.1063079833984
+"North Kurdufan","Sowdari",2023,45.0769538879395
+"North Kurdufan","Sowdari",2024,32.6253318786621
+"North Kurdufan","Um Rawaba",2012,147.543151855469
+"North Kurdufan","Um Rawaba",2013,155.937240600586
+"North Kurdufan","Um Rawaba",2014,202.65217590332
+"North Kurdufan","Um Rawaba",2015,268.74658203125
+"North Kurdufan","Um Rawaba",2016,317.120819091797
+"North Kurdufan","Um Rawaba",2017,404.470794677734
+"North Kurdufan","Um Rawaba",2018,522.51220703125
+"North Kurdufan","Um Rawaba",2019,570.414489746094
+"North Kurdufan","Um Rawaba",2020,760.160522460938
+"North Kurdufan","Um Rawaba",2021,753.30419921875
+"North Kurdufan","Um Rawaba",2022,962.995788574219
+"North Kurdufan","Um Rawaba",2023,1099.06726074219
+"North Kurdufan","Um Rawaba",2024,536.947509765625
+"Northern","Addabah",2012,91.525749206543
+"Northern","Addabah",2013,112.452133178711
+"Northern","Addabah",2014,201.507934570312
+"Northern","Addabah",2015,264.911163330078
+"Northern","Addabah",2016,270.093505859375
+"Northern","Addabah",2017,397.411407470703
+"Northern","Addabah",2018,406.295654296875
+"Northern","Addabah",2019,485.360229492188
+"Northern","Addabah",2020,658.006408691406
+"Northern","Addabah",2021,711.965148925781
+"Northern","Addabah",2022,1008.42022705078
+"Northern","Addabah",2023,1191.80895996094
+"Northern","Addabah",2024,1898.46826171875
+"Northern","Dongola",2012,856.184509277344
+"Northern","Dongola",2013,933.123413085938
+"Northern","Dongola",2014,1172.96911621094
+"Northern","Dongola",2015,1578.23937988281
+"Northern","Dongola",2016,1873.85803222656
+"Northern","Dongola",2017,2120.57177734375
+"Northern","Dongola",2018,2309.0869140625
+"Northern","Dongola",2019,2593.98608398438
+"Northern","Dongola",2020,3449.8564453125
+"Northern","Dongola",2021,4020.58666992188
+"Northern","Dongola",2022,4940.42724609375
+"Northern","Dongola",2023,7389.50390625
+"Northern","Dongola",2024,10261.806640625
+"Northern","Merawi",2012,1066.47778320312
+"Northern","Merawi",2013,1112.65673828125
+"Northern","Merawi",2014,1109.41076660156
+"Northern","Merawi",2015,1221.06420898438
+"Northern","Merawi",2016,1269.94189453125
+"Northern","Merawi",2017,1489.91821289062
+"Northern","Merawi",2018,1475.03112792969
+"Northern","Merawi",2019,1535.51428222656
+"Northern","Merawi",2020,1587.71472167969
+"Northern","Merawi",2021,1879.75939941406
+"Northern","Merawi",2022,2192.81420898438
+"Northern","Merawi",2023,2849.03564453125
+"Northern","Merawi",2024,4230.0068359375
+"Northern","Wadi Halfa",2012,120.223304748535
+"Northern","Wadi Halfa",2013,174.309097290039
+"Northern","Wadi Halfa",2014,294.283325195312
+"Northern","Wadi Halfa",2015,420.193206787109
+"Northern","Wadi Halfa",2016,591.687316894531
+"Northern","Wadi Halfa",2017,1262.05261230469
+"Northern","Wadi Halfa",2018,1354.72192382812
+"Northern","Wadi Halfa",2019,1539.15002441406
+"Northern","Wadi Halfa",2020,1885.31066894531
+"Northern","Wadi Halfa",2021,2306.01611328125
+"Northern","Wadi Halfa",2022,2806.87353515625
+"Northern","Wadi Halfa",2023,3520.40551757812
+"Northern","Wadi Halfa",2024,4736.642578125
+"Red Sea","Halayeb",2012,386.363464355469
+"Red Sea","Halayeb",2013,371.624603271484
+"Red Sea","Halayeb",2014,364.34814453125
+"Red Sea","Halayeb",2015,644.642578125
+"Red Sea","Halayeb",2016,616.331115722656
+"Red Sea","Halayeb",2017,579.206604003906
+"Red Sea","Halayeb",2018,511.053833007812
+"Red Sea","Halayeb",2019,550.705810546875
+"Red Sea","Halayeb",2020,657.305053710938
+"Red Sea","Halayeb",2021,692.803588867188
+"Red Sea","Halayeb",2022,809.23974609375
+"Red Sea","Halayeb",2023,927.336791992188
+"Red Sea","Halayeb",2024,1160.64428710938
+"Red Sea","Port Sudan",2012,5672.2431640625
+"Red Sea","Port Sudan",2013,6160.78857421875
+"Red Sea","Port Sudan",2014,7072.86328125
+"Red Sea","Port Sudan",2015,8244.365234375
+"Red Sea","Port Sudan",2016,8629.037109375
+"Red Sea","Port Sudan",2017,8804.9453125
+"Red Sea","Port Sudan",2018,9518.87890625
+"Red Sea","Port Sudan",2019,8982.7265625
+"Red Sea","Port Sudan",2020,8564.794921875
+"Red Sea","Port Sudan",2021,8156.3369140625
+"Red Sea","Port Sudan",2022,8967.05859375
+"Red Sea","Port Sudan",2023,10937.4111328125
+"Red Sea","Port Sudan",2024,12354.265625
+"Red Sea","Sinkat",2012,514.984436035156
+"Red Sea","Sinkat",2013,509.663482666016
+"Red Sea","Sinkat",2014,542.319091796875
+"Red Sea","Sinkat",2015,530.65380859375
+"Red Sea","Sinkat",2016,541.145446777344
+"Red Sea","Sinkat",2017,578.382934570312
+"Red Sea","Sinkat",2018,543.091247558594
+"Red Sea","Sinkat",2019,741.855407714844
+"Red Sea","Sinkat",2020,1138.1865234375
+"Red Sea","Sinkat",2021,1424.00805664062
+"Red Sea","Sinkat",2022,1764.9853515625
+"Red Sea","Sinkat",2023,1731.71276855469
+"Red Sea","Sinkat",2024,2053.90844726562
+"Red Sea","Tokar",2012,8.01581382751465
+"Red Sea","Tokar",2013,7.87474584579468
+"Red Sea","Tokar",2014,16.6801280975342
+"Red Sea","Tokar",2015,23.1465454101562
+"Red Sea","Tokar",2016,17.4725875854492
+"Red Sea","Tokar",2017,8.98817729949951
+"Red Sea","Tokar",2018,354.584808349609
+"Red Sea","Tokar",2019,304.711242675781
+"Red Sea","Tokar",2020,228.463256835938
+"Red Sea","Tokar",2021,224.686645507812
+"Red Sea","Tokar",2022,137.066436767578
+"Red Sea","Tokar",2023,104.825790405273
+"Red Sea","Tokar",2024,229.723510742188
+"River Nile","Abu Hamad",2012,31.5255832672119
+"River Nile","Abu Hamad",2013,24.3418045043945
+"River Nile","Abu Hamad",2014,121.677345275879
+"River Nile","Abu Hamad",2015,200.329254150391
+"River Nile","Abu Hamad",2016,468.294128417969
+"River Nile","Abu Hamad",2017,582.12890625
+"River Nile","Abu Hamad",2018,677.938659667969
+"River Nile","Abu Hamad",2019,857.508483886719
+"River Nile","Abu Hamad",2020,1218.26159667969
+"River Nile","Abu Hamad",2021,2021.05554199219
+"River Nile","Abu Hamad",2022,2807.90673828125
+"River Nile","Abu Hamad",2023,2800.73510742188
+"River Nile","Abu Hamad",2024,2992.2255859375
+"River Nile","Ad Damer",2012,426.699493408203
+"River Nile","Ad Damer",2013,341.616668701172
+"River Nile","Ad Damer",2014,339.420776367188
+"River Nile","Ad Damer",2015,444.633148193359
+"River Nile","Ad Damer",2016,477.460266113281
+"River Nile","Ad Damer",2017,481.278533935547
+"River Nile","Ad Damer",2018,576.401550292969
+"River Nile","Ad Damer",2019,525.589965820312
+"River Nile","Ad Damer",2020,609.036926269531
+"River Nile","Ad Damer",2021,708.564514160156
+"River Nile","Ad Damer",2022,922.22216796875
+"River Nile","Ad Damer",2023,1558.20007324219
+"River Nile","Ad Damer",2024,1427.08483886719
+"River Nile","Al Matammah",2012,186.910400390625
+"River Nile","Al Matammah",2013,177.715682983398
+"River Nile","Al Matammah",2014,179.52751159668
+"River Nile","Al Matammah",2015,269.746856689453
+"River Nile","Al Matammah",2016,375.025329589844
+"River Nile","Al Matammah",2017,387.801452636719
+"River Nile","Al Matammah",2018,354.526550292969
+"River Nile","Al Matammah",2019,434.967346191406
+"River Nile","Al Matammah",2020,623.775207519531
+"River Nile","Al Matammah",2021,697.860168457031
+"River Nile","Al Matammah",2022,1071.578125
+"River Nile","Al Matammah",2023,1560.02868652344
+"River Nile","Al Matammah",2024,1892.53271484375
+"River Nile","Atbara",2012,1503.10021972656
+"River Nile","Atbara",2013,1542.60290527344
+"River Nile","Atbara",2014,1663.89318847656
+"River Nile","Atbara",2015,2466.49047851562
+"River Nile","Atbara",2016,2732.78442382812
+"River Nile","Atbara",2017,3130.35473632812
+"River Nile","Atbara",2018,3373.12231445312
+"River Nile","Atbara",2019,3162.6591796875
+"River Nile","Atbara",2020,3532.8515625
+"River Nile","Atbara",2021,3654.216796875
+"River Nile","Atbara",2022,4610.4912109375
+"River Nile","Atbara",2023,7434.42138671875
+"River Nile","Atbara",2024,7478.18701171875
+"River Nile","Berber",2012,697.194763183594
+"River Nile","Berber",2013,690.044189453125
+"River Nile","Berber",2014,724.236572265625
+"River Nile","Berber",2015,905.982849121094
+"River Nile","Berber",2016,1059.71398925781
+"River Nile","Berber",2017,1453.14245605469
+"River Nile","Berber",2018,1379.02880859375
+"River Nile","Berber",2019,1329.7978515625
+"River Nile","Berber",2020,1780.22937011719
+"River Nile","Berber",2021,2252.01904296875
+"River Nile","Berber",2022,2878.8359375
+"River Nile","Berber",2023,3977.92211914062
+"River Nile","Berber",2024,4702.09228515625
+"River Nile","Shendi",2012,998.48779296875
+"River Nile","Shendi",2013,881.055297851562
+"River Nile","Shendi",2014,709.341613769531
+"River Nile","Shendi",2015,1036.16186523438
+"River Nile","Shendi",2016,974.918640136719
+"River Nile","Shendi",2017,923.231628417969
+"River Nile","Shendi",2018,938.458984375
+"River Nile","Shendi",2019,1088.06286621094
+"River Nile","Shendi",2020,1386.29638671875
+"River Nile","Shendi",2021,1579.40612792969
+"River Nile","Shendi",2022,1914.61779785156
+"River Nile","Shendi",2023,2199.74609375
+"River Nile","Shendi",2024,2408.38403320312
+"Sennar","Ad Dinder",2012,199.561004638672
+"Sennar","Ad Dinder",2013,253.554946899414
+"Sennar","Ad Dinder",2014,222.047958374023
+"Sennar","Ad Dinder",2015,315.818572998047
+"Sennar","Ad Dinder",2016,296.848083496094
+"Sennar","Ad Dinder",2017,393.623657226562
+"Sennar","Ad Dinder",2018,598.708984375
+"Sennar","Ad Dinder",2019,792.477233886719
+"Sennar","Ad Dinder",2020,935.005798339844
+"Sennar","Ad Dinder",2021,725.0205078125
+"Sennar","Ad Dinder",2022,903.447143554688
+"Sennar","Ad Dinder",2023,1107.89990234375
+"Sennar","Ad Dinder",2024,639.2939453125
+"Sennar","Sennar",2012,863.279174804688
+"Sennar","Sennar",2013,931.691162109375
+"Sennar","Sennar",2014,849.9716796875
+"Sennar","Sennar",2015,979.09423828125
+"Sennar","Sennar",2016,1127.91137695312
+"Sennar","Sennar",2017,1541.64074707031
+"Sennar","Sennar",2018,1716.88525390625
+"Sennar","Sennar",2019,1917.38977050781
+"Sennar","Sennar",2020,2230.06860351562
+"Sennar","Sennar",2021,2017.97326660156
+"Sennar","Sennar",2022,2739.40600585938
+"Sennar","Sennar",2023,3005.87060546875
+"Sennar","Sennar",2024,1738.17053222656
+"Sennar","Singa",2012,410.220947265625
+"Sennar","Singa",2013,415.728668212891
+"Sennar","Singa",2014,366.618469238281
+"Sennar","Singa",2015,456.747497558594
+"Sennar","Singa",2016,455.817565917969
+"Sennar","Singa",2017,618.353637695312
+"Sennar","Singa",2018,779.822021484375
+"Sennar","Singa",2019,847.336669921875
+"Sennar","Singa",2020,900.074096679688
+"Sennar","Singa",2021,867.859375
+"Sennar","Singa",2022,1080.82275390625
+"Sennar","Singa",2023,1239.14978027344
+"Sennar","Singa",2024,790.09619140625
+"South Darfur","Buram",2012,12.8416891098022
+"South Darfur","Buram",2013,6.98832988739014
+"South Darfur","Buram",2014,4.79664373397827
+"South Darfur","Buram",2015,13.9465370178223
+"South Darfur","Buram",2016,20.0807094573975
+"South Darfur","Buram",2017,16.9187202453613
+"South Darfur","Buram",2018,36.3926544189453
+"South Darfur","Buram",2019,20.1293277740479
+"South Darfur","Buram",2020,24.3001403808594
+"South Darfur","Buram",2021,34.2186737060547
+"South Darfur","Buram",2022,72.3934936523438
+"South Darfur","Buram",2023,98.1507034301758
+"South Darfur","Buram",2024,25.3388175964355
+"South Darfur","Id El Ghanem",2012,57.1287117004395
+"South Darfur","Id El Ghanem",2013,45.9078140258789
+"South Darfur","Id El Ghanem",2014,52.1411437988281
+"South Darfur","Id El Ghanem",2015,43.5738906860352
+"South Darfur","Id El Ghanem",2016,22.0556011199951
+"South Darfur","Id El Ghanem",2017,11.3153982162476
+"South Darfur","Id El Ghanem",2018,0
+"South Darfur","Id El Ghanem",2019,0.733135223388672
+"South Darfur","Id El Ghanem",2020,0
+"South Darfur","Id El Ghanem",2021,0
+"South Darfur","Id El Ghanem",2022,0
+"South Darfur","Id El Ghanem",2023,0
+"South Darfur","Id El Ghanem",2024,0
+"South Darfur","Kas",2012,3.49263143539429
+"South Darfur","Kas",2013,6.70558834075928
+"South Darfur","Kas",2014,9.7990026473999
+"South Darfur","Kas",2015,12.4728126525879
+"South Darfur","Kas",2016,7.61785697937012
+"South Darfur","Kas",2017,8.1873607635498
+"South Darfur","Kas",2018,10.021035194397
+"South Darfur","Kas",2019,13.280327796936
+"South Darfur","Kas",2020,18.8982849121094
+"South Darfur","Kas",2021,7.55137252807617
+"South Darfur","Kas",2022,0
+"South Darfur","Kas",2023,0
+"South Darfur","Kas",2024,0
+"South Darfur","Nyala",2012,1104.259765625
+"South Darfur","Nyala",2013,952.526611328125
+"South Darfur","Nyala",2014,921.216674804688
+"South Darfur","Nyala",2015,1071.27197265625
+"South Darfur","Nyala",2016,1212.84924316406
+"South Darfur","Nyala",2017,1448.89770507812
+"South Darfur","Nyala",2018,1571.7978515625
+"South Darfur","Nyala",2019,2047.78454589844
+"South Darfur","Nyala",2020,2060.19018554688
+"South Darfur","Nyala",2021,2344.5146484375
+"South Darfur","Nyala",2022,3008.38330078125
+"South Darfur","Nyala",2023,1938.84045410156
+"South Darfur","Nyala",2024,18.7517700195312
+"South Darfur","Tulus",2012,4.86627769470215
+"South Darfur","Tulus",2013,3.28390264511108
+"South Darfur","Tulus",2014,3.36847710609436
+"South Darfur","Tulus",2015,6.1312780380249
+"South Darfur","Tulus",2016,5.70811080932617
+"South Darfur","Tulus",2017,4.4077353477478
+"South Darfur","Tulus",2018,5.59660673141479
+"South Darfur","Tulus",2019,0
+"South Darfur","Tulus",2020,0
+"South Darfur","Tulus",2021,0
+"South Darfur","Tulus",2022,0
+"South Darfur","Tulus",2023,0
+"South Darfur","Tulus",2024,0
+"South Kurdufan","Abu Jubaiyah",2012,0
+"South Kurdufan","Abu Jubaiyah",2013,0
+"South Kurdufan","Abu Jubaiyah",2014,0
+"South Kurdufan","Abu Jubaiyah",2015,0
+"South Kurdufan","Abu Jubaiyah",2016,0
+"South Kurdufan","Abu Jubaiyah",2017,0
+"South Kurdufan","Abu Jubaiyah",2018,0
+"South Kurdufan","Abu Jubaiyah",2019,0
+"South Kurdufan","Abu Jubaiyah",2020,0
+"South Kurdufan","Abu Jubaiyah",2021,0
+"South Kurdufan","Abu Jubaiyah",2022,4.78107404708862
+"South Kurdufan","Abu Jubaiyah",2023,14.4514274597168
+"South Kurdufan","Abu Jubaiyah",2024,19.3991718292236
+"South Kurdufan","Dilling",2012,17.5870399475098
+"South Kurdufan","Dilling",2013,33.1582946777344
+"South Kurdufan","Dilling",2014,46.0087471008301
+"South Kurdufan","Dilling",2015,37.1421432495117
+"South Kurdufan","Dilling",2016,41.7631340026855
+"South Kurdufan","Dilling",2017,130.520721435547
+"South Kurdufan","Dilling",2018,192.135528564453
+"South Kurdufan","Dilling",2019,247.703109741211
+"South Kurdufan","Dilling",2020,423.783142089844
+"South Kurdufan","Dilling",2021,437.864410400391
+"South Kurdufan","Dilling",2022,475.455596923828
+"South Kurdufan","Dilling",2023,378.132507324219
+"South Kurdufan","Dilling",2024,9.79112434387207
+"South Kurdufan","Kadugli",2012,342.789764404297
+"South Kurdufan","Kadugli",2013,387.12744140625
+"South Kurdufan","Kadugli",2014,387.148010253906
+"South Kurdufan","Kadugli",2015,383.243194580078
+"South Kurdufan","Kadugli",2016,452.640045166016
+"South Kurdufan","Kadugli",2017,405.732116699219
+"South Kurdufan","Kadugli",2018,336.372985839844
+"South Kurdufan","Kadugli",2019,464.768890380859
+"South Kurdufan","Kadugli",2020,449.822967529297
+"South Kurdufan","Kadugli",2021,469.760192871094
+"South Kurdufan","Kadugli",2022,581.915832519531
+"South Kurdufan","Kadugli",2023,442.877868652344
+"South Kurdufan","Kadugli",2024,115.407379150391
+"South Kurdufan","Rashad",2012,0
+"South Kurdufan","Rashad",2013,0
+"South Kurdufan","Rashad",2014,0
+"South Kurdufan","Rashad",2015,0
+"South Kurdufan","Rashad",2016,0
+"South Kurdufan","Rashad",2017,0
+"South Kurdufan","Rashad",2018,0.52878749370575
+"South Kurdufan","Rashad",2019,0
+"South Kurdufan","Rashad",2020,0
+"South Kurdufan","Rashad",2021,0.501091420650482
+"South Kurdufan","Rashad",2022,0
+"South Kurdufan","Rashad",2023,5.18628168106079
+"South Kurdufan","Rashad",2024,7.80073928833008
+"South Kurdufan","Talodi",2012,0
+"South Kurdufan","Talodi",2013,0
+"South Kurdufan","Talodi",2014,0
+"South Kurdufan","Talodi",2015,0
+"South Kurdufan","Talodi",2016,0
+"South Kurdufan","Talodi",2017,0
+"South Kurdufan","Talodi",2018,0
+"South Kurdufan","Talodi",2019,0.616163730621338
+"South Kurdufan","Talodi",2020,4.57609987258911
+"South Kurdufan","Talodi",2021,10.9401559829712
+"South Kurdufan","Talodi",2022,22.291955947876
+"South Kurdufan","Talodi",2023,8.8577184677124
+"South Kurdufan","Talodi",2024,17.6886882781982
+"West Darfur","Al Geneina",2012,767.185302734375
+"West Darfur","Al Geneina",2013,589.5859375
+"West Darfur","Al Geneina",2014,620.348510742188
+"West Darfur","Al Geneina",2015,1105.97485351562
+"West Darfur","Al Geneina",2016,1265.08813476562
+"West Darfur","Al Geneina",2017,1257.47424316406
+"West Darfur","Al Geneina",2018,1132.38317871094
+"West Darfur","Al Geneina",2019,919.180480957031
+"West Darfur","Al Geneina",2020,924.949096679688
+"West Darfur","Al Geneina",2021,874.438659667969
+"West Darfur","Al Geneina",2022,936.369750976562
+"West Darfur","Al Geneina",2023,638.92529296875
+"West Darfur","Al Geneina",2024,7.73209428787231
+"West Kurdufan","Abyei",2012,3982.26977539062
+"West Kurdufan","Abyei",2013,3609.06201171875
+"West Kurdufan","Abyei",2014,3900.24365234375
+"West Kurdufan","Abyei",2015,10692.3779296875
+"West Kurdufan","Abyei",2016,9705.736328125
+"West Kurdufan","Abyei",2017,8240.3466796875
+"West Kurdufan","Abyei",2018,9913.3916015625
+"West Kurdufan","Abyei",2019,6551.16845703125
+"West Kurdufan","Abyei",2020,1625.02697753906
+"West Kurdufan","Abyei",2021,1915.39465332031
+"West Kurdufan","Abyei",2022,2260.7119140625
+"West Kurdufan","Abyei",2023,1507.443359375
+"West Kurdufan","Abyei",2024,1167.6083984375
+"West Kurdufan","As Salam",2012,18665.1640625
+"West Kurdufan","As Salam",2013,21546.947265625
+"West Kurdufan","As Salam",2014,24685.400390625
+"West Kurdufan","As Salam",2015,29210.189453125
+"West Kurdufan","As Salam",2016,22452.78125
+"West Kurdufan","As Salam",2017,22487.23046875
+"West Kurdufan","As Salam",2018,30095.234375
+"West Kurdufan","As Salam",2019,21932.208984375
+"West Kurdufan","As Salam",2020,19681.421875
+"West Kurdufan","As Salam",2021,15145.1767578125
+"West Kurdufan","As Salam",2022,15182.4609375
+"West Kurdufan","As Salam",2023,6993.58984375
+"West Kurdufan","As Salam",2024,72.2443084716797
+"West Kurdufan","En Nuhud",2012,62.2482070922852
+"West Kurdufan","En Nuhud",2013,59.080192565918
+"West Kurdufan","En Nuhud",2014,64.1086196899414
+"West Kurdufan","En Nuhud",2015,79.830940246582
+"West Kurdufan","En Nuhud",2016,105.765991210938
+"West Kurdufan","En Nuhud",2017,129.591079711914
+"West Kurdufan","En Nuhud",2018,150.694595336914
+"West Kurdufan","En Nuhud",2019,218.663482666016
+"West Kurdufan","En Nuhud",2020,359.339935302734
+"West Kurdufan","En Nuhud",2021,390.865020751953
+"West Kurdufan","En Nuhud",2022,560.614013671875
+"West Kurdufan","En Nuhud",2023,478.43896484375
+"West Kurdufan","En Nuhud",2024,49.274112701416
+"West Kurdufan","Ghebeish",2012,0
+"West Kurdufan","Ghebeish",2013,31.0331535339355
+"West Kurdufan","Ghebeish",2014,1.01458144187927
+"West Kurdufan","Ghebeish",2015,0
+"West Kurdufan","Ghebeish",2016,0
+"West Kurdufan","Ghebeish",2017,0
+"West Kurdufan","Ghebeish",2018,0.134699821472168
+"West Kurdufan","Ghebeish",2019,0
+"West Kurdufan","Ghebeish",2020,0
+"West Kurdufan","Ghebeish",2021,0
+"West Kurdufan","Ghebeish",2022,0
+"West Kurdufan","Ghebeish",2023,2.42821311950684
+"West Kurdufan","Ghebeish",2024,0
+"West Kurdufan","Lagawa",2012,106.247764587402
+"West Kurdufan","Lagawa",2013,28.6409893035889
+"West Kurdufan","Lagawa",2014,28.9768009185791
+"West Kurdufan","Lagawa",2015,61.9434204101562
+"West Kurdufan","Lagawa",2016,106.82975769043
+"West Kurdufan","Lagawa",2017,112.48656463623
+"West Kurdufan","Lagawa",2018,80.6232604980469
+"West Kurdufan","Lagawa",2019,44.1650657653809
+"West Kurdufan","Lagawa",2020,38.9905014038086
+"West Kurdufan","Lagawa",2021,46.8401641845703
+"West Kurdufan","Lagawa",2022,90.2849884033203
+"West Kurdufan","Lagawa",2023,59.0329513549805
+"West Kurdufan","Lagawa",2024,17.4281120300293
+"White Nile","Ad Douiem",2012,141.30451965332
+"White Nile","Ad Douiem",2013,191.306686401367
+"White Nile","Ad Douiem",2014,238.838180541992
+"White Nile","Ad Douiem",2015,379.103637695312
+"White Nile","Ad Douiem",2016,340.315887451172
+"White Nile","Ad Douiem",2017,445.738952636719
+"White Nile","Ad Douiem",2018,466.470764160156
+"White Nile","Ad Douiem",2019,549.680358886719
+"White Nile","Ad Douiem",2020,690.720825195312
+"White Nile","Ad Douiem",2021,720.167114257812
+"White Nile","Ad Douiem",2022,864.549865722656
+"White Nile","Ad Douiem",2023,976.892211914062
+"White Nile","Ad Douiem",2024,780.5458984375
+"White Nile","Al Gutaina",2012,447.719146728516
+"White Nile","Al Gutaina",2013,427.245849609375
+"White Nile","Al Gutaina",2014,499.565032958984
+"White Nile","Al Gutaina",2015,630.811889648438
+"White Nile","Al Gutaina",2016,684.777282714844
+"White Nile","Al Gutaina",2017,678.631042480469
+"White Nile","Al Gutaina",2018,621.928894042969
+"White Nile","Al Gutaina",2019,653.63427734375
+"White Nile","Al Gutaina",2020,760.778625488281
+"White Nile","Al Gutaina",2021,884.488037109375
+"White Nile","Al Gutaina",2022,1028.15979003906
+"White Nile","Al Gutaina",2023,806.957458496094
+"White Nile","Al Gutaina",2024,400.998382568359
+"White Nile","Al Jabalian",2012,2750.41381835938
+"White Nile","Al Jabalian",2013,2910.14184570312
+"White Nile","Al Jabalian",2014,2588.99731445312
+"White Nile","Al Jabalian",2015,2626.15795898438
+"White Nile","Al Jabalian",2016,2648.96997070312
+"White Nile","Al Jabalian",2017,2717.6640625
+"White Nile","Al Jabalian",2018,2807.11938476562
+"White Nile","Al Jabalian",2019,2745.94653320312
+"White Nile","Al Jabalian",2020,2746.73095703125
+"White Nile","Al Jabalian",2021,2627.56591796875
+"White Nile","Al Jabalian",2022,3042.60961914062
+"White Nile","Al Jabalian",2023,3324.4375
+"White Nile","Al Jabalian",2024,2939.90502929688
+"White Nile","Kosti",2012,909.030212402344
+"White Nile","Kosti",2013,790.82275390625
+"White Nile","Kosti",2014,819.992309570312
+"White Nile","Kosti",2015,997.490478515625
+"White Nile","Kosti",2016,1013.22491455078
+"White Nile","Kosti",2017,1286.54968261719
+"White Nile","Kosti",2018,1358.37512207031
+"White Nile","Kosti",2019,1486.51428222656
+"White Nile","Kosti",2020,1577.92504882812
+"White Nile","Kosti",2021,1457.13928222656
+"White Nile","Kosti",2022,1835.70544433594
+"White Nile","Kosti",2023,2094.48828125
+"White Nile","Kosti",2024,1989.19482421875

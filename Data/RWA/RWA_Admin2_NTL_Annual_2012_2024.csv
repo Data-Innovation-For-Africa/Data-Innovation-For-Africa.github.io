@@ -1,0 +1,391 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Amajyaruguru","Burera",2012,3.06942367553711
+"Amajyaruguru","Burera",2013,5.61162805557251
+"Amajyaruguru","Burera",2014,7.24959278106689
+"Amajyaruguru","Burera",2015,2.25480771064758
+"Amajyaruguru","Burera",2016,2.53081345558167
+"Amajyaruguru","Burera",2017,1.11427402496338
+"Amajyaruguru","Burera",2018,3.46230721473694
+"Amajyaruguru","Burera",2019,6.2524471282959
+"Amajyaruguru","Burera",2020,3.57226395606995
+"Amajyaruguru","Burera",2021,8.45164775848389
+"Amajyaruguru","Burera",2022,28.3940296173096
+"Amajyaruguru","Burera",2023,48.6679916381836
+"Amajyaruguru","Burera",2024,71.0588531494141
+"Amajyaruguru","Gakenke",2012,0.589066326618195
+"Amajyaruguru","Gakenke",2013,4.31958866119385
+"Amajyaruguru","Gakenke",2014,2.4707567691803
+"Amajyaruguru","Gakenke",2015,24.2012405395508
+"Amajyaruguru","Gakenke",2016,9.5109977722168
+"Amajyaruguru","Gakenke",2017,13.0699491500854
+"Amajyaruguru","Gakenke",2018,19.0984745025635
+"Amajyaruguru","Gakenke",2019,9.54566097259521
+"Amajyaruguru","Gakenke",2020,5.09953260421753
+"Amajyaruguru","Gakenke",2021,16.5068168640137
+"Amajyaruguru","Gakenke",2022,63.7079963684082
+"Amajyaruguru","Gakenke",2023,108.062576293945
+"Amajyaruguru","Gakenke",2024,209.733612060547
+"Amajyaruguru","Gicumbi",2012,100.899597167969
+"Amajyaruguru","Gicumbi",2013,165.616333007812
+"Amajyaruguru","Gicumbi",2014,177.434982299805
+"Amajyaruguru","Gicumbi",2015,142.744186401367
+"Amajyaruguru","Gicumbi",2016,165.386764526367
+"Amajyaruguru","Gicumbi",2017,194.980010986328
+"Amajyaruguru","Gicumbi",2018,202.639953613281
+"Amajyaruguru","Gicumbi",2019,204.770309448242
+"Amajyaruguru","Gicumbi",2020,172.645248413086
+"Amajyaruguru","Gicumbi",2021,120.054229736328
+"Amajyaruguru","Gicumbi",2022,175.356582641602
+"Amajyaruguru","Gicumbi",2023,796.792175292969
+"Amajyaruguru","Gicumbi",2024,668.805419921875
+"Amajyaruguru","Musanze",2012,265.879669189453
+"Amajyaruguru","Musanze",2013,212.312698364258
+"Amajyaruguru","Musanze",2014,220.886505126953
+"Amajyaruguru","Musanze",2015,243.983779907227
+"Amajyaruguru","Musanze",2016,242.487396240234
+"Amajyaruguru","Musanze",2017,421.762512207031
+"Amajyaruguru","Musanze",2018,429.045288085938
+"Amajyaruguru","Musanze",2019,421.851409912109
+"Amajyaruguru","Musanze",2020,446.501770019531
+"Amajyaruguru","Musanze",2021,640.240539550781
+"Amajyaruguru","Musanze",2022,951.308898925781
+"Amajyaruguru","Musanze",2023,1146.94665527344
+"Amajyaruguru","Musanze",2024,1461.85852050781
+"Amajyaruguru","Rulindo",2012,16.6350784301758
+"Amajyaruguru","Rulindo",2013,20.071533203125
+"Amajyaruguru","Rulindo",2014,15.0458793640137
+"Amajyaruguru","Rulindo",2015,37.049919128418
+"Amajyaruguru","Rulindo",2016,15.4711885452271
+"Amajyaruguru","Rulindo",2017,40.7133140563965
+"Amajyaruguru","Rulindo",2018,56.7840690612793
+"Amajyaruguru","Rulindo",2019,46.4742660522461
+"Amajyaruguru","Rulindo",2020,34.8370552062988
+"Amajyaruguru","Rulindo",2021,60.7134284973145
+"Amajyaruguru","Rulindo",2022,233.146621704102
+"Amajyaruguru","Rulindo",2023,602.396118164062
+"Amajyaruguru","Rulindo",2024,746.509948730469
+"Amajyepfo","Gisagara",2012,4.40852785110474
+"Amajyepfo","Gisagara",2013,4.88895273208618
+"Amajyepfo","Gisagara",2014,96.1653823852539
+"Amajyepfo","Gisagara",2015,150.170425415039
+"Amajyepfo","Gisagara",2016,155.268020629883
+"Amajyepfo","Gisagara",2017,123.035209655762
+"Amajyepfo","Gisagara",2018,111.738868713379
+"Amajyepfo","Gisagara",2019,92.5405883789062
+"Amajyepfo","Gisagara",2020,190.028060913086
+"Amajyepfo","Gisagara",2021,339.795715332031
+"Amajyepfo","Gisagara",2022,409.323516845703
+"Amajyepfo","Gisagara",2023,504.577301025391
+"Amajyepfo","Gisagara",2024,569.69677734375
+"Amajyepfo","Huye",2012,211.102752685547
+"Amajyepfo","Huye",2013,387.507843017578
+"Amajyepfo","Huye",2014,357.721160888672
+"Amajyepfo","Huye",2015,523.890747070312
+"Amajyepfo","Huye",2016,635.431884765625
+"Amajyepfo","Huye",2017,552.429504394531
+"Amajyepfo","Huye",2018,457.057037353516
+"Amajyepfo","Huye",2019,428.711975097656
+"Amajyepfo","Huye",2020,395.685577392578
+"Amajyepfo","Huye",2021,474.107696533203
+"Amajyepfo","Huye",2022,584.517395019531
+"Amajyepfo","Huye",2023,1127.31103515625
+"Amajyepfo","Huye",2024,1346.01440429688
+"Amajyepfo","Kamonyi",2012,19.6254253387451
+"Amajyepfo","Kamonyi",2013,64.5381393432617
+"Amajyepfo","Kamonyi",2014,74.5691299438477
+"Amajyepfo","Kamonyi",2015,104.781105041504
+"Amajyepfo","Kamonyi",2016,82.8773422241211
+"Amajyepfo","Kamonyi",2017,97.9503707885742
+"Amajyepfo","Kamonyi",2018,112.278747558594
+"Amajyepfo","Kamonyi",2019,126.197914123535
+"Amajyepfo","Kamonyi",2020,176.941528320312
+"Amajyepfo","Kamonyi",2021,278.908966064453
+"Amajyepfo","Kamonyi",2022,630.573303222656
+"Amajyepfo","Kamonyi",2023,873.603210449219
+"Amajyepfo","Kamonyi",2024,1032.52917480469
+"Amajyepfo","Muhanga",2012,159.756866455078
+"Amajyepfo","Muhanga",2013,213.884185791016
+"Amajyepfo","Muhanga",2014,153.196472167969
+"Amajyepfo","Muhanga",2015,183.652496337891
+"Amajyepfo","Muhanga",2016,148.353622436523
+"Amajyepfo","Muhanga",2017,165.395446777344
+"Amajyepfo","Muhanga",2018,172.261596679688
+"Amajyepfo","Muhanga",2019,173.233474731445
+"Amajyepfo","Muhanga",2020,239.935485839844
+"Amajyepfo","Muhanga",2021,275.732360839844
+"Amajyepfo","Muhanga",2022,390.380737304688
+"Amajyepfo","Muhanga",2023,683.014282226562
+"Amajyepfo","Muhanga",2024,833.214965820312
+"Amajyepfo","Nyamagabe",2012,9.90540409088135
+"Amajyepfo","Nyamagabe",2013,74.9789962768555
+"Amajyepfo","Nyamagabe",2014,210.71711730957
+"Amajyepfo","Nyamagabe",2015,237.741928100586
+"Amajyepfo","Nyamagabe",2016,422.494873046875
+"Amajyepfo","Nyamagabe",2017,328.717102050781
+"Amajyepfo","Nyamagabe",2018,246.323959350586
+"Amajyepfo","Nyamagabe",2019,189.347412109375
+"Amajyepfo","Nyamagabe",2020,256.947296142578
+"Amajyepfo","Nyamagabe",2021,388.308013916016
+"Amajyepfo","Nyamagabe",2022,419.864471435547
+"Amajyepfo","Nyamagabe",2023,673.9384765625
+"Amajyepfo","Nyamagabe",2024,622.123474121094
+"Amajyepfo","Nyanza",2012,129.916687011719
+"Amajyepfo","Nyanza",2013,115.358978271484
+"Amajyepfo","Nyanza",2014,145.585983276367
+"Amajyepfo","Nyanza",2015,197.591491699219
+"Amajyepfo","Nyanza",2016,270.913696289062
+"Amajyepfo","Nyanza",2017,370.773834228516
+"Amajyepfo","Nyanza",2018,341.951354980469
+"Amajyepfo","Nyanza",2019,307.377716064453
+"Amajyepfo","Nyanza",2020,254.553512573242
+"Amajyepfo","Nyanza",2021,240.045806884766
+"Amajyepfo","Nyanza",2022,298.505310058594
+"Amajyepfo","Nyanza",2023,457.476287841797
+"Amajyepfo","Nyanza",2024,457.479431152344
+"Amajyepfo","Nyaruguru",2012,4.37601661682129
+"Amajyepfo","Nyaruguru",2013,34.2084732055664
+"Amajyepfo","Nyaruguru",2014,43.0286254882812
+"Amajyepfo","Nyaruguru",2015,50.6942749023438
+"Amajyepfo","Nyaruguru",2016,32.759407043457
+"Amajyepfo","Nyaruguru",2017,21.4964866638184
+"Amajyepfo","Nyaruguru",2018,24.1763000488281
+"Amajyepfo","Nyaruguru",2019,22.8446617126465
+"Amajyepfo","Nyaruguru",2020,39.7619438171387
+"Amajyepfo","Nyaruguru",2021,49.7666778564453
+"Amajyepfo","Nyaruguru",2022,101.385154724121
+"Amajyepfo","Nyaruguru",2023,216.078903198242
+"Amajyepfo","Nyaruguru",2024,296.841125488281
+"Amajyepfo","Ruhango",2012,13.0909910202026
+"Amajyepfo","Ruhango",2013,33.5512962341309
+"Amajyepfo","Ruhango",2014,196.809768676758
+"Amajyepfo","Ruhango",2015,302.706176757812
+"Amajyepfo","Ruhango",2016,299.62744140625
+"Amajyepfo","Ruhango",2017,427.223541259766
+"Amajyepfo","Ruhango",2018,387.667114257812
+"Amajyepfo","Ruhango",2019,325.914642333984
+"Amajyepfo","Ruhango",2020,298.644714355469
+"Amajyepfo","Ruhango",2021,244.487518310547
+"Amajyepfo","Ruhango",2022,408.111267089844
+"Amajyepfo","Ruhango",2023,694.446105957031
+"Amajyepfo","Ruhango",2024,652.7880859375
+"Iburasirazuba","Bugesera",2012,149.952163696289
+"Iburasirazuba","Bugesera",2013,163.967895507812
+"Iburasirazuba","Bugesera",2014,97.3019332885742
+"Iburasirazuba","Bugesera",2015,76.7267227172852
+"Iburasirazuba","Bugesera",2016,169.052429199219
+"Iburasirazuba","Bugesera",2017,175.591369628906
+"Iburasirazuba","Bugesera",2018,280.041229248047
+"Iburasirazuba","Bugesera",2019,274.164916992188
+"Iburasirazuba","Bugesera",2020,356.565246582031
+"Iburasirazuba","Bugesera",2021,914.226135253906
+"Iburasirazuba","Bugesera",2022,1605.64099121094
+"Iburasirazuba","Bugesera",2023,2549.14819335938
+"Iburasirazuba","Bugesera",2024,2923.31225585938
+"Iburasirazuba","Gatsibo",2012,7.5718560218811
+"Iburasirazuba","Gatsibo",2013,108.748550415039
+"Iburasirazuba","Gatsibo",2014,144.028289794922
+"Iburasirazuba","Gatsibo",2015,143.364349365234
+"Iburasirazuba","Gatsibo",2016,141.70703125
+"Iburasirazuba","Gatsibo",2017,151.108520507812
+"Iburasirazuba","Gatsibo",2018,174.047546386719
+"Iburasirazuba","Gatsibo",2019,97.4944000244141
+"Iburasirazuba","Gatsibo",2020,116.225944519043
+"Iburasirazuba","Gatsibo",2021,128.682067871094
+"Iburasirazuba","Gatsibo",2022,200.460693359375
+"Iburasirazuba","Gatsibo",2023,279.677459716797
+"Iburasirazuba","Gatsibo",2024,515.232543945312
+"Iburasirazuba","Kayonza",2012,11.0382194519043
+"Iburasirazuba","Kayonza",2013,24.7962169647217
+"Iburasirazuba","Kayonza",2014,82.2275009155273
+"Iburasirazuba","Kayonza",2015,98.4656982421875
+"Iburasirazuba","Kayonza",2016,66.1370239257812
+"Iburasirazuba","Kayonza",2017,77.8187866210938
+"Iburasirazuba","Kayonza",2018,86.4699020385742
+"Iburasirazuba","Kayonza",2019,92.2455444335938
+"Iburasirazuba","Kayonza",2020,91.2826614379883
+"Iburasirazuba","Kayonza",2021,123.638748168945
+"Iburasirazuba","Kayonza",2022,179.478729248047
+"Iburasirazuba","Kayonza",2023,501.13427734375
+"Iburasirazuba","Kayonza",2024,629.45458984375
+"Iburasirazuba","Kirehe",2012,0.617645978927612
+"Iburasirazuba","Kirehe",2013,1.0024186372757
+"Iburasirazuba","Kirehe",2014,0.694993853569031
+"Iburasirazuba","Kirehe",2015,22.6678333282471
+"Iburasirazuba","Kirehe",2016,20.6698684692383
+"Iburasirazuba","Kirehe",2017,19.9031982421875
+"Iburasirazuba","Kirehe",2018,28.7262172698975
+"Iburasirazuba","Kirehe",2019,25.0909538269043
+"Iburasirazuba","Kirehe",2020,53.2195053100586
+"Iburasirazuba","Kirehe",2021,56.9173126220703
+"Iburasirazuba","Kirehe",2022,113.429931640625
+"Iburasirazuba","Kirehe",2023,374.101806640625
+"Iburasirazuba","Kirehe",2024,477.768218994141
+"Iburasirazuba","Ngoma",2012,31.457462310791
+"Iburasirazuba","Ngoma",2013,22.2116031646729
+"Iburasirazuba","Ngoma",2014,23.9204559326172
+"Iburasirazuba","Ngoma",2015,24.3731212615967
+"Iburasirazuba","Ngoma",2016,30.3578758239746
+"Iburasirazuba","Ngoma",2017,36.9046173095703
+"Iburasirazuba","Ngoma",2018,62.7240447998047
+"Iburasirazuba","Ngoma",2019,65.7517395019531
+"Iburasirazuba","Ngoma",2020,44.2001419067383
+"Iburasirazuba","Ngoma",2021,34.6791877746582
+"Iburasirazuba","Ngoma",2022,58.1368064880371
+"Iburasirazuba","Ngoma",2023,293.836578369141
+"Iburasirazuba","Ngoma",2024,315.504516601562
+"Iburasirazuba","Nyagatare",2012,59.520133972168
+"Iburasirazuba","Nyagatare",2013,102.387588500977
+"Iburasirazuba","Nyagatare",2014,115.727958679199
+"Iburasirazuba","Nyagatare",2015,97.2412033081055
+"Iburasirazuba","Nyagatare",2016,71.5421905517578
+"Iburasirazuba","Nyagatare",2017,72.4266357421875
+"Iburasirazuba","Nyagatare",2018,107.855712890625
+"Iburasirazuba","Nyagatare",2019,135.822845458984
+"Iburasirazuba","Nyagatare",2020,200.479705810547
+"Iburasirazuba","Nyagatare",2021,353.717834472656
+"Iburasirazuba","Nyagatare",2022,517.787841796875
+"Iburasirazuba","Nyagatare",2023,680.3427734375
+"Iburasirazuba","Nyagatare",2024,1071.18518066406
+"Iburasirazuba","Rwamagana",2012,49.9077758789062
+"Iburasirazuba","Rwamagana",2013,85.9365234375
+"Iburasirazuba","Rwamagana",2014,137.273635864258
+"Iburasirazuba","Rwamagana",2015,124.96125793457
+"Iburasirazuba","Rwamagana",2016,166.344192504883
+"Iburasirazuba","Rwamagana",2017,173.865341186523
+"Iburasirazuba","Rwamagana",2018,246.076049804688
+"Iburasirazuba","Rwamagana",2019,244.951126098633
+"Iburasirazuba","Rwamagana",2020,323.536193847656
+"Iburasirazuba","Rwamagana",2021,432.866912841797
+"Iburasirazuba","Rwamagana",2022,765.216247558594
+"Iburasirazuba","Rwamagana",2023,1357.64526367188
+"Iburasirazuba","Rwamagana",2024,1677.14343261719
+"Iburengerazuba","Karongi",2012,20.1652603149414
+"Iburengerazuba","Karongi",2013,136.724472045898
+"Iburengerazuba","Karongi",2014,305.371826171875
+"Iburengerazuba","Karongi",2015,380.259765625
+"Iburengerazuba","Karongi",2016,300.213714599609
+"Iburengerazuba","Karongi",2017,309.896514892578
+"Iburengerazuba","Karongi",2018,309.753692626953
+"Iburengerazuba","Karongi",2019,310.178833007812
+"Iburengerazuba","Karongi",2020,228.556884765625
+"Iburengerazuba","Karongi",2021,196.210205078125
+"Iburengerazuba","Karongi",2022,247.963668823242
+"Iburengerazuba","Karongi",2023,328.603729248047
+"Iburengerazuba","Karongi",2024,617.610168457031
+"Iburengerazuba","Ngororero",2012,14.3138628005981
+"Iburengerazuba","Ngororero",2013,14.5076494216919
+"Iburengerazuba","Ngororero",2014,10.402626991272
+"Iburengerazuba","Ngororero",2015,21.5321273803711
+"Iburengerazuba","Ngororero",2016,11.5296974182129
+"Iburengerazuba","Ngororero",2017,8.55478096008301
+"Iburengerazuba","Ngororero",2018,7.1148476600647
+"Iburengerazuba","Ngororero",2019,4.26790142059326
+"Iburengerazuba","Ngororero",2020,22.0071773529053
+"Iburengerazuba","Ngororero",2021,17.5904750823975
+"Iburengerazuba","Ngororero",2022,40.6152648925781
+"Iburengerazuba","Ngororero",2023,140.391998291016
+"Iburengerazuba","Ngororero",2024,311.475433349609
+"Iburengerazuba","Nyabihu",2012,1.30115365982056
+"Iburengerazuba","Nyabihu",2013,7.68715763092041
+"Iburengerazuba","Nyabihu",2014,28.3006286621094
+"Iburengerazuba","Nyabihu",2015,41.1257438659668
+"Iburengerazuba","Nyabihu",2016,31.9289417266846
+"Iburengerazuba","Nyabihu",2017,27.646800994873
+"Iburengerazuba","Nyabihu",2018,43.3105392456055
+"Iburengerazuba","Nyabihu",2019,18.4213085174561
+"Iburengerazuba","Nyabihu",2020,10.1602258682251
+"Iburengerazuba","Nyabihu",2021,17.2771320343018
+"Iburengerazuba","Nyabihu",2022,74.7170028686523
+"Iburengerazuba","Nyabihu",2023,151.093719482422
+"Iburengerazuba","Nyabihu",2024,333.464263916016
+"Iburengerazuba","Nyamasheke",2012,7.61967468261719
+"Iburengerazuba","Nyamasheke",2013,4.16068935394287
+"Iburengerazuba","Nyamasheke",2014,36.3061332702637
+"Iburengerazuba","Nyamasheke",2015,94.9413528442383
+"Iburengerazuba","Nyamasheke",2016,83.4727020263672
+"Iburengerazuba","Nyamasheke",2017,62.2619857788086
+"Iburengerazuba","Nyamasheke",2018,50.5881233215332
+"Iburengerazuba","Nyamasheke",2019,44.6054496765137
+"Iburengerazuba","Nyamasheke",2020,144.433822631836
+"Iburengerazuba","Nyamasheke",2021,167.707672119141
+"Iburengerazuba","Nyamasheke",2022,243.407348632812
+"Iburengerazuba","Nyamasheke",2023,292.010681152344
+"Iburengerazuba","Nyamasheke",2024,487.640686035156
+"Iburengerazuba","Rubavu",2012,381.714447021484
+"Iburengerazuba","Rubavu",2013,331.052093505859
+"Iburengerazuba","Rubavu",2014,306.545562744141
+"Iburengerazuba","Rubavu",2015,361.420959472656
+"Iburengerazuba","Rubavu",2016,340.494018554688
+"Iburengerazuba","Rubavu",2017,320.025543212891
+"Iburengerazuba","Rubavu",2018,398.531158447266
+"Iburengerazuba","Rubavu",2019,450.962005615234
+"Iburengerazuba","Rubavu",2020,577.368225097656
+"Iburengerazuba","Rubavu",2021,696.435668945312
+"Iburengerazuba","Rubavu",2022,986.663940429688
+"Iburengerazuba","Rubavu",2023,1252.32360839844
+"Iburengerazuba","Rubavu",2024,1629.09729003906
+"Iburengerazuba","Rusizi",2012,127.869636535645
+"Iburengerazuba","Rusizi",2013,202.990142822266
+"Iburengerazuba","Rusizi",2014,153.677337646484
+"Iburengerazuba","Rusizi",2015,466.810394287109
+"Iburengerazuba","Rusizi",2016,446.829406738281
+"Iburengerazuba","Rusizi",2017,512.342895507812
+"Iburengerazuba","Rusizi",2018,584.060363769531
+"Iburengerazuba","Rusizi",2019,490.951629638672
+"Iburengerazuba","Rusizi",2020,612.189514160156
+"Iburengerazuba","Rusizi",2021,638.234313964844
+"Iburengerazuba","Rusizi",2022,711.641967773438
+"Iburengerazuba","Rusizi",2023,916.216369628906
+"Iburengerazuba","Rusizi",2024,1251.51281738281
+"Iburengerazuba","Rutsiro",2012,7.06554794311523
+"Iburengerazuba","Rutsiro",2013,23.1386661529541
+"Iburengerazuba","Rutsiro",2014,18.7005519866943
+"Iburengerazuba","Rutsiro",2015,9.19310188293457
+"Iburengerazuba","Rutsiro",2016,18.2160472869873
+"Iburengerazuba","Rutsiro",2017,9.42203426361084
+"Iburengerazuba","Rutsiro",2018,1.76316320896149
+"Iburengerazuba","Rutsiro",2019,2.00090599060059
+"Iburengerazuba","Rutsiro",2020,3.94602513313293
+"Iburengerazuba","Rutsiro",2021,4.30798625946045
+"Iburengerazuba","Rutsiro",2022,16.9092025756836
+"Iburengerazuba","Rutsiro",2023,77.1595764160156
+"Iburengerazuba","Rutsiro",2024,264.375671386719
+"Umujyi wa Kigali","Gasabo",2012,3228.3955078125
+"Umujyi wa Kigali","Gasabo",2013,3610.26220703125
+"Umujyi wa Kigali","Gasabo",2014,3743.54858398438
+"Umujyi wa Kigali","Gasabo",2015,3744.09033203125
+"Umujyi wa Kigali","Gasabo",2016,3960.87231445312
+"Umujyi wa Kigali","Gasabo",2017,4177.86669921875
+"Umujyi wa Kigali","Gasabo",2018,4726.74658203125
+"Umujyi wa Kigali","Gasabo",2019,4958.4560546875
+"Umujyi wa Kigali","Gasabo",2020,5523.9404296875
+"Umujyi wa Kigali","Gasabo",2021,6180.41650390625
+"Umujyi wa Kigali","Gasabo",2022,7623.7958984375
+"Umujyi wa Kigali","Gasabo",2023,9901.580078125
+"Umujyi wa Kigali","Gasabo",2024,10858.8759765625
+"Umujyi wa Kigali","Kicukiro",2012,1435.37585449219
+"Umujyi wa Kigali","Kicukiro",2013,1889.05334472656
+"Umujyi wa Kigali","Kicukiro",2014,1893.857421875
+"Umujyi wa Kigali","Kicukiro",2015,1917.64538574219
+"Umujyi wa Kigali","Kicukiro",2016,2070.54711914062
+"Umujyi wa Kigali","Kicukiro",2017,2149.23486328125
+"Umujyi wa Kigali","Kicukiro",2018,2367.85595703125
+"Umujyi wa Kigali","Kicukiro",2019,2611.30932617188
+"Umujyi wa Kigali","Kicukiro",2020,2996.63134765625
+"Umujyi wa Kigali","Kicukiro",2021,3824.73486328125
+"Umujyi wa Kigali","Kicukiro",2022,5330.193359375
+"Umujyi wa Kigali","Kicukiro",2023,6717.9248046875
+"Umujyi wa Kigali","Kicukiro",2024,7443.63037109375
+"Umujyi wa Kigali","Nyarugenge",2012,1543.55053710938
+"Umujyi wa Kigali","Nyarugenge",2013,1856.33020019531
+"Umujyi wa Kigali","Nyarugenge",2014,1819.84362792969
+"Umujyi wa Kigali","Nyarugenge",2015,1676.06848144531
+"Umujyi wa Kigali","Nyarugenge",2016,1627.48608398438
+"Umujyi wa Kigali","Nyarugenge",2017,1613.18615722656
+"Umujyi wa Kigali","Nyarugenge",2018,1902.60473632812
+"Umujyi wa Kigali","Nyarugenge",2019,1979.44445800781
+"Umujyi wa Kigali","Nyarugenge",2020,1977.28857421875
+"Umujyi wa Kigali","Nyarugenge",2021,2531.86547851562
+"Umujyi wa Kigali","Nyarugenge",2022,2982.06274414062
+"Umujyi wa Kigali","Nyarugenge",2023,3432.4375
+"Umujyi wa Kigali","Nyarugenge",2024,3416.53564453125

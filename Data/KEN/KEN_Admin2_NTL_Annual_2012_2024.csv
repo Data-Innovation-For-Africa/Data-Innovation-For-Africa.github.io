@@ -1,0 +1,3901 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Baringo","805",2012,1.80527400970459
+"Baringo","805",2013,2.48175740242004
+"Baringo","805",2014,0.607247948646545
+"Baringo","805",2015,2.24893355369568
+"Baringo","805",2016,0.509195804595947
+"Baringo","805",2017,2.41736626625061
+"Baringo","805",2018,3.67807269096375
+"Baringo","805",2019,5.05187225341797
+"Baringo","805",2020,5.03820848464966
+"Baringo","805",2021,5.21237230300903
+"Baringo","805",2022,11.5234241485596
+"Baringo","805",2023,14.572829246521
+"Baringo","805",2024,19.3025875091553
+"Baringo","Baringo Central",2012,11.8451747894287
+"Baringo","Baringo Central",2013,9.98926258087158
+"Baringo","Baringo Central",2014,17.4797439575195
+"Baringo","Baringo Central",2015,35.3345413208008
+"Baringo","Baringo Central",2016,34.6704483032227
+"Baringo","Baringo Central",2017,75.4438171386719
+"Baringo","Baringo Central",2018,79.0679702758789
+"Baringo","Baringo Central",2019,83.9789505004883
+"Baringo","Baringo Central",2020,62.5254287719727
+"Baringo","Baringo Central",2021,62.0742454528809
+"Baringo","Baringo Central",2022,84.2925491333008
+"Baringo","Baringo Central",2023,104.458686828613
+"Baringo","Baringo Central",2024,87.9546661376953
+"Baringo","Baringo North",2012,0
+"Baringo","Baringo North",2013,1.65243530273438
+"Baringo","Baringo North",2014,0.591269850730896
+"Baringo","Baringo North",2015,0.621811211109161
+"Baringo","Baringo North",2016,0
+"Baringo","Baringo North",2017,1.29217982292175
+"Baringo","Baringo North",2018,8.92186737060547
+"Baringo","Baringo North",2019,10.175895690918
+"Baringo","Baringo North",2020,9.61845588684082
+"Baringo","Baringo North",2021,8.71184730529785
+"Baringo","Baringo North",2022,15.5576877593994
+"Baringo","Baringo North",2023,11.4702930450439
+"Baringo","Baringo North",2024,6.56552505493164
+"Baringo","Baringo South",2012,3.68544435501099
+"Baringo","Baringo South",2013,2.60987901687622
+"Baringo","Baringo South",2014,3.47375440597534
+"Baringo","Baringo South",2015,5.27357912063599
+"Baringo","Baringo South",2016,4.87205505371094
+"Baringo","Baringo South",2017,23.3343334197998
+"Baringo","Baringo South",2018,39.4001350402832
+"Baringo","Baringo South",2019,36.1017761230469
+"Baringo","Baringo South",2020,26.5505485534668
+"Baringo","Baringo South",2021,21.197301864624
+"Baringo","Baringo South",2022,43.7312202453613
+"Baringo","Baringo South",2023,65.5255355834961
+"Baringo","Baringo South",2024,55.6902923583984
+"Baringo","Eldama Ravine",2012,19.0506076812744
+"Baringo","Eldama Ravine",2013,17.7014446258545
+"Baringo","Eldama Ravine",2014,14.9834794998169
+"Baringo","Eldama Ravine",2015,21.721019744873
+"Baringo","Eldama Ravine",2016,26.666561126709
+"Baringo","Eldama Ravine",2017,44.7794418334961
+"Baringo","Eldama Ravine",2018,55.0008277893066
+"Baringo","Eldama Ravine",2019,54.4190483093262
+"Baringo","Eldama Ravine",2020,38.5238571166992
+"Baringo","Eldama Ravine",2021,38.3751258850098
+"Baringo","Eldama Ravine",2022,57.9589042663574
+"Baringo","Eldama Ravine",2023,74.5897674560547
+"Baringo","Eldama Ravine",2024,100.831939697266
+"Baringo","Mogotio",2012,0
+"Baringo","Mogotio",2013,0
+"Baringo","Mogotio",2014,0.524597465991974
+"Baringo","Mogotio",2015,0
+"Baringo","Mogotio",2016,0
+"Baringo","Mogotio",2017,0.502773225307465
+"Baringo","Mogotio",2018,2.51793694496155
+"Baringo","Mogotio",2019,3.99768137931824
+"Baringo","Mogotio",2020,2.43781304359436
+"Baringo","Mogotio",2021,2.92688298225403
+"Baringo","Mogotio",2022,8.75352001190186
+"Baringo","Mogotio",2023,8.71721363067627
+"Baringo","Mogotio",2024,32.2747268676758
+"Baringo","Tiaty",2012,3.4608998298645
+"Baringo","Tiaty",2013,5.15437364578247
+"Baringo","Tiaty",2014,10.0735654830933
+"Baringo","Tiaty",2015,8.48072528839111
+"Baringo","Tiaty",2016,3.34553503990173
+"Baringo","Tiaty",2017,3.41002178192139
+"Baringo","Tiaty",2018,5.47641038894653
+"Baringo","Tiaty",2019,22.9605255126953
+"Baringo","Tiaty",2020,6.34190511703491
+"Baringo","Tiaty",2021,3.3363049030304
+"Baringo","Tiaty",2022,10.3787755966187
+"Baringo","Tiaty",2023,9.94591522216797
+"Baringo","Tiaty",2024,25.0032787322998
+"Bomet","Bomet Central",2012,5.09183883666992
+"Bomet","Bomet Central",2013,3.96254777908325
+"Bomet","Bomet Central",2014,4.30593872070312
+"Bomet","Bomet Central",2015,4.59328413009644
+"Bomet","Bomet Central",2016,4.68280410766602
+"Bomet","Bomet Central",2017,13.0038433074951
+"Bomet","Bomet Central",2018,20.7236747741699
+"Bomet","Bomet Central",2019,22.3189353942871
+"Bomet","Bomet Central",2020,23.2791652679443
+"Bomet","Bomet Central",2021,28.585563659668
+"Bomet","Bomet Central",2022,62.9638862609863
+"Bomet","Bomet Central",2023,57.7686958312988
+"Bomet","Bomet Central",2024,98.7536849975586
+"Bomet","Bomet East",2012,20.118989944458
+"Bomet","Bomet East",2013,18.4180393218994
+"Bomet","Bomet East",2014,25.3978271484375
+"Bomet","Bomet East",2015,23.6432247161865
+"Bomet","Bomet East",2016,56.0015754699707
+"Bomet","Bomet East",2017,93.2950286865234
+"Bomet","Bomet East",2018,118.326240539551
+"Bomet","Bomet East",2019,131.49853515625
+"Bomet","Bomet East",2020,116.44255065918
+"Bomet","Bomet East",2021,120.567367553711
+"Bomet","Bomet East",2022,154.660827636719
+"Bomet","Bomet East",2023,175.54753112793
+"Bomet","Bomet East",2024,217.992263793945
+"Bomet","Chepalungu",2012,4.04654216766357
+"Bomet","Chepalungu",2013,4.20186567306519
+"Bomet","Chepalungu",2014,7.52297496795654
+"Bomet","Chepalungu",2015,5.67224407196045
+"Bomet","Chepalungu",2016,11.4831895828247
+"Bomet","Chepalungu",2017,38.0448265075684
+"Bomet","Chepalungu",2018,66.7241439819336
+"Bomet","Chepalungu",2019,86.9800796508789
+"Bomet","Chepalungu",2020,74.7578125
+"Bomet","Chepalungu",2021,77.6202850341797
+"Bomet","Chepalungu",2022,123.050567626953
+"Bomet","Chepalungu",2023,142.911956787109
+"Bomet","Chepalungu",2024,146.424468994141
+"Bomet","Konoin",2012,22.5997505187988
+"Bomet","Konoin",2013,16.5864696502686
+"Bomet","Konoin",2014,19.5548515319824
+"Bomet","Konoin",2015,21.5511283874512
+"Bomet","Konoin",2016,14.0946350097656
+"Bomet","Konoin",2017,19.3289337158203
+"Bomet","Konoin",2018,40.8767967224121
+"Bomet","Konoin",2019,49.1532707214355
+"Bomet","Konoin",2020,65.9181976318359
+"Bomet","Konoin",2021,69.5306243896484
+"Bomet","Konoin",2022,114.959526062012
+"Bomet","Konoin",2023,167.771209716797
+"Bomet","Konoin",2024,185.190093994141
+"Bomet","Sotik",2012,30.0250816345215
+"Bomet","Sotik",2013,32.7578582763672
+"Bomet","Sotik",2014,27.8793697357178
+"Bomet","Sotik",2015,31.1431293487549
+"Bomet","Sotik",2016,18.3676433563232
+"Bomet","Sotik",2017,42.845573425293
+"Bomet","Sotik",2018,102.387268066406
+"Bomet","Sotik",2019,118.857711791992
+"Bomet","Sotik",2020,119.62589263916
+"Bomet","Sotik",2021,118.476638793945
+"Bomet","Sotik",2022,212.302139282227
+"Bomet","Sotik",2023,238.547500610352
+"Bomet","Sotik",2024,278.090087890625
+"Bungoma","Bumula",2012,0.109130501747131
+"Bungoma","Bumula",2013,0.0890539810061455
+"Bungoma","Bumula",2014,1.0105128288269
+"Bungoma","Bumula",2015,1.2422479391098
+"Bungoma","Bumula",2016,2.06836271286011
+"Bungoma","Bumula",2017,2.54497170448303
+"Bungoma","Bumula",2018,2.47767639160156
+"Bungoma","Bumula",2019,16.4553909301758
+"Bungoma","Bumula",2020,26.7112140655518
+"Bungoma","Bumula",2021,27.8669242858887
+"Bungoma","Bumula",2022,54.8857917785645
+"Bungoma","Bumula",2023,106.217292785645
+"Bungoma","Bumula",2024,71.8507385253906
+"Bungoma","Kabuchai",2012,3.36745238304138
+"Bungoma","Kabuchai",2013,2.0651683807373
+"Bungoma","Kabuchai",2014,3.51508450508118
+"Bungoma","Kabuchai",2015,6.10054922103882
+"Bungoma","Kabuchai",2016,10.6934823989868
+"Bungoma","Kabuchai",2017,8.26276874542236
+"Bungoma","Kabuchai",2018,17.2594871520996
+"Bungoma","Kabuchai",2019,26.7822113037109
+"Bungoma","Kabuchai",2020,16.295934677124
+"Bungoma","Kabuchai",2021,35.4158515930176
+"Bungoma","Kabuchai",2022,50.6057281494141
+"Bungoma","Kabuchai",2023,107.587127685547
+"Bungoma","Kabuchai",2024,103.220138549805
+"Bungoma","Kanduyi",2012,213.772842407227
+"Bungoma","Kanduyi",2013,189.949920654297
+"Bungoma","Kanduyi",2014,201.595138549805
+"Bungoma","Kanduyi",2015,241.645523071289
+"Bungoma","Kanduyi",2016,241.494323730469
+"Bungoma","Kanduyi",2017,305.17626953125
+"Bungoma","Kanduyi",2018,419.166290283203
+"Bungoma","Kanduyi",2019,422.875305175781
+"Bungoma","Kanduyi",2020,346.223724365234
+"Bungoma","Kanduyi",2021,457.450347900391
+"Bungoma","Kanduyi",2022,580.435668945312
+"Bungoma","Kanduyi",2023,821.425170898438
+"Bungoma","Kanduyi",2024,885.107421875
+"Bungoma","Kimilili",2012,21.6837348937988
+"Bungoma","Kimilili",2013,22.6532783508301
+"Bungoma","Kimilili",2014,19.6903648376465
+"Bungoma","Kimilili",2015,18.4955501556396
+"Bungoma","Kimilili",2016,21.1670513153076
+"Bungoma","Kimilili",2017,21.3535175323486
+"Bungoma","Kimilili",2018,45.2741775512695
+"Bungoma","Kimilili",2019,54.7860221862793
+"Bungoma","Kimilili",2020,43.1389045715332
+"Bungoma","Kimilili",2021,77.2634887695312
+"Bungoma","Kimilili",2022,103.478012084961
+"Bungoma","Kimilili",2023,206.22428894043
+"Bungoma","Kimilili",2024,165.921737670898
+"Bungoma","Likuyani",2012,3.41633772850037
+"Bungoma","Likuyani",2013,0.977940380573273
+"Bungoma","Likuyani",2014,1.08864951133728
+"Bungoma","Likuyani",2015,3.36049056053162
+"Bungoma","Likuyani",2016,3.40480160713196
+"Bungoma","Likuyani",2017,9.94814300537109
+"Bungoma","Likuyani",2018,32.6747589111328
+"Bungoma","Likuyani",2019,31.8451976776123
+"Bungoma","Likuyani",2020,17.7294921875
+"Bungoma","Likuyani",2021,30.1622085571289
+"Bungoma","Likuyani",2022,110.279182434082
+"Bungoma","Likuyani",2023,132.880111694336
+"Bungoma","Likuyani",2024,105.013153076172
+"Bungoma","Lugari",2012,19.9066390991211
+"Bungoma","Lugari",2013,16.3364486694336
+"Bungoma","Lugari",2014,15.4607849121094
+"Bungoma","Lugari",2015,13.5918836593628
+"Bungoma","Lugari",2016,3.64253044128418
+"Bungoma","Lugari",2017,0
+"Bungoma","Lugari",2018,8.14712333679199
+"Bungoma","Lugari",2019,7.14762020111084
+"Bungoma","Lugari",2020,0
+"Bungoma","Lugari",2021,3.97034001350403
+"Bungoma","Lugari",2022,34.0896682739258
+"Bungoma","Lugari",2023,55.2593269348145
+"Bungoma","Lugari",2024,40.275562286377
+"Bungoma","Mt. Elgon",2012,1.43384408950806
+"Bungoma","Mt. Elgon",2013,2.07599878311157
+"Bungoma","Mt. Elgon",2014,2.05188488960266
+"Bungoma","Mt. Elgon",2015,3.32024002075195
+"Bungoma","Mt. Elgon",2016,1.71998178958893
+"Bungoma","Mt. Elgon",2017,10.3383474349976
+"Bungoma","Mt. Elgon",2018,12.4368848800659
+"Bungoma","Mt. Elgon",2019,13.8240871429443
+"Bungoma","Mt. Elgon",2020,9.32863903045654
+"Bungoma","Mt. Elgon",2021,7.55261707305908
+"Bungoma","Mt. Elgon",2022,20.895923614502
+"Bungoma","Mt. Elgon",2023,45.1482200622559
+"Bungoma","Mt. Elgon",2024,33.1155204772949
+"Bungoma","Sirisia",2012,0.513772904872894
+"Bungoma","Sirisia",2013,0.133020788431168
+"Bungoma","Sirisia",2014,1.02730560302734
+"Bungoma","Sirisia",2015,1.05663156509399
+"Bungoma","Sirisia",2016,1.64749920368195
+"Bungoma","Sirisia",2017,3.57022404670715
+"Bungoma","Sirisia",2018,3.85288977622986
+"Bungoma","Sirisia",2019,2.27391648292542
+"Bungoma","Sirisia",2020,2.81902456283569
+"Bungoma","Sirisia",2021,6.74177742004395
+"Bungoma","Sirisia",2022,14.9574995040894
+"Bungoma","Sirisia",2023,36.3599472045898
+"Bungoma","Sirisia",2024,29.3080978393555
+"Bungoma","Tongaren",2012,0
+"Bungoma","Tongaren",2013,0.530589520931244
+"Bungoma","Tongaren",2014,0
+"Bungoma","Tongaren",2015,0.5622239112854
+"Bungoma","Tongaren",2016,0.520850837230682
+"Bungoma","Tongaren",2017,3.08660221099854
+"Bungoma","Tongaren",2018,11.6600379943848
+"Bungoma","Tongaren",2019,38.9251670837402
+"Bungoma","Tongaren",2020,31.2234840393066
+"Bungoma","Tongaren",2021,57.0991554260254
+"Bungoma","Tongaren",2022,141.580261230469
+"Bungoma","Tongaren",2023,236.434707641602
+"Bungoma","Tongaren",2024,182.486938476562
+"Bungoma","Webute West",2012,13.8131580352783
+"Bungoma","Webute West",2013,11.2157955169678
+"Bungoma","Webute West",2014,10.8397598266602
+"Bungoma","Webute West",2015,15.4851808547974
+"Bungoma","Webute West",2016,16.1267261505127
+"Bungoma","Webute West",2017,15.0674867630005
+"Bungoma","Webute West",2018,30.623966217041
+"Bungoma","Webute West",2019,40.9808235168457
+"Bungoma","Webute West",2020,32.5495758056641
+"Bungoma","Webute West",2021,37.2052764892578
+"Bungoma","Webute West",2022,51.473705291748
+"Bungoma","Webute West",2023,93.2988967895508
+"Bungoma","Webute West",2024,71.6116104125977
+"Bungoma","Webuye East",2012,67.671745300293
+"Bungoma","Webuye East",2013,63.5117149353027
+"Bungoma","Webuye East",2014,61.592342376709
+"Bungoma","Webuye East",2015,74.3429260253906
+"Bungoma","Webuye East",2016,92.1951217651367
+"Bungoma","Webuye East",2017,132.900985717773
+"Bungoma","Webuye East",2018,163.653335571289
+"Bungoma","Webuye East",2019,205.967742919922
+"Bungoma","Webuye East",2020,167.876480102539
+"Bungoma","Webuye East",2021,172.179550170898
+"Bungoma","Webuye East",2022,200.982498168945
+"Bungoma","Webuye East",2023,289.836242675781
+"Bungoma","Webuye East",2024,238.313293457031
+"Busia","Budalangi",2012,4.46574115753174
+"Busia","Budalangi",2013,4.16800403594971
+"Busia","Budalangi",2014,3.69099116325378
+"Busia","Budalangi",2015,3.59848117828369
+"Busia","Budalangi",2016,1.16884541511536
+"Busia","Budalangi",2017,4.14832592010498
+"Busia","Budalangi",2018,19.8664054870605
+"Busia","Budalangi",2019,14.7923593521118
+"Busia","Budalangi",2020,14.1308927536011
+"Busia","Budalangi",2021,8.04497051239014
+"Busia","Budalangi",2022,46.7476577758789
+"Busia","Budalangi",2023,98.4181289672852
+"Busia","Budalangi",2024,59.4223175048828
+"Busia","Butula",2012,3.73935770988464
+"Busia","Butula",2013,1.70533990859985
+"Busia","Butula",2014,3.07409453392029
+"Busia","Butula",2015,6.48533201217651
+"Busia","Butula",2016,5.67849969863892
+"Busia","Butula",2017,8.21370983123779
+"Busia","Butula",2018,12.5849637985229
+"Busia","Butula",2019,9.66942501068115
+"Busia","Butula",2020,18.9136028289795
+"Busia","Butula",2021,16.0774211883545
+"Busia","Butula",2022,33.2036361694336
+"Busia","Butula",2023,84.0013580322266
+"Busia","Butula",2024,43.3816986083984
+"Busia","Funyula",2012,2.86368560791016
+"Busia","Funyula",2013,3.4912223815918
+"Busia","Funyula",2014,3.46892547607422
+"Busia","Funyula",2015,1.78607177734375
+"Busia","Funyula",2016,2.23071622848511
+"Busia","Funyula",2017,2.90868449211121
+"Busia","Funyula",2018,4.66933393478394
+"Busia","Funyula",2019,8.82674884796143
+"Busia","Funyula",2020,5.87080764770508
+"Busia","Funyula",2021,5.67237329483032
+"Busia","Funyula",2022,54.2844047546387
+"Busia","Funyula",2023,86.2699356079102
+"Busia","Funyula",2024,56.3174743652344
+"Busia","Matayos",2012,87.0033645629883
+"Busia","Matayos",2013,94.023078918457
+"Busia","Matayos",2014,94.6166839599609
+"Busia","Matayos",2015,123.016540527344
+"Busia","Matayos",2016,150.964263916016
+"Busia","Matayos",2017,243.370666503906
+"Busia","Matayos",2018,248.397720336914
+"Busia","Matayos",2019,257.544525146484
+"Busia","Matayos",2020,308.830261230469
+"Busia","Matayos",2021,305.315826416016
+"Busia","Matayos",2022,415.846893310547
+"Busia","Matayos",2023,523.018981933594
+"Busia","Matayos",2024,471.232360839844
+"Busia","Nambale",2012,4.47743034362793
+"Busia","Nambale",2013,5.08150196075439
+"Busia","Nambale",2014,3.79407405853271
+"Busia","Nambale",2015,7.05095243453979
+"Busia","Nambale",2016,4.0064582824707
+"Busia","Nambale",2017,4.34644937515259
+"Busia","Nambale",2018,5.04220867156982
+"Busia","Nambale",2019,5.38809585571289
+"Busia","Nambale",2020,3.40346097946167
+"Busia","Nambale",2021,9.04300880432129
+"Busia","Nambale",2022,38.9999237060547
+"Busia","Nambale",2023,74.5643539428711
+"Busia","Nambale",2024,56.218635559082
+"Busia","Teso North",2012,43.2605209350586
+"Busia","Teso North",2013,39.1375617980957
+"Busia","Teso North",2014,47.8913345336914
+"Busia","Teso North",2015,70.4055252075195
+"Busia","Teso North",2016,71.8027191162109
+"Busia","Teso North",2017,81.6599807739258
+"Busia","Teso North",2018,85.1500091552734
+"Busia","Teso North",2019,94.4362945556641
+"Busia","Teso North",2020,117.672988891602
+"Busia","Teso North",2021,154.930038452148
+"Busia","Teso North",2022,213.62287902832
+"Busia","Teso North",2023,315.910888671875
+"Busia","Teso North",2024,292.802307128906
+"Busia","Teso South",2012,4.82798051834106
+"Busia","Teso South",2013,5.62550735473633
+"Busia","Teso South",2014,5.23701190948486
+"Busia","Teso South",2015,14.7232255935669
+"Busia","Teso South",2016,14.1048612594604
+"Busia","Teso South",2017,24.6612529754639
+"Busia","Teso South",2018,29.5730438232422
+"Busia","Teso South",2019,26.8301830291748
+"Busia","Teso South",2020,43.7424659729004
+"Busia","Teso South",2021,53.153205871582
+"Busia","Teso South",2022,91.655876159668
+"Busia","Teso South",2023,141.512359619141
+"Busia","Teso South",2024,161.753524780273
+"Elgeyo-Marakwet","Keiyo North",2012,10.0766553878784
+"Elgeyo-Marakwet","Keiyo North",2013,10.6564445495605
+"Elgeyo-Marakwet","Keiyo North",2014,10.3789749145508
+"Elgeyo-Marakwet","Keiyo North",2015,15.2702045440674
+"Elgeyo-Marakwet","Keiyo North",2016,33.2040061950684
+"Elgeyo-Marakwet","Keiyo North",2017,51.3481674194336
+"Elgeyo-Marakwet","Keiyo North",2018,103.892295837402
+"Elgeyo-Marakwet","Keiyo North",2019,110.626640319824
+"Elgeyo-Marakwet","Keiyo North",2020,80.8013305664062
+"Elgeyo-Marakwet","Keiyo North",2021,94.520378112793
+"Elgeyo-Marakwet","Keiyo North",2022,102.225563049316
+"Elgeyo-Marakwet","Keiyo North",2023,135.650924682617
+"Elgeyo-Marakwet","Keiyo North",2024,125.121551513672
+"Elgeyo-Marakwet","Keiyo South",2012,23.6458835601807
+"Elgeyo-Marakwet","Keiyo South",2013,19.2222499847412
+"Elgeyo-Marakwet","Keiyo South",2014,25.0120983123779
+"Elgeyo-Marakwet","Keiyo South",2015,24.9497451782227
+"Elgeyo-Marakwet","Keiyo South",2016,9.57921028137207
+"Elgeyo-Marakwet","Keiyo South",2017,1.77185320854187
+"Elgeyo-Marakwet","Keiyo South",2018,6.51317405700684
+"Elgeyo-Marakwet","Keiyo South",2019,7.54632234573364
+"Elgeyo-Marakwet","Keiyo South",2020,11.2753076553345
+"Elgeyo-Marakwet","Keiyo South",2021,8.35958862304688
+"Elgeyo-Marakwet","Keiyo South",2022,28.3404941558838
+"Elgeyo-Marakwet","Keiyo South",2023,50.533992767334
+"Elgeyo-Marakwet","Keiyo South",2024,50.0001564025879
+"Elgeyo-Marakwet","Marakwet East",2012,0
+"Elgeyo-Marakwet","Marakwet East",2013,0.961059391498566
+"Elgeyo-Marakwet","Marakwet East",2014,3.20577192306519
+"Elgeyo-Marakwet","Marakwet East",2015,0.803071141242981
+"Elgeyo-Marakwet","Marakwet East",2016,0
+"Elgeyo-Marakwet","Marakwet East",2017,0
+"Elgeyo-Marakwet","Marakwet East",2018,13.8074951171875
+"Elgeyo-Marakwet","Marakwet East",2019,20.6558246612549
+"Elgeyo-Marakwet","Marakwet East",2020,10.4586400985718
+"Elgeyo-Marakwet","Marakwet East",2021,15.1681299209595
+"Elgeyo-Marakwet","Marakwet East",2022,20.6843204498291
+"Elgeyo-Marakwet","Marakwet East",2023,45.6782341003418
+"Elgeyo-Marakwet","Marakwet East",2024,20.110595703125
+"Elgeyo-Marakwet","Marakwet West",2012,7.69857788085938
+"Elgeyo-Marakwet","Marakwet West",2013,14.2862691879272
+"Elgeyo-Marakwet","Marakwet West",2014,8.84719181060791
+"Elgeyo-Marakwet","Marakwet West",2015,5.81433773040771
+"Elgeyo-Marakwet","Marakwet West",2016,6.03260278701782
+"Elgeyo-Marakwet","Marakwet West",2017,11.2024383544922
+"Elgeyo-Marakwet","Marakwet West",2018,29.8349132537842
+"Elgeyo-Marakwet","Marakwet West",2019,32.809154510498
+"Elgeyo-Marakwet","Marakwet West",2020,31.3659229278564
+"Elgeyo-Marakwet","Marakwet West",2021,28.9785957336426
+"Elgeyo-Marakwet","Marakwet West",2022,53.0521850585938
+"Elgeyo-Marakwet","Marakwet West",2023,66.4518737792969
+"Elgeyo-Marakwet","Marakwet West",2024,62.7186126708984
+"Embu","Manyatta",2012,132.172424316406
+"Embu","Manyatta",2013,144.522018432617
+"Embu","Manyatta",2014,196.493026733398
+"Embu","Manyatta",2015,213.173797607422
+"Embu","Manyatta",2016,259.549407958984
+"Embu","Manyatta",2017,501.745483398438
+"Embu","Manyatta",2018,556.288513183594
+"Embu","Manyatta",2019,499.745056152344
+"Embu","Manyatta",2020,380.609649658203
+"Embu","Manyatta",2021,421.080627441406
+"Embu","Manyatta",2022,665.281616210938
+"Embu","Manyatta",2023,758.438110351562
+"Embu","Manyatta",2024,925.982238769531
+"Embu","Mbeere North",2012,33.184455871582
+"Embu","Mbeere North",2013,21.6295928955078
+"Embu","Mbeere North",2014,36.3331756591797
+"Embu","Mbeere North",2015,49.6150093078613
+"Embu","Mbeere North",2016,47.1708602905273
+"Embu","Mbeere North",2017,56.5883903503418
+"Embu","Mbeere North",2018,82.6758422851562
+"Embu","Mbeere North",2019,79.2143859863281
+"Embu","Mbeere North",2020,56.3174629211426
+"Embu","Mbeere North",2021,57.0690040588379
+"Embu","Mbeere North",2022,79.0854644775391
+"Embu","Mbeere North",2023,82.7922973632812
+"Embu","Mbeere North",2024,91.1578826904297
+"Embu","Mbeere South",2012,402.350982666016
+"Embu","Mbeere South",2013,198.427810668945
+"Embu","Mbeere South",2014,87.9055938720703
+"Embu","Mbeere South",2015,87.2567901611328
+"Embu","Mbeere South",2016,82.0964202880859
+"Embu","Mbeere South",2017,119.519424438477
+"Embu","Mbeere South",2018,166.675399780273
+"Embu","Mbeere South",2019,215.674438476562
+"Embu","Mbeere South",2020,113.528335571289
+"Embu","Mbeere South",2021,98.0371017456055
+"Embu","Mbeere South",2022,210.171920776367
+"Embu","Mbeere South",2023,235.693099975586
+"Embu","Mbeere South",2024,252.284683227539
+"Embu","Runyenjes",2012,16.1879405975342
+"Embu","Runyenjes",2013,8.80094242095947
+"Embu","Runyenjes",2014,20.2397956848145
+"Embu","Runyenjes",2015,38.5972900390625
+"Embu","Runyenjes",2016,21.1156444549561
+"Embu","Runyenjes",2017,53.6178665161133
+"Embu","Runyenjes",2018,75.0495300292969
+"Embu","Runyenjes",2019,73.4107818603516
+"Embu","Runyenjes",2020,45.9821319580078
+"Embu","Runyenjes",2021,51.6938095092773
+"Embu","Runyenjes",2022,136.992141723633
+"Embu","Runyenjes",2023,141.305862426758
+"Embu","Runyenjes",2024,174.624328613281
+"Garissa","Balambala",2012,0
+"Garissa","Balambala",2013,0
+"Garissa","Balambala",2014,0
+"Garissa","Balambala",2015,0.223481208086014
+"Garissa","Balambala",2016,0.428466886281967
+"Garissa","Balambala",2017,1.61934983730316
+"Garissa","Balambala",2018,0.388550221920013
+"Garissa","Balambala",2019,0.622781157493591
+"Garissa","Balambala",2020,0
+"Garissa","Balambala",2021,0
+"Garissa","Balambala",2022,0.79657107591629
+"Garissa","Balambala",2023,0.836347162723541
+"Garissa","Balambala",2024,0.481322377920151
+"Garissa","Daadab",2012,81.9416122436523
+"Garissa","Daadab",2013,61.8355026245117
+"Garissa","Daadab",2014,74.2056198120117
+"Garissa","Daadab",2015,88.233039855957
+"Garissa","Daadab",2016,88.6959838867188
+"Garissa","Daadab",2017,100.302352905273
+"Garissa","Daadab",2018,80.7543411254883
+"Garissa","Daadab",2019,66.5904998779297
+"Garissa","Daadab",2020,57.1870155334473
+"Garissa","Daadab",2021,86.7793884277344
+"Garissa","Daadab",2022,99.450927734375
+"Garissa","Daadab",2023,89.0691986083984
+"Garissa","Daadab",2024,82.0874557495117
+"Garissa","Fafi",2012,17.318078994751
+"Garissa","Fafi",2013,23.0251197814941
+"Garissa","Fafi",2014,21.8508605957031
+"Garissa","Fafi",2015,26.6232376098633
+"Garissa","Fafi",2016,25.3380718231201
+"Garissa","Fafi",2017,16.2005710601807
+"Garissa","Fafi",2018,18.0084533691406
+"Garissa","Fafi",2019,28.5048789978027
+"Garissa","Fafi",2020,23.5852966308594
+"Garissa","Fafi",2021,24.7908020019531
+"Garissa","Fafi",2022,23.725564956665
+"Garissa","Fafi",2023,22.4525699615479
+"Garissa","Fafi",2024,17.6835708618164
+"Garissa","Garissa Township",2012,263.007232666016
+"Garissa","Garissa Township",2013,276.443817138672
+"Garissa","Garissa Township",2014,332.846893310547
+"Garissa","Garissa Township",2015,347.546905517578
+"Garissa","Garissa Township",2016,766.838562011719
+"Garissa","Garissa Township",2017,890.909118652344
+"Garissa","Garissa Township",2018,745.044311523438
+"Garissa","Garissa Township",2019,602.695495605469
+"Garissa","Garissa Township",2020,556.7861328125
+"Garissa","Garissa Township",2021,804.431335449219
+"Garissa","Garissa Township",2022,890.354064941406
+"Garissa","Garissa Township",2023,1098.97473144531
+"Garissa","Garissa Township",2024,1198.81066894531
+"Garissa","Ijara",2012,5.42688655853271
+"Garissa","Ijara",2013,2.39360189437866
+"Garissa","Ijara",2014,3.10356140136719
+"Garissa","Ijara",2015,3.4883439540863
+"Garissa","Ijara",2016,3.08892798423767
+"Garissa","Ijara",2017,35.5282402038574
+"Garissa","Ijara",2018,27.9598388671875
+"Garissa","Ijara",2019,22.5191249847412
+"Garissa","Ijara",2020,14.1647596359253
+"Garissa","Ijara",2021,19.2600364685059
+"Garissa","Ijara",2022,38.6047554016113
+"Garissa","Ijara",2023,30.5179042816162
+"Garissa","Ijara",2024,27.4800128936768
+"Garissa","Lagdera",2012,2.8111355304718
+"Garissa","Lagdera",2013,0
+"Garissa","Lagdera",2014,0
+"Garissa","Lagdera",2015,0.285382747650146
+"Garissa","Lagdera",2016,0
+"Garissa","Lagdera",2017,0
+"Garissa","Lagdera",2018,0
+"Garissa","Lagdera",2019,0
+"Garissa","Lagdera",2020,0
+"Garissa","Lagdera",2021,0
+"Garissa","Lagdera",2022,0.285005569458008
+"Garissa","Lagdera",2023,2.18409276008606
+"Garissa","Lagdera",2024,2.0194616317749
+"Homa Bay","Homa Bay Town",2012,47.9568862915039
+"Homa Bay","Homa Bay Town",2013,62.7265243530273
+"Homa Bay","Homa Bay Town",2014,62.7300643920898
+"Homa Bay","Homa Bay Town",2015,66.2028427124023
+"Homa Bay","Homa Bay Town",2016,82.6327590942383
+"Homa Bay","Homa Bay Town",2017,142.142242431641
+"Homa Bay","Homa Bay Town",2018,173.507278442383
+"Homa Bay","Homa Bay Town",2019,166.69677734375
+"Homa Bay","Homa Bay Town",2020,109.280685424805
+"Homa Bay","Homa Bay Town",2021,183.77507019043
+"Homa Bay","Homa Bay Town",2022,271.373504638672
+"Homa Bay","Homa Bay Town",2023,457.544372558594
+"Homa Bay","Homa Bay Town",2024,412.627624511719
+"Homa Bay","Kabondo Kasipul",2012,5.76123714447021
+"Homa Bay","Kabondo Kasipul",2013,3.34882187843323
+"Homa Bay","Kabondo Kasipul",2014,4.41159820556641
+"Homa Bay","Kabondo Kasipul",2015,14.305947303772
+"Homa Bay","Kabondo Kasipul",2016,16.6351432800293
+"Homa Bay","Kabondo Kasipul",2017,18.2599563598633
+"Homa Bay","Kabondo Kasipul",2018,38.8549842834473
+"Homa Bay","Kabondo Kasipul",2019,47.739372253418
+"Homa Bay","Kabondo Kasipul",2020,30.5746631622314
+"Homa Bay","Kabondo Kasipul",2021,60.8313522338867
+"Homa Bay","Kabondo Kasipul",2022,117.056304931641
+"Homa Bay","Kabondo Kasipul",2023,248.170349121094
+"Homa Bay","Kabondo Kasipul",2024,250.41552734375
+"Homa Bay","Karachuonyo",2012,37.4273452758789
+"Homa Bay","Karachuonyo",2013,15.7547912597656
+"Homa Bay","Karachuonyo",2014,14.3184671401978
+"Homa Bay","Karachuonyo",2015,17.4524250030518
+"Homa Bay","Karachuonyo",2016,12.2209415435791
+"Homa Bay","Karachuonyo",2017,10.0332727432251
+"Homa Bay","Karachuonyo",2018,22.9019985198975
+"Homa Bay","Karachuonyo",2019,52.0884399414062
+"Homa Bay","Karachuonyo",2020,52.2838554382324
+"Homa Bay","Karachuonyo",2021,72.9472198486328
+"Homa Bay","Karachuonyo",2022,112.573440551758
+"Homa Bay","Karachuonyo",2023,275.588562011719
+"Homa Bay","Karachuonyo",2024,272.486968994141
+"Homa Bay","Kasipul",2012,16.8397979736328
+"Homa Bay","Kasipul",2013,16.3173789978027
+"Homa Bay","Kasipul",2014,17.4037799835205
+"Homa Bay","Kasipul",2015,19.4764976501465
+"Homa Bay","Kasipul",2016,30.7891941070557
+"Homa Bay","Kasipul",2017,35.7388801574707
+"Homa Bay","Kasipul",2018,51.5807914733887
+"Homa Bay","Kasipul",2019,47.9636611938477
+"Homa Bay","Kasipul",2020,61.3069648742676
+"Homa Bay","Kasipul",2021,96.1656188964844
+"Homa Bay","Kasipul",2022,208.199600219727
+"Homa Bay","Kasipul",2023,278.955596923828
+"Homa Bay","Kasipul",2024,371.675170898438
+"Homa Bay","Mbita",2012,10.0338354110718
+"Homa Bay","Mbita",2013,8.17544651031494
+"Homa Bay","Mbita",2014,8.96793842315674
+"Homa Bay","Mbita",2015,6.8955545425415
+"Homa Bay","Mbita",2016,5.98850584030151
+"Homa Bay","Mbita",2017,8.53483963012695
+"Homa Bay","Mbita",2018,14.600323677063
+"Homa Bay","Mbita",2019,38.0521697998047
+"Homa Bay","Mbita",2020,27.0603866577148
+"Homa Bay","Mbita",2021,45.2576751708984
+"Homa Bay","Mbita",2022,59.0600051879883
+"Homa Bay","Mbita",2023,125.079132080078
+"Homa Bay","Mbita",2024,99.338981628418
+"Homa Bay","Ndhiwa",2012,21.8264141082764
+"Homa Bay","Ndhiwa",2013,26.5313510894775
+"Homa Bay","Ndhiwa",2014,27.6826286315918
+"Homa Bay","Ndhiwa",2015,31.060375213623
+"Homa Bay","Ndhiwa",2016,36.7582588195801
+"Homa Bay","Ndhiwa",2017,27.2268600463867
+"Homa Bay","Ndhiwa",2018,33.4452438354492
+"Homa Bay","Ndhiwa",2019,51.0325965881348
+"Homa Bay","Ndhiwa",2020,55.0140113830566
+"Homa Bay","Ndhiwa",2021,78.5872192382812
+"Homa Bay","Ndhiwa",2022,83.1682510375977
+"Homa Bay","Ndhiwa",2023,153.51725769043
+"Homa Bay","Ndhiwa",2024,129.317504882812
+"Homa Bay","Rangwe",2012,1.97155666351318
+"Homa Bay","Rangwe",2013,5.85856437683105
+"Homa Bay","Rangwe",2014,7.4467921257019
+"Homa Bay","Rangwe",2015,5.91780614852905
+"Homa Bay","Rangwe",2016,1.31082034111023
+"Homa Bay","Rangwe",2017,3.51744174957275
+"Homa Bay","Rangwe",2018,7.43744373321533
+"Homa Bay","Rangwe",2019,27.8186950683594
+"Homa Bay","Rangwe",2020,45.767261505127
+"Homa Bay","Rangwe",2021,48.4611625671387
+"Homa Bay","Rangwe",2022,85.2255630493164
+"Homa Bay","Rangwe",2023,206.885391235352
+"Homa Bay","Rangwe",2024,220.160659790039
+"Homa Bay","Suba",2012,2.50120258331299
+"Homa Bay","Suba",2013,3.61048531532288
+"Homa Bay","Suba",2014,5.20677185058594
+"Homa Bay","Suba",2015,5.36893701553345
+"Homa Bay","Suba",2016,3.68622636795044
+"Homa Bay","Suba",2017,2.50534725189209
+"Homa Bay","Suba",2018,7.44597101211548
+"Homa Bay","Suba",2019,6.71688365936279
+"Homa Bay","Suba",2020,20.4469299316406
+"Homa Bay","Suba",2021,26.7883167266846
+"Homa Bay","Suba",2022,37.0656051635742
+"Homa Bay","Suba",2023,74.2924346923828
+"Homa Bay","Suba",2024,71.9010925292969
+"Homa Bay","unknown 6",2012,0
+"Homa Bay","unknown 6",2013,0
+"Homa Bay","unknown 6",2014,0
+"Homa Bay","unknown 6",2015,0
+"Homa Bay","unknown 6",2016,0
+"Homa Bay","unknown 6",2017,0
+"Homa Bay","unknown 6",2018,0
+"Homa Bay","unknown 6",2019,4.55571985244751
+"Homa Bay","unknown 6",2020,1.12912952899933
+"Homa Bay","unknown 6",2021,0
+"Homa Bay","unknown 6",2022,18.5200424194336
+"Homa Bay","unknown 6",2023,26.5421199798584
+"Homa Bay","unknown 6",2024,19.5935573577881
+"Isiolo","Isiolo North",2012,67.0937194824219
+"Isiolo","Isiolo North",2013,74.505615234375
+"Isiolo","Isiolo North",2014,80.1729202270508
+"Isiolo","Isiolo North",2015,84.2464599609375
+"Isiolo","Isiolo North",2016,204.139846801758
+"Isiolo","Isiolo North",2017,272.437957763672
+"Isiolo","Isiolo North",2018,324.811065673828
+"Isiolo","Isiolo North",2019,331.2177734375
+"Isiolo","Isiolo North",2020,300.556854248047
+"Isiolo","Isiolo North",2021,320.159698486328
+"Isiolo","Isiolo North",2022,424.132202148438
+"Isiolo","Isiolo North",2023,471.335388183594
+"Isiolo","Isiolo North",2024,410.689392089844
+"Isiolo","Isiolo South",2012,0
+"Isiolo","Isiolo South",2013,0
+"Isiolo","Isiolo South",2014,0
+"Isiolo","Isiolo South",2015,0.880121052265167
+"Isiolo","Isiolo South",2016,0
+"Isiolo","Isiolo South",2017,1.40096044540405
+"Isiolo","Isiolo South",2018,0
+"Isiolo","Isiolo South",2019,0.544007182121277
+"Isiolo","Isiolo South",2020,0
+"Isiolo","Isiolo South",2021,2.35929250717163
+"Isiolo","Isiolo South",2022,6.74393653869629
+"Isiolo","Isiolo South",2023,8.02812767028809
+"Isiolo","Isiolo South",2024,11.5435571670532
+"Kajiado","Kajiado Central",2012,86.7136993408203
+"Kajiado","Kajiado Central",2013,81.4796676635742
+"Kajiado","Kajiado Central",2014,95.3339538574219
+"Kajiado","Kajiado Central",2015,140.076095581055
+"Kajiado","Kajiado Central",2016,137.052932739258
+"Kajiado","Kajiado Central",2017,255.42692565918
+"Kajiado","Kajiado Central",2018,263.685150146484
+"Kajiado","Kajiado Central",2019,219.297271728516
+"Kajiado","Kajiado Central",2020,189.740234375
+"Kajiado","Kajiado Central",2021,214.097869873047
+"Kajiado","Kajiado Central",2022,357.234466552734
+"Kajiado","Kajiado Central",2023,461.660369873047
+"Kajiado","Kajiado Central",2024,469.401916503906
+"Kajiado","Kajiado East",2012,369.766967773438
+"Kajiado","Kajiado East",2013,460.634826660156
+"Kajiado","Kajiado East",2014,643.989074707031
+"Kajiado","Kajiado East",2015,832.2294921875
+"Kajiado","Kajiado East",2016,750.3291015625
+"Kajiado","Kajiado East",2017,1094.38745117188
+"Kajiado","Kajiado East",2018,1192.12573242188
+"Kajiado","Kajiado East",2019,1367.58325195312
+"Kajiado","Kajiado East",2020,1224.32409667969
+"Kajiado","Kajiado East",2021,1615.36499023438
+"Kajiado","Kajiado East",2022,2464.310546875
+"Kajiado","Kajiado East",2023,2813.052734375
+"Kajiado","Kajiado East",2024,2522.486328125
+"Kajiado","Kajiado North",2012,600.147827148438
+"Kajiado","Kajiado North",2013,649.491027832031
+"Kajiado","Kajiado North",2014,772.45458984375
+"Kajiado","Kajiado North",2015,773.744750976562
+"Kajiado","Kajiado North",2016,779.751586914062
+"Kajiado","Kajiado North",2017,932.274475097656
+"Kajiado","Kajiado North",2018,1319.21936035156
+"Kajiado","Kajiado North",2019,1579.09350585938
+"Kajiado","Kajiado North",2020,1471.89685058594
+"Kajiado","Kajiado North",2021,1665.63598632812
+"Kajiado","Kajiado North",2022,2038.87451171875
+"Kajiado","Kajiado North",2023,2178.93408203125
+"Kajiado","Kajiado North",2024,1992.68969726562
+"Kajiado","Kajiado South",2012,8.39811134338379
+"Kajiado","Kajiado South",2013,8.6069450378418
+"Kajiado","Kajiado South",2014,15.4146165847778
+"Kajiado","Kajiado South",2015,40.1014099121094
+"Kajiado","Kajiado South",2016,52.4077987670898
+"Kajiado","Kajiado South",2017,74.066764831543
+"Kajiado","Kajiado South",2018,116.83219909668
+"Kajiado","Kajiado South",2019,123.023323059082
+"Kajiado","Kajiado South",2020,163.233825683594
+"Kajiado","Kajiado South",2021,154.169784545898
+"Kajiado","Kajiado South",2022,213.394378662109
+"Kajiado","Kajiado South",2023,296.892608642578
+"Kajiado","Kajiado South",2024,370.288421630859
+"Kajiado","Kajiado West",2012,136.5732421875
+"Kajiado","Kajiado West",2013,140.603897094727
+"Kajiado","Kajiado West",2014,163.004302978516
+"Kajiado","Kajiado West",2015,161.676483154297
+"Kajiado","Kajiado West",2016,186.019515991211
+"Kajiado","Kajiado West",2017,254.946578979492
+"Kajiado","Kajiado West",2018,295.007720947266
+"Kajiado","Kajiado West",2019,333.002258300781
+"Kajiado","Kajiado West",2020,375.015563964844
+"Kajiado","Kajiado West",2021,606.570007324219
+"Kajiado","Kajiado West",2022,972.382690429688
+"Kajiado","Kajiado West",2023,1097.93310546875
+"Kajiado","Kajiado West",2024,971.118530273438
+"Kakamega","Butere",2012,7.04765224456787
+"Kakamega","Butere",2013,5.86937618255615
+"Kakamega","Butere",2014,4.21680736541748
+"Kakamega","Butere",2015,8.5112247467041
+"Kakamega","Butere",2016,17.8793315887451
+"Kakamega","Butere",2017,14.7446126937866
+"Kakamega","Butere",2018,24.8943767547607
+"Kakamega","Butere",2019,23.4073467254639
+"Kakamega","Butere",2020,22.765209197998
+"Kakamega","Butere",2021,32.8532066345215
+"Kakamega","Butere",2022,220.742385864258
+"Kakamega","Butere",2023,327.699279785156
+"Kakamega","Butere",2024,196.411041259766
+"Kakamega","Ikolomani",2012,7.98520374298096
+"Kakamega","Ikolomani",2013,5.40305042266846
+"Kakamega","Ikolomani",2014,5.32593297958374
+"Kakamega","Ikolomani",2015,16.1239967346191
+"Kakamega","Ikolomani",2016,11.3512115478516
+"Kakamega","Ikolomani",2017,21.6290340423584
+"Kakamega","Ikolomani",2018,49.3071441650391
+"Kakamega","Ikolomani",2019,41.9581298828125
+"Kakamega","Ikolomani",2020,34.0205001831055
+"Kakamega","Ikolomani",2021,46.3608360290527
+"Kakamega","Ikolomani",2022,126.026092529297
+"Kakamega","Ikolomani",2023,181.075820922852
+"Kakamega","Ikolomani",2024,151.357025146484
+"Kakamega","Khwisero",2012,0
+"Kakamega","Khwisero",2013,0.539303004741669
+"Kakamega","Khwisero",2014,0.546303749084473
+"Kakamega","Khwisero",2015,0
+"Kakamega","Khwisero",2016,0.919073343276978
+"Kakamega","Khwisero",2017,1.48470497131348
+"Kakamega","Khwisero",2018,16.209451675415
+"Kakamega","Khwisero",2019,11.0104866027832
+"Kakamega","Khwisero",2020,19.686731338501
+"Kakamega","Khwisero",2021,25.5034446716309
+"Kakamega","Khwisero",2022,123.57364654541
+"Kakamega","Khwisero",2023,214.025985717773
+"Kakamega","Khwisero",2024,149.662719726562
+"Kakamega","Lugari",2012,4.09953498840332
+"Kakamega","Lugari",2013,1.54775047302246
+"Kakamega","Lugari",2014,1.74145114421844
+"Kakamega","Lugari",2015,1.70564758777618
+"Kakamega","Lugari",2016,1.81259894371033
+"Kakamega","Lugari",2017,5.40718078613281
+"Kakamega","Lugari",2018,9.66731357574463
+"Kakamega","Lugari",2019,11.3386640548706
+"Kakamega","Lugari",2020,7.35136032104492
+"Kakamega","Lugari",2021,17.4376201629639
+"Kakamega","Lugari",2022,35.9013023376465
+"Kakamega","Lugari",2023,61.3569488525391
+"Kakamega","Lugari",2024,32.8828811645508
+"Kakamega","Lurambi",2012,175.449798583984
+"Kakamega","Lurambi",2013,178.174362182617
+"Kakamega","Lurambi",2014,182.838745117188
+"Kakamega","Lurambi",2015,234.053726196289
+"Kakamega","Lurambi",2016,280.945983886719
+"Kakamega","Lurambi",2017,377.272064208984
+"Kakamega","Lurambi",2018,490.463684082031
+"Kakamega","Lurambi",2019,619.911987304688
+"Kakamega","Lurambi",2020,601.922790527344
+"Kakamega","Lurambi",2021,618.186706542969
+"Kakamega","Lurambi",2022,802.257873535156
+"Kakamega","Lurambi",2023,900.914489746094
+"Kakamega","Lurambi",2024,833.697631835938
+"Kakamega","Malava",2012,126.813117980957
+"Kakamega","Malava",2013,125.939102172852
+"Kakamega","Malava",2014,157.322021484375
+"Kakamega","Malava",2015,149.96174621582
+"Kakamega","Malava",2016,96.157356262207
+"Kakamega","Malava",2017,116.851493835449
+"Kakamega","Malava",2018,130.533966064453
+"Kakamega","Malava",2019,147.216400146484
+"Kakamega","Malava",2020,141.437850952148
+"Kakamega","Malava",2021,168.577713012695
+"Kakamega","Malava",2022,237.403228759766
+"Kakamega","Malava",2023,331.571594238281
+"Kakamega","Malava",2024,287.434234619141
+"Kakamega","Matungu",2012,4.8877272605896
+"Kakamega","Matungu",2013,5.5117130279541
+"Kakamega","Matungu",2014,5.0678186416626
+"Kakamega","Matungu",2015,6.08265018463135
+"Kakamega","Matungu",2016,5.55146646499634
+"Kakamega","Matungu",2017,9.6956901550293
+"Kakamega","Matungu",2018,25.8915843963623
+"Kakamega","Matungu",2019,32.6617012023926
+"Kakamega","Matungu",2020,16.0797023773193
+"Kakamega","Matungu",2021,16.4018039703369
+"Kakamega","Matungu",2022,85.660270690918
+"Kakamega","Matungu",2023,173.484970092773
+"Kakamega","Matungu",2024,128.176483154297
+"Kakamega","Mumias East",2012,103.903739929199
+"Kakamega","Mumias East",2013,86.9020309448242
+"Kakamega","Mumias East",2014,76.0832138061523
+"Kakamega","Mumias East",2015,74.8125610351562
+"Kakamega","Mumias East",2016,73.2182083129883
+"Kakamega","Mumias East",2017,80.7952117919922
+"Kakamega","Mumias East",2018,93.951774597168
+"Kakamega","Mumias East",2019,74.557502746582
+"Kakamega","Mumias East",2020,60.0648536682129
+"Kakamega","Mumias East",2021,66.5204696655273
+"Kakamega","Mumias East",2022,137.963592529297
+"Kakamega","Mumias East",2023,197.149871826172
+"Kakamega","Mumias East",2024,161.9580078125
+"Kakamega","Mumias West",2012,112.573120117188
+"Kakamega","Mumias West",2013,108.502868652344
+"Kakamega","Mumias West",2014,95.1983413696289
+"Kakamega","Mumias West",2015,88.0613098144531
+"Kakamega","Mumias West",2016,99.5896987915039
+"Kakamega","Mumias West",2017,134.193328857422
+"Kakamega","Mumias West",2018,149.285461425781
+"Kakamega","Mumias West",2019,102.31258392334
+"Kakamega","Mumias West",2020,87.3021087646484
+"Kakamega","Mumias West",2021,121.55517578125
+"Kakamega","Mumias West",2022,188.086563110352
+"Kakamega","Mumias West",2023,300.511749267578
+"Kakamega","Mumias West",2024,235.770538330078
+"Kakamega","Navakholo",2012,0.021879905834794
+"Kakamega","Navakholo",2013,0.0230345111340284
+"Kakamega","Navakholo",2014,0.0179865583777428
+"Kakamega","Navakholo",2015,0.632782578468323
+"Kakamega","Navakholo",2016,0.896233260631561
+"Kakamega","Navakholo",2017,2.70127201080322
+"Kakamega","Navakholo",2018,15.9180068969727
+"Kakamega","Navakholo",2019,14.4458036422729
+"Kakamega","Navakholo",2020,9.0071325302124
+"Kakamega","Navakholo",2021,16.0535621643066
+"Kakamega","Navakholo",2022,28.4516277313232
+"Kakamega","Navakholo",2023,56.5389747619629
+"Kakamega","Navakholo",2024,56.3779335021973
+"Kakamega","Shinyalu",2012,26.6211643218994
+"Kakamega","Shinyalu",2013,30.5506477355957
+"Kakamega","Shinyalu",2014,21.2823162078857
+"Kakamega","Shinyalu",2015,35.397087097168
+"Kakamega","Shinyalu",2016,23.3044719696045
+"Kakamega","Shinyalu",2017,33.2326431274414
+"Kakamega","Shinyalu",2018,75.6858139038086
+"Kakamega","Shinyalu",2019,110.78759765625
+"Kakamega","Shinyalu",2020,91.4465026855469
+"Kakamega","Shinyalu",2021,97.2309875488281
+"Kakamega","Shinyalu",2022,252.572204589844
+"Kakamega","Shinyalu",2023,365.737365722656
+"Kakamega","Shinyalu",2024,321.136840820312
+"Kericho","Ainamoi",2012,103.476020812988
+"Kericho","Ainamoi",2013,125.54850769043
+"Kericho","Ainamoi",2014,155.877716064453
+"Kericho","Ainamoi",2015,183.556015014648
+"Kericho","Ainamoi",2016,232.997604370117
+"Kericho","Ainamoi",2017,332.318267822266
+"Kericho","Ainamoi",2018,459.042663574219
+"Kericho","Ainamoi",2019,386.310729980469
+"Kericho","Ainamoi",2020,375.222045898438
+"Kericho","Ainamoi",2021,404.647369384766
+"Kericho","Ainamoi",2022,449.451599121094
+"Kericho","Ainamoi",2023,476.418548583984
+"Kericho","Ainamoi",2024,510.627868652344
+"Kericho","Belgut",2012,39.949146270752
+"Kericho","Belgut",2013,39.5118942260742
+"Kericho","Belgut",2014,50.4665718078613
+"Kericho","Belgut",2015,62.515251159668
+"Kericho","Belgut",2016,48.3190574645996
+"Kericho","Belgut",2017,89.6273880004883
+"Kericho","Belgut",2018,210.933883666992
+"Kericho","Belgut",2019,191.523086547852
+"Kericho","Belgut",2020,196.671661376953
+"Kericho","Belgut",2021,246.230346679688
+"Kericho","Belgut",2022,333.448944091797
+"Kericho","Belgut",2023,360.209686279297
+"Kericho","Belgut",2024,381.648712158203
+"Kericho","Bureti",2012,19.1100673675537
+"Kericho","Bureti",2013,19.042610168457
+"Kericho","Bureti",2014,18.2209911346436
+"Kericho","Bureti",2015,23.6902770996094
+"Kericho","Bureti",2016,17.9574699401855
+"Kericho","Bureti",2017,43.034553527832
+"Kericho","Bureti",2018,113.043968200684
+"Kericho","Bureti",2019,131.602111816406
+"Kericho","Bureti",2020,118.212226867676
+"Kericho","Bureti",2021,137.778427124023
+"Kericho","Bureti",2022,201.898864746094
+"Kericho","Bureti",2023,230.708206176758
+"Kericho","Bureti",2024,221.436340332031
+"Kericho","Kipkelion East",2012,16.1761245727539
+"Kericho","Kipkelion East",2013,10.4003200531006
+"Kericho","Kipkelion East",2014,9.98373126983643
+"Kericho","Kipkelion East",2015,11.0552978515625
+"Kericho","Kipkelion East",2016,14.8806190490723
+"Kericho","Kipkelion East",2017,24.936092376709
+"Kericho","Kipkelion East",2018,87.9690780639648
+"Kericho","Kipkelion East",2019,88.4993743896484
+"Kericho","Kipkelion East",2020,89.3617324829102
+"Kericho","Kipkelion East",2021,147.498397827148
+"Kericho","Kipkelion East",2022,194.796722412109
+"Kericho","Kipkelion East",2023,171.710922241211
+"Kericho","Kipkelion East",2024,191.875991821289
+"Kericho","Kipkelion West",2012,0
+"Kericho","Kipkelion West",2013,0
+"Kericho","Kipkelion West",2014,0
+"Kericho","Kipkelion West",2015,0
+"Kericho","Kipkelion West",2016,0
+"Kericho","Kipkelion West",2017,2.79146957397461
+"Kericho","Kipkelion West",2018,17.1882400512695
+"Kericho","Kipkelion West",2019,13.8957777023315
+"Kericho","Kipkelion West",2020,7.84683227539062
+"Kericho","Kipkelion West",2021,18.2790813446045
+"Kericho","Kipkelion West",2022,49.5250930786133
+"Kericho","Kipkelion West",2023,50.1755294799805
+"Kericho","Kipkelion West",2024,46.8810539245605
+"Kericho","Sigowet/Soin",2012,20.0606746673584
+"Kericho","Sigowet/Soin",2013,40.048038482666
+"Kericho","Sigowet/Soin",2014,40.5973510742188
+"Kericho","Sigowet/Soin",2015,43.4314804077148
+"Kericho","Sigowet/Soin",2016,33.4478187561035
+"Kericho","Sigowet/Soin",2017,48.5762939453125
+"Kericho","Sigowet/Soin",2018,96.7719497680664
+"Kericho","Sigowet/Soin",2019,110.227745056152
+"Kericho","Sigowet/Soin",2020,94.0124740600586
+"Kericho","Sigowet/Soin",2021,119.933944702148
+"Kericho","Sigowet/Soin",2022,180.18896484375
+"Kericho","Sigowet/Soin",2023,185.770736694336
+"Kericho","Sigowet/Soin",2024,199.249084472656
+"Kiambu","Gatundu North",2012,18.6887969970703
+"Kiambu","Gatundu North",2013,8.07483577728271
+"Kiambu","Gatundu North",2014,28.5780849456787
+"Kiambu","Gatundu North",2015,13.7177457809448
+"Kiambu","Gatundu North",2016,13.8132228851318
+"Kiambu","Gatundu North",2017,34.4914932250977
+"Kiambu","Gatundu North",2018,53.7866859436035
+"Kiambu","Gatundu North",2019,159.980651855469
+"Kiambu","Gatundu North",2020,166.815536499023
+"Kiambu","Gatundu North",2021,340.684722900391
+"Kiambu","Gatundu North",2022,512.482849121094
+"Kiambu","Gatundu North",2023,583.876708984375
+"Kiambu","Gatundu North",2024,607.211303710938
+"Kiambu","Gatundu South",2012,52.5567893981934
+"Kiambu","Gatundu South",2013,58.223445892334
+"Kiambu","Gatundu South",2014,68.1252975463867
+"Kiambu","Gatundu South",2015,103.722412109375
+"Kiambu","Gatundu South",2016,117.992713928223
+"Kiambu","Gatundu South",2017,240.882781982422
+"Kiambu","Gatundu South",2018,311.812438964844
+"Kiambu","Gatundu South",2019,270.203552246094
+"Kiambu","Gatundu South",2020,328.822448730469
+"Kiambu","Gatundu South",2021,474.536560058594
+"Kiambu","Gatundu South",2022,776.470825195312
+"Kiambu","Gatundu South",2023,827.423522949219
+"Kiambu","Gatundu South",2024,813.16162109375
+"Kiambu","Githunguri",2012,127.363502502441
+"Kiambu","Githunguri",2013,141.622085571289
+"Kiambu","Githunguri",2014,266.138061523438
+"Kiambu","Githunguri",2015,239.601898193359
+"Kiambu","Githunguri",2016,161.288009643555
+"Kiambu","Githunguri",2017,251.385162353516
+"Kiambu","Githunguri",2018,274.848968505859
+"Kiambu","Githunguri",2019,281.584625244141
+"Kiambu","Githunguri",2020,318.166259765625
+"Kiambu","Githunguri",2021,602.597351074219
+"Kiambu","Githunguri",2022,992.826538085938
+"Kiambu","Githunguri",2023,1171.11413574219
+"Kiambu","Githunguri",2024,1118.77746582031
+"Kiambu","Juja",2012,592.456420898438
+"Kiambu","Juja",2013,699.114440917969
+"Kiambu","Juja",2014,1070.55517578125
+"Kiambu","Juja",2015,1058.18518066406
+"Kiambu","Juja",2016,1212.07019042969
+"Kiambu","Juja",2017,1437.78308105469
+"Kiambu","Juja",2018,1797.12976074219
+"Kiambu","Juja",2019,2353.87573242188
+"Kiambu","Juja",2020,2675.20629882812
+"Kiambu","Juja",2021,3683.99145507812
+"Kiambu","Juja",2022,4720.74609375
+"Kiambu","Juja",2023,5091.462890625
+"Kiambu","Juja",2024,4923.044921875
+"Kiambu","Kabete",2012,234.75569152832
+"Kiambu","Kabete",2013,272.200988769531
+"Kiambu","Kabete",2014,341.150543212891
+"Kiambu","Kabete",2015,327.429901123047
+"Kiambu","Kabete",2016,391.352874755859
+"Kiambu","Kabete",2017,425.389068603516
+"Kiambu","Kabete",2018,441.635314941406
+"Kiambu","Kabete",2019,561.351013183594
+"Kiambu","Kabete",2020,584.803955078125
+"Kiambu","Kabete",2021,1018.20062255859
+"Kiambu","Kabete",2022,1270.98181152344
+"Kiambu","Kabete",2023,1636.771484375
+"Kiambu","Kabete",2024,1334.35205078125
+"Kiambu","Kiambaa",2012,339.623107910156
+"Kiambu","Kiambaa",2013,378.677459716797
+"Kiambu","Kiambaa",2014,475.892761230469
+"Kiambu","Kiambaa",2015,430.065948486328
+"Kiambu","Kiambaa",2016,444.468414306641
+"Kiambu","Kiambaa",2017,580.403137207031
+"Kiambu","Kiambaa",2018,586.001708984375
+"Kiambu","Kiambaa",2019,724.230346679688
+"Kiambu","Kiambaa",2020,666.557006835938
+"Kiambu","Kiambaa",2021,819.593811035156
+"Kiambu","Kiambaa",2022,1087.4326171875
+"Kiambu","Kiambaa",2023,1328.23571777344
+"Kiambu","Kiambaa",2024,1096.24487304688
+"Kiambu","Kiambu",2012,579.897888183594
+"Kiambu","Kiambu",2013,586.522033691406
+"Kiambu","Kiambu",2014,737.11865234375
+"Kiambu","Kiambu",2015,734.785888671875
+"Kiambu","Kiambu",2016,918.578491210938
+"Kiambu","Kiambu",2017,1106.62524414062
+"Kiambu","Kiambu",2018,1296.29211425781
+"Kiambu","Kiambu",2019,1548.67761230469
+"Kiambu","Kiambu",2020,1510.48083496094
+"Kiambu","Kiambu",2021,1781.55517578125
+"Kiambu","Kiambu",2022,2003.39758300781
+"Kiambu","Kiambu",2023,2277.9267578125
+"Kiambu","Kiambu",2024,2207.29956054688
+"Kiambu","Kikuyu",2012,295.474884033203
+"Kiambu","Kikuyu",2013,307.082427978516
+"Kiambu","Kikuyu",2014,391.568878173828
+"Kiambu","Kikuyu",2015,404.522705078125
+"Kiambu","Kikuyu",2016,867.10009765625
+"Kiambu","Kikuyu",2017,820.04638671875
+"Kiambu","Kikuyu",2018,985.567687988281
+"Kiambu","Kikuyu",2019,1192.46789550781
+"Kiambu","Kikuyu",2020,1163.96044921875
+"Kiambu","Kikuyu",2021,1563.44458007812
+"Kiambu","Kikuyu",2022,1814.74487304688
+"Kiambu","Kikuyu",2023,1962.28149414062
+"Kiambu","Kikuyu",2024,1842.478515625
+"Kiambu","Lari",2012,47.353385925293
+"Kiambu","Lari",2013,52.4975166320801
+"Kiambu","Lari",2014,74.6444702148438
+"Kiambu","Lari",2015,62.8956031799316
+"Kiambu","Lari",2016,60.7430992126465
+"Kiambu","Lari",2017,90.8369216918945
+"Kiambu","Lari",2018,97.6327362060547
+"Kiambu","Lari",2019,138.107208251953
+"Kiambu","Lari",2020,137.77766418457
+"Kiambu","Lari",2021,244.349792480469
+"Kiambu","Lari",2022,525.148864746094
+"Kiambu","Lari",2023,546.649963378906
+"Kiambu","Lari",2024,646.930053710938
+"Kiambu","Limuru",2012,383.329376220703
+"Kiambu","Limuru",2013,354.210662841797
+"Kiambu","Limuru",2014,512.021850585938
+"Kiambu","Limuru",2015,514.041259765625
+"Kiambu","Limuru",2016,528.185607910156
+"Kiambu","Limuru",2017,573.699890136719
+"Kiambu","Limuru",2018,540.625915527344
+"Kiambu","Limuru",2019,617.832824707031
+"Kiambu","Limuru",2020,562.15478515625
+"Kiambu","Limuru",2021,906.795593261719
+"Kiambu","Limuru",2022,1248.6005859375
+"Kiambu","Limuru",2023,1401.39123535156
+"Kiambu","Limuru",2024,1391.59313964844
+"Kiambu","Ruiru",2012,847.453247070312
+"Kiambu","Ruiru",2013,1085.5205078125
+"Kiambu","Ruiru",2014,1168.77514648438
+"Kiambu","Ruiru",2015,1462.21875
+"Kiambu","Ruiru",2016,1757.84167480469
+"Kiambu","Ruiru",2017,2008.42248535156
+"Kiambu","Ruiru",2018,2474.38452148438
+"Kiambu","Ruiru",2019,3383.66040039062
+"Kiambu","Ruiru",2020,3569.86157226562
+"Kiambu","Ruiru",2021,4359.2099609375
+"Kiambu","Ruiru",2022,5260.97802734375
+"Kiambu","Ruiru",2023,5687.470703125
+"Kiambu","Ruiru",2024,5809.59619140625
+"Kiambu","Thika Town",2012,828.420471191406
+"Kiambu","Thika Town",2013,971.454467773438
+"Kiambu","Thika Town",2014,1177.65783691406
+"Kiambu","Thika Town",2015,1121.15502929688
+"Kiambu","Thika Town",2016,1270.70568847656
+"Kiambu","Thika Town",2017,1714.77758789062
+"Kiambu","Thika Town",2018,2088.4921875
+"Kiambu","Thika Town",2019,2466.43212890625
+"Kiambu","Thika Town",2020,2266.30029296875
+"Kiambu","Thika Town",2021,2657.6796875
+"Kiambu","Thika Town",2022,3193.79028320312
+"Kiambu","Thika Town",2023,3258.25512695312
+"Kiambu","Thika Town",2024,3113.6650390625
+"Kilifi","Ganze",2012,4.81533479690552
+"Kilifi","Ganze",2013,4.92004776000977
+"Kilifi","Ganze",2014,7.3113112449646
+"Kilifi","Ganze",2015,10.3506851196289
+"Kilifi","Ganze",2016,8.49551963806152
+"Kilifi","Ganze",2017,10.5099592208862
+"Kilifi","Ganze",2018,10.431245803833
+"Kilifi","Ganze",2019,16.3175926208496
+"Kilifi","Ganze",2020,15.9425716400146
+"Kilifi","Ganze",2021,28.129430770874
+"Kilifi","Ganze",2022,72.2641525268555
+"Kilifi","Ganze",2023,56.3678817749023
+"Kilifi","Ganze",2024,54.4312896728516
+"Kilifi","Kaloleni",2012,150.425628662109
+"Kilifi","Kaloleni",2013,119.671539306641
+"Kilifi","Kaloleni",2014,157.726043701172
+"Kilifi","Kaloleni",2015,250.071411132812
+"Kilifi","Kaloleni",2016,310.645538330078
+"Kilifi","Kaloleni",2017,377.524658203125
+"Kilifi","Kaloleni",2018,319.904632568359
+"Kilifi","Kaloleni",2019,312.357269287109
+"Kilifi","Kaloleni",2020,277.054656982422
+"Kilifi","Kaloleni",2021,382.975646972656
+"Kilifi","Kaloleni",2022,477.690307617188
+"Kilifi","Kaloleni",2023,703.291564941406
+"Kilifi","Kaloleni",2024,675.896484375
+"Kilifi","Kilifi North",2012,353.021118164062
+"Kilifi","Kilifi North",2013,358.598846435547
+"Kilifi","Kilifi North",2014,377.064208984375
+"Kilifi","Kilifi North",2015,394.230072021484
+"Kilifi","Kilifi North",2016,584.329162597656
+"Kilifi","Kilifi North",2017,794.25830078125
+"Kilifi","Kilifi North",2018,676.108825683594
+"Kilifi","Kilifi North",2019,713.148559570312
+"Kilifi","Kilifi North",2020,688.043701171875
+"Kilifi","Kilifi North",2021,842.090637207031
+"Kilifi","Kilifi North",2022,1026.08740234375
+"Kilifi","Kilifi North",2023,1308.626953125
+"Kilifi","Kilifi North",2024,1459.2333984375
+"Kilifi","Kilifi South",2012,348.035888671875
+"Kilifi","Kilifi South",2013,341.385162353516
+"Kilifi","Kilifi South",2014,385.521148681641
+"Kilifi","Kilifi South",2015,431.005615234375
+"Kilifi","Kilifi South",2016,663.666320800781
+"Kilifi","Kilifi South",2017,732.965942382812
+"Kilifi","Kilifi South",2018,584.606140136719
+"Kilifi","Kilifi South",2019,682.608093261719
+"Kilifi","Kilifi South",2020,642.818542480469
+"Kilifi","Kilifi South",2021,853.600708007812
+"Kilifi","Kilifi South",2022,1162.74841308594
+"Kilifi","Kilifi South",2023,1355.47827148438
+"Kilifi","Kilifi South",2024,1395.14282226562
+"Kilifi","Magarini",2012,78.793815612793
+"Kilifi","Magarini",2013,79.5118026733398
+"Kilifi","Magarini",2014,71.5197448730469
+"Kilifi","Magarini",2015,85.2507934570312
+"Kilifi","Magarini",2016,74.5898361206055
+"Kilifi","Magarini",2017,74.9399948120117
+"Kilifi","Magarini",2018,77.775505065918
+"Kilifi","Magarini",2019,77.6162643432617
+"Kilifi","Magarini",2020,77.240104675293
+"Kilifi","Magarini",2021,105.494277954102
+"Kilifi","Magarini",2022,165.036270141602
+"Kilifi","Magarini",2023,188.900451660156
+"Kilifi","Magarini",2024,204.189559936523
+"Kilifi","Malindi",2012,453.178558349609
+"Kilifi","Malindi",2013,462.127136230469
+"Kilifi","Malindi",2014,518.160583496094
+"Kilifi","Malindi",2015,625.2109375
+"Kilifi","Malindi",2016,783.51171875
+"Kilifi","Malindi",2017,854.555541992188
+"Kilifi","Malindi",2018,812.905700683594
+"Kilifi","Malindi",2019,823.459289550781
+"Kilifi","Malindi",2020,744.621887207031
+"Kilifi","Malindi",2021,768.464904785156
+"Kilifi","Malindi",2022,1024.26672363281
+"Kilifi","Malindi",2023,1119.92248535156
+"Kilifi","Malindi",2024,1192.21484375
+"Kilifi","Rabai",2012,216.627197265625
+"Kilifi","Rabai",2013,197.028366088867
+"Kilifi","Rabai",2014,237.185775756836
+"Kilifi","Rabai",2015,290.84375
+"Kilifi","Rabai",2016,304.469512939453
+"Kilifi","Rabai",2017,333.853607177734
+"Kilifi","Rabai",2018,353.274261474609
+"Kilifi","Rabai",2019,364.49853515625
+"Kilifi","Rabai",2020,293.9111328125
+"Kilifi","Rabai",2021,487.886901855469
+"Kilifi","Rabai",2022,721.27490234375
+"Kilifi","Rabai",2023,881.833618164062
+"Kilifi","Rabai",2024,749.637573242188
+"Kirinyaga","Gichugu",2012,29.8558330535889
+"Kirinyaga","Gichugu",2013,19.1080360412598
+"Kirinyaga","Gichugu",2014,30.5563659667969
+"Kirinyaga","Gichugu",2015,35.7503700256348
+"Kirinyaga","Gichugu",2016,49.483772277832
+"Kirinyaga","Gichugu",2017,85.2237243652344
+"Kirinyaga","Gichugu",2018,104.252563476562
+"Kirinyaga","Gichugu",2019,161.01220703125
+"Kirinyaga","Gichugu",2020,129.769195556641
+"Kirinyaga","Gichugu",2021,226.095977783203
+"Kirinyaga","Gichugu",2022,468.99462890625
+"Kirinyaga","Gichugu",2023,403.113891601562
+"Kirinyaga","Gichugu",2024,544.755859375
+"Kirinyaga","Kirinyaga Central",2012,49.7579231262207
+"Kirinyaga","Kirinyaga Central",2013,51.3017616271973
+"Kirinyaga","Kirinyaga Central",2014,41.4238395690918
+"Kirinyaga","Kirinyaga Central",2015,53.8302268981934
+"Kirinyaga","Kirinyaga Central",2016,81.7479858398438
+"Kirinyaga","Kirinyaga Central",2017,165.287155151367
+"Kirinyaga","Kirinyaga Central",2018,203.063003540039
+"Kirinyaga","Kirinyaga Central",2019,209.617813110352
+"Kirinyaga","Kirinyaga Central",2020,147.581466674805
+"Kirinyaga","Kirinyaga Central",2021,206.159591674805
+"Kirinyaga","Kirinyaga Central",2022,413.07861328125
+"Kirinyaga","Kirinyaga Central",2023,431.734527587891
+"Kirinyaga","Kirinyaga Central",2024,522.816528320312
+"Kirinyaga","Mwea",2012,101.983787536621
+"Kirinyaga","Mwea",2013,72.2935943603516
+"Kirinyaga","Mwea",2014,107.055511474609
+"Kirinyaga","Mwea",2015,133.573333740234
+"Kirinyaga","Mwea",2016,152.227508544922
+"Kirinyaga","Mwea",2017,249.799102783203
+"Kirinyaga","Mwea",2018,294.396240234375
+"Kirinyaga","Mwea",2019,433.576965332031
+"Kirinyaga","Mwea",2020,302.392211914062
+"Kirinyaga","Mwea",2021,411.743377685547
+"Kirinyaga","Mwea",2022,878.562194824219
+"Kirinyaga","Mwea",2023,886.89111328125
+"Kirinyaga","Mwea",2024,1188.22058105469
+"Kirinyaga","Ndia",2012,20.1733741760254
+"Kirinyaga","Ndia",2013,14.8529596328735
+"Kirinyaga","Ndia",2014,34.424243927002
+"Kirinyaga","Ndia",2015,33.68505859375
+"Kirinyaga","Ndia",2016,28.1734962463379
+"Kirinyaga","Ndia",2017,57.156608581543
+"Kirinyaga","Ndia",2018,73.628173828125
+"Kirinyaga","Ndia",2019,92.1616516113281
+"Kirinyaga","Ndia",2020,47.890739440918
+"Kirinyaga","Ndia",2021,67.358154296875
+"Kirinyaga","Ndia",2022,209.028442382812
+"Kirinyaga","Ndia",2023,202.077194213867
+"Kirinyaga","Ndia",2024,309.715576171875
+"Kisii","Bobasi",2012,10.2221202850342
+"Kisii","Bobasi",2013,11.3271341323853
+"Kisii","Bobasi",2014,10.6219682693481
+"Kisii","Bobasi",2015,27.9487075805664
+"Kisii","Bobasi",2016,25.844165802002
+"Kisii","Bobasi",2017,41.3942451477051
+"Kisii","Bobasi",2018,94.5331802368164
+"Kisii","Bobasi",2019,102.944625854492
+"Kisii","Bobasi",2020,103.003677368164
+"Kisii","Bobasi",2021,189.067687988281
+"Kisii","Bobasi",2022,421.272033691406
+"Kisii","Bobasi",2023,574.379577636719
+"Kisii","Bobasi",2024,633.8544921875
+"Kisii","Bomachoge Borabu",2012,11.6271123886108
+"Kisii","Bomachoge Borabu",2013,10.548020362854
+"Kisii","Bomachoge Borabu",2014,15.1274509429932
+"Kisii","Bomachoge Borabu",2015,12.0962390899658
+"Kisii","Bomachoge Borabu",2016,11.2401638031006
+"Kisii","Bomachoge Borabu",2017,20.5521793365479
+"Kisii","Bomachoge Borabu",2018,26.7511215209961
+"Kisii","Bomachoge Borabu",2019,31.0185222625732
+"Kisii","Bomachoge Borabu",2020,29.2682342529297
+"Kisii","Bomachoge Borabu",2021,64.955451965332
+"Kisii","Bomachoge Borabu",2022,139.676849365234
+"Kisii","Bomachoge Borabu",2023,173.680923461914
+"Kisii","Bomachoge Borabu",2024,166.575500488281
+"Kisii","Bomachoge Chache",2012,13.3045358657837
+"Kisii","Bomachoge Chache",2013,10.6697044372559
+"Kisii","Bomachoge Chache",2014,17.4527263641357
+"Kisii","Bomachoge Chache",2015,27.0986938476562
+"Kisii","Bomachoge Chache",2016,35.2834663391113
+"Kisii","Bomachoge Chache",2017,32.5666198730469
+"Kisii","Bomachoge Chache",2018,58.1537818908691
+"Kisii","Bomachoge Chache",2019,73.5060501098633
+"Kisii","Bomachoge Chache",2020,93.4585876464844
+"Kisii","Bomachoge Chache",2021,132.671524047852
+"Kisii","Bomachoge Chache",2022,246.781478881836
+"Kisii","Bomachoge Chache",2023,267.610534667969
+"Kisii","Bomachoge Chache",2024,289.091430664062
+"Kisii","Bonchari",2012,30.0040225982666
+"Kisii","Bonchari",2013,44.7515869140625
+"Kisii","Bonchari",2014,56.7617149353027
+"Kisii","Bonchari",2015,97.0179977416992
+"Kisii","Bonchari",2016,121.289649963379
+"Kisii","Bonchari",2017,159.15852355957
+"Kisii","Bonchari",2018,246.311828613281
+"Kisii","Bonchari",2019,275.082122802734
+"Kisii","Bonchari",2020,248.184173583984
+"Kisii","Bonchari",2021,259.945007324219
+"Kisii","Bonchari",2022,394.11474609375
+"Kisii","Bonchari",2023,422.385070800781
+"Kisii","Bonchari",2024,527.939575195312
+"Kisii","Kitutu Chache North",2012,0.522286653518677
+"Kisii","Kitutu Chache North",2013,0
+"Kisii","Kitutu Chache North",2014,0
+"Kisii","Kitutu Chache North",2015,5.93055772781372
+"Kisii","Kitutu Chache North",2016,6.25601053237915
+"Kisii","Kitutu Chache North",2017,4.83578109741211
+"Kisii","Kitutu Chache North",2018,8.9923620223999
+"Kisii","Kitutu Chache North",2019,18.1869735717773
+"Kisii","Kitutu Chache North",2020,26.1074752807617
+"Kisii","Kitutu Chache North",2021,50.5371704101562
+"Kisii","Kitutu Chache North",2022,160.962997436523
+"Kisii","Kitutu Chache North",2023,203.778411865234
+"Kisii","Kitutu Chache North",2024,262.034454345703
+"Kisii","Kitutu Chache South",2012,37.7126197814941
+"Kisii","Kitutu Chache South",2013,48.4591865539551
+"Kisii","Kitutu Chache South",2014,69.3112716674805
+"Kisii","Kitutu Chache South",2015,93.5432586669922
+"Kisii","Kitutu Chache South",2016,104.843597412109
+"Kisii","Kitutu Chache South",2017,169.387145996094
+"Kisii","Kitutu Chache South",2018,238.407485961914
+"Kisii","Kitutu Chache South",2019,245.219940185547
+"Kisii","Kitutu Chache South",2020,291.117858886719
+"Kisii","Kitutu Chache South",2021,381.431396484375
+"Kisii","Kitutu Chache South",2022,466.136535644531
+"Kisii","Kitutu Chache South",2023,517.028930664062
+"Kisii","Kitutu Chache South",2024,605.794067382812
+"Kisii","Nyaribari Chache",2012,118.714561462402
+"Kisii","Nyaribari Chache",2013,132.277359008789
+"Kisii","Nyaribari Chache",2014,154.143646240234
+"Kisii","Nyaribari Chache",2015,225.869476318359
+"Kisii","Nyaribari Chache",2016,276.716430664062
+"Kisii","Nyaribari Chache",2017,410.773010253906
+"Kisii","Nyaribari Chache",2018,535.497985839844
+"Kisii","Nyaribari Chache",2019,532.988037109375
+"Kisii","Nyaribari Chache",2020,554.939331054688
+"Kisii","Nyaribari Chache",2021,801.112609863281
+"Kisii","Nyaribari Chache",2022,1003.12915039062
+"Kisii","Nyaribari Chache",2023,1060.13073730469
+"Kisii","Nyaribari Chache",2024,1103.57629394531
+"Kisii","Nyaribari Masaba",2012,11.5483531951904
+"Kisii","Nyaribari Masaba",2013,10.3000717163086
+"Kisii","Nyaribari Masaba",2014,12.2784080505371
+"Kisii","Nyaribari Masaba",2015,35.4336128234863
+"Kisii","Nyaribari Masaba",2016,29.1014537811279
+"Kisii","Nyaribari Masaba",2017,21.6027755737305
+"Kisii","Nyaribari Masaba",2018,58.9731979370117
+"Kisii","Nyaribari Masaba",2019,57.164909362793
+"Kisii","Nyaribari Masaba",2020,42.8180541992188
+"Kisii","Nyaribari Masaba",2021,53.6825714111328
+"Kisii","Nyaribari Masaba",2022,158.792098999023
+"Kisii","Nyaribari Masaba",2023,258.909240722656
+"Kisii","Nyaribari Masaba",2024,327.619110107422
+"Kisii","South Mugirango",2012,9.84842300415039
+"Kisii","South Mugirango",2013,10.8583526611328
+"Kisii","South Mugirango",2014,15.8079175949097
+"Kisii","South Mugirango",2015,33.4645118713379
+"Kisii","South Mugirango",2016,36.2132606506348
+"Kisii","South Mugirango",2017,40.0708961486816
+"Kisii","South Mugirango",2018,65.9657440185547
+"Kisii","South Mugirango",2019,72.4690093994141
+"Kisii","South Mugirango",2020,67.3241958618164
+"Kisii","South Mugirango",2021,62.5324325561523
+"Kisii","South Mugirango",2022,173.622848510742
+"Kisii","South Mugirango",2023,177.477066040039
+"Kisii","South Mugirango",2024,275.150329589844
+"Kisumu","Kisumu Central",2012,602.33251953125
+"Kisumu","Kisumu Central",2013,584.676879882812
+"Kisumu","Kisumu Central",2014,615.508605957031
+"Kisumu","Kisumu Central",2015,782.338500976562
+"Kisumu","Kisumu Central",2016,1584.36975097656
+"Kisumu","Kisumu Central",2017,1538.19262695312
+"Kisumu","Kisumu Central",2018,1878.94702148438
+"Kisumu","Kisumu Central",2019,1825.48596191406
+"Kisumu","Kisumu Central",2020,1526.21545410156
+"Kisumu","Kisumu Central",2021,1789.19348144531
+"Kisumu","Kisumu Central",2022,1820.02172851562
+"Kisumu","Kisumu Central",2023,1869.04357910156
+"Kisumu","Kisumu Central",2024,1716.5595703125
+"Kisumu","Kisumu East",2012,198.828018188477
+"Kisumu","Kisumu East",2013,206.52864074707
+"Kisumu","Kisumu East",2014,224.593643188477
+"Kisumu","Kisumu East",2015,364.842864990234
+"Kisumu","Kisumu East",2016,598.147644042969
+"Kisumu","Kisumu East",2017,566.55419921875
+"Kisumu","Kisumu East",2018,710.094116210938
+"Kisumu","Kisumu East",2019,708.935852050781
+"Kisumu","Kisumu East",2020,671.3955078125
+"Kisumu","Kisumu East",2021,801.391357421875
+"Kisumu","Kisumu East",2022,995.115417480469
+"Kisumu","Kisumu East",2023,1124.84033203125
+"Kisumu","Kisumu East",2024,1129.20751953125
+"Kisumu","Kisumu West",2012,176.510284423828
+"Kisumu","Kisumu West",2013,175.797836303711
+"Kisumu","Kisumu West",2014,168.493850708008
+"Kisumu","Kisumu West",2015,251.456985473633
+"Kisumu","Kisumu West",2016,311.162780761719
+"Kisumu","Kisumu West",2017,371.650512695312
+"Kisumu","Kisumu West",2018,424.267822265625
+"Kisumu","Kisumu West",2019,521.412353515625
+"Kisumu","Kisumu West",2020,408.957977294922
+"Kisumu","Kisumu West",2021,569.29248046875
+"Kisumu","Kisumu West",2022,911.866394042969
+"Kisumu","Kisumu West",2023,1091.11340332031
+"Kisumu","Kisumu West",2024,942.935974121094
+"Kisumu","Muhoroni",2012,107.631362915039
+"Kisumu","Muhoroni",2013,100.711952209473
+"Kisumu","Muhoroni",2014,107.876792907715
+"Kisumu","Muhoroni",2015,106.449211120605
+"Kisumu","Muhoroni",2016,112.932563781738
+"Kisumu","Muhoroni",2017,126.667068481445
+"Kisumu","Muhoroni",2018,156.285369873047
+"Kisumu","Muhoroni",2019,157.247421264648
+"Kisumu","Muhoroni",2020,139.884323120117
+"Kisumu","Muhoroni",2021,150.803619384766
+"Kisumu","Muhoroni",2022,331.794525146484
+"Kisumu","Muhoroni",2023,398.394195556641
+"Kisumu","Muhoroni",2024,420.372192382812
+"Kisumu","Nyakach",2012,24.0923595428467
+"Kisumu","Nyakach",2013,12.1927995681763
+"Kisumu","Nyakach",2014,15.6428117752075
+"Kisumu","Nyakach",2015,25.2013607025146
+"Kisumu","Nyakach",2016,39.8383522033691
+"Kisumu","Nyakach",2017,48.6010856628418
+"Kisumu","Nyakach",2018,74.9245986938477
+"Kisumu","Nyakach",2019,76.1600494384766
+"Kisumu","Nyakach",2020,55.9101486206055
+"Kisumu","Nyakach",2021,113.449249267578
+"Kisumu","Nyakach",2022,270.549346923828
+"Kisumu","Nyakach",2023,370.259826660156
+"Kisumu","Nyakach",2024,388.429626464844
+"Kisumu","Nyando",2012,53.337532043457
+"Kisumu","Nyando",2013,47.3491973876953
+"Kisumu","Nyando",2014,45.7804679870605
+"Kisumu","Nyando",2015,97.3237075805664
+"Kisumu","Nyando",2016,101.608764648438
+"Kisumu","Nyando",2017,120.375106811523
+"Kisumu","Nyando",2018,150.183349609375
+"Kisumu","Nyando",2019,162.72004699707
+"Kisumu","Nyando",2020,149.456573486328
+"Kisumu","Nyando",2021,222.555099487305
+"Kisumu","Nyando",2022,454.668914794922
+"Kisumu","Nyando",2023,593.587768554688
+"Kisumu","Nyando",2024,636.015075683594
+"Kisumu","Seme",2012,1.76980710029602
+"Kisumu","Seme",2013,1.05936527252197
+"Kisumu","Seme",2014,2.14410924911499
+"Kisumu","Seme",2015,3.36586713790894
+"Kisumu","Seme",2016,6.44166374206543
+"Kisumu","Seme",2017,5.05375480651855
+"Kisumu","Seme",2018,7.31355333328247
+"Kisumu","Seme",2019,13.8193073272705
+"Kisumu","Seme",2020,15.6493444442749
+"Kisumu","Seme",2021,25.4310054779053
+"Kisumu","Seme",2022,77.1074905395508
+"Kisumu","Seme",2023,177.464828491211
+"Kisumu","Seme",2024,102.867393493652
+"Kitui","Kitui Central",2012,58.0319023132324
+"Kitui","Kitui Central",2013,71.3909301757812
+"Kitui","Kitui Central",2014,97.4017639160156
+"Kitui","Kitui Central",2015,176.483215332031
+"Kitui","Kitui Central",2016,188.511566162109
+"Kitui","Kitui Central",2017,260.118255615234
+"Kitui","Kitui Central",2018,244.078125
+"Kitui","Kitui Central",2019,184.204116821289
+"Kitui","Kitui Central",2020,168.19596862793
+"Kitui","Kitui Central",2021,184.877975463867
+"Kitui","Kitui Central",2022,292.7197265625
+"Kitui","Kitui Central",2023,378.169189453125
+"Kitui","Kitui Central",2024,366.260101318359
+"Kitui","Kitui East",2012,5.13200378417969
+"Kitui","Kitui East",2013,8.00569629669189
+"Kitui","Kitui East",2014,11.897575378418
+"Kitui","Kitui East",2015,14.2548151016235
+"Kitui","Kitui East",2016,20.0266590118408
+"Kitui","Kitui East",2017,38.3780860900879
+"Kitui","Kitui East",2018,55.1879348754883
+"Kitui","Kitui East",2019,29.6747970581055
+"Kitui","Kitui East",2020,31.4607887268066
+"Kitui","Kitui East",2021,41.8181076049805
+"Kitui","Kitui East",2022,83.0378112792969
+"Kitui","Kitui East",2023,116.869750976562
+"Kitui","Kitui East",2024,109.868621826172
+"Kitui","Kitui Rural",2012,31.5507526397705
+"Kitui","Kitui Rural",2013,39.2818717956543
+"Kitui","Kitui Rural",2014,55.0705451965332
+"Kitui","Kitui Rural",2015,59.0229148864746
+"Kitui","Kitui Rural",2016,62.422290802002
+"Kitui","Kitui Rural",2017,62.4478454589844
+"Kitui","Kitui Rural",2018,50.2781257629395
+"Kitui","Kitui Rural",2019,33.517017364502
+"Kitui","Kitui Rural",2020,31.301721572876
+"Kitui","Kitui Rural",2021,69.2141189575195
+"Kitui","Kitui Rural",2022,161.841842651367
+"Kitui","Kitui Rural",2023,192.302368164062
+"Kitui","Kitui Rural",2024,163.325820922852
+"Kitui","Kitui South",2012,7.05658388137817
+"Kitui","Kitui South",2013,5.89997005462646
+"Kitui","Kitui South",2014,6.53689527511597
+"Kitui","Kitui South",2015,6.21216201782227
+"Kitui","Kitui South",2016,6.24793100357056
+"Kitui","Kitui South",2017,12.5474290847778
+"Kitui","Kitui South",2018,22.2759647369385
+"Kitui","Kitui South",2019,14.8821001052856
+"Kitui","Kitui South",2020,11.6256866455078
+"Kitui","Kitui South",2021,15.6182594299316
+"Kitui","Kitui South",2022,27.6713714599609
+"Kitui","Kitui South",2023,39.8947257995605
+"Kitui","Kitui South",2024,32.931568145752
+"Kitui","Kitui West",2012,3.98538327217102
+"Kitui","Kitui West",2013,3.18974208831787
+"Kitui","Kitui West",2014,3.63519906997681
+"Kitui","Kitui West",2015,6.36504936218262
+"Kitui","Kitui West",2016,4.34581851959229
+"Kitui","Kitui West",2017,29.4032859802246
+"Kitui","Kitui West",2018,18.9657535552979
+"Kitui","Kitui West",2019,5.32962274551392
+"Kitui","Kitui West",2020,14.398042678833
+"Kitui","Kitui West",2021,14.2326974868774
+"Kitui","Kitui West",2022,32.0256614685059
+"Kitui","Kitui West",2023,61.3269424438477
+"Kitui","Kitui West",2024,51.3967704772949
+"Kitui","Mwingi Central",2012,41.8865814208984
+"Kitui","Mwingi Central",2013,39.8117828369141
+"Kitui","Mwingi Central",2014,45.7673759460449
+"Kitui","Mwingi Central",2015,54.8096504211426
+"Kitui","Mwingi Central",2016,93.1805038452148
+"Kitui","Mwingi Central",2017,136.536605834961
+"Kitui","Mwingi Central",2018,203.988891601562
+"Kitui","Mwingi Central",2019,204.863296508789
+"Kitui","Mwingi Central",2020,160.942077636719
+"Kitui","Mwingi Central",2021,184.384902954102
+"Kitui","Mwingi Central",2022,206.421279907227
+"Kitui","Mwingi Central",2023,265.04052734375
+"Kitui","Mwingi Central",2024,251.197967529297
+"Kitui","Mwingi North",2012,3.45392775535583
+"Kitui","Mwingi North",2013,1.09841203689575
+"Kitui","Mwingi North",2014,2.20802760124207
+"Kitui","Mwingi North",2015,2.00562071800232
+"Kitui","Mwingi North",2016,2.96019649505615
+"Kitui","Mwingi North",2017,3.66642045974731
+"Kitui","Mwingi North",2018,5.5377402305603
+"Kitui","Mwingi North",2019,5.24592781066895
+"Kitui","Mwingi North",2020,1.63341248035431
+"Kitui","Mwingi North",2021,8.96910095214844
+"Kitui","Mwingi North",2022,20.1125965118408
+"Kitui","Mwingi North",2023,24.4968090057373
+"Kitui","Mwingi North",2024,22.5702381134033
+"Kitui","Mwingi West",2012,2.46679449081421
+"Kitui","Mwingi West",2013,1.07689619064331
+"Kitui","Mwingi West",2014,0.502754628658295
+"Kitui","Mwingi West",2015,0.552406966686249
+"Kitui","Mwingi West",2016,1.153364777565
+"Kitui","Mwingi West",2017,1.6403774023056
+"Kitui","Mwingi West",2018,2.09715104103088
+"Kitui","Mwingi West",2019,3.94707822799683
+"Kitui","Mwingi West",2020,2.29822516441345
+"Kitui","Mwingi West",2021,20.8503551483154
+"Kitui","Mwingi West",2022,39.6877403259277
+"Kitui","Mwingi West",2023,46.8770217895508
+"Kitui","Mwingi West",2024,33.0280151367188
+"Kwale","Kinango",2012,106.892547607422
+"Kwale","Kinango",2013,115.405090332031
+"Kwale","Kinango",2014,147.9775390625
+"Kwale","Kinango",2015,297.40771484375
+"Kwale","Kinango",2016,324.774444580078
+"Kwale","Kinango",2017,375.656433105469
+"Kwale","Kinango",2018,347.313232421875
+"Kwale","Kinango",2019,499.775665283203
+"Kwale","Kinango",2020,312.078186035156
+"Kwale","Kinango",2021,566.045654296875
+"Kwale","Kinango",2022,771.441711425781
+"Kwale","Kinango",2023,1045.08361816406
+"Kwale","Kinango",2024,1064.44360351562
+"Kwale","Lungalunga",2012,9.31461048126221
+"Kwale","Lungalunga",2013,5.2249698638916
+"Kwale","Lungalunga",2014,9.80460643768311
+"Kwale","Lungalunga",2015,11.3393354415894
+"Kwale","Lungalunga",2016,13.5035257339478
+"Kwale","Lungalunga",2017,24.2543830871582
+"Kwale","Lungalunga",2018,40.4811019897461
+"Kwale","Lungalunga",2019,38.3980598449707
+"Kwale","Lungalunga",2020,33.7789306640625
+"Kwale","Lungalunga",2021,39.9352951049805
+"Kwale","Lungalunga",2022,53.471736907959
+"Kwale","Lungalunga",2023,70.1218338012695
+"Kwale","Lungalunga",2024,55.5786361694336
+"Kwale","Matuga",2012,121.843955993652
+"Kwale","Matuga",2013,126.313674926758
+"Kwale","Matuga",2014,133.828674316406
+"Kwale","Matuga",2015,183.051574707031
+"Kwale","Matuga",2016,208.90934753418
+"Kwale","Matuga",2017,262.566833496094
+"Kwale","Matuga",2018,268.304534912109
+"Kwale","Matuga",2019,273.477752685547
+"Kwale","Matuga",2020,221.396499633789
+"Kwale","Matuga",2021,322.27734375
+"Kwale","Matuga",2022,442.477233886719
+"Kwale","Matuga",2023,578.550964355469
+"Kwale","Matuga",2024,685.681396484375
+"Kwale","Msambweni",2012,561.109130859375
+"Kwale","Msambweni",2013,646.71826171875
+"Kwale","Msambweni",2014,680.325317382812
+"Kwale","Msambweni",2015,673.71337890625
+"Kwale","Msambweni",2016,756.394653320312
+"Kwale","Msambweni",2017,793.762756347656
+"Kwale","Msambweni",2018,916.527709960938
+"Kwale","Msambweni",2019,912.0439453125
+"Kwale","Msambweni",2020,875.687805175781
+"Kwale","Msambweni",2021,1011.58215332031
+"Kwale","Msambweni",2022,1176.64916992188
+"Kwale","Msambweni",2023,1339.4619140625
+"Kwale","Msambweni",2024,1340.52673339844
+"Laikipia","Laikipia East",2012,229.088531494141
+"Laikipia","Laikipia East",2013,299.013702392578
+"Laikipia","Laikipia East",2014,343.722595214844
+"Laikipia","Laikipia East",2015,416.472564697266
+"Laikipia","Laikipia East",2016,477.853393554688
+"Laikipia","Laikipia East",2017,609.95849609375
+"Laikipia","Laikipia East",2018,639.023010253906
+"Laikipia","Laikipia East",2019,749.920043945312
+"Laikipia","Laikipia East",2020,614.578552246094
+"Laikipia","Laikipia East",2021,669.531127929688
+"Laikipia","Laikipia East",2022,760.513854980469
+"Laikipia","Laikipia East",2023,757.537048339844
+"Laikipia","Laikipia East",2024,654.986206054688
+"Laikipia","Laikipia North",2012,22.2732734680176
+"Laikipia","Laikipia North",2013,25.6211986541748
+"Laikipia","Laikipia North",2014,31.5312538146973
+"Laikipia","Laikipia North",2015,49.868408203125
+"Laikipia","Laikipia North",2016,60.312427520752
+"Laikipia","Laikipia North",2017,64.8953323364258
+"Laikipia","Laikipia North",2018,62.4120292663574
+"Laikipia","Laikipia North",2019,79.5523834228516
+"Laikipia","Laikipia North",2020,47.4904556274414
+"Laikipia","Laikipia North",2021,57.763744354248
+"Laikipia","Laikipia North",2022,81.4211883544922
+"Laikipia","Laikipia North",2023,94.594856262207
+"Laikipia","Laikipia North",2024,108.050643920898
+"Laikipia","Laikipia West",2012,107.973846435547
+"Laikipia","Laikipia West",2013,149.070373535156
+"Laikipia","Laikipia West",2014,179.504699707031
+"Laikipia","Laikipia West",2015,221.792114257812
+"Laikipia","Laikipia West",2016,254.684265136719
+"Laikipia","Laikipia West",2017,295.805267333984
+"Laikipia","Laikipia West",2018,310.347808837891
+"Laikipia","Laikipia West",2019,322.690032958984
+"Laikipia","Laikipia West",2020,289.704162597656
+"Laikipia","Laikipia West",2021,338.480499267578
+"Laikipia","Laikipia West",2022,412.683746337891
+"Laikipia","Laikipia West",2023,430.419677734375
+"Laikipia","Laikipia West",2024,400.979614257812
+"Lamu","Lamu East",2012,0
+"Lamu","Lamu East",2013,0
+"Lamu","Lamu East",2014,0
+"Lamu","Lamu East",2015,0
+"Lamu","Lamu East",2016,0
+"Lamu","Lamu East",2017,0
+"Lamu","Lamu East",2018,0.476588189601898
+"Lamu","Lamu East",2019,0
+"Lamu","Lamu East",2020,17.7186470031738
+"Lamu","Lamu East",2021,27.222620010376
+"Lamu","Lamu East",2022,37.7837600708008
+"Lamu","Lamu East",2023,41.877815246582
+"Lamu","Lamu East",2024,29.5404205322266
+"Lamu","Lamu West",2012,68.5008087158203
+"Lamu","Lamu West",2013,66.9802932739258
+"Lamu","Lamu West",2014,58.3214836120605
+"Lamu","Lamu West",2015,66.5680084228516
+"Lamu","Lamu West",2016,111.434898376465
+"Lamu","Lamu West",2017,244.597640991211
+"Lamu","Lamu West",2018,250.271148681641
+"Lamu","Lamu West",2019,413.499420166016
+"Lamu","Lamu West",2020,533.629455566406
+"Lamu","Lamu West",2021,753.679626464844
+"Lamu","Lamu West",2022,1306.58862304688
+"Lamu","Lamu West",2023,1173.72314453125
+"Lamu","Lamu West",2024,1005.13684082031
+"Machakos","Kangundo",2012,17.9857807159424
+"Machakos","Kangundo",2013,15.6543445587158
+"Machakos","Kangundo",2014,21.9503707885742
+"Machakos","Kangundo",2015,29.4421043395996
+"Machakos","Kangundo",2016,44.2925682067871
+"Machakos","Kangundo",2017,27.2665405273438
+"Machakos","Kangundo",2018,90.0564270019531
+"Machakos","Kangundo",2019,206.275421142578
+"Machakos","Kangundo",2020,178.911361694336
+"Machakos","Kangundo",2021,293.235229492188
+"Machakos","Kangundo",2022,336.135101318359
+"Machakos","Kangundo",2023,443.623626708984
+"Machakos","Kangundo",2024,352.993804931641
+"Machakos","Kathiani",2012,10.7292861938477
+"Machakos","Kathiani",2013,8.87078094482422
+"Machakos","Kathiani",2014,12.2105588912964
+"Machakos","Kathiani",2015,13.4434862136841
+"Machakos","Kathiani",2016,28.8431434631348
+"Machakos","Kathiani",2017,48.743480682373
+"Machakos","Kathiani",2018,93.582275390625
+"Machakos","Kathiani",2019,155.241729736328
+"Machakos","Kathiani",2020,152.767715454102
+"Machakos","Kathiani",2021,281.389343261719
+"Machakos","Kathiani",2022,342.195404052734
+"Machakos","Kathiani",2023,443.875
+"Machakos","Kathiani",2024,354.060363769531
+"Machakos","Machakos Town",2012,270.342681884766
+"Machakos","Machakos Town",2013,246.037643432617
+"Machakos","Machakos Town",2014,656.636901855469
+"Machakos","Machakos Town",2015,684.668884277344
+"Machakos","Machakos Town",2016,797.012084960938
+"Machakos","Machakos Town",2017,1134.45031738281
+"Machakos","Machakos Town",2018,1201.13745117188
+"Machakos","Machakos Town",2019,1225.12292480469
+"Machakos","Machakos Town",2020,1253.95666503906
+"Machakos","Machakos Town",2021,1384.529296875
+"Machakos","Machakos Town",2022,1345.73767089844
+"Machakos","Machakos Town",2023,1688.63977050781
+"Machakos","Machakos Town",2024,1352.78894042969
+"Machakos","Masinga",2012,51.1435432434082
+"Machakos","Masinga",2013,50.9061546325684
+"Machakos","Masinga",2014,53.6159896850586
+"Machakos","Masinga",2015,46.8844337463379
+"Machakos","Masinga",2016,38.9172515869141
+"Machakos","Masinga",2017,50.9589080810547
+"Machakos","Masinga",2018,55.7023773193359
+"Machakos","Masinga",2019,79.6427917480469
+"Machakos","Masinga",2020,95.514762878418
+"Machakos","Masinga",2021,141.691223144531
+"Machakos","Masinga",2022,182.112274169922
+"Machakos","Masinga",2023,204.429656982422
+"Machakos","Masinga",2024,148.291442871094
+"Machakos","Matungulu",2012,38.7463684082031
+"Machakos","Matungulu",2013,41.1882019042969
+"Machakos","Matungulu",2014,52.3349494934082
+"Machakos","Matungulu",2015,72.4225769042969
+"Machakos","Matungulu",2016,76.0456085205078
+"Machakos","Matungulu",2017,91.2517623901367
+"Machakos","Matungulu",2018,148.139221191406
+"Machakos","Matungulu",2019,322.048583984375
+"Machakos","Matungulu",2020,352.360473632812
+"Machakos","Matungulu",2021,556.018493652344
+"Machakos","Matungulu",2022,827.331726074219
+"Machakos","Matungulu",2023,1125.08276367188
+"Machakos","Matungulu",2024,917.451538085938
+"Machakos","Mavoko",2012,1649.44262695312
+"Machakos","Mavoko",2013,2035.56005859375
+"Machakos","Mavoko",2014,2386.82568359375
+"Machakos","Mavoko",2015,2993.27783203125
+"Machakos","Mavoko",2016,2922.1787109375
+"Machakos","Mavoko",2017,3989.06616210938
+"Machakos","Mavoko",2018,4611.93798828125
+"Machakos","Mavoko",2019,5344.9208984375
+"Machakos","Mavoko",2020,5316.890625
+"Machakos","Mavoko",2021,6369.14599609375
+"Machakos","Mavoko",2022,7201.9267578125
+"Machakos","Mavoko",2023,8462.9501953125
+"Machakos","Mavoko",2024,8008.80029296875
+"Machakos","Mwala",2012,13.7521772384644
+"Machakos","Mwala",2013,4.69653701782227
+"Machakos","Mwala",2014,85.436164855957
+"Machakos","Mwala",2015,214.049240112305
+"Machakos","Mwala",2016,93.4185180664062
+"Machakos","Mwala",2017,100.987007141113
+"Machakos","Mwala",2018,154.425109863281
+"Machakos","Mwala",2019,230.698379516602
+"Machakos","Mwala",2020,179.104431152344
+"Machakos","Mwala",2021,260.746887207031
+"Machakos","Mwala",2022,371.562927246094
+"Machakos","Mwala",2023,721.936767578125
+"Machakos","Mwala",2024,632.852966308594
+"Machakos","Yatta",2012,45.7294769287109
+"Machakos","Yatta",2013,38.7791900634766
+"Machakos","Yatta",2014,63.4535369873047
+"Machakos","Yatta",2015,119.273345947266
+"Machakos","Yatta",2016,70.9091491699219
+"Machakos","Yatta",2017,61.5773391723633
+"Machakos","Yatta",2018,81.0018768310547
+"Machakos","Yatta",2019,198.512771606445
+"Machakos","Yatta",2020,198.35774230957
+"Machakos","Yatta",2021,312.157775878906
+"Machakos","Yatta",2022,346.133911132812
+"Machakos","Yatta",2023,442.347442626953
+"Machakos","Yatta",2024,391.659698486328
+"Machakos","unknown 7",2012,5.49641275405884
+"Machakos","unknown 7",2013,2.07087850570679
+"Machakos","unknown 7",2014,0.0150572648271918
+"Machakos","unknown 7",2015,0
+"Machakos","unknown 7",2016,1.44167506694794
+"Machakos","unknown 7",2017,10.2265357971191
+"Machakos","unknown 7",2018,6.99254131317139
+"Machakos","unknown 7",2019,27.2649612426758
+"Machakos","unknown 7",2020,146.473236083984
+"Machakos","unknown 7",2021,202.697738647461
+"Machakos","unknown 7",2022,253.850433349609
+"Machakos","unknown 7",2023,240.63102722168
+"Machakos","unknown 7",2024,190.841094970703
+"Makueni","Kaiti",2012,6.77321767807007
+"Makueni","Kaiti",2013,4.43981456756592
+"Makueni","Kaiti",2014,9.48178768157959
+"Makueni","Kaiti",2015,10.3060789108276
+"Makueni","Kaiti",2016,3.76642751693726
+"Makueni","Kaiti",2017,8.67835426330566
+"Makueni","Kaiti",2018,8.71786499023438
+"Makueni","Kaiti",2019,12.1173095703125
+"Makueni","Kaiti",2020,7.17261600494385
+"Makueni","Kaiti",2021,17.991174697876
+"Makueni","Kaiti",2022,36.6998863220215
+"Makueni","Kaiti",2023,74.5820770263672
+"Makueni","Kaiti",2024,64.2880020141602
+"Makueni","Kibwezi East",2012,40.8368225097656
+"Makueni","Kibwezi East",2013,52.9597015380859
+"Makueni","Kibwezi East",2014,37.0171890258789
+"Makueni","Kibwezi East",2015,85.858512878418
+"Makueni","Kibwezi East",2016,104.385963439941
+"Makueni","Kibwezi East",2017,92.8833084106445
+"Makueni","Kibwezi East",2018,113.93620300293
+"Makueni","Kibwezi East",2019,94.1270065307617
+"Makueni","Kibwezi East",2020,75.1821975708008
+"Makueni","Kibwezi East",2021,90.8322296142578
+"Makueni","Kibwezi East",2022,129.352767944336
+"Makueni","Kibwezi East",2023,183.346694946289
+"Makueni","Kibwezi East",2024,161.410583496094
+"Makueni","Kibwezi West",2012,113.986099243164
+"Makueni","Kibwezi West",2013,106.999778747559
+"Makueni","Kibwezi West",2014,113.989044189453
+"Makueni","Kibwezi West",2015,163.297546386719
+"Makueni","Kibwezi West",2016,151.498550415039
+"Makueni","Kibwezi West",2017,213.419830322266
+"Makueni","Kibwezi West",2018,213.214904785156
+"Makueni","Kibwezi West",2019,184.250259399414
+"Makueni","Kibwezi West",2020,154.205291748047
+"Makueni","Kibwezi West",2021,194.294998168945
+"Makueni","Kibwezi West",2022,285.478240966797
+"Makueni","Kibwezi West",2023,373.161743164062
+"Makueni","Kibwezi West",2024,371.264007568359
+"Makueni","Kilome",2012,26.8245220184326
+"Makueni","Kilome",2013,24.3116683959961
+"Makueni","Kilome",2014,41.053768157959
+"Makueni","Kilome",2015,36.4421195983887
+"Makueni","Kilome",2016,33.7548561096191
+"Makueni","Kilome",2017,54.0574531555176
+"Makueni","Kilome",2018,76.4438095092773
+"Makueni","Kilome",2019,71.9558334350586
+"Makueni","Kilome",2020,65.887939453125
+"Makueni","Kilome",2021,88.7090911865234
+"Makueni","Kilome",2022,140.935989379883
+"Makueni","Kilome",2023,214.695526123047
+"Makueni","Kilome",2024,166.190399169922
+"Makueni","Makueni",2012,41.1192626953125
+"Makueni","Makueni",2013,34.784049987793
+"Makueni","Makueni",2014,43.8342781066895
+"Makueni","Makueni",2015,75.5955352783203
+"Makueni","Makueni",2016,96.0997695922852
+"Makueni","Makueni",2017,204.818481445312
+"Makueni","Makueni",2018,173.636825561523
+"Makueni","Makueni",2019,167.343795776367
+"Makueni","Makueni",2020,160.942916870117
+"Makueni","Makueni",2021,272.074157714844
+"Makueni","Makueni",2022,500.370178222656
+"Makueni","Makueni",2023,480.08837890625
+"Makueni","Makueni",2024,439.017486572266
+"Makueni","Mbooni",2012,5.83516120910645
+"Makueni","Mbooni",2013,1.03437340259552
+"Makueni","Mbooni",2014,12.3848361968994
+"Makueni","Mbooni",2015,23.2429084777832
+"Makueni","Mbooni",2016,11.2312717437744
+"Makueni","Mbooni",2017,24.7751350402832
+"Makueni","Mbooni",2018,17.3935317993164
+"Makueni","Mbooni",2019,44.254753112793
+"Makueni","Mbooni",2020,22.2526168823242
+"Makueni","Mbooni",2021,64.3191452026367
+"Makueni","Mbooni",2022,157.020721435547
+"Makueni","Mbooni",2023,168.686676025391
+"Makueni","Mbooni",2024,142.021530151367
+"Mandera","Banissa",2012,0
+"Mandera","Banissa",2013,0
+"Mandera","Banissa",2014,0
+"Mandera","Banissa",2015,0
+"Mandera","Banissa",2016,4.83380603790283
+"Mandera","Banissa",2017,3.69268202781677
+"Mandera","Banissa",2018,1.27167510986328
+"Mandera","Banissa",2019,0
+"Mandera","Banissa",2020,0
+"Mandera","Banissa",2021,0
+"Mandera","Banissa",2022,4.13789939880371
+"Mandera","Banissa",2023,4.88788795471191
+"Mandera","Banissa",2024,8.3064079284668
+"Mandera","Lafey",2012,0
+"Mandera","Lafey",2013,0
+"Mandera","Lafey",2014,0
+"Mandera","Lafey",2015,3.77248525619507
+"Mandera","Lafey",2016,11.7966537475586
+"Mandera","Lafey",2017,9.29207992553711
+"Mandera","Lafey",2018,3.98944520950317
+"Mandera","Lafey",2019,1.32411313056946
+"Mandera","Lafey",2020,0
+"Mandera","Lafey",2021,0
+"Mandera","Lafey",2022,0
+"Mandera","Lafey",2023,1.65178906917572
+"Mandera","Lafey",2024,0.568920433521271
+"Mandera","Mandera East",2012,44.5701751708984
+"Mandera","Mandera East",2013,47.234992980957
+"Mandera","Mandera East",2014,69.8880157470703
+"Mandera","Mandera East",2015,102.418304443359
+"Mandera","Mandera East",2016,177.063537597656
+"Mandera","Mandera East",2017,213.13801574707
+"Mandera","Mandera East",2018,162.719436645508
+"Mandera","Mandera East",2019,148.155700683594
+"Mandera","Mandera East",2020,172.585159301758
+"Mandera","Mandera East",2021,221.625198364258
+"Mandera","Mandera East",2022,209.701126098633
+"Mandera","Mandera East",2023,207.922500610352
+"Mandera","Mandera East",2024,203.430999755859
+"Mandera","Mandera North",2012,1.5204621553421
+"Mandera","Mandera North",2013,0
+"Mandera","Mandera North",2014,0
+"Mandera","Mandera North",2015,2.37591099739075
+"Mandera","Mandera North",2016,24.3132362365723
+"Mandera","Mandera North",2017,17.523021697998
+"Mandera","Mandera North",2018,2.07373476028442
+"Mandera","Mandera North",2019,5.0913519859314
+"Mandera","Mandera North",2020,4.52190923690796
+"Mandera","Mandera North",2021,8.33199024200439
+"Mandera","Mandera North",2022,15.8261728286743
+"Mandera","Mandera North",2023,14.833083152771
+"Mandera","Mandera North",2024,10.2895336151123
+"Mandera","Mandera South",2012,3.63534188270569
+"Mandera","Mandera South",2013,8.18302345275879
+"Mandera","Mandera South",2014,10.3998012542725
+"Mandera","Mandera South",2015,41.771484375
+"Mandera","Mandera South",2016,107.66576385498
+"Mandera","Mandera South",2017,43.691047668457
+"Mandera","Mandera South",2018,4.96104955673218
+"Mandera","Mandera South",2019,6.44223022460938
+"Mandera","Mandera South",2020,22.4782581329346
+"Mandera","Mandera South",2021,43.9211959838867
+"Mandera","Mandera South",2022,37.4402465820312
+"Mandera","Mandera South",2023,30.53346824646
+"Mandera","Mandera South",2024,35.606014251709
+"Mandera","Mandera West",2012,0
+"Mandera","Mandera West",2013,0
+"Mandera","Mandera West",2014,3.15533661842346
+"Mandera","Mandera West",2015,9.16742324829102
+"Mandera","Mandera West",2016,29.496431350708
+"Mandera","Mandera West",2017,32.0429458618164
+"Mandera","Mandera West",2018,28.2923831939697
+"Mandera","Mandera West",2019,25.6950035095215
+"Mandera","Mandera West",2020,19.247486114502
+"Mandera","Mandera West",2021,11.2126617431641
+"Mandera","Mandera West",2022,36.1455421447754
+"Mandera","Mandera West",2023,39.0615615844727
+"Mandera","Mandera West",2024,38.8275985717773
+"Mandera","unknown 1",2012,0
+"Mandera","unknown 1",2013,0
+"Mandera","unknown 1",2014,0
+"Mandera","unknown 1",2015,0
+"Mandera","unknown 1",2016,0
+"Mandera","unknown 1",2017,0
+"Mandera","unknown 1",2018,0
+"Mandera","unknown 1",2019,0
+"Mandera","unknown 1",2020,0
+"Mandera","unknown 1",2021,0
+"Mandera","unknown 1",2022,0
+"Mandera","unknown 1",2023,0
+"Mandera","unknown 1",2024,0
+"Marsabit","Laisamis",2012,0
+"Marsabit","Laisamis",2013,1.32436180114746
+"Marsabit","Laisamis",2014,16.0809173583984
+"Marsabit","Laisamis",2015,21.8114700317383
+"Marsabit","Laisamis",2016,43.3118438720703
+"Marsabit","Laisamis",2017,40.1800842285156
+"Marsabit","Laisamis",2018,69.1836471557617
+"Marsabit","Laisamis",2019,72.8961029052734
+"Marsabit","Laisamis",2020,44.2639541625977
+"Marsabit","Laisamis",2021,52.8678970336914
+"Marsabit","Laisamis",2022,86.9227142333984
+"Marsabit","Laisamis",2023,78.4311447143555
+"Marsabit","Laisamis",2024,79.6821441650391
+"Marsabit","Moyale",2012,20.4535865783691
+"Marsabit","Moyale",2013,14.5255432128906
+"Marsabit","Moyale",2014,15.7071685791016
+"Marsabit","Moyale",2015,25.4360504150391
+"Marsabit","Moyale",2016,25.0770683288574
+"Marsabit","Moyale",2017,80.2659454345703
+"Marsabit","Moyale",2018,103.803184509277
+"Marsabit","Moyale",2019,89.1559066772461
+"Marsabit","Moyale",2020,71.2964706420898
+"Marsabit","Moyale",2021,79.0099639892578
+"Marsabit","Moyale",2022,112.8662109375
+"Marsabit","Moyale",2023,147.737731933594
+"Marsabit","Moyale",2024,158.684906005859
+"Marsabit","North Horr",2012,17.9801979064941
+"Marsabit","North Horr",2013,15.9951133728027
+"Marsabit","North Horr",2014,0.672250509262085
+"Marsabit","North Horr",2015,0
+"Marsabit","North Horr",2016,0
+"Marsabit","North Horr",2017,0
+"Marsabit","North Horr",2018,0
+"Marsabit","North Horr",2019,0
+"Marsabit","North Horr",2020,0
+"Marsabit","North Horr",2021,0
+"Marsabit","North Horr",2022,3.03276133537292
+"Marsabit","North Horr",2023,0.590840339660645
+"Marsabit","North Horr",2024,1.03876888751984
+"Marsabit","Saku",2012,22.0453777313232
+"Marsabit","Saku",2013,35.0988502502441
+"Marsabit","Saku",2014,38.0397872924805
+"Marsabit","Saku",2015,60.9976272583008
+"Marsabit","Saku",2016,49.4650764465332
+"Marsabit","Saku",2017,80.4278945922852
+"Marsabit","Saku",2018,114.974731445312
+"Marsabit","Saku",2019,83.1917572021484
+"Marsabit","Saku",2020,68.5492935180664
+"Marsabit","Saku",2021,78.4375991821289
+"Marsabit","Saku",2022,126.412437438965
+"Marsabit","Saku",2023,138.726806640625
+"Marsabit","Saku",2024,148.438171386719
+"Meru","Buuri",2012,285.072601318359
+"Meru","Buuri",2013,487.937927246094
+"Meru","Buuri",2014,579.952453613281
+"Meru","Buuri",2015,610.700988769531
+"Meru","Buuri",2016,623.241577148438
+"Meru","Buuri",2017,699.359924316406
+"Meru","Buuri",2018,711.535766601562
+"Meru","Buuri",2019,710.691162109375
+"Meru","Buuri",2020,558.61376953125
+"Meru","Buuri",2021,789.220703125
+"Meru","Buuri",2022,989.235412597656
+"Meru","Buuri",2023,1042.63879394531
+"Meru","Buuri",2024,1070.31225585938
+"Meru","Central Imenti",2012,12.2525081634521
+"Meru","Central Imenti",2013,10.7796850204468
+"Meru","Central Imenti",2014,13.7592573165894
+"Meru","Central Imenti",2015,11.8005065917969
+"Meru","Central Imenti",2016,10.342755317688
+"Meru","Central Imenti",2017,49.8361587524414
+"Meru","Central Imenti",2018,51.7067947387695
+"Meru","Central Imenti",2019,46.4381217956543
+"Meru","Central Imenti",2020,34.4315223693848
+"Meru","Central Imenti",2021,75.027946472168
+"Meru","Central Imenti",2022,191.784103393555
+"Meru","Central Imenti",2023,261.244018554688
+"Meru","Central Imenti",2024,289.395233154297
+"Meru","Igembe Central",2012,1.60840654373169
+"Meru","Igembe Central",2013,1.14175868034363
+"Meru","Igembe Central",2014,1.47884702682495
+"Meru","Igembe Central",2015,2.56574010848999
+"Meru","Igembe Central",2016,8.739426612854
+"Meru","Igembe Central",2017,13.2381954193115
+"Meru","Igembe Central",2018,19.387378692627
+"Meru","Igembe Central",2019,25.5262470245361
+"Meru","Igembe Central",2020,40.4611511230469
+"Meru","Igembe Central",2021,89.5671234130859
+"Meru","Igembe Central",2022,144.507461547852
+"Meru","Igembe Central",2023,126.272941589355
+"Meru","Igembe Central",2024,147.139541625977
+"Meru","Igembe North",2012,9.25302124023438
+"Meru","Igembe North",2013,5.81409549713135
+"Meru","Igembe North",2014,6.44661378860474
+"Meru","Igembe North",2015,8.38794136047363
+"Meru","Igembe North",2016,10.1476411819458
+"Meru","Igembe North",2017,11.3666725158691
+"Meru","Igembe North",2018,14.2221155166626
+"Meru","Igembe North",2019,12.8388319015503
+"Meru","Igembe North",2020,15.1684694290161
+"Meru","Igembe North",2021,37.4000015258789
+"Meru","Igembe North",2022,70.7200927734375
+"Meru","Igembe North",2023,68.0518188476562
+"Meru","Igembe North",2024,53.8114356994629
+"Meru","Igembe South",2012,34.1159896850586
+"Meru","Igembe South",2013,36.719669342041
+"Meru","Igembe South",2014,65.4333724975586
+"Meru","Igembe South",2015,49.3178863525391
+"Meru","Igembe South",2016,45.866527557373
+"Meru","Igembe South",2017,117.881538391113
+"Meru","Igembe South",2018,142.722702026367
+"Meru","Igembe South",2019,160.485687255859
+"Meru","Igembe South",2020,119.823997497559
+"Meru","Igembe South",2021,165.690643310547
+"Meru","Igembe South",2022,223.649383544922
+"Meru","Igembe South",2023,207.276977539062
+"Meru","Igembe South",2024,246.624771118164
+"Meru","North Imenti",2012,146.273300170898
+"Meru","North Imenti",2013,153.306594848633
+"Meru","North Imenti",2014,147.953887939453
+"Meru","North Imenti",2015,192.8447265625
+"Meru","North Imenti",2016,271.829681396484
+"Meru","North Imenti",2017,646.945617675781
+"Meru","North Imenti",2018,697.597045898438
+"Meru","North Imenti",2019,630.154296875
+"Meru","North Imenti",2020,579.608825683594
+"Meru","North Imenti",2021,788.7177734375
+"Meru","North Imenti",2022,968.492858886719
+"Meru","North Imenti",2023,975.410461425781
+"Meru","North Imenti",2024,1028.70532226562
+"Meru","South Imenti",2012,38.8235054016113
+"Meru","South Imenti",2013,39.9240798950195
+"Meru","South Imenti",2014,40.4703063964844
+"Meru","South Imenti",2015,53.3878402709961
+"Meru","South Imenti",2016,78.3039321899414
+"Meru","South Imenti",2017,228.366546630859
+"Meru","South Imenti",2018,289.981628417969
+"Meru","South Imenti",2019,293.660491943359
+"Meru","South Imenti",2020,238.737045288086
+"Meru","South Imenti",2021,310.1552734375
+"Meru","South Imenti",2022,721.479309082031
+"Meru","South Imenti",2023,704.269165039062
+"Meru","South Imenti",2024,845.962463378906
+"Meru","Tigania East",2012,18.5525207519531
+"Meru","Tigania East",2013,32.4120483398438
+"Meru","Tigania East",2014,40.2696418762207
+"Meru","Tigania East",2015,29.0962524414062
+"Meru","Tigania East",2016,39.972110748291
+"Meru","Tigania East",2017,53.1273651123047
+"Meru","Tigania East",2018,56.8176498413086
+"Meru","Tigania East",2019,60.8815231323242
+"Meru","Tigania East",2020,63.8583335876465
+"Meru","Tigania East",2021,102.842041015625
+"Meru","Tigania East",2022,217.618408203125
+"Meru","Tigania East",2023,237.132247924805
+"Meru","Tigania East",2024,219.704116821289
+"Meru","Tigania West",2012,3.72126603126526
+"Meru","Tigania West",2013,4.95581722259521
+"Meru","Tigania West",2014,5.87487888336182
+"Meru","Tigania West",2015,9.82735919952393
+"Meru","Tigania West",2016,12.9906768798828
+"Meru","Tigania West",2017,28.0389137268066
+"Meru","Tigania West",2018,59.0801849365234
+"Meru","Tigania West",2019,60.2141227722168
+"Meru","Tigania West",2020,43.8250617980957
+"Meru","Tigania West",2021,108.0439453125
+"Meru","Tigania West",2022,257.347778320312
+"Meru","Tigania West",2023,290.993133544922
+"Meru","Tigania West",2024,256.105804443359
+"Meru","unknown 5",2012,0
+"Meru","unknown 5",2013,0
+"Meru","unknown 5",2014,0
+"Meru","unknown 5",2015,0
+"Meru","unknown 5",2016,0
+"Meru","unknown 5",2017,0
+"Meru","unknown 5",2018,0
+"Meru","unknown 5",2019,0
+"Meru","unknown 5",2020,0
+"Meru","unknown 5",2021,0
+"Meru","unknown 5",2022,0.0511018186807632
+"Meru","unknown 5",2023,0
+"Meru","unknown 5",2024,0
+"Migori","Awendo",2012,33.2942161560059
+"Migori","Awendo",2013,35.2609100341797
+"Migori","Awendo",2014,27.9658985137939
+"Migori","Awendo",2015,35.5947914123535
+"Migori","Awendo",2016,35.8547019958496
+"Migori","Awendo",2017,52.1036491394043
+"Migori","Awendo",2018,63.482666015625
+"Migori","Awendo",2019,110.914001464844
+"Migori","Awendo",2020,70.1350402832031
+"Migori","Awendo",2021,107.917251586914
+"Migori","Awendo",2022,178.060043334961
+"Migori","Awendo",2023,299.685638427734
+"Migori","Awendo",2024,294.808898925781
+"Migori","Kuria East",2012,0
+"Migori","Kuria East",2013,0
+"Migori","Kuria East",2014,0
+"Migori","Kuria East",2015,0
+"Migori","Kuria East",2016,0
+"Migori","Kuria East",2017,0
+"Migori","Kuria East",2018,9.38861846923828
+"Migori","Kuria East",2019,26.6258392333984
+"Migori","Kuria East",2020,26.7482013702393
+"Migori","Kuria East",2021,76.5891265869141
+"Migori","Kuria East",2022,105.694664001465
+"Migori","Kuria East",2023,90.001838684082
+"Migori","Kuria East",2024,72.7446746826172
+"Migori","Kuria West",2012,15.5435523986816
+"Migori","Kuria West",2013,25.087739944458
+"Migori","Kuria West",2014,25.9186992645264
+"Migori","Kuria West",2015,48.4702262878418
+"Migori","Kuria West",2016,22.9473514556885
+"Migori","Kuria West",2017,50.3413429260254
+"Migori","Kuria West",2018,58.581714630127
+"Migori","Kuria West",2019,78.0217666625977
+"Migori","Kuria West",2020,64.8504333496094
+"Migori","Kuria West",2021,107.091217041016
+"Migori","Kuria West",2022,171.177627563477
+"Migori","Kuria West",2023,244.739028930664
+"Migori","Kuria West",2024,238.639923095703
+"Migori","Nyatike",2012,2.20537376403809
+"Migori","Nyatike",2013,3.30713510513306
+"Migori","Nyatike",2014,3.75036883354187
+"Migori","Nyatike",2015,6.17581081390381
+"Migori","Nyatike",2016,2.82370781898499
+"Migori","Nyatike",2017,1.59435892105103
+"Migori","Nyatike",2018,5.96139335632324
+"Migori","Nyatike",2019,35.8696060180664
+"Migori","Nyatike",2020,30.557544708252
+"Migori","Nyatike",2021,33.494758605957
+"Migori","Nyatike",2022,91.1326217651367
+"Migori","Nyatike",2023,147.090927124023
+"Migori","Nyatike",2024,129.198669433594
+"Migori","Rongo",2012,33.5071334838867
+"Migori","Rongo",2013,33.2083969116211
+"Migori","Rongo",2014,30.2989730834961
+"Migori","Rongo",2015,52.0574913024902
+"Migori","Rongo",2016,53.6966896057129
+"Migori","Rongo",2017,61.9054756164551
+"Migori","Rongo",2018,89.1225891113281
+"Migori","Rongo",2019,93.6608657836914
+"Migori","Rongo",2020,105.706924438477
+"Migori","Rongo",2021,131.763061523438
+"Migori","Rongo",2022,174.633438110352
+"Migori","Rongo",2023,275.782196044922
+"Migori","Rongo",2024,381.589294433594
+"Migori","Suna East",2012,27.5949363708496
+"Migori","Suna East",2013,27.9312648773193
+"Migori","Suna East",2014,29.3441562652588
+"Migori","Suna East",2015,42.3358726501465
+"Migori","Suna East",2016,35.0063743591309
+"Migori","Suna East",2017,78.3539810180664
+"Migori","Suna East",2018,98.7175827026367
+"Migori","Suna East",2019,126.239212036133
+"Migori","Suna East",2020,109.591293334961
+"Migori","Suna East",2021,136.401229858398
+"Migori","Suna East",2022,186.730651855469
+"Migori","Suna East",2023,224.873641967773
+"Migori","Suna East",2024,235.797729492188
+"Migori","Suna West",2012,25.0940856933594
+"Migori","Suna West",2013,27.4609050750732
+"Migori","Suna West",2014,26.8513851165771
+"Migori","Suna West",2015,39.417552947998
+"Migori","Suna West",2016,37.867301940918
+"Migori","Suna West",2017,72.4660491943359
+"Migori","Suna West",2018,83.7123641967773
+"Migori","Suna West",2019,111.73291015625
+"Migori","Suna West",2020,109.220893859863
+"Migori","Suna West",2021,131.380981445312
+"Migori","Suna West",2022,209.027145385742
+"Migori","Suna West",2023,256.275817871094
+"Migori","Suna West",2024,243.341827392578
+"Migori","Uriri",2012,7.9800066947937
+"Migori","Uriri",2013,11.5784978866577
+"Migori","Uriri",2014,9.6962366104126
+"Migori","Uriri",2015,16.4747085571289
+"Migori","Uriri",2016,13.7245492935181
+"Migori","Uriri",2017,14.6489753723145
+"Migori","Uriri",2018,23.7549781799316
+"Migori","Uriri",2019,40.3549690246582
+"Migori","Uriri",2020,30.0676879882812
+"Migori","Uriri",2021,43.3986015319824
+"Migori","Uriri",2022,66.7980499267578
+"Migori","Uriri",2023,131.744750976562
+"Migori","Uriri",2024,110.676849365234
+"Mombasa","Changamwe",2012,1667.29309082031
+"Mombasa","Changamwe",2013,1812.66882324219
+"Mombasa","Changamwe",2014,1915.6806640625
+"Mombasa","Changamwe",2015,2038.337890625
+"Mombasa","Changamwe",2016,2317.97485351562
+"Mombasa","Changamwe",2017,2425.39038085938
+"Mombasa","Changamwe",2018,2831.66455078125
+"Mombasa","Changamwe",2019,2896.74389648438
+"Mombasa","Changamwe",2020,2748.4833984375
+"Mombasa","Changamwe",2021,2643.43994140625
+"Mombasa","Changamwe",2022,2722.4990234375
+"Mombasa","Changamwe",2023,2660.18676757812
+"Mombasa","Changamwe",2024,2593.39379882812
+"Mombasa","Jomvu",2012,585.866088867188
+"Mombasa","Jomvu",2013,687.129211425781
+"Mombasa","Jomvu",2014,777.78955078125
+"Mombasa","Jomvu",2015,879.99951171875
+"Mombasa","Jomvu",2016,955.093078613281
+"Mombasa","Jomvu",2017,1025.67248535156
+"Mombasa","Jomvu",2018,1111.18994140625
+"Mombasa","Jomvu",2019,1525.96899414062
+"Mombasa","Jomvu",2020,1189.45947265625
+"Mombasa","Jomvu",2021,1266.26159667969
+"Mombasa","Jomvu",2022,1274.82080078125
+"Mombasa","Jomvu",2023,1338.02795410156
+"Mombasa","Jomvu",2024,1397.30920410156
+"Mombasa","Kisauni",2012,882.101257324219
+"Mombasa","Kisauni",2013,876.266052246094
+"Mombasa","Kisauni",2014,945.76806640625
+"Mombasa","Kisauni",2015,1135.69299316406
+"Mombasa","Kisauni",2016,1478.38940429688
+"Mombasa","Kisauni",2017,1633.19116210938
+"Mombasa","Kisauni",2018,1575.76135253906
+"Mombasa","Kisauni",2019,1714.60510253906
+"Mombasa","Kisauni",2020,1553.02233886719
+"Mombasa","Kisauni",2021,1731.66687011719
+"Mombasa","Kisauni",2022,1789.419921875
+"Mombasa","Kisauni",2023,1921.41040039062
+"Mombasa","Kisauni",2024,2075.38305664062
+"Mombasa","Likoni",2012,699.349914550781
+"Mombasa","Likoni",2013,767.758056640625
+"Mombasa","Likoni",2014,783.083190917969
+"Mombasa","Likoni",2015,965.154296875
+"Mombasa","Likoni",2016,1164.00476074219
+"Mombasa","Likoni",2017,1218.56958007812
+"Mombasa","Likoni",2018,1128.48388671875
+"Mombasa","Likoni",2019,1137.11120605469
+"Mombasa","Likoni",2020,1064.60363769531
+"Mombasa","Likoni",2021,1071.40283203125
+"Mombasa","Likoni",2022,1031.37353515625
+"Mombasa","Likoni",2023,1126.62756347656
+"Mombasa","Likoni",2024,1188.26391601562
+"Mombasa","Mvita",2012,1801.72790527344
+"Mombasa","Mvita",2013,1747.62377929688
+"Mombasa","Mvita",2014,1995.24731445312
+"Mombasa","Mvita",2015,2273.94702148438
+"Mombasa","Mvita",2016,2507.00708007812
+"Mombasa","Mvita",2017,2491.86010742188
+"Mombasa","Mvita",2018,2350.36669921875
+"Mombasa","Mvita",2019,2404.0107421875
+"Mombasa","Mvita",2020,2854.11791992188
+"Mombasa","Mvita",2021,3037.68359375
+"Mombasa","Mvita",2022,3096.75268554688
+"Mombasa","Mvita",2023,3178.44506835938
+"Mombasa","Mvita",2024,3093.99560546875
+"Mombasa","Nyali",2012,1218.99243164062
+"Mombasa","Nyali",2013,1236.74829101562
+"Mombasa","Nyali",2014,1246.90185546875
+"Mombasa","Nyali",2015,1503.46179199219
+"Mombasa","Nyali",2016,1958.5634765625
+"Mombasa","Nyali",2017,1977.09985351562
+"Mombasa","Nyali",2018,1828.02526855469
+"Mombasa","Nyali",2019,1968.88305664062
+"Mombasa","Nyali",2020,1801.27990722656
+"Mombasa","Nyali",2021,1829.29748535156
+"Mombasa","Nyali",2022,1870.00183105469
+"Mombasa","Nyali",2023,1953.03564453125
+"Mombasa","Nyali",2024,2061.15698242188
+"Murang'a","Gatanga",2012,235.777877807617
+"Murang'a","Gatanga",2013,214.81999206543
+"Murang'a","Gatanga",2014,333.726776123047
+"Murang'a","Gatanga",2015,395.022918701172
+"Murang'a","Gatanga",2016,387.535522460938
+"Murang'a","Gatanga",2017,506.382385253906
+"Murang'a","Gatanga",2018,551.330078125
+"Murang'a","Gatanga",2019,705.932739257812
+"Murang'a","Gatanga",2020,744.152648925781
+"Murang'a","Gatanga",2021,830.105651855469
+"Murang'a","Gatanga",2022,1271.67272949219
+"Murang'a","Gatanga",2023,1331.52673339844
+"Murang'a","Gatanga",2024,1369.69775390625
+"Murang'a","Kandara",2012,13.8709173202515
+"Murang'a","Kandara",2013,9.98349094390869
+"Murang'a","Kandara",2014,31.2055149078369
+"Murang'a","Kandara",2015,33.8338966369629
+"Murang'a","Kandara",2016,28.1769351959229
+"Murang'a","Kandara",2017,61.3137168884277
+"Murang'a","Kandara",2018,68.2582015991211
+"Murang'a","Kandara",2019,71.0630798339844
+"Murang'a","Kandara",2020,103.976364135742
+"Murang'a","Kandara",2021,154.837371826172
+"Murang'a","Kandara",2022,368.149078369141
+"Murang'a","Kandara",2023,452.659118652344
+"Murang'a","Kandara",2024,482.443572998047
+"Murang'a","Kangema",2012,7.93708944320679
+"Murang'a","Kangema",2013,5.65967750549316
+"Murang'a","Kangema",2014,22.8875255584717
+"Murang'a","Kangema",2015,22.1391582489014
+"Murang'a","Kangema",2016,18.0036792755127
+"Murang'a","Kangema",2017,46.9018859863281
+"Murang'a","Kangema",2018,50.7796859741211
+"Murang'a","Kangema",2019,51.5912055969238
+"Murang'a","Kangema",2020,47.6824226379395
+"Murang'a","Kangema",2021,73.5805206298828
+"Murang'a","Kangema",2022,233.517868041992
+"Murang'a","Kangema",2023,208.631088256836
+"Murang'a","Kangema",2024,279.791046142578
+"Murang'a","Kigumo",2012,11.7702026367188
+"Murang'a","Kigumo",2013,12.1443653106689
+"Murang'a","Kigumo",2014,21.7500762939453
+"Murang'a","Kigumo",2015,20.205924987793
+"Murang'a","Kigumo",2016,18.0747756958008
+"Murang'a","Kigumo",2017,37.9959831237793
+"Murang'a","Kigumo",2018,56.0101890563965
+"Murang'a","Kigumo",2019,56.3081855773926
+"Murang'a","Kigumo",2020,56.7022819519043
+"Murang'a","Kigumo",2021,114.073554992676
+"Murang'a","Kigumo",2022,346.384857177734
+"Murang'a","Kigumo",2023,332.893829345703
+"Murang'a","Kigumo",2024,324.182220458984
+"Murang'a","Kiharu",2012,66.7461166381836
+"Murang'a","Kiharu",2013,65.7525253295898
+"Murang'a","Kiharu",2014,133.779174804688
+"Murang'a","Kiharu",2015,245.545455932617
+"Murang'a","Kiharu",2016,268.318603515625
+"Murang'a","Kiharu",2017,416.648834228516
+"Murang'a","Kiharu",2018,375.738494873047
+"Murang'a","Kiharu",2019,339.423034667969
+"Murang'a","Kiharu",2020,233.572814941406
+"Murang'a","Kiharu",2021,279.226837158203
+"Murang'a","Kiharu",2022,609.463439941406
+"Murang'a","Kiharu",2023,548.348754882812
+"Murang'a","Kiharu",2024,672.705627441406
+"Murang'a","Maragwa",2012,65.333854675293
+"Murang'a","Maragwa",2013,51.5263175964355
+"Murang'a","Maragwa",2014,96.5024795532227
+"Murang'a","Maragwa",2015,127.343795776367
+"Murang'a","Maragwa",2016,120.682777404785
+"Murang'a","Maragwa",2017,217.801223754883
+"Murang'a","Maragwa",2018,257.145782470703
+"Murang'a","Maragwa",2019,293.545196533203
+"Murang'a","Maragwa",2020,283.44580078125
+"Murang'a","Maragwa",2021,384.934417724609
+"Murang'a","Maragwa",2022,777.082275390625
+"Murang'a","Maragwa",2023,759.75341796875
+"Murang'a","Maragwa",2024,744.890441894531
+"Murang'a","Mathioya",2012,12.1422548294067
+"Murang'a","Mathioya",2013,16.7721672058105
+"Murang'a","Mathioya",2014,26.6693439483643
+"Murang'a","Mathioya",2015,14.9631795883179
+"Murang'a","Mathioya",2016,24.5485038757324
+"Murang'a","Mathioya",2017,35.3054428100586
+"Murang'a","Mathioya",2018,36.2321853637695
+"Murang'a","Mathioya",2019,26.0650978088379
+"Murang'a","Mathioya",2020,30.1062145233154
+"Murang'a","Mathioya",2021,58.345775604248
+"Murang'a","Mathioya",2022,185.143569946289
+"Murang'a","Mathioya",2023,205.575088500977
+"Murang'a","Mathioya",2024,244.509048461914
+"Nairobi","Dagoretti North",2012,2261.53198242188
+"Nairobi","Dagoretti North",2013,2266.73950195312
+"Nairobi","Dagoretti North",2014,2303.97900390625
+"Nairobi","Dagoretti North",2015,2686.26147460938
+"Nairobi","Dagoretti North",2016,3080.99194335938
+"Nairobi","Dagoretti North",2017,3045.36474609375
+"Nairobi","Dagoretti North",2018,2859.52685546875
+"Nairobi","Dagoretti North",2019,3128.51684570312
+"Nairobi","Dagoretti North",2020,2843.09594726562
+"Nairobi","Dagoretti North",2021,3051.64453125
+"Nairobi","Dagoretti North",2022,3425.28540039062
+"Nairobi","Dagoretti North",2023,3646.23901367188
+"Nairobi","Dagoretti North",2024,3594.296875
+"Nairobi","Dagoretti South",2012,633.606201171875
+"Nairobi","Dagoretti South",2013,721.105590820312
+"Nairobi","Dagoretti South",2014,805.715759277344
+"Nairobi","Dagoretti South",2015,879.756286621094
+"Nairobi","Dagoretti South",2016,1491.48034667969
+"Nairobi","Dagoretti South",2017,1685.53515625
+"Nairobi","Dagoretti South",2018,1729.09692382812
+"Nairobi","Dagoretti South",2019,2004.16784667969
+"Nairobi","Dagoretti South",2020,1801.61499023438
+"Nairobi","Dagoretti South",2021,2046.68481445312
+"Nairobi","Dagoretti South",2022,2342.5166015625
+"Nairobi","Dagoretti South",2023,2635.48974609375
+"Nairobi","Dagoretti South",2024,2409.17309570312
+"Nairobi","Embakasi Central",2012,441.587982177734
+"Nairobi","Embakasi Central",2013,505.44873046875
+"Nairobi","Embakasi Central",2014,544.211853027344
+"Nairobi","Embakasi Central",2015,643.782775878906
+"Nairobi","Embakasi Central",2016,737.796630859375
+"Nairobi","Embakasi Central",2017,853.311645507812
+"Nairobi","Embakasi Central",2018,1115.48681640625
+"Nairobi","Embakasi Central",2019,1443.49291992188
+"Nairobi","Embakasi Central",2020,1378.05261230469
+"Nairobi","Embakasi Central",2021,1471.70385742188
+"Nairobi","Embakasi Central",2022,1751.94775390625
+"Nairobi","Embakasi Central",2023,1950.869140625
+"Nairobi","Embakasi Central",2024,1800.90856933594
+"Nairobi","Embakasi East",2012,2600.22827148438
+"Nairobi","Embakasi East",2013,3205.60498046875
+"Nairobi","Embakasi East",2014,3413.63671875
+"Nairobi","Embakasi East",2015,4280.447265625
+"Nairobi","Embakasi East",2016,4569.21533203125
+"Nairobi","Embakasi East",2017,5122.1552734375
+"Nairobi","Embakasi East",2018,6165.4638671875
+"Nairobi","Embakasi East",2019,7041.15283203125
+"Nairobi","Embakasi East",2020,6369.9453125
+"Nairobi","Embakasi East",2021,6728.2080078125
+"Nairobi","Embakasi East",2022,7034.1455078125
+"Nairobi","Embakasi East",2023,7938.890625
+"Nairobi","Embakasi East",2024,7212.7412109375
+"Nairobi","Embakasi North",2012,336.392486572266
+"Nairobi","Embakasi North",2013,365.441284179688
+"Nairobi","Embakasi North",2014,401.57470703125
+"Nairobi","Embakasi North",2015,467.027526855469
+"Nairobi","Embakasi North",2016,480.653442382812
+"Nairobi","Embakasi North",2017,512.13037109375
+"Nairobi","Embakasi North",2018,575.94384765625
+"Nairobi","Embakasi North",2019,775.933654785156
+"Nairobi","Embakasi North",2020,676.274597167969
+"Nairobi","Embakasi North",2021,697.222778320312
+"Nairobi","Embakasi North",2022,797.865478515625
+"Nairobi","Embakasi North",2023,904.872497558594
+"Nairobi","Embakasi North",2024,866.755126953125
+"Nairobi","Embakasi South",2012,1130.39489746094
+"Nairobi","Embakasi South",2013,1305.0263671875
+"Nairobi","Embakasi South",2014,1353.06555175781
+"Nairobi","Embakasi South",2015,1619.38757324219
+"Nairobi","Embakasi South",2016,1612.45666503906
+"Nairobi","Embakasi South",2017,1924.98876953125
+"Nairobi","Embakasi South",2018,2815.5615234375
+"Nairobi","Embakasi South",2019,2960.45727539062
+"Nairobi","Embakasi South",2020,2469.42797851562
+"Nairobi","Embakasi South",2021,2382.10034179688
+"Nairobi","Embakasi South",2022,2392.2255859375
+"Nairobi","Embakasi South",2023,2640.98828125
+"Nairobi","Embakasi South",2024,2333.53466796875
+"Nairobi","Embakasi West",2012,742.972045898438
+"Nairobi","Embakasi West",2013,793.365478515625
+"Nairobi","Embakasi West",2014,821.8046875
+"Nairobi","Embakasi West",2015,933.150451660156
+"Nairobi","Embakasi West",2016,1080.89575195312
+"Nairobi","Embakasi West",2017,1167.96240234375
+"Nairobi","Embakasi West",2018,1274.60363769531
+"Nairobi","Embakasi West",2019,1527.09594726562
+"Nairobi","Embakasi West",2020,1527.88610839844
+"Nairobi","Embakasi West",2021,1651.5380859375
+"Nairobi","Embakasi West",2022,1941.58654785156
+"Nairobi","Embakasi West",2023,2038.19995117188
+"Nairobi","Embakasi West",2024,1905.01049804688
+"Nairobi","Kamukunji",2012,702.259887695312
+"Nairobi","Kamukunji",2013,820.371948242188
+"Nairobi","Kamukunji",2014,897.522521972656
+"Nairobi","Kamukunji",2015,1002.27551269531
+"Nairobi","Kamukunji",2016,1024.73559570312
+"Nairobi","Kamukunji",2017,1015.38562011719
+"Nairobi","Kamukunji",2018,906.002563476562
+"Nairobi","Kamukunji",2019,989.201599121094
+"Nairobi","Kamukunji",2020,911.237243652344
+"Nairobi","Kamukunji",2021,994.487976074219
+"Nairobi","Kamukunji",2022,1136.58154296875
+"Nairobi","Kamukunji",2023,1185.96350097656
+"Nairobi","Kamukunji",2024,1186.93591308594
+"Nairobi","Kasarani",2012,1022.00817871094
+"Nairobi","Kasarani",2013,1260.84533691406
+"Nairobi","Kasarani",2014,1507.26232910156
+"Nairobi","Kasarani",2015,1985.64221191406
+"Nairobi","Kasarani",2016,2380.2333984375
+"Nairobi","Kasarani",2017,3255.61352539062
+"Nairobi","Kasarani",2018,4678.09814453125
+"Nairobi","Kasarani",2019,6083.73095703125
+"Nairobi","Kasarani",2020,5391.7138671875
+"Nairobi","Kasarani",2021,5795.685546875
+"Nairobi","Kasarani",2022,6273.08837890625
+"Nairobi","Kasarani",2023,6696.7509765625
+"Nairobi","Kasarani",2024,6117.50927734375
+"Nairobi","Kibra",2012,1284.94116210938
+"Nairobi","Kibra",2013,1247.12097167969
+"Nairobi","Kibra",2014,1261.27709960938
+"Nairobi","Kibra",2015,1470.3583984375
+"Nairobi","Kibra",2016,1578.86865234375
+"Nairobi","Kibra",2017,1687.00952148438
+"Nairobi","Kibra",2018,1667.10534667969
+"Nairobi","Kibra",2019,1766.22302246094
+"Nairobi","Kibra",2020,1564.96643066406
+"Nairobi","Kibra",2021,1742.10864257812
+"Nairobi","Kibra",2022,1874.73217773438
+"Nairobi","Kibra",2023,1958.65344238281
+"Nairobi","Kibra",2024,1895.77490234375
+"Nairobi","Langata",2012,2757.48193359375
+"Nairobi","Langata",2013,2999.03271484375
+"Nairobi","Langata",2014,3497.89599609375
+"Nairobi","Langata",2015,3908.82104492188
+"Nairobi","Langata",2016,5177.3203125
+"Nairobi","Langata",2017,6528.17626953125
+"Nairobi","Langata",2018,6568.69140625
+"Nairobi","Langata",2019,6803.40234375
+"Nairobi","Langata",2020,5948.4326171875
+"Nairobi","Langata",2021,6585.806640625
+"Nairobi","Langata",2022,7165.203125
+"Nairobi","Langata",2023,7535.015625
+"Nairobi","Langata",2024,6696.95947265625
+"Nairobi","Makadara",2012,1062.81872558594
+"Nairobi","Makadara",2013,1101.44836425781
+"Nairobi","Makadara",2014,1186.98352050781
+"Nairobi","Makadara",2015,1414.5048828125
+"Nairobi","Makadara",2016,1529.06689453125
+"Nairobi","Makadara",2017,1626.39660644531
+"Nairobi","Makadara",2018,1741.43493652344
+"Nairobi","Makadara",2019,1865.74768066406
+"Nairobi","Makadara",2020,1688.44421386719
+"Nairobi","Makadara",2021,1750.93676757812
+"Nairobi","Makadara",2022,2052.35913085938
+"Nairobi","Makadara",2023,2094.28833007812
+"Nairobi","Makadara",2024,1919.64794921875
+"Nairobi","Mathare",2012,249.811889648438
+"Nairobi","Mathare",2013,278.992095947266
+"Nairobi","Mathare",2014,285.216430664062
+"Nairobi","Mathare",2015,336.596099853516
+"Nairobi","Mathare",2016,310.395202636719
+"Nairobi","Mathare",2017,333.530487060547
+"Nairobi","Mathare",2018,308.852600097656
+"Nairobi","Mathare",2019,349.612823486328
+"Nairobi","Mathare",2020,309.720184326172
+"Nairobi","Mathare",2021,342.295257568359
+"Nairobi","Mathare",2022,359.997406005859
+"Nairobi","Mathare",2023,394.600006103516
+"Nairobi","Mathare",2024,410.363891601562
+"Nairobi","Roysambu",2012,1182.92944335938
+"Nairobi","Roysambu",2013,1396.72741699219
+"Nairobi","Roysambu",2014,1504.69750976562
+"Nairobi","Roysambu",2015,1850.46142578125
+"Nairobi","Roysambu",2016,2164.28051757812
+"Nairobi","Roysambu",2017,2521.25268554688
+"Nairobi","Roysambu",2018,2724.60546875
+"Nairobi","Roysambu",2019,3189.6201171875
+"Nairobi","Roysambu",2020,3098.3193359375
+"Nairobi","Roysambu",2021,3598.32543945312
+"Nairobi","Roysambu",2022,4103.82470703125
+"Nairobi","Roysambu",2023,4159.19580078125
+"Nairobi","Roysambu",2024,3929.9638671875
+"Nairobi","Ruaraka",2012,425.533294677734
+"Nairobi","Ruaraka",2013,488.700347900391
+"Nairobi","Ruaraka",2014,534.494689941406
+"Nairobi","Ruaraka",2015,657.770080566406
+"Nairobi","Ruaraka",2016,711.722106933594
+"Nairobi","Ruaraka",2017,779.239318847656
+"Nairobi","Ruaraka",2018,729.94775390625
+"Nairobi","Ruaraka",2019,847.577209472656
+"Nairobi","Ruaraka",2020,769.611267089844
+"Nairobi","Ruaraka",2021,784.159057617188
+"Nairobi","Ruaraka",2022,810.997924804688
+"Nairobi","Ruaraka",2023,886.131774902344
+"Nairobi","Ruaraka",2024,886.144409179688
+"Nairobi","Starehe",2012,2252.90869140625
+"Nairobi","Starehe",2013,2432.82861328125
+"Nairobi","Starehe",2014,2541.23046875
+"Nairobi","Starehe",2015,3058.49951171875
+"Nairobi","Starehe",2016,2939.03125
+"Nairobi","Starehe",2017,2963.546875
+"Nairobi","Starehe",2018,2970.73022460938
+"Nairobi","Starehe",2019,3047.24291992188
+"Nairobi","Starehe",2020,2938.59130859375
+"Nairobi","Starehe",2021,3052.8779296875
+"Nairobi","Starehe",2022,3311.28784179688
+"Nairobi","Starehe",2023,3514.41772460938
+"Nairobi","Starehe",2024,3285.8037109375
+"Nairobi","Westlands",2012,3327.44067382812
+"Nairobi","Westlands",2013,3525.12158203125
+"Nairobi","Westlands",2014,3710.77905273438
+"Nairobi","Westlands",2015,4145.52587890625
+"Nairobi","Westlands",2016,4442.9208984375
+"Nairobi","Westlands",2017,4738.107421875
+"Nairobi","Westlands",2018,4714.7177734375
+"Nairobi","Westlands",2019,5083.5595703125
+"Nairobi","Westlands",2020,4750.31298828125
+"Nairobi","Westlands",2021,5285.1708984375
+"Nairobi","Westlands",2022,5593.69873046875
+"Nairobi","Westlands",2023,5937.9013671875
+"Nairobi","Westlands",2024,5573.48828125
+"Nakuru","Bahati",2012,197.529678344727
+"Nakuru","Bahati",2013,195.634231567383
+"Nakuru","Bahati",2014,200.394271850586
+"Nakuru","Bahati",2015,250.457077026367
+"Nakuru","Bahati",2016,256.387725830078
+"Nakuru","Bahati",2017,556.062072753906
+"Nakuru","Bahati",2018,594.252075195312
+"Nakuru","Bahati",2019,545.89111328125
+"Nakuru","Bahati",2020,514.182983398438
+"Nakuru","Bahati",2021,696.357971191406
+"Nakuru","Bahati",2022,976.134155273438
+"Nakuru","Bahati",2023,1006.30004882812
+"Nakuru","Bahati",2024,1146.29846191406
+"Nakuru","Gilgil",2012,238.7060546875
+"Nakuru","Gilgil",2013,338.084869384766
+"Nakuru","Gilgil",2014,414.143707275391
+"Nakuru","Gilgil",2015,506.427124023438
+"Nakuru","Gilgil",2016,517.679565429688
+"Nakuru","Gilgil",2017,634.386474609375
+"Nakuru","Gilgil",2018,709.491821289062
+"Nakuru","Gilgil",2019,770.414428710938
+"Nakuru","Gilgil",2020,727.899353027344
+"Nakuru","Gilgil",2021,809.075561523438
+"Nakuru","Gilgil",2022,1165.04724121094
+"Nakuru","Gilgil",2023,1248.41040039062
+"Nakuru","Gilgil",2024,1291.43823242188
+"Nakuru","Kuresoi North",2012,12.5052471160889
+"Nakuru","Kuresoi North",2013,15.8554639816284
+"Nakuru","Kuresoi North",2014,18.7041549682617
+"Nakuru","Kuresoi North",2015,28.0010375976562
+"Nakuru","Kuresoi North",2016,33.575252532959
+"Nakuru","Kuresoi North",2017,97.3214416503906
+"Nakuru","Kuresoi North",2018,195.697021484375
+"Nakuru","Kuresoi North",2019,250.407196044922
+"Nakuru","Kuresoi North",2020,172.432769775391
+"Nakuru","Kuresoi North",2021,208.883285522461
+"Nakuru","Kuresoi North",2022,256.176849365234
+"Nakuru","Kuresoi North",2023,235.434463500977
+"Nakuru","Kuresoi North",2024,312.832336425781
+"Nakuru","Kuresoi South",2012,1.25904965400696
+"Nakuru","Kuresoi South",2013,3.42518305778503
+"Nakuru","Kuresoi South",2014,3.88076782226562
+"Nakuru","Kuresoi South",2015,4.60105419158936
+"Nakuru","Kuresoi South",2016,4.1260085105896
+"Nakuru","Kuresoi South",2017,26.7726669311523
+"Nakuru","Kuresoi South",2018,76.6152648925781
+"Nakuru","Kuresoi South",2019,41.2425231933594
+"Nakuru","Kuresoi South",2020,19.2297954559326
+"Nakuru","Kuresoi South",2021,26.0885677337646
+"Nakuru","Kuresoi South",2022,33.6402587890625
+"Nakuru","Kuresoi South",2023,29.0023822784424
+"Nakuru","Kuresoi South",2024,39.0563354492188
+"Nakuru","Molo",2012,48.6854019165039
+"Nakuru","Molo",2013,48.956241607666
+"Nakuru","Molo",2014,44.7920227050781
+"Nakuru","Molo",2015,85.2037811279297
+"Nakuru","Molo",2016,99.0613555908203
+"Nakuru","Molo",2017,157.162353515625
+"Nakuru","Molo",2018,248.572036743164
+"Nakuru","Molo",2019,239.337951660156
+"Nakuru","Molo",2020,184.870208740234
+"Nakuru","Molo",2021,232.493438720703
+"Nakuru","Molo",2022,272.728118896484
+"Nakuru","Molo",2023,265.289703369141
+"Nakuru","Molo",2024,264.468475341797
+"Nakuru","Naivasha",2012,1069.98461914062
+"Nakuru","Naivasha",2013,1283.54370117188
+"Nakuru","Naivasha",2014,1433.857421875
+"Nakuru","Naivasha",2015,1604.9560546875
+"Nakuru","Naivasha",2016,1528.29602050781
+"Nakuru","Naivasha",2017,1692.00012207031
+"Nakuru","Naivasha",2018,1591.14135742188
+"Nakuru","Naivasha",2019,1525.09509277344
+"Nakuru","Naivasha",2020,1757.11889648438
+"Nakuru","Naivasha",2021,2539.91845703125
+"Nakuru","Naivasha",2022,3356.6435546875
+"Nakuru","Naivasha",2023,3664.76220703125
+"Nakuru","Naivasha",2024,3636.26879882812
+"Nakuru","Nakuru Town East",2012,665.3515625
+"Nakuru","Nakuru Town East",2013,758.895446777344
+"Nakuru","Nakuru Town East",2014,1020.51287841797
+"Nakuru","Nakuru Town East",2015,1388.056640625
+"Nakuru","Nakuru Town East",2016,1416.03845214844
+"Nakuru","Nakuru Town East",2017,1820.48828125
+"Nakuru","Nakuru Town East",2018,1782.34301757812
+"Nakuru","Nakuru Town East",2019,1839.4423828125
+"Nakuru","Nakuru Town East",2020,1690.59814453125
+"Nakuru","Nakuru Town East",2021,2047.97692871094
+"Nakuru","Nakuru Town East",2022,2384.14990234375
+"Nakuru","Nakuru Town East",2023,2496.74780273438
+"Nakuru","Nakuru Town East",2024,2467.47094726562
+"Nakuru","Nakuru Town West",2012,282.533416748047
+"Nakuru","Nakuru Town West",2013,284.131652832031
+"Nakuru","Nakuru Town West",2014,403.949768066406
+"Nakuru","Nakuru Town West",2015,602.420593261719
+"Nakuru","Nakuru Town West",2016,563.87890625
+"Nakuru","Nakuru Town West",2017,771.072143554688
+"Nakuru","Nakuru Town West",2018,814.307067871094
+"Nakuru","Nakuru Town West",2019,841.153991699219
+"Nakuru","Nakuru Town West",2020,813.215515136719
+"Nakuru","Nakuru Town West",2021,993.517272949219
+"Nakuru","Nakuru Town West",2022,1202.20874023438
+"Nakuru","Nakuru Town West",2023,1239.31689453125
+"Nakuru","Nakuru Town West",2024,1215.8408203125
+"Nakuru","Njoro",2012,38.2087554931641
+"Nakuru","Njoro",2013,49.5610542297363
+"Nakuru","Njoro",2014,67.7616882324219
+"Nakuru","Njoro",2015,102.835784912109
+"Nakuru","Njoro",2016,105.749053955078
+"Nakuru","Njoro",2017,187.874694824219
+"Nakuru","Njoro",2018,249.869598388672
+"Nakuru","Njoro",2019,245.979293823242
+"Nakuru","Njoro",2020,206.233520507812
+"Nakuru","Njoro",2021,203.281341552734
+"Nakuru","Njoro",2022,320.206878662109
+"Nakuru","Njoro",2023,337.041595458984
+"Nakuru","Njoro",2024,334.432861328125
+"Nakuru","Rongai",2012,503.810913085938
+"Nakuru","Rongai",2013,486.295471191406
+"Nakuru","Rongai",2014,445.256530761719
+"Nakuru","Rongai",2015,253.986968994141
+"Nakuru","Rongai",2016,310.294677734375
+"Nakuru","Rongai",2017,393.731506347656
+"Nakuru","Rongai",2018,500.63232421875
+"Nakuru","Rongai",2019,721.157104492188
+"Nakuru","Rongai",2020,758.306091308594
+"Nakuru","Rongai",2021,833.213134765625
+"Nakuru","Rongai",2022,1106.40368652344
+"Nakuru","Rongai",2023,1137.61267089844
+"Nakuru","Rongai",2024,1196.40539550781
+"Nakuru","Subukia",2012,20.8063201904297
+"Nakuru","Subukia",2013,37.5050811767578
+"Nakuru","Subukia",2014,60.5591049194336
+"Nakuru","Subukia",2015,29.1652221679688
+"Nakuru","Subukia",2016,37.0981140136719
+"Nakuru","Subukia",2017,65.5255966186523
+"Nakuru","Subukia",2018,105.200416564941
+"Nakuru","Subukia",2019,73.3273544311523
+"Nakuru","Subukia",2020,58.3969039916992
+"Nakuru","Subukia",2021,100.092704772949
+"Nakuru","Subukia",2022,171.176666259766
+"Nakuru","Subukia",2023,212.944564819336
+"Nakuru","Subukia",2024,203.267639160156
+"Nandi","Aldai",2012,10.3872442245483
+"Nandi","Aldai",2013,8.16136646270752
+"Nandi","Aldai",2014,19.3006896972656
+"Nandi","Aldai",2015,22.9134140014648
+"Nandi","Aldai",2016,18.2210464477539
+"Nandi","Aldai",2017,24.6944313049316
+"Nandi","Aldai",2018,66.7075119018555
+"Nandi","Aldai",2019,77.7003784179688
+"Nandi","Aldai",2020,64.1000366210938
+"Nandi","Aldai",2021,61.7054595947266
+"Nandi","Aldai",2022,164.497802734375
+"Nandi","Aldai",2023,162.58219909668
+"Nandi","Aldai",2024,119.125267028809
+"Nandi","Chesumei",2012,7.91917705535889
+"Nandi","Chesumei",2013,7.15907001495361
+"Nandi","Chesumei",2014,4.2593150138855
+"Nandi","Chesumei",2015,9.65486240386963
+"Nandi","Chesumei",2016,12.4790945053101
+"Nandi","Chesumei",2017,23.0023250579834
+"Nandi","Chesumei",2018,36.6239395141602
+"Nandi","Chesumei",2019,36.6200180053711
+"Nandi","Chesumei",2020,36.0877418518066
+"Nandi","Chesumei",2021,44.8777923583984
+"Nandi","Chesumei",2022,137.117156982422
+"Nandi","Chesumei",2023,190.556533813477
+"Nandi","Chesumei",2024,167.435745239258
+"Nandi","Emgwen",2012,45.0194206237793
+"Nandi","Emgwen",2013,42.1264839172363
+"Nandi","Emgwen",2014,37.0876808166504
+"Nandi","Emgwen",2015,42.5238571166992
+"Nandi","Emgwen",2016,39.3249702453613
+"Nandi","Emgwen",2017,184.423370361328
+"Nandi","Emgwen",2018,223.541946411133
+"Nandi","Emgwen",2019,245.556137084961
+"Nandi","Emgwen",2020,189.10693359375
+"Nandi","Emgwen",2021,193.162109375
+"Nandi","Emgwen",2022,293.263916015625
+"Nandi","Emgwen",2023,329.652313232422
+"Nandi","Emgwen",2024,286.784881591797
+"Nandi","Mosop",2012,1.05243635177612
+"Nandi","Mosop",2013,0
+"Nandi","Mosop",2014,0.525376379489899
+"Nandi","Mosop",2015,0.54591178894043
+"Nandi","Mosop",2016,0
+"Nandi","Mosop",2017,0.536942303180695
+"Nandi","Mosop",2018,56.5493011474609
+"Nandi","Mosop",2019,54.5559730529785
+"Nandi","Mosop",2020,32.1859321594238
+"Nandi","Mosop",2021,37.9674873352051
+"Nandi","Mosop",2022,95.338623046875
+"Nandi","Mosop",2023,102.620361328125
+"Nandi","Mosop",2024,65.4043579101562
+"Nandi","Nandi Hills",2012,45.6769943237305
+"Nandi","Nandi Hills",2013,43.6993598937988
+"Nandi","Nandi Hills",2014,41.9308052062988
+"Nandi","Nandi Hills",2015,39.5091667175293
+"Nandi","Nandi Hills",2016,27.7864475250244
+"Nandi","Nandi Hills",2017,34.6967849731445
+"Nandi","Nandi Hills",2018,94.2546615600586
+"Nandi","Nandi Hills",2019,98.5001831054688
+"Nandi","Nandi Hills",2020,67.8078918457031
+"Nandi","Nandi Hills",2021,80.0813980102539
+"Nandi","Nandi Hills",2022,123.558174133301
+"Nandi","Nandi Hills",2023,144.923690795898
+"Nandi","Nandi Hills",2024,152.461044311523
+"Nandi","Tinderet",2012,23.6423645019531
+"Nandi","Tinderet",2013,23.2233448028564
+"Nandi","Tinderet",2014,34.0361709594727
+"Nandi","Tinderet",2015,29.724853515625
+"Nandi","Tinderet",2016,16.2861099243164
+"Nandi","Tinderet",2017,16.1901187896729
+"Nandi","Tinderet",2018,29.906063079834
+"Nandi","Tinderet",2019,28.1174716949463
+"Nandi","Tinderet",2020,16.9847068786621
+"Nandi","Tinderet",2021,13.3010120391846
+"Nandi","Tinderet",2022,77.6611480712891
+"Nandi","Tinderet",2023,108.018226623535
+"Nandi","Tinderet",2024,103.569030761719
+"Narok","Emurua Dikirr",2012,0
+"Narok","Emurua Dikirr",2013,0
+"Narok","Emurua Dikirr",2014,0
+"Narok","Emurua Dikirr",2015,0
+"Narok","Emurua Dikirr",2016,0
+"Narok","Emurua Dikirr",2017,0.514958560466766
+"Narok","Emurua Dikirr",2018,6.68923616409302
+"Narok","Emurua Dikirr",2019,9.6931266784668
+"Narok","Emurua Dikirr",2020,0.690352022647858
+"Narok","Emurua Dikirr",2021,0
+"Narok","Emurua Dikirr",2022,0
+"Narok","Emurua Dikirr",2023,8.04839706420898
+"Narok","Emurua Dikirr",2024,9.7437162399292
+"Narok","Kilgoris",2012,40.537670135498
+"Narok","Kilgoris",2013,35.7901916503906
+"Narok","Kilgoris",2014,45.1246643066406
+"Narok","Kilgoris",2015,40.9078712463379
+"Narok","Kilgoris",2016,46.1260757446289
+"Narok","Kilgoris",2017,68.2322692871094
+"Narok","Kilgoris",2018,105.678215026855
+"Narok","Kilgoris",2019,128.611282348633
+"Narok","Kilgoris",2020,95.5601119995117
+"Narok","Kilgoris",2021,130.203231811523
+"Narok","Kilgoris",2022,182.592498779297
+"Narok","Kilgoris",2023,209.205169677734
+"Narok","Kilgoris",2024,223.293807983398
+"Narok","Narok East",2012,2.92865014076233
+"Narok","Narok East",2013,3.02908372879028
+"Narok","Narok East",2014,5.05925512313843
+"Narok","Narok East",2015,5.95151853561401
+"Narok","Narok East",2016,3.41422915458679
+"Narok","Narok East",2017,39.036491394043
+"Narok","Narok East",2018,67.6082458496094
+"Narok","Narok East",2019,52.9427604675293
+"Narok","Narok East",2020,41.1928863525391
+"Narok","Narok East",2021,48.0161094665527
+"Narok","Narok East",2022,118.812240600586
+"Narok","Narok East",2023,156.380279541016
+"Narok","Narok East",2024,132.382904052734
+"Narok","Narok North",2012,100.621887207031
+"Narok","Narok North",2013,128.607009887695
+"Narok","Narok North",2014,146.940307617188
+"Narok","Narok North",2015,172.663375854492
+"Narok","Narok North",2016,325.409942626953
+"Narok","Narok North",2017,638.835754394531
+"Narok","Narok North",2018,633.789794921875
+"Narok","Narok North",2019,710.967712402344
+"Narok","Narok North",2020,646.63427734375
+"Narok","Narok North",2021,793.630432128906
+"Narok","Narok North",2022,868.972961425781
+"Narok","Narok North",2023,967.644165039062
+"Narok","Narok North",2024,961.553039550781
+"Narok","Narok South",2012,2.8223032951355
+"Narok","Narok South",2013,8.17199325561523
+"Narok","Narok South",2014,10.849591255188
+"Narok","Narok South",2015,6.59546422958374
+"Narok","Narok South",2016,3.00917911529541
+"Narok","Narok South",2017,3.45735502243042
+"Narok","Narok South",2018,43.8377304077148
+"Narok","Narok South",2019,55.6681327819824
+"Narok","Narok South",2020,66.382194519043
+"Narok","Narok South",2021,65.5354919433594
+"Narok","Narok South",2022,129.121856689453
+"Narok","Narok South",2023,127.512084960938
+"Narok","Narok South",2024,115.089973449707
+"Narok","Narok West",2012,4.41460800170898
+"Narok","Narok West",2013,2.19269990921021
+"Narok","Narok West",2014,3.77738571166992
+"Narok","Narok West",2015,4.14122486114502
+"Narok","Narok West",2016,3.20198273658752
+"Narok","Narok West",2017,13.0161943435669
+"Narok","Narok West",2018,32.458740234375
+"Narok","Narok West",2019,36.3210334777832
+"Narok","Narok West",2020,30.5406475067139
+"Narok","Narok West",2021,33.5833969116211
+"Narok","Narok West",2022,84.1441497802734
+"Narok","Narok West",2023,88.8720779418945
+"Narok","Narok West",2024,117.552612304688
+"Nyamira","Borabu",2012,28.1296215057373
+"Nyamira","Borabu",2013,35.3010787963867
+"Nyamira","Borabu",2014,30.4161720275879
+"Nyamira","Borabu",2015,35.2220573425293
+"Nyamira","Borabu",2016,20.935754776001
+"Nyamira","Borabu",2017,19.1646327972412
+"Nyamira","Borabu",2018,31.3966884613037
+"Nyamira","Borabu",2019,37.0831146240234
+"Nyamira","Borabu",2020,17.0051383972168
+"Nyamira","Borabu",2021,39.5794639587402
+"Nyamira","Borabu",2022,162.298461914062
+"Nyamira","Borabu",2023,222.068496704102
+"Nyamira","Borabu",2024,238.33561706543
+"Nyamira","Kitutu Masaba",2012,5.46900415420532
+"Nyamira","Kitutu Masaba",2013,8.80007171630859
+"Nyamira","Kitutu Masaba",2014,9.73430347442627
+"Nyamira","Kitutu Masaba",2015,20.6226081848145
+"Nyamira","Kitutu Masaba",2016,21.0381011962891
+"Nyamira","Kitutu Masaba",2017,36.1456069946289
+"Nyamira","Kitutu Masaba",2018,59.1262626647949
+"Nyamira","Kitutu Masaba",2019,68.9159469604492
+"Nyamira","Kitutu Masaba",2020,64.8885040283203
+"Nyamira","Kitutu Masaba",2021,105.731712341309
+"Nyamira","Kitutu Masaba",2022,322.101623535156
+"Nyamira","Kitutu Masaba",2023,332.031799316406
+"Nyamira","Kitutu Masaba",2024,425.6650390625
+"Nyamira","North Mugirango",2012,4.32914113998413
+"Nyamira","North Mugirango",2013,6.1557788848877
+"Nyamira","North Mugirango",2014,10.274543762207
+"Nyamira","North Mugirango",2015,13.4482116699219
+"Nyamira","North Mugirango",2016,10.8406763076782
+"Nyamira","North Mugirango",2017,12.2376222610474
+"Nyamira","North Mugirango",2018,24.6822357177734
+"Nyamira","North Mugirango",2019,29.6881294250488
+"Nyamira","North Mugirango",2020,26.4510288238525
+"Nyamira","North Mugirango",2021,52.4637107849121
+"Nyamira","North Mugirango",2022,108.961441040039
+"Nyamira","North Mugirango",2023,106.077041625977
+"Nyamira","North Mugirango",2024,138.215347290039
+"Nyamira","West Mugirango",2012,16.0644035339355
+"Nyamira","West Mugirango",2013,19.2878856658936
+"Nyamira","West Mugirango",2014,23.2313976287842
+"Nyamira","West Mugirango",2015,28.717794418335
+"Nyamira","West Mugirango",2016,27.9178104400635
+"Nyamira","West Mugirango",2017,62.3427429199219
+"Nyamira","West Mugirango",2018,79.6615219116211
+"Nyamira","West Mugirango",2019,75.6630172729492
+"Nyamira","West Mugirango",2020,65.4404983520508
+"Nyamira","West Mugirango",2021,106.718185424805
+"Nyamira","West Mugirango",2022,222.573883056641
+"Nyamira","West Mugirango",2023,277.795104980469
+"Nyamira","West Mugirango",2024,343.566345214844
+"Nyandarua","Kinangop",2012,14.98779296875
+"Nyandarua","Kinangop",2013,20.6992855072021
+"Nyandarua","Kinangop",2014,40.7490997314453
+"Nyandarua","Kinangop",2015,60.5463066101074
+"Nyandarua","Kinangop",2016,81.0548553466797
+"Nyandarua","Kinangop",2017,108.220230102539
+"Nyandarua","Kinangop",2018,188.439819335938
+"Nyandarua","Kinangop",2019,213.266632080078
+"Nyandarua","Kinangop",2020,171.940505981445
+"Nyandarua","Kinangop",2021,220.540435791016
+"Nyandarua","Kinangop",2022,378.011749267578
+"Nyandarua","Kinangop",2023,337.542999267578
+"Nyandarua","Kinangop",2024,380.098693847656
+"Nyandarua","Kipipiri",2012,25.6852493286133
+"Nyandarua","Kipipiri",2013,71.16845703125
+"Nyandarua","Kipipiri",2014,40.5777816772461
+"Nyandarua","Kipipiri",2015,8.68110179901123
+"Nyandarua","Kipipiri",2016,9.01779937744141
+"Nyandarua","Kipipiri",2017,43.1258163452148
+"Nyandarua","Kipipiri",2018,54.0951271057129
+"Nyandarua","Kipipiri",2019,53.1581039428711
+"Nyandarua","Kipipiri",2020,30.7497501373291
+"Nyandarua","Kipipiri",2021,34.500732421875
+"Nyandarua","Kipipiri",2022,79.7398147583008
+"Nyandarua","Kipipiri",2023,69.5622634887695
+"Nyandarua","Kipipiri",2024,111.23656463623
+"Nyandarua","Ndaragwa",2012,2.16242504119873
+"Nyandarua","Ndaragwa",2013,2.56253480911255
+"Nyandarua","Ndaragwa",2014,4.4802508354187
+"Nyandarua","Ndaragwa",2015,15.0552816390991
+"Nyandarua","Ndaragwa",2016,15.1584949493408
+"Nyandarua","Ndaragwa",2017,21.945707321167
+"Nyandarua","Ndaragwa",2018,43.951229095459
+"Nyandarua","Ndaragwa",2019,41.9450645446777
+"Nyandarua","Ndaragwa",2020,32.5237426757812
+"Nyandarua","Ndaragwa",2021,44.5411529541016
+"Nyandarua","Ndaragwa",2022,78.4747161865234
+"Nyandarua","Ndaragwa",2023,79.9154357910156
+"Nyandarua","Ndaragwa",2024,80.0775756835938
+"Nyandarua","Ol Jorok",2012,12.1308536529541
+"Nyandarua","Ol Jorok",2013,16.1279354095459
+"Nyandarua","Ol Jorok",2014,22.8860969543457
+"Nyandarua","Ol Jorok",2015,48.4093055725098
+"Nyandarua","Ol Jorok",2016,37.8676452636719
+"Nyandarua","Ol Jorok",2017,62.1869888305664
+"Nyandarua","Ol Jorok",2018,117.256637573242
+"Nyandarua","Ol Jorok",2019,100.739280700684
+"Nyandarua","Ol Jorok",2020,79.80859375
+"Nyandarua","Ol Jorok",2021,108.160942077637
+"Nyandarua","Ol Jorok",2022,182.851196289062
+"Nyandarua","Ol Jorok",2023,188.421356201172
+"Nyandarua","Ol Jorok",2024,263.452880859375
+"Nyandarua","Ol Kalou",2012,11.9089193344116
+"Nyandarua","Ol Kalou",2013,16.3366680145264
+"Nyandarua","Ol Kalou",2014,17.368257522583
+"Nyandarua","Ol Kalou",2015,45.9579734802246
+"Nyandarua","Ol Kalou",2016,69.3487091064453
+"Nyandarua","Ol Kalou",2017,143.399963378906
+"Nyandarua","Ol Kalou",2018,165.542587280273
+"Nyandarua","Ol Kalou",2019,167.951446533203
+"Nyandarua","Ol Kalou",2020,160.391586303711
+"Nyandarua","Ol Kalou",2021,208.921752929688
+"Nyandarua","Ol Kalou",2022,304.717163085938
+"Nyandarua","Ol Kalou",2023,289.364410400391
+"Nyandarua","Ol Kalou",2024,298.701599121094
+"Nyeri","Kieni",2012,171.003707885742
+"Nyeri","Kieni",2013,178.682083129883
+"Nyeri","Kieni",2014,211.759765625
+"Nyeri","Kieni",2015,218.311767578125
+"Nyeri","Kieni",2016,235.317428588867
+"Nyeri","Kieni",2017,306.93408203125
+"Nyeri","Kieni",2018,421.740875244141
+"Nyeri","Kieni",2019,464.361480712891
+"Nyeri","Kieni",2020,357.700927734375
+"Nyeri","Kieni",2021,467.713226318359
+"Nyeri","Kieni",2022,732.925842285156
+"Nyeri","Kieni",2023,771.390502929688
+"Nyeri","Kieni",2024,741.073852539062
+"Nyeri","Mathira",2012,53.8666076660156
+"Nyeri","Mathira",2013,62.7258911132812
+"Nyeri","Mathira",2014,89.0664367675781
+"Nyeri","Mathira",2015,109.383827209473
+"Nyeri","Mathira",2016,167.105743408203
+"Nyeri","Mathira",2017,258.168609619141
+"Nyeri","Mathira",2018,306.547271728516
+"Nyeri","Mathira",2019,247.711624145508
+"Nyeri","Mathira",2020,223.4169921875
+"Nyeri","Mathira",2021,277.438690185547
+"Nyeri","Mathira",2022,622.090026855469
+"Nyeri","Mathira",2023,633.838073730469
+"Nyeri","Mathira",2024,732.882080078125
+"Nyeri","Mukurweini",2012,10.508581161499
+"Nyeri","Mukurweini",2013,6.27908897399902
+"Nyeri","Mukurweini",2014,20.0854091644287
+"Nyeri","Mukurweini",2015,20.6849956512451
+"Nyeri","Mukurweini",2016,30.537633895874
+"Nyeri","Mukurweini",2017,63.299243927002
+"Nyeri","Mukurweini",2018,59.3149642944336
+"Nyeri","Mukurweini",2019,89.9106597900391
+"Nyeri","Mukurweini",2020,75.8605117797852
+"Nyeri","Mukurweini",2021,128.439819335938
+"Nyeri","Mukurweini",2022,369.274810791016
+"Nyeri","Mukurweini",2023,354.463470458984
+"Nyeri","Mukurweini",2024,385.760498046875
+"Nyeri","Nyeri Town",2012,362.781066894531
+"Nyeri","Nyeri Town",2013,351.5419921875
+"Nyeri","Nyeri Town",2014,436.914459228516
+"Nyeri","Nyeri Town",2015,716.151550292969
+"Nyeri","Nyeri Town",2016,909.346313476562
+"Nyeri","Nyeri Town",2017,965.990295410156
+"Nyeri","Nyeri Town",2018,975.89892578125
+"Nyeri","Nyeri Town",2019,1115.40417480469
+"Nyeri","Nyeri Town",2020,950.468444824219
+"Nyeri","Nyeri Town",2021,1137.69946289062
+"Nyeri","Nyeri Town",2022,1539.125
+"Nyeri","Nyeri Town",2023,1614.0078125
+"Nyeri","Nyeri Town",2024,1676.46569824219
+"Nyeri","Othaya",2012,30.2789363861084
+"Nyeri","Othaya",2013,32.2731742858887
+"Nyeri","Othaya",2014,74.5132522583008
+"Nyeri","Othaya",2015,66.2658309936523
+"Nyeri","Othaya",2016,64.6227569580078
+"Nyeri","Othaya",2017,76.8469161987305
+"Nyeri","Othaya",2018,96.5448455810547
+"Nyeri","Othaya",2019,98.7674407958984
+"Nyeri","Othaya",2020,83.9175033569336
+"Nyeri","Othaya",2021,192.553024291992
+"Nyeri","Othaya",2022,526.445678710938
+"Nyeri","Othaya",2023,545.901184082031
+"Nyeri","Othaya",2024,492.625701904297
+"Nyeri","Tetu",2012,14.4196319580078
+"Nyeri","Tetu",2013,14.2560930252075
+"Nyeri","Tetu",2014,22.8146381378174
+"Nyeri","Tetu",2015,22.0161571502686
+"Nyeri","Tetu",2016,17.1401252746582
+"Nyeri","Tetu",2017,26.0375957489014
+"Nyeri","Tetu",2018,29.9799137115479
+"Nyeri","Tetu",2019,77.9417266845703
+"Nyeri","Tetu",2020,73.0407562255859
+"Nyeri","Tetu",2021,185.218460083008
+"Nyeri","Tetu",2022,437.337860107422
+"Nyeri","Tetu",2023,558.805725097656
+"Nyeri","Tetu",2024,615.911437988281
+"Samburu","Samburu East",2012,3.16337132453918
+"Samburu","Samburu East",2013,1.59818434715271
+"Samburu","Samburu East",2014,1.99776971340179
+"Samburu","Samburu East",2015,11.9325313568115
+"Samburu","Samburu East",2016,12.5256395339966
+"Samburu","Samburu East",2017,10.8040323257446
+"Samburu","Samburu East",2018,8.05399036407471
+"Samburu","Samburu East",2019,7.04163455963135
+"Samburu","Samburu East",2020,27.176362991333
+"Samburu","Samburu East",2021,53.875804901123
+"Samburu","Samburu East",2022,85.7028274536133
+"Samburu","Samburu East",2023,93.9811248779297
+"Samburu","Samburu East",2024,46.6439094543457
+"Samburu","Samburu North",2012,2.37407064437866
+"Samburu","Samburu North",2013,5.78022384643555
+"Samburu","Samburu North",2014,5.72445011138916
+"Samburu","Samburu North",2015,2.88491749763489
+"Samburu","Samburu North",2016,7.18243503570557
+"Samburu","Samburu North",2017,4.54233980178833
+"Samburu","Samburu North",2018,21.0694732666016
+"Samburu","Samburu North",2019,34.4466209411621
+"Samburu","Samburu North",2020,32.917179107666
+"Samburu","Samburu North",2021,25.0749263763428
+"Samburu","Samburu North",2022,33.0671539306641
+"Samburu","Samburu North",2023,39.1696510314941
+"Samburu","Samburu North",2024,37.8097610473633
+"Samburu","Samburu West",2012,19.9599113464355
+"Samburu","Samburu West",2013,23.8626556396484
+"Samburu","Samburu West",2014,27.141565322876
+"Samburu","Samburu West",2015,142.202346801758
+"Samburu","Samburu West",2016,208.687103271484
+"Samburu","Samburu West",2017,205.43424987793
+"Samburu","Samburu West",2018,229.340270996094
+"Samburu","Samburu West",2019,278.037292480469
+"Samburu","Samburu West",2020,246.286819458008
+"Samburu","Samburu West",2021,300.482543945312
+"Samburu","Samburu West",2022,311.149108886719
+"Samburu","Samburu West",2023,274.028198242188
+"Samburu","Samburu West",2024,214.522766113281
+"Siaya","Alego Usonga",2012,17.9991283416748
+"Siaya","Alego Usonga",2013,22.15700340271
+"Siaya","Alego Usonga",2014,24.9767875671387
+"Siaya","Alego Usonga",2015,44.2463645935059
+"Siaya","Alego Usonga",2016,56.6965637207031
+"Siaya","Alego Usonga",2017,112.807716369629
+"Siaya","Alego Usonga",2018,167.281158447266
+"Siaya","Alego Usonga",2019,212.911712646484
+"Siaya","Alego Usonga",2020,157.24462890625
+"Siaya","Alego Usonga",2021,206.533721923828
+"Siaya","Alego Usonga",2022,396.594848632812
+"Siaya","Alego Usonga",2023,535.033996582031
+"Siaya","Alego Usonga",2024,468.627807617188
+"Siaya","Bondo",2012,40.3703651428223
+"Siaya","Bondo",2013,37.5158042907715
+"Siaya","Bondo",2014,45.4711875915527
+"Siaya","Bondo",2015,46.229190826416
+"Siaya","Bondo",2016,63.9169654846191
+"Siaya","Bondo",2017,97.3509902954102
+"Siaya","Bondo",2018,132.34700012207
+"Siaya","Bondo",2019,184.343673706055
+"Siaya","Bondo",2020,140.070007324219
+"Siaya","Bondo",2021,156.047561645508
+"Siaya","Bondo",2022,285.446014404297
+"Siaya","Bondo",2023,325.849243164062
+"Siaya","Bondo",2024,257.241271972656
+"Siaya","Gem",2012,6.97987413406372
+"Siaya","Gem",2013,7.14354658126831
+"Siaya","Gem",2014,6.14200687408447
+"Siaya","Gem",2015,12.7233257293701
+"Siaya","Gem",2016,5.74263668060303
+"Siaya","Gem",2017,13.3520402908325
+"Siaya","Gem",2018,51.9178848266602
+"Siaya","Gem",2019,93.9810791015625
+"Siaya","Gem",2020,94.8052978515625
+"Siaya","Gem",2021,162.291839599609
+"Siaya","Gem",2022,387.524719238281
+"Siaya","Gem",2023,645.683410644531
+"Siaya","Gem",2024,489.210021972656
+"Siaya","Rarieda",2012,2.08718919754028
+"Siaya","Rarieda",2013,4.80401372909546
+"Siaya","Rarieda",2014,5.63587045669556
+"Siaya","Rarieda",2015,9.13278770446777
+"Siaya","Rarieda",2016,3.24409890174866
+"Siaya","Rarieda",2017,5.07328701019287
+"Siaya","Rarieda",2018,11.5993747711182
+"Siaya","Rarieda",2019,8.90007400512695
+"Siaya","Rarieda",2020,9.22802925109863
+"Siaya","Rarieda",2021,17.6772193908691
+"Siaya","Rarieda",2022,65.3262634277344
+"Siaya","Rarieda",2023,118.035552978516
+"Siaya","Rarieda",2024,104.746406555176
+"Siaya","Ugenya",2012,5.47308588027954
+"Siaya","Ugenya",2013,5.96822261810303
+"Siaya","Ugenya",2014,4.15908241271973
+"Siaya","Ugenya",2015,4.32087230682373
+"Siaya","Ugenya",2016,4.77286291122437
+"Siaya","Ugenya",2017,5.17298889160156
+"Siaya","Ugenya",2018,10.5000381469727
+"Siaya","Ugenya",2019,28.7868118286133
+"Siaya","Ugenya",2020,31.8813495635986
+"Siaya","Ugenya",2021,36.8203964233398
+"Siaya","Ugenya",2022,78.0528564453125
+"Siaya","Ugenya",2023,176.059783935547
+"Siaya","Ugenya",2024,113.50447845459
+"Siaya","Ugunja",2012,10.5011253356934
+"Siaya","Ugunja",2013,10.515793800354
+"Siaya","Ugunja",2014,10.5729875564575
+"Siaya","Ugunja",2015,17.373872756958
+"Siaya","Ugunja",2016,20.5883598327637
+"Siaya","Ugunja",2017,20.4442367553711
+"Siaya","Ugunja",2018,30.5110530853271
+"Siaya","Ugunja",2019,79.5655975341797
+"Siaya","Ugunja",2020,79.3618927001953
+"Siaya","Ugunja",2021,99.1830520629883
+"Siaya","Ugunja",2022,234.940246582031
+"Siaya","Ugunja",2023,357.597778320312
+"Siaya","Ugunja",2024,272.426696777344
+"Taita Taveta","Mwatate",2012,34.4725379943848
+"Taita Taveta","Mwatate",2013,42.4524230957031
+"Taita Taveta","Mwatate",2014,32.3706321716309
+"Taita Taveta","Mwatate",2015,38.8387985229492
+"Taita Taveta","Mwatate",2016,33.6728096008301
+"Taita Taveta","Mwatate",2017,45.587215423584
+"Taita Taveta","Mwatate",2018,71.4255599975586
+"Taita Taveta","Mwatate",2019,55.9438056945801
+"Taita Taveta","Mwatate",2020,83.9927673339844
+"Taita Taveta","Mwatate",2021,141.045425415039
+"Taita Taveta","Mwatate",2022,191.084808349609
+"Taita Taveta","Mwatate",2023,222.468139648438
+"Taita Taveta","Mwatate",2024,171.478546142578
+"Taita Taveta","Taveta",2012,26.5354099273682
+"Taita Taveta","Taveta",2013,28.6819648742676
+"Taita Taveta","Taveta",2014,37.2979927062988
+"Taita Taveta","Taveta",2015,49.00537109375
+"Taita Taveta","Taveta",2016,64.6386795043945
+"Taita Taveta","Taveta",2017,64.9618072509766
+"Taita Taveta","Taveta",2018,63.4126358032227
+"Taita Taveta","Taveta",2019,69.0445098876953
+"Taita Taveta","Taveta",2020,117.034782409668
+"Taita Taveta","Taveta",2021,157.725875854492
+"Taita Taveta","Taveta",2022,246.126251220703
+"Taita Taveta","Taveta",2023,262.644378662109
+"Taita Taveta","Taveta",2024,217.900177001953
+"Taita Taveta","Voi",2012,155.912368774414
+"Taita Taveta","Voi",2013,173.991348266602
+"Taita Taveta","Voi",2014,164.985900878906
+"Taita Taveta","Voi",2015,250.105545043945
+"Taita Taveta","Voi",2016,302.037353515625
+"Taita Taveta","Voi",2017,519.146789550781
+"Taita Taveta","Voi",2018,578.156982421875
+"Taita Taveta","Voi",2019,601.379333496094
+"Taita Taveta","Voi",2020,650.599914550781
+"Taita Taveta","Voi",2021,671.764099121094
+"Taita Taveta","Voi",2022,648.995666503906
+"Taita Taveta","Voi",2023,773.656677246094
+"Taita Taveta","Voi",2024,693.479553222656
+"Taita Taveta","Wundanyi",2012,10.1001644134521
+"Taita Taveta","Wundanyi",2013,10.3087339401245
+"Taita Taveta","Wundanyi",2014,11.1172962188721
+"Taita Taveta","Wundanyi",2015,12.9396648406982
+"Taita Taveta","Wundanyi",2016,12.4104890823364
+"Taita Taveta","Wundanyi",2017,115.384956359863
+"Taita Taveta","Wundanyi",2018,97.3562393188477
+"Taita Taveta","Wundanyi",2019,153.002578735352
+"Taita Taveta","Wundanyi",2020,104.047622680664
+"Taita Taveta","Wundanyi",2021,134.125778198242
+"Taita Taveta","Wundanyi",2022,175.058883666992
+"Taita Taveta","Wundanyi",2023,146.816055297852
+"Taita Taveta","Wundanyi",2024,111.496742248535
+"Tana River","Bura",2012,21.1402320861816
+"Tana River","Bura",2013,21.9956645965576
+"Tana River","Bura",2014,25.7396564483643
+"Tana River","Bura",2015,32.1408500671387
+"Tana River","Bura",2016,123.774353027344
+"Tana River","Bura",2017,112.457397460938
+"Tana River","Bura",2018,105.994087219238
+"Tana River","Bura",2019,75.5142822265625
+"Tana River","Bura",2020,90.7751235961914
+"Tana River","Bura",2021,128.525833129883
+"Tana River","Bura",2022,152.714111328125
+"Tana River","Bura",2023,202.100738525391
+"Tana River","Bura",2024,223.113204956055
+"Tana River","Galole",2012,9.60784435272217
+"Tana River","Galole",2013,12.5611639022827
+"Tana River","Galole",2014,13.1020908355713
+"Tana River","Galole",2015,13.2369966506958
+"Tana River","Galole",2016,14.754545211792
+"Tana River","Galole",2017,74.6073455810547
+"Tana River","Galole",2018,21.6646614074707
+"Tana River","Galole",2019,115.913078308105
+"Tana River","Galole",2020,61.7037353515625
+"Tana River","Galole",2021,109.095504760742
+"Tana River","Galole",2022,203.930572509766
+"Tana River","Galole",2023,141.528366088867
+"Tana River","Galole",2024,131.145324707031
+"Tana River","Garsen",2012,2.00941228866577
+"Tana River","Garsen",2013,1.64093804359436
+"Tana River","Garsen",2014,1.15637612342834
+"Tana River","Garsen",2015,34.2727737426758
+"Tana River","Garsen",2016,31.2068862915039
+"Tana River","Garsen",2017,37.5012130737305
+"Tana River","Garsen",2018,45.8978538513184
+"Tana River","Garsen",2019,50.528018951416
+"Tana River","Garsen",2020,23.0972900390625
+"Tana River","Garsen",2021,43.8554000854492
+"Tana River","Garsen",2022,74.2326812744141
+"Tana River","Garsen",2023,76.8367767333984
+"Tana River","Garsen",2024,51.1812477111816
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2012,21.9132461547852
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2013,17.8081932067871
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2014,25.8272647857666
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2015,36.1928024291992
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2016,65.2131576538086
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2017,136.912094116211
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2018,212.535980224609
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2019,206.352355957031
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2020,154.898361206055
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2021,200.720687866211
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2022,261.074829101562
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2023,251.487396240234
+"Tharaka-Nithi","Chuka/Igambang'Ombe",2024,271.41162109375
+"Tharaka-Nithi","Igembe South",2012,1.01215398311615
+"Tharaka-Nithi","Igembe South",2013,0.546281814575195
+"Tharaka-Nithi","Igembe South",2014,2.21146464347839
+"Tharaka-Nithi","Igembe South",2015,1.96453976631165
+"Tharaka-Nithi","Igembe South",2016,1.0867075920105
+"Tharaka-Nithi","Igembe South",2017,5.22767066955566
+"Tharaka-Nithi","Igembe South",2018,16.5357856750488
+"Tharaka-Nithi","Igembe South",2019,11.4416027069092
+"Tharaka-Nithi","Igembe South",2020,12.2490272521973
+"Tharaka-Nithi","Igembe South",2021,13.734076499939
+"Tharaka-Nithi","Igembe South",2022,16.6477928161621
+"Tharaka-Nithi","Igembe South",2023,19.7599391937256
+"Tharaka-Nithi","Igembe South",2024,17.2325572967529
+"Tharaka-Nithi","Maara",2012,11.1147632598877
+"Tharaka-Nithi","Maara",2013,6.80491018295288
+"Tharaka-Nithi","Maara",2014,11.7238178253174
+"Tharaka-Nithi","Maara",2015,14.2645683288574
+"Tharaka-Nithi","Maara",2016,10.267539024353
+"Tharaka-Nithi","Maara",2017,24.3290500640869
+"Tharaka-Nithi","Maara",2018,54.526123046875
+"Tharaka-Nithi","Maara",2019,45.2918281555176
+"Tharaka-Nithi","Maara",2020,23.6322822570801
+"Tharaka-Nithi","Maara",2021,60.143970489502
+"Tharaka-Nithi","Maara",2022,159.193252563477
+"Tharaka-Nithi","Maara",2023,158.404556274414
+"Tharaka-Nithi","Maara",2024,202.083740234375
+"Tharaka-Nithi","Tharaka",2012,1.66830921173096
+"Tharaka-Nithi","Tharaka",2013,2.27444553375244
+"Tharaka-Nithi","Tharaka",2014,2.9330313205719
+"Tharaka-Nithi","Tharaka",2015,1.32581448554993
+"Tharaka-Nithi","Tharaka",2016,1.35522794723511
+"Tharaka-Nithi","Tharaka",2017,0.674297213554382
+"Tharaka-Nithi","Tharaka",2018,0.519813001155853
+"Tharaka-Nithi","Tharaka",2019,0.591866791248322
+"Tharaka-Nithi","Tharaka",2020,1.97205257415771
+"Tharaka-Nithi","Tharaka",2021,19.1461925506592
+"Tharaka-Nithi","Tharaka",2022,38.1936187744141
+"Tharaka-Nithi","Tharaka",2023,45.1045036315918
+"Tharaka-Nithi","Tharaka",2024,54.5743370056152
+"Trans Nzoia","Cherangany",2012,7.46132469177246
+"Trans Nzoia","Cherangany",2013,6.22740936279297
+"Trans Nzoia","Cherangany",2014,3.01869702339172
+"Trans Nzoia","Cherangany",2015,6.48653888702393
+"Trans Nzoia","Cherangany",2016,7.643479347229
+"Trans Nzoia","Cherangany",2017,15.5449199676514
+"Trans Nzoia","Cherangany",2018,19.3119792938232
+"Trans Nzoia","Cherangany",2019,30.7647743225098
+"Trans Nzoia","Cherangany",2020,14.9735851287842
+"Trans Nzoia","Cherangany",2021,23.8501052856445
+"Trans Nzoia","Cherangany",2022,55.5563049316406
+"Trans Nzoia","Cherangany",2023,80.1356353759766
+"Trans Nzoia","Cherangany",2024,107.741966247559
+"Trans Nzoia","Endebess",2012,2.94480156898499
+"Trans Nzoia","Endebess",2013,4.76553726196289
+"Trans Nzoia","Endebess",2014,2.28633189201355
+"Trans Nzoia","Endebess",2015,3.72994065284729
+"Trans Nzoia","Endebess",2016,2.47614097595215
+"Trans Nzoia","Endebess",2017,6.40571308135986
+"Trans Nzoia","Endebess",2018,15.3949966430664
+"Trans Nzoia","Endebess",2019,20.6925926208496
+"Trans Nzoia","Endebess",2020,9.29752922058105
+"Trans Nzoia","Endebess",2021,14.9149131774902
+"Trans Nzoia","Endebess",2022,43.9297904968262
+"Trans Nzoia","Endebess",2023,46.7462196350098
+"Trans Nzoia","Endebess",2024,30.4513854980469
+"Trans Nzoia","Kiminini",2012,59.1906509399414
+"Trans Nzoia","Kiminini",2013,56.8952674865723
+"Trans Nzoia","Kiminini",2014,59.2776412963867
+"Trans Nzoia","Kiminini",2015,89.5978469848633
+"Trans Nzoia","Kiminini",2016,87.7627792358398
+"Trans Nzoia","Kiminini",2017,156.020736694336
+"Trans Nzoia","Kiminini",2018,192.172348022461
+"Trans Nzoia","Kiminini",2019,252.877319335938
+"Trans Nzoia","Kiminini",2020,232.607437133789
+"Trans Nzoia","Kiminini",2021,296.846374511719
+"Trans Nzoia","Kiminini",2022,522.356079101562
+"Trans Nzoia","Kiminini",2023,725.159362792969
+"Trans Nzoia","Kiminini",2024,795.923706054688
+"Trans Nzoia","Kwanza",2012,10.8588056564331
+"Trans Nzoia","Kwanza",2013,9.8976411819458
+"Trans Nzoia","Kwanza",2014,9.60538864135742
+"Trans Nzoia","Kwanza",2015,12.9995737075806
+"Trans Nzoia","Kwanza",2016,17.978120803833
+"Trans Nzoia","Kwanza",2017,29.8445854187012
+"Trans Nzoia","Kwanza",2018,30.903284072876
+"Trans Nzoia","Kwanza",2019,50.7957992553711
+"Trans Nzoia","Kwanza",2020,51.2798805236816
+"Trans Nzoia","Kwanza",2021,67.2162170410156
+"Trans Nzoia","Kwanza",2022,100.434181213379
+"Trans Nzoia","Kwanza",2023,103.25617980957
+"Trans Nzoia","Kwanza",2024,105.95987701416
+"Trans Nzoia","Saboti",2012,66.4663391113281
+"Trans Nzoia","Saboti",2013,65.9252777099609
+"Trans Nzoia","Saboti",2014,73.7335586547852
+"Trans Nzoia","Saboti",2015,112.064010620117
+"Trans Nzoia","Saboti",2016,131.934646606445
+"Trans Nzoia","Saboti",2017,195.841033935547
+"Trans Nzoia","Saboti",2018,261.515350341797
+"Trans Nzoia","Saboti",2019,340.595275878906
+"Trans Nzoia","Saboti",2020,287.579254150391
+"Trans Nzoia","Saboti",2021,331.575958251953
+"Trans Nzoia","Saboti",2022,396.339477539062
+"Trans Nzoia","Saboti",2023,418.493072509766
+"Trans Nzoia","Saboti",2024,429.935241699219
+"Trans Nzoia","unknown 4",2012,0.000206123382668011
+"Trans Nzoia","unknown 4",2013,0
+"Trans Nzoia","unknown 4",2014,0
+"Trans Nzoia","unknown 4",2015,0.000187657235073857
+"Trans Nzoia","unknown 4",2016,0.685399949550629
+"Trans Nzoia","unknown 4",2017,1.3641095161438
+"Trans Nzoia","unknown 4",2018,0.583466172218323
+"Trans Nzoia","unknown 4",2019,3.79440212249756
+"Trans Nzoia","unknown 4",2020,4.19515705108643
+"Trans Nzoia","unknown 4",2021,3.57095503807068
+"Trans Nzoia","unknown 4",2022,5.13481616973877
+"Trans Nzoia","unknown 4",2023,12.2546072006226
+"Trans Nzoia","unknown 4",2024,10.9505233764648
+"Turkana","Loima",2012,0
+"Turkana","Loima",2013,0
+"Turkana","Loima",2014,0
+"Turkana","Loima",2015,0
+"Turkana","Loima",2016,0
+"Turkana","Loima",2017,0
+"Turkana","Loima",2018,0
+"Turkana","Loima",2019,0.25614458322525
+"Turkana","Loima",2020,0
+"Turkana","Loima",2021,1.51757526397705
+"Turkana","Loima",2022,9.03279495239258
+"Turkana","Loima",2023,10.4761734008789
+"Turkana","Loima",2024,17.9820022583008
+"Turkana","Turkana Central",2012,40.1302795410156
+"Turkana","Turkana Central",2013,43.7595405578613
+"Turkana","Turkana Central",2014,48.5887603759766
+"Turkana","Turkana Central",2015,72.6232147216797
+"Turkana","Turkana Central",2016,151.247146606445
+"Turkana","Turkana Central",2017,142.298965454102
+"Turkana","Turkana Central",2018,122.281478881836
+"Turkana","Turkana Central",2019,140.968017578125
+"Turkana","Turkana Central",2020,178.131103515625
+"Turkana","Turkana Central",2021,240.11767578125
+"Turkana","Turkana Central",2022,356.219055175781
+"Turkana","Turkana Central",2023,515.220825195312
+"Turkana","Turkana Central",2024,494.387512207031
+"Turkana","Turkana East",2012,0
+"Turkana","Turkana East",2013,0
+"Turkana","Turkana East",2014,0
+"Turkana","Turkana East",2015,0
+"Turkana","Turkana East",2016,0
+"Turkana","Turkana East",2017,0
+"Turkana","Turkana East",2018,0
+"Turkana","Turkana East",2019,0
+"Turkana","Turkana East",2020,0
+"Turkana","Turkana East",2021,0
+"Turkana","Turkana East",2022,11.5437450408936
+"Turkana","Turkana East",2023,8.65555953979492
+"Turkana","Turkana East",2024,2.02595472335815
+"Turkana","Turkana North",2012,0.597413599491119
+"Turkana","Turkana North",2013,0.960550844669342
+"Turkana","Turkana North",2014,0
+"Turkana","Turkana North",2015,0
+"Turkana","Turkana North",2016,0
+"Turkana","Turkana North",2017,0
+"Turkana","Turkana North",2018,0
+"Turkana","Turkana North",2019,0
+"Turkana","Turkana North",2020,0
+"Turkana","Turkana North",2021,0
+"Turkana","Turkana North",2022,0.635079383850098
+"Turkana","Turkana North",2023,1.13433957099915
+"Turkana","Turkana North",2024,0
+"Turkana","Turkana South",2012,20.918478012085
+"Turkana","Turkana South",2013,28.0614833831787
+"Turkana","Turkana South",2014,58.5769653320312
+"Turkana","Turkana South",2015,30.2150554656982
+"Turkana","Turkana South",2016,19.6849155426025
+"Turkana","Turkana South",2017,14.80677318573
+"Turkana","Turkana South",2018,18.0384864807129
+"Turkana","Turkana South",2019,18.5168361663818
+"Turkana","Turkana South",2020,11.5268201828003
+"Turkana","Turkana South",2021,35.1047859191895
+"Turkana","Turkana South",2022,54.3082466125488
+"Turkana","Turkana South",2023,76.2068634033203
+"Turkana","Turkana South",2024,102.477554321289
+"Turkana","Turkana West",2012,42.5984573364258
+"Turkana","Turkana West",2013,51.4941024780273
+"Turkana","Turkana West",2014,56.2142753601074
+"Turkana","Turkana West",2015,61.6156463623047
+"Turkana","Turkana West",2016,63.3178787231445
+"Turkana","Turkana West",2017,79.4221267700195
+"Turkana","Turkana West",2018,67.0387802124023
+"Turkana","Turkana West",2019,66.6641616821289
+"Turkana","Turkana West",2020,52.5848045349121
+"Turkana","Turkana West",2021,88.2708969116211
+"Turkana","Turkana West",2022,112.82332611084
+"Turkana","Turkana West",2023,235.952896118164
+"Turkana","Turkana West",2024,231.524490356445
+"Turkana","unknown 2",2012,11.2550649642944
+"Turkana","unknown 2",2013,5.93235015869141
+"Turkana","unknown 2",2014,10.0225381851196
+"Turkana","unknown 2",2015,40.7662048339844
+"Turkana","unknown 2",2016,0
+"Turkana","unknown 2",2017,1.75252032279968
+"Turkana","unknown 2",2018,20.2584037780762
+"Turkana","unknown 2",2019,89.8331604003906
+"Turkana","unknown 2",2020,16.4469966888428
+"Turkana","unknown 2",2021,14.3787708282471
+"Turkana","unknown 2",2022,37.3056907653809
+"Turkana","unknown 2",2023,31.219596862793
+"Turkana","unknown 2",2024,22.690845489502
+"Uasin Gishu","Ainabkoi",2012,93.0172576904297
+"Uasin Gishu","Ainabkoi",2013,88.7194747924805
+"Uasin Gishu","Ainabkoi",2014,101.641258239746
+"Uasin Gishu","Ainabkoi",2015,138.458541870117
+"Uasin Gishu","Ainabkoi",2016,199.384231567383
+"Uasin Gishu","Ainabkoi",2017,306.637115478516
+"Uasin Gishu","Ainabkoi",2018,385.496154785156
+"Uasin Gishu","Ainabkoi",2019,445.078338623047
+"Uasin Gishu","Ainabkoi",2020,489.53076171875
+"Uasin Gishu","Ainabkoi",2021,630.93017578125
+"Uasin Gishu","Ainabkoi",2022,774.210998535156
+"Uasin Gishu","Ainabkoi",2023,860.787292480469
+"Uasin Gishu","Ainabkoi",2024,956.720153808594
+"Uasin Gishu","Kapseret",2012,184.364517211914
+"Uasin Gishu","Kapseret",2013,205.788452148438
+"Uasin Gishu","Kapseret",2014,203.697982788086
+"Uasin Gishu","Kapseret",2015,267.790222167969
+"Uasin Gishu","Kapseret",2016,328.709655761719
+"Uasin Gishu","Kapseret",2017,442.093109130859
+"Uasin Gishu","Kapseret",2018,536.711547851562
+"Uasin Gishu","Kapseret",2019,582.458068847656
+"Uasin Gishu","Kapseret",2020,553.0322265625
+"Uasin Gishu","Kapseret",2021,685.705505371094
+"Uasin Gishu","Kapseret",2022,938.505981445312
+"Uasin Gishu","Kapseret",2023,1094.92822265625
+"Uasin Gishu","Kapseret",2024,1283.859375
+"Uasin Gishu","Kesses",2012,163.387283325195
+"Uasin Gishu","Kesses",2013,157.817718505859
+"Uasin Gishu","Kesses",2014,181.329742431641
+"Uasin Gishu","Kesses",2015,217.288330078125
+"Uasin Gishu","Kesses",2016,265.421264648438
+"Uasin Gishu","Kesses",2017,399.434600830078
+"Uasin Gishu","Kesses",2018,580.255493164062
+"Uasin Gishu","Kesses",2019,679.116577148438
+"Uasin Gishu","Kesses",2020,712.008361816406
+"Uasin Gishu","Kesses",2021,865.123718261719
+"Uasin Gishu","Kesses",2022,1036.74865722656
+"Uasin Gishu","Kesses",2023,1152.19677734375
+"Uasin Gishu","Kesses",2024,1275.25341796875
+"Uasin Gishu","Moiben",2012,83.4218139648438
+"Uasin Gishu","Moiben",2013,84.1252136230469
+"Uasin Gishu","Moiben",2014,96.0624618530273
+"Uasin Gishu","Moiben",2015,153.290679931641
+"Uasin Gishu","Moiben",2016,188.276229858398
+"Uasin Gishu","Moiben",2017,254.914749145508
+"Uasin Gishu","Moiben",2018,412.244903564453
+"Uasin Gishu","Moiben",2019,463.193084716797
+"Uasin Gishu","Moiben",2020,455.221832275391
+"Uasin Gishu","Moiben",2021,553.170349121094
+"Uasin Gishu","Moiben",2022,722.81396484375
+"Uasin Gishu","Moiben",2023,853.361938476562
+"Uasin Gishu","Moiben",2024,975.79345703125
+"Uasin Gishu","Soy",2012,54.8822631835938
+"Uasin Gishu","Soy",2013,55.9462928771973
+"Uasin Gishu","Soy",2014,59.6697883605957
+"Uasin Gishu","Soy",2015,92.604736328125
+"Uasin Gishu","Soy",2016,75.4911193847656
+"Uasin Gishu","Soy",2017,105.326293945312
+"Uasin Gishu","Soy",2018,148.271896362305
+"Uasin Gishu","Soy",2019,151.869857788086
+"Uasin Gishu","Soy",2020,134.933609008789
+"Uasin Gishu","Soy",2021,178.256652832031
+"Uasin Gishu","Soy",2022,319.103668212891
+"Uasin Gishu","Soy",2023,414.944183349609
+"Uasin Gishu","Soy",2024,428.913116455078
+"Uasin Gishu","Turbo",2012,234.219329833984
+"Uasin Gishu","Turbo",2013,219.266479492188
+"Uasin Gishu","Turbo",2014,275.804962158203
+"Uasin Gishu","Turbo",2015,325.722106933594
+"Uasin Gishu","Turbo",2016,375.683044433594
+"Uasin Gishu","Turbo",2017,492.566375732422
+"Uasin Gishu","Turbo",2018,558.076171875
+"Uasin Gishu","Turbo",2019,541.96533203125
+"Uasin Gishu","Turbo",2020,472.704345703125
+"Uasin Gishu","Turbo",2021,581.714721679688
+"Uasin Gishu","Turbo",2022,732.772216796875
+"Uasin Gishu","Turbo",2023,885.629333496094
+"Uasin Gishu","Turbo",2024,923.737487792969
+"Vihiga","Emuhaya",2012,0.42599818110466
+"Vihiga","Emuhaya",2013,0.484304487705231
+"Vihiga","Emuhaya",2014,0.00121259794104844
+"Vihiga","Emuhaya",2015,0.000920550664886832
+"Vihiga","Emuhaya",2016,0.000805416260845959
+"Vihiga","Emuhaya",2017,1.29234087467194
+"Vihiga","Emuhaya",2018,11.8384809494019
+"Vihiga","Emuhaya",2019,28.8884754180908
+"Vihiga","Emuhaya",2020,38.4658050537109
+"Vihiga","Emuhaya",2021,46.7862014770508
+"Vihiga","Emuhaya",2022,130.017944335938
+"Vihiga","Emuhaya",2023,198.093521118164
+"Vihiga","Emuhaya",2024,152.51286315918
+"Vihiga","Hamisi",2012,28.6611480712891
+"Vihiga","Hamisi",2013,19.7720966339111
+"Vihiga","Hamisi",2014,24.2872180938721
+"Vihiga","Hamisi",2015,44.18701171875
+"Vihiga","Hamisi",2016,31.0288047790527
+"Vihiga","Hamisi",2017,28.5037593841553
+"Vihiga","Hamisi",2018,67.1584243774414
+"Vihiga","Hamisi",2019,128.318420410156
+"Vihiga","Hamisi",2020,100.150825500488
+"Vihiga","Hamisi",2021,116.886665344238
+"Vihiga","Hamisi",2022,264.522979736328
+"Vihiga","Hamisi",2023,348.874053955078
+"Vihiga","Hamisi",2024,313.349822998047
+"Vihiga","Luanda",2012,18.9304027557373
+"Vihiga","Luanda",2013,30.2578945159912
+"Vihiga","Luanda",2014,22.5188407897949
+"Vihiga","Luanda",2015,25.5199604034424
+"Vihiga","Luanda",2016,22.5804748535156
+"Vihiga","Luanda",2017,43.3163185119629
+"Vihiga","Luanda",2018,66.2577209472656
+"Vihiga","Luanda",2019,75.8116912841797
+"Vihiga","Luanda",2020,57.1485786437988
+"Vihiga","Luanda",2021,81.5023727416992
+"Vihiga","Luanda",2022,206.763000488281
+"Vihiga","Luanda",2023,262.661163330078
+"Vihiga","Luanda",2024,233.978897094727
+"Vihiga","Sabatia",2012,22.7984046936035
+"Vihiga","Sabatia",2013,23.2244892120361
+"Vihiga","Sabatia",2014,17.5327606201172
+"Vihiga","Sabatia",2015,29.8733863830566
+"Vihiga","Sabatia",2016,22.367467880249
+"Vihiga","Sabatia",2017,35.1964721679688
+"Vihiga","Sabatia",2018,67.4173965454102
+"Vihiga","Sabatia",2019,87.6552963256836
+"Vihiga","Sabatia",2020,85.1416244506836
+"Vihiga","Sabatia",2021,94.5472106933594
+"Vihiga","Sabatia",2022,243.71354675293
+"Vihiga","Sabatia",2023,288.331695556641
+"Vihiga","Sabatia",2024,246.598388671875
+"Vihiga","Vihiga",2012,20.8462257385254
+"Vihiga","Vihiga",2013,20.6898670196533
+"Vihiga","Vihiga",2014,20.9375629425049
+"Vihiga","Vihiga",2015,27.9938888549805
+"Vihiga","Vihiga",2016,25.1581058502197
+"Vihiga","Vihiga",2017,48.363899230957
+"Vihiga","Vihiga",2018,67.2179946899414
+"Vihiga","Vihiga",2019,96.8354187011719
+"Vihiga","Vihiga",2020,82.8137588500977
+"Vihiga","Vihiga",2021,94.4407272338867
+"Vihiga","Vihiga",2022,157.910949707031
+"Vihiga","Vihiga",2023,232.453903198242
+"Vihiga","Vihiga",2024,202.919723510742
+"Wajir","Eldas",2012,0
+"Wajir","Eldas",2013,0
+"Wajir","Eldas",2014,0.846308469772339
+"Wajir","Eldas",2015,2.67638421058655
+"Wajir","Eldas",2016,1.76981723308563
+"Wajir","Eldas",2017,1.31622409820557
+"Wajir","Eldas",2018,0.59688937664032
+"Wajir","Eldas",2019,2.07591915130615
+"Wajir","Eldas",2020,0
+"Wajir","Eldas",2021,0.568211734294891
+"Wajir","Eldas",2022,2.39384269714355
+"Wajir","Eldas",2023,1.28956937789917
+"Wajir","Eldas",2024,2.82650589942932
+"Wajir","Tarbaj",2012,0
+"Wajir","Tarbaj",2013,0
+"Wajir","Tarbaj",2014,0
+"Wajir","Tarbaj",2015,0
+"Wajir","Tarbaj",2016,0
+"Wajir","Tarbaj",2017,0
+"Wajir","Tarbaj",2018,0
+"Wajir","Tarbaj",2019,0
+"Wajir","Tarbaj",2020,0
+"Wajir","Tarbaj",2021,0
+"Wajir","Tarbaj",2022,0
+"Wajir","Tarbaj",2023,0
+"Wajir","Tarbaj",2024,0
+"Wajir","Wajir East",2012,112.148361206055
+"Wajir","Wajir East",2013,136.69856262207
+"Wajir","Wajir East",2014,169.93635559082
+"Wajir","Wajir East",2015,221.183364868164
+"Wajir","Wajir East",2016,192.56266784668
+"Wajir","Wajir East",2017,215.974548339844
+"Wajir","Wajir East",2018,218.452926635742
+"Wajir","Wajir East",2019,171.176498413086
+"Wajir","Wajir East",2020,124.012153625488
+"Wajir","Wajir East",2021,154.53564453125
+"Wajir","Wajir East",2022,253.639663696289
+"Wajir","Wajir East",2023,243.410598754883
+"Wajir","Wajir East",2024,334.857238769531
+"Wajir","Wajir North",2012,0
+"Wajir","Wajir North",2013,0
+"Wajir","Wajir North",2014,0.58343106508255
+"Wajir","Wajir North",2015,2.20463085174561
+"Wajir","Wajir North",2016,0.709587037563324
+"Wajir","Wajir North",2017,0.50706958770752
+"Wajir","Wajir North",2018,0.307108253240585
+"Wajir","Wajir North",2019,0
+"Wajir","Wajir North",2020,0
+"Wajir","Wajir North",2021,0.694651782512665
+"Wajir","Wajir North",2022,3.55649614334106
+"Wajir","Wajir North",2023,3.09563755989075
+"Wajir","Wajir North",2024,9.31069850921631
+"Wajir","Wajir South",2012,5.93900632858276
+"Wajir","Wajir South",2013,5.57669830322266
+"Wajir","Wajir South",2014,5.63782405853271
+"Wajir","Wajir South",2015,7.35053873062134
+"Wajir","Wajir South",2016,4.11979627609253
+"Wajir","Wajir South",2017,2.53482985496521
+"Wajir","Wajir South",2018,1.45079660415649
+"Wajir","Wajir South",2019,0.457082808017731
+"Wajir","Wajir South",2020,0
+"Wajir","Wajir South",2021,1.66830432415009
+"Wajir","Wajir South",2022,4.58826684951782
+"Wajir","Wajir South",2023,6.31980276107788
+"Wajir","Wajir South",2024,6.29661989212036
+"Wajir","Wajir West",2012,1.72459161281586
+"Wajir","Wajir West",2013,5.45543479919434
+"Wajir","Wajir West",2014,10.3427534103394
+"Wajir","Wajir West",2015,4.94011878967285
+"Wajir","Wajir West",2016,2.76570725440979
+"Wajir","Wajir West",2017,1.55870044231415
+"Wajir","Wajir West",2018,0.995423972606659
+"Wajir","Wajir West",2019,0.127397775650024
+"Wajir","Wajir West",2020,0
+"Wajir","Wajir West",2021,1.36204922199249
+"Wajir","Wajir West",2022,2.12645864486694
+"Wajir","Wajir West",2023,3.25847578048706
+"Wajir","Wajir West",2024,2.96964645385742
+"West Pokot","Kacheliba",2012,0
+"West Pokot","Kacheliba",2013,0
+"West Pokot","Kacheliba",2014,0.134558141231537
+"West Pokot","Kacheliba",2015,0.270237505435944
+"West Pokot","Kacheliba",2016,0.314123034477234
+"West Pokot","Kacheliba",2017,1.07159173488617
+"West Pokot","Kacheliba",2018,0.968953013420105
+"West Pokot","Kacheliba",2019,0.848934412002563
+"West Pokot","Kacheliba",2020,11.6702585220337
+"West Pokot","Kacheliba",2021,15.8686542510986
+"West Pokot","Kacheliba",2022,20.3671894073486
+"West Pokot","Kacheliba",2023,32.5341453552246
+"West Pokot","Kacheliba",2024,27.855110168457
+"West Pokot","Kapenguria",2012,30.93994140625
+"West Pokot","Kapenguria",2013,22.8192596435547
+"West Pokot","Kapenguria",2014,155.730529785156
+"West Pokot","Kapenguria",2015,163.759765625
+"West Pokot","Kapenguria",2016,163.404296875
+"West Pokot","Kapenguria",2017,319.716339111328
+"West Pokot","Kapenguria",2018,327.708221435547
+"West Pokot","Kapenguria",2019,327.348052978516
+"West Pokot","Kapenguria",2020,296.666351318359
+"West Pokot","Kapenguria",2021,348.863800048828
+"West Pokot","Kapenguria",2022,394.999298095703
+"West Pokot","Kapenguria",2023,450.613250732422
+"West Pokot","Kapenguria",2024,393.995727539062
+"West Pokot","Pokot South",2012,0
+"West Pokot","Pokot South",2013,0
+"West Pokot","Pokot South",2014,0
+"West Pokot","Pokot South",2015,6.54668235778809
+"West Pokot","Pokot South",2016,5.44572734832764
+"West Pokot","Pokot South",2017,6.85420751571655
+"West Pokot","Pokot South",2018,52.7969627380371
+"West Pokot","Pokot South",2019,70.2625274658203
+"West Pokot","Pokot South",2020,49.1687202453613
+"West Pokot","Pokot South",2021,31.9767761230469
+"West Pokot","Pokot South",2022,108.146392822266
+"West Pokot","Pokot South",2023,150.793579101562
+"West Pokot","Pokot South",2024,236.033020019531
+"West Pokot","Sigor",2012,0.357885450124741
+"West Pokot","Sigor",2013,0.103047855198383
+"West Pokot","Sigor",2014,1.03399538993835
+"West Pokot","Sigor",2015,3.20694065093994
+"West Pokot","Sigor",2016,1.02560067176819
+"West Pokot","Sigor",2017,0.846539199352264
+"West Pokot","Sigor",2018,4.73629999160767
+"West Pokot","Sigor",2019,4.04609298706055
+"West Pokot","Sigor",2020,2.18914675712585
+"West Pokot","Sigor",2021,0.931698024272919
+"West Pokot","Sigor",2022,35.3683624267578
+"West Pokot","Sigor",2023,40.0419769287109
+"West Pokot","Sigor",2024,43.0009117126465
+"West Pokot","unknown 3",2012,0
+"West Pokot","unknown 3",2013,0
+"West Pokot","unknown 3",2014,0
+"West Pokot","unknown 3",2015,0
+"West Pokot","unknown 3",2016,0
+"West Pokot","unknown 3",2017,0
+"West Pokot","unknown 3",2018,0
+"West Pokot","unknown 3",2019,0
+"West Pokot","unknown 3",2020,0
+"West Pokot","unknown 3",2021,0
+"West Pokot","unknown 3",2022,0
+"West Pokot","unknown 3",2023,0
+"West Pokot","unknown 3",2024,0

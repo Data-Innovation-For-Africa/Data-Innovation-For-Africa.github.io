@@ -1,0 +1,430 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Abidjan","Abidjan",2012,32263.935546875
+"Abidjan","Abidjan",2013,36344.96875
+"Abidjan","Abidjan",2014,43965.171875
+"Abidjan","Abidjan",2015,46011.49609375
+"Abidjan","Abidjan",2016,49141.25390625
+"Abidjan","Abidjan",2017,50075.6640625
+"Abidjan","Abidjan",2018,53628.6328125
+"Abidjan","Abidjan",2019,57950.12109375
+"Abidjan","Abidjan",2020,62938.390625
+"Abidjan","Abidjan",2021,70679.15625
+"Abidjan","Abidjan",2022,82080.7734375
+"Abidjan","Abidjan",2023,88206.078125
+"Abidjan","Abidjan",2024,91337.109375
+"Bas-Sassandra","Gbôkle",2012,347.225616455078
+"Bas-Sassandra","Gbôkle",2013,372.333068847656
+"Bas-Sassandra","Gbôkle",2014,411.633270263672
+"Bas-Sassandra","Gbôkle",2015,362.548400878906
+"Bas-Sassandra","Gbôkle",2016,353.397705078125
+"Bas-Sassandra","Gbôkle",2017,457.575073242188
+"Bas-Sassandra","Gbôkle",2018,492.501342773438
+"Bas-Sassandra","Gbôkle",2019,572.357421875
+"Bas-Sassandra","Gbôkle",2020,549.45166015625
+"Bas-Sassandra","Gbôkle",2021,1287.30200195312
+"Bas-Sassandra","Gbôkle",2022,2611.71533203125
+"Bas-Sassandra","Gbôkle",2023,3205.994140625
+"Bas-Sassandra","Gbôkle",2024,3240.1748046875
+"Bas-Sassandra","Nawa",2012,2392.98950195312
+"Bas-Sassandra","Nawa",2013,2490.6923828125
+"Bas-Sassandra","Nawa",2014,2709.95166015625
+"Bas-Sassandra","Nawa",2015,2589.7197265625
+"Bas-Sassandra","Nawa",2016,2807.33081054688
+"Bas-Sassandra","Nawa",2017,2843.6357421875
+"Bas-Sassandra","Nawa",2018,3257.74584960938
+"Bas-Sassandra","Nawa",2019,3193.01684570312
+"Bas-Sassandra","Nawa",2020,2944.1123046875
+"Bas-Sassandra","Nawa",2021,5088.83837890625
+"Bas-Sassandra","Nawa",2022,8240.72265625
+"Bas-Sassandra","Nawa",2023,8657.9150390625
+"Bas-Sassandra","Nawa",2024,8635.873046875
+"Bas-Sassandra","San-Pédro",2012,2039.35559082031
+"Bas-Sassandra","San-Pédro",2013,2195.76318359375
+"Bas-Sassandra","San-Pédro",2014,2498.69604492188
+"Bas-Sassandra","San-Pédro",2015,2628.0087890625
+"Bas-Sassandra","San-Pédro",2016,2995.9482421875
+"Bas-Sassandra","San-Pédro",2017,3513.83740234375
+"Bas-Sassandra","San-Pédro",2018,3662.26513671875
+"Bas-Sassandra","San-Pédro",2019,4154.88134765625
+"Bas-Sassandra","San-Pédro",2020,5279.916015625
+"Bas-Sassandra","San-Pédro",2021,6809.75439453125
+"Bas-Sassandra","San-Pédro",2022,8785.830078125
+"Bas-Sassandra","San-Pédro",2023,10409.103515625
+"Bas-Sassandra","San-Pédro",2024,11431.8271484375
+"Comoé","Indénié-Djuablin",2012,2297.91186523438
+"Comoé","Indénié-Djuablin",2013,2470.16528320312
+"Comoé","Indénié-Djuablin",2014,2447.39233398438
+"Comoé","Indénié-Djuablin",2015,2659.53100585938
+"Comoé","Indénié-Djuablin",2016,3796.27124023438
+"Comoé","Indénié-Djuablin",2017,3896.52905273438
+"Comoé","Indénié-Djuablin",2018,3870.09033203125
+"Comoé","Indénié-Djuablin",2019,3837.05200195312
+"Comoé","Indénié-Djuablin",2020,4016.205078125
+"Comoé","Indénié-Djuablin",2021,4796.18798828125
+"Comoé","Indénié-Djuablin",2022,5900.244140625
+"Comoé","Indénié-Djuablin",2023,6780.74609375
+"Comoé","Indénié-Djuablin",2024,6668.34912109375
+"Comoé","Sud Comoé",2012,3561.8583984375
+"Comoé","Sud Comoé",2013,3365.1787109375
+"Comoé","Sud Comoé",2014,4037.568359375
+"Comoé","Sud Comoé",2015,4466.1640625
+"Comoé","Sud Comoé",2016,5880.37939453125
+"Comoé","Sud Comoé",2017,6493.26708984375
+"Comoé","Sud Comoé",2018,7209.33349609375
+"Comoé","Sud Comoé",2019,7919.15185546875
+"Comoé","Sud Comoé",2020,8640.919921875
+"Comoé","Sud Comoé",2021,12474.3486328125
+"Comoé","Sud Comoé",2022,14096.388671875
+"Comoé","Sud Comoé",2023,15438.4150390625
+"Comoé","Sud Comoé",2024,14884.478515625
+"Denguélé","Folon",2012,83.227783203125
+"Denguélé","Folon",2013,84.5753784179688
+"Denguélé","Folon",2014,182.059295654297
+"Denguélé","Folon",2015,365.513214111328
+"Denguélé","Folon",2016,646.406860351562
+"Denguélé","Folon",2017,784.040344238281
+"Denguélé","Folon",2018,758.577453613281
+"Denguélé","Folon",2019,784.952453613281
+"Denguélé","Folon",2020,788.375854492188
+"Denguélé","Folon",2021,858.185668945312
+"Denguélé","Folon",2022,1347.43200683594
+"Denguélé","Folon",2023,1654.31799316406
+"Denguélé","Folon",2024,1957.4970703125
+"Denguélé","Kabadougou",2012,439.159729003906
+"Denguélé","Kabadougou",2013,700.090881347656
+"Denguélé","Kabadougou",2014,1086.32470703125
+"Denguélé","Kabadougou",2015,2020.279296875
+"Denguélé","Kabadougou",2016,3083.6015625
+"Denguélé","Kabadougou",2017,3861.9296875
+"Denguélé","Kabadougou",2018,4305.0546875
+"Denguélé","Kabadougou",2019,4450.93017578125
+"Denguélé","Kabadougou",2020,4848.5634765625
+"Denguélé","Kabadougou",2021,6013.07470703125
+"Denguélé","Kabadougou",2022,7124.9091796875
+"Denguélé","Kabadougou",2023,7053.1240234375
+"Denguélé","Kabadougou",2024,7345.24462890625
+"Gôh-Djiboua","Gôh",2012,5667.37744140625
+"Gôh-Djiboua","Gôh",2013,5589.4462890625
+"Gôh-Djiboua","Gôh",2014,5291.47216796875
+"Gôh-Djiboua","Gôh",2015,5283.15380859375
+"Gôh-Djiboua","Gôh",2016,5332.60107421875
+"Gôh-Djiboua","Gôh",2017,5368.970703125
+"Gôh-Djiboua","Gôh",2018,5391.2099609375
+"Gôh-Djiboua","Gôh",2019,5363.3544921875
+"Gôh-Djiboua","Gôh",2020,5351.97412109375
+"Gôh-Djiboua","Gôh",2021,6956.8720703125
+"Gôh-Djiboua","Gôh",2022,8458.943359375
+"Gôh-Djiboua","Gôh",2023,10357.572265625
+"Gôh-Djiboua","Gôh",2024,10257.970703125
+"Gôh-Djiboua","Lôh-Djiboua",2012,2288.61157226562
+"Gôh-Djiboua","Lôh-Djiboua",2013,2533.88305664062
+"Gôh-Djiboua","Lôh-Djiboua",2014,2836.01342773438
+"Gôh-Djiboua","Lôh-Djiboua",2015,2877.04760742188
+"Gôh-Djiboua","Lôh-Djiboua",2016,3233.07080078125
+"Gôh-Djiboua","Lôh-Djiboua",2017,3327.15161132812
+"Gôh-Djiboua","Lôh-Djiboua",2018,3300.23413085938
+"Gôh-Djiboua","Lôh-Djiboua",2019,3725.51025390625
+"Gôh-Djiboua","Lôh-Djiboua",2020,3623.30444335938
+"Gôh-Djiboua","Lôh-Djiboua",2021,4502.568359375
+"Gôh-Djiboua","Lôh-Djiboua",2022,6478.39111328125
+"Gôh-Djiboua","Lôh-Djiboua",2023,8962.31640625
+"Gôh-Djiboua","Lôh-Djiboua",2024,9258.1533203125
+"Lacs","Bélier",2012,2322.26000976562
+"Lacs","Bélier",2013,2431.0732421875
+"Lacs","Bélier",2014,3001.64038085938
+"Lacs","Bélier",2015,2998.93994140625
+"Lacs","Bélier",2016,2936.65454101562
+"Lacs","Bélier",2017,3033.72875976562
+"Lacs","Bélier",2018,2958.60302734375
+"Lacs","Bélier",2019,2836.57666015625
+"Lacs","Bélier",2020,2955.119140625
+"Lacs","Bélier",2021,4153.05517578125
+"Lacs","Bélier",2022,5340.53955078125
+"Lacs","Bélier",2023,5299.28125
+"Lacs","Bélier",2024,5945.4365234375
+"Lacs","Iffou",2012,1235.69140625
+"Lacs","Iffou",2013,1497.30847167969
+"Lacs","Iffou",2014,1651.44067382812
+"Lacs","Iffou",2015,2845.7939453125
+"Lacs","Iffou",2016,2837.16088867188
+"Lacs","Iffou",2017,2414.70776367188
+"Lacs","Iffou",2018,2602.38110351562
+"Lacs","Iffou",2019,2476.69311523438
+"Lacs","Iffou",2020,2647.62939453125
+"Lacs","Iffou",2021,2878.9599609375
+"Lacs","Iffou",2022,3788.84057617188
+"Lacs","Iffou",2023,4319.9541015625
+"Lacs","Iffou",2024,4710.22412109375
+"Lacs","Moronou",2012,1728.35400390625
+"Lacs","Moronou",2013,1919.142578125
+"Lacs","Moronou",2014,1722.23608398438
+"Lacs","Moronou",2015,1727.77172851562
+"Lacs","Moronou",2016,1926.15283203125
+"Lacs","Moronou",2017,1864.75280761719
+"Lacs","Moronou",2018,2072.51318359375
+"Lacs","Moronou",2019,2072.33618164062
+"Lacs","Moronou",2020,2779.8671875
+"Lacs","Moronou",2021,4034.126953125
+"Lacs","Moronou",2022,4018.25317382812
+"Lacs","Moronou",2023,4450.01806640625
+"Lacs","Moronou",2024,3925.71337890625
+"Lacs","N'zi",2012,1709.63537597656
+"Lacs","N'zi",2013,1898.83764648438
+"Lacs","N'zi",2014,1760.4892578125
+"Lacs","N'zi",2015,1812.71069335938
+"Lacs","N'zi",2016,1955.28210449219
+"Lacs","N'zi",2017,1915.09387207031
+"Lacs","N'zi",2018,1837.48999023438
+"Lacs","N'zi",2019,2009.53527832031
+"Lacs","N'zi",2020,2920.26538085938
+"Lacs","N'zi",2021,3454.814453125
+"Lacs","N'zi",2022,4416.28369140625
+"Lacs","N'zi",2023,4396.40380859375
+"Lacs","N'zi",2024,4249.95947265625
+"Lagunes","Agnéby-Tiassa",2012,2628.748046875
+"Lagunes","Agnéby-Tiassa",2013,2879.65747070312
+"Lagunes","Agnéby-Tiassa",2014,2956.2353515625
+"Lagunes","Agnéby-Tiassa",2015,2652.6884765625
+"Lagunes","Agnéby-Tiassa",2016,2593.42114257812
+"Lagunes","Agnéby-Tiassa",2017,2589.04174804688
+"Lagunes","Agnéby-Tiassa",2018,3089.1123046875
+"Lagunes","Agnéby-Tiassa",2019,3647.46557617188
+"Lagunes","Agnéby-Tiassa",2020,3801.71166992188
+"Lagunes","Agnéby-Tiassa",2021,5131.123046875
+"Lagunes","Agnéby-Tiassa",2022,6735.8076171875
+"Lagunes","Agnéby-Tiassa",2023,7983.146484375
+"Lagunes","Agnéby-Tiassa",2024,8126.267578125
+"Lagunes","Grands Ponts",2012,1422.67321777344
+"Lagunes","Grands Ponts",2013,1514.88757324219
+"Lagunes","Grands Ponts",2014,1448.65637207031
+"Lagunes","Grands Ponts",2015,1308.72180175781
+"Lagunes","Grands Ponts",2016,1456.90673828125
+"Lagunes","Grands Ponts",2017,1397.87805175781
+"Lagunes","Grands Ponts",2018,1525.20349121094
+"Lagunes","Grands Ponts",2019,1711.95434570312
+"Lagunes","Grands Ponts",2020,2118.13916015625
+"Lagunes","Grands Ponts",2021,2761.07983398438
+"Lagunes","Grands Ponts",2022,3622.28686523438
+"Lagunes","Grands Ponts",2023,4763.556640625
+"Lagunes","Grands Ponts",2024,5588.826171875
+"Lagunes","La Mé",2012,2296.60986328125
+"Lagunes","La Mé",2013,2283.10083007812
+"Lagunes","La Mé",2014,2241.775390625
+"Lagunes","La Mé",2015,2148.51049804688
+"Lagunes","La Mé",2016,2229.00610351562
+"Lagunes","La Mé",2017,2123.99194335938
+"Lagunes","La Mé",2018,2313.28637695312
+"Lagunes","La Mé",2019,2581.86767578125
+"Lagunes","La Mé",2020,2640.50805664062
+"Lagunes","La Mé",2021,4084.451171875
+"Lagunes","La Mé",2022,4915.171875
+"Lagunes","La Mé",2023,5661.63232421875
+"Lagunes","La Mé",2024,5886.42724609375
+"Montagnes","Cavally",2012,438.910522460938
+"Montagnes","Cavally",2013,480.235656738281
+"Montagnes","Cavally",2014,581.212219238281
+"Montagnes","Cavally",2015,628.613220214844
+"Montagnes","Cavally",2016,775.110778808594
+"Montagnes","Cavally",2017,759.339599609375
+"Montagnes","Cavally",2018,647.515075683594
+"Montagnes","Cavally",2019,767.612365722656
+"Montagnes","Cavally",2020,824.370849609375
+"Montagnes","Cavally",2021,1350.93212890625
+"Montagnes","Cavally",2022,2204.12573242188
+"Montagnes","Cavally",2023,3145.38647460938
+"Montagnes","Cavally",2024,3289.22094726562
+"Montagnes","Guémon",2012,315.078491210938
+"Montagnes","Guémon",2013,334.140441894531
+"Montagnes","Guémon",2014,490.323913574219
+"Montagnes","Guémon",2015,829.250305175781
+"Montagnes","Guémon",2016,1163.85681152344
+"Montagnes","Guémon",2017,1155.12133789062
+"Montagnes","Guémon",2018,1031.25036621094
+"Montagnes","Guémon",2019,1198.55590820312
+"Montagnes","Guémon",2020,1244.88781738281
+"Montagnes","Guémon",2021,2963.55932617188
+"Montagnes","Guémon",2022,4436.3466796875
+"Montagnes","Guémon",2023,5115.748046875
+"Montagnes","Guémon",2024,5536.78173828125
+"Montagnes","Tonkpi",2012,1356.25146484375
+"Montagnes","Tonkpi",2013,1672.34802246094
+"Montagnes","Tonkpi",2014,1972.19091796875
+"Montagnes","Tonkpi",2015,2046.41455078125
+"Montagnes","Tonkpi",2016,2606.34448242188
+"Montagnes","Tonkpi",2017,2974.84594726562
+"Montagnes","Tonkpi",2018,3032.544921875
+"Montagnes","Tonkpi",2019,3860.48999023438
+"Montagnes","Tonkpi",2020,4499.490234375
+"Montagnes","Tonkpi",2021,7176.529296875
+"Montagnes","Tonkpi",2022,10468.396484375
+"Montagnes","Tonkpi",2023,10765.1220703125
+"Montagnes","Tonkpi",2024,12306.310546875
+"Sassandra-Marahoué","Haut-Sassandra",2012,4558.19873046875
+"Sassandra-Marahoué","Haut-Sassandra",2013,4542.478515625
+"Sassandra-Marahoué","Haut-Sassandra",2014,4599.6552734375
+"Sassandra-Marahoué","Haut-Sassandra",2015,4469.50048828125
+"Sassandra-Marahoué","Haut-Sassandra",2016,5255.611328125
+"Sassandra-Marahoué","Haut-Sassandra",2017,5167.416015625
+"Sassandra-Marahoué","Haut-Sassandra",2018,5292.0380859375
+"Sassandra-Marahoué","Haut-Sassandra",2019,5530.123046875
+"Sassandra-Marahoué","Haut-Sassandra",2020,6188.5556640625
+"Sassandra-Marahoué","Haut-Sassandra",2021,8483.80078125
+"Sassandra-Marahoué","Haut-Sassandra",2022,11868.9267578125
+"Sassandra-Marahoué","Haut-Sassandra",2023,14861.951171875
+"Sassandra-Marahoué","Haut-Sassandra",2024,17005.244140625
+"Sassandra-Marahoué","Marahoué",2012,2312.28515625
+"Sassandra-Marahoué","Marahoué",2013,2441.29321289062
+"Sassandra-Marahoué","Marahoué",2014,2670.06762695312
+"Sassandra-Marahoué","Marahoué",2015,2669.16259765625
+"Sassandra-Marahoué","Marahoué",2016,2635.67919921875
+"Sassandra-Marahoué","Marahoué",2017,2698.9990234375
+"Sassandra-Marahoué","Marahoué",2018,2864.79345703125
+"Sassandra-Marahoué","Marahoué",2019,3221.77856445312
+"Sassandra-Marahoué","Marahoué",2020,5208.921875
+"Sassandra-Marahoué","Marahoué",2021,8823.81640625
+"Sassandra-Marahoué","Marahoué",2022,11600.552734375
+"Sassandra-Marahoué","Marahoué",2023,11826.9013671875
+"Sassandra-Marahoué","Marahoué",2024,11667.51171875
+"Savanes","Bagoué",2012,572.647521972656
+"Savanes","Bagoué",2013,966.383483886719
+"Savanes","Bagoué",2014,1290.69274902344
+"Savanes","Bagoué",2015,1367.82092285156
+"Savanes","Bagoué",2016,1504.94995117188
+"Savanes","Bagoué",2017,2044.11572265625
+"Savanes","Bagoué",2018,2118.0703125
+"Savanes","Bagoué",2019,2930.07836914062
+"Savanes","Bagoué",2020,5434.50927734375
+"Savanes","Bagoué",2021,6093.55517578125
+"Savanes","Bagoué",2022,7443.71435546875
+"Savanes","Bagoué",2023,7615.7041015625
+"Savanes","Bagoué",2024,8156.078125
+"Savanes","Poro",2012,3929.05883789062
+"Savanes","Poro",2013,7460.23291015625
+"Savanes","Poro",2014,12968.5888671875
+"Savanes","Poro",2015,14869.1787109375
+"Savanes","Poro",2016,15940.9462890625
+"Savanes","Poro",2017,17238.478515625
+"Savanes","Poro",2018,18216.30078125
+"Savanes","Poro",2019,20125.916015625
+"Savanes","Poro",2020,26211.4765625
+"Savanes","Poro",2021,27396.98046875
+"Savanes","Poro",2022,32038.419921875
+"Savanes","Poro",2023,33749.03125
+"Savanes","Poro",2024,39254.16796875
+"Savanes","Tchologo",2012,1666.82373046875
+"Savanes","Tchologo",2013,2283.583984375
+"Savanes","Tchologo",2014,2443.2119140625
+"Savanes","Tchologo",2015,2606.49072265625
+"Savanes","Tchologo",2016,2741.353515625
+"Savanes","Tchologo",2017,3296.14697265625
+"Savanes","Tchologo",2018,3789.81713867188
+"Savanes","Tchologo",2019,4500.14404296875
+"Savanes","Tchologo",2020,5967.25634765625
+"Savanes","Tchologo",2021,6188.505859375
+"Savanes","Tchologo",2022,7800.3125
+"Savanes","Tchologo",2023,9270.748046875
+"Savanes","Tchologo",2024,10798.1875
+"Vallée du Bandama","Gbeke",2012,4392.130859375
+"Vallée du Bandama","Gbeke",2013,6139.36279296875
+"Vallée du Bandama","Gbeke",2014,9559.1650390625
+"Vallée du Bandama","Gbeke",2015,9521.86328125
+"Vallée du Bandama","Gbeke",2016,10029.921875
+"Vallée du Bandama","Gbeke",2017,10425.107421875
+"Vallée du Bandama","Gbeke",2018,10941.3974609375
+"Vallée du Bandama","Gbeke",2019,11302.6796875
+"Vallée du Bandama","Gbeke",2020,15503.71875
+"Vallée du Bandama","Gbeke",2021,18783.20703125
+"Vallée du Bandama","Gbeke",2022,22179.8125
+"Vallée du Bandama","Gbeke",2023,22981.14453125
+"Vallée du Bandama","Gbeke",2024,26882.3984375
+"Vallée du Bandama","Hambol",2012,1137.67517089844
+"Vallée du Bandama","Hambol",2013,1539.80847167969
+"Vallée du Bandama","Hambol",2014,1717.62145996094
+"Vallée du Bandama","Hambol",2015,2389.00830078125
+"Vallée du Bandama","Hambol",2016,3054.79541015625
+"Vallée du Bandama","Hambol",2017,3174.77856445312
+"Vallée du Bandama","Hambol",2018,3379.07202148438
+"Vallée du Bandama","Hambol",2019,3973.81811523438
+"Vallée du Bandama","Hambol",2020,7698.8310546875
+"Vallée du Bandama","Hambol",2021,10201.130859375
+"Vallée du Bandama","Hambol",2022,11801.203125
+"Vallée du Bandama","Hambol",2023,11997.7529296875
+"Vallée du Bandama","Hambol",2024,13428.060546875
+"Woroba","Bafing",2012,350.172393798828
+"Woroba","Bafing",2013,492.637512207031
+"Woroba","Bafing",2014,600.044677734375
+"Woroba","Bafing",2015,827.55517578125
+"Woroba","Bafing",2016,884.246398925781
+"Woroba","Bafing",2017,933.597717285156
+"Woroba","Bafing",2018,1000.55053710938
+"Woroba","Bafing",2019,1268.90502929688
+"Woroba","Bafing",2020,1659.45141601562
+"Woroba","Bafing",2021,2422.99365234375
+"Woroba","Bafing",2022,3275.32348632812
+"Woroba","Bafing",2023,3901.49047851562
+"Woroba","Bafing",2024,4296.36083984375
+"Woroba","Béré",2012,160.082260131836
+"Woroba","Béré",2013,155.523086547852
+"Woroba","Béré",2014,350.882934570312
+"Woroba","Béré",2015,682.345336914062
+"Woroba","Béré",2016,1269.25170898438
+"Woroba","Béré",2017,1967.5322265625
+"Woroba","Béré",2018,1870.85888671875
+"Woroba","Béré",2019,2133.50122070312
+"Woroba","Béré",2020,3810.09741210938
+"Woroba","Béré",2021,5191.1962890625
+"Woroba","Béré",2022,6423.26318359375
+"Woroba","Béré",2023,7131.83544921875
+"Woroba","Béré",2024,8223.2919921875
+"Woroba","Worodougou",2012,460.273040771484
+"Woroba","Worodougou",2013,839.357055664062
+"Woroba","Worodougou",2014,949.018371582031
+"Woroba","Worodougou",2015,1510.2958984375
+"Woroba","Worodougou",2016,2398.22436523438
+"Woroba","Worodougou",2017,2548.50659179688
+"Woroba","Worodougou",2018,2384.53759765625
+"Woroba","Worodougou",2019,2450.11645507812
+"Woroba","Worodougou",2020,3390.212890625
+"Woroba","Worodougou",2021,4991.03076171875
+"Woroba","Worodougou",2022,6023.48291015625
+"Woroba","Worodougou",2023,6570.95458984375
+"Woroba","Worodougou",2024,7572.99072265625
+"Yamoussoukro","Yamoussoukro",2012,8272.7099609375
+"Yamoussoukro","Yamoussoukro",2013,9157.958984375
+"Yamoussoukro","Yamoussoukro",2014,10461.1923828125
+"Yamoussoukro","Yamoussoukro",2015,10799.462890625
+"Yamoussoukro","Yamoussoukro",2016,11501.3466796875
+"Yamoussoukro","Yamoussoukro",2017,10987.5810546875
+"Yamoussoukro","Yamoussoukro",2018,10977.4970703125
+"Yamoussoukro","Yamoussoukro",2019,10582.8173828125
+"Yamoussoukro","Yamoussoukro",2020,10687.3857421875
+"Yamoussoukro","Yamoussoukro",2021,11421.2353515625
+"Yamoussoukro","Yamoussoukro",2022,13041.4853515625
+"Yamoussoukro","Yamoussoukro",2023,14116.265625
+"Yamoussoukro","Yamoussoukro",2024,14832.0224609375
+"Zanzan","Bounkani",2012,87.0810394287109
+"Zanzan","Bounkani",2013,309.021606445312
+"Zanzan","Bounkani",2014,387.376556396484
+"Zanzan","Bounkani",2015,818.979797363281
+"Zanzan","Bounkani",2016,1567.62219238281
+"Zanzan","Bounkani",2017,1986.94274902344
+"Zanzan","Bounkani",2018,1872.81127929688
+"Zanzan","Bounkani",2019,1805.38464355469
+"Zanzan","Bounkani",2020,2054.89477539062
+"Zanzan","Bounkani",2021,2560.57568359375
+"Zanzan","Bounkani",2022,3412.53173828125
+"Zanzan","Bounkani",2023,4159.64599609375
+"Zanzan","Bounkani",2024,4841.4345703125
+"Zanzan","Gontougo",2012,1698.37707519531
+"Zanzan","Gontougo",2013,2065.80395507812
+"Zanzan","Gontougo",2014,1988.0166015625
+"Zanzan","Gontougo",2015,2223.3046875
+"Zanzan","Gontougo",2016,2258.06640625
+"Zanzan","Gontougo",2017,2203.99462890625
+"Zanzan","Gontougo",2018,2905.80883789062
+"Zanzan","Gontougo",2019,3280.64697265625
+"Zanzan","Gontougo",2020,5504.1953125
+"Zanzan","Gontougo",2021,6533.0693359375
+"Zanzan","Gontougo",2022,8004.63232421875
+"Zanzan","Gontougo",2023,9475.0712890625
+"Zanzan","Gontougo",2024,10622.189453125

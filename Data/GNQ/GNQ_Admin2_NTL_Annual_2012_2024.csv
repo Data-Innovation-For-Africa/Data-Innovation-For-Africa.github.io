@@ -1,0 +1,417 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Annobón","Mabana",2012,0
+"Annobón","Mabana",2013,0
+"Annobón","Mabana",2014,0
+"Annobón","Mabana",2015,0
+"Annobón","Mabana",2016,0
+"Annobón","Mabana",2017,0
+"Annobón","Mabana",2018,0
+"Annobón","Mabana",2019,0
+"Annobón","Mabana",2020,0
+"Annobón","Mabana",2021,0
+"Annobón","Mabana",2022,0
+"Annobón","Mabana",2023,0.385749965906143
+"Annobón","Mabana",2024,0
+"Annobón","San Antonio de Palé",2012,1.75456368923187
+"Annobón","San Antonio de Palé",2013,16.4438285827637
+"Annobón","San Antonio de Palé",2014,33.1696548461914
+"Annobón","San Antonio de Palé",2015,21.3123645782471
+"Annobón","San Antonio de Palé",2016,15.7856407165527
+"Annobón","San Antonio de Palé",2017,14.4764547348022
+"Annobón","San Antonio de Palé",2018,11.6487083435059
+"Annobón","San Antonio de Palé",2019,14.7134714126587
+"Annobón","San Antonio de Palé",2020,7.11300563812256
+"Annobón","San Antonio de Palé",2021,7.24160051345825
+"Annobón","San Antonio de Palé",2022,6.91783428192139
+"Annobón","San Antonio de Palé",2023,9.71498394012451
+"Annobón","San Antonio de Palé",2024,9.39886665344238
+"Bioko Norte","Baney",2012,9.23374176025391
+"Bioko Norte","Baney",2013,24.0322666168213
+"Bioko Norte","Baney",2014,60.6266555786133
+"Bioko Norte","Baney",2015,73.0976486206055
+"Bioko Norte","Baney",2016,73.7499313354492
+"Bioko Norte","Baney",2017,40.6060829162598
+"Bioko Norte","Baney",2018,46.2307395935059
+"Bioko Norte","Baney",2019,33.2527465820312
+"Bioko Norte","Baney",2020,39.6074066162109
+"Bioko Norte","Baney",2021,47.2508888244629
+"Bioko Norte","Baney",2022,62.4309730529785
+"Bioko Norte","Baney",2023,61.6242179870605
+"Bioko Norte","Baney",2024,52.956184387207
+"Bioko Norte","Malabo",2012,7164.68701171875
+"Bioko Norte","Malabo",2013,7864.35791015625
+"Bioko Norte","Malabo",2014,7703.50732421875
+"Bioko Norte","Malabo",2015,7572.74560546875
+"Bioko Norte","Malabo",2016,8622.1708984375
+"Bioko Norte","Malabo",2017,7295.21533203125
+"Bioko Norte","Malabo",2018,7670.8359375
+"Bioko Norte","Malabo",2019,7506.384765625
+"Bioko Norte","Malabo",2020,6537.666015625
+"Bioko Norte","Malabo",2021,6912.35205078125
+"Bioko Norte","Malabo",2022,6875.77099609375
+"Bioko Norte","Malabo",2023,9337.0634765625
+"Bioko Norte","Malabo",2024,7616.85107421875
+"Bioko Norte","Rebola",2012,1241.23510742188
+"Bioko Norte","Rebola",2013,1218.94213867188
+"Bioko Norte","Rebola",2014,1250.21667480469
+"Bioko Norte","Rebola",2015,1128.88623046875
+"Bioko Norte","Rebola",2016,1043.42175292969
+"Bioko Norte","Rebola",2017,875.019287109375
+"Bioko Norte","Rebola",2018,715.992309570312
+"Bioko Norte","Rebola",2019,702.911987304688
+"Bioko Norte","Rebola",2020,617.883666992188
+"Bioko Norte","Rebola",2021,601.127990722656
+"Bioko Norte","Rebola",2022,658.496032714844
+"Bioko Norte","Rebola",2023,607.047485351562
+"Bioko Norte","Rebola",2024,769.159851074219
+"Bioko Sur","Luba",2012,121.938163757324
+"Bioko Sur","Luba",2013,106.690933227539
+"Bioko Sur","Luba",2014,122.968559265137
+"Bioko Sur","Luba",2015,136.195159912109
+"Bioko Sur","Luba",2016,119.859146118164
+"Bioko Sur","Luba",2017,87.4628372192383
+"Bioko Sur","Luba",2018,93.4392929077148
+"Bioko Sur","Luba",2019,119.859474182129
+"Bioko Sur","Luba",2020,65.4844512939453
+"Bioko Sur","Luba",2021,75.8999328613281
+"Bioko Sur","Luba",2022,94.7420883178711
+"Bioko Sur","Luba",2023,102.541931152344
+"Bioko Sur","Luba",2024,125.293647766113
+"Bioko Sur","Riaba",2012,2.08519840240479
+"Bioko Sur","Riaba",2013,5.43954563140869
+"Bioko Sur","Riaba",2014,36.5850372314453
+"Bioko Sur","Riaba",2015,58.5775337219238
+"Bioko Sur","Riaba",2016,109.653816223145
+"Bioko Sur","Riaba",2017,64.8873748779297
+"Bioko Sur","Riaba",2018,64.767463684082
+"Bioko Sur","Riaba",2019,88.1134948730469
+"Bioko Sur","Riaba",2020,109.553932189941
+"Bioko Sur","Riaba",2021,182.558135986328
+"Bioko Sur","Riaba",2022,195.29377746582
+"Bioko Sur","Riaba",2023,173.740707397461
+"Bioko Sur","Riaba",2024,171.16731262207
+"Centro Sur","Acurenam",2012,167.042587280273
+"Centro Sur","Acurenam",2013,557.80517578125
+"Centro Sur","Acurenam",2014,128.387649536133
+"Centro Sur","Acurenam",2015,172.920196533203
+"Centro Sur","Acurenam",2016,544.740295410156
+"Centro Sur","Acurenam",2017,74.3847732543945
+"Centro Sur","Acurenam",2018,77.5066299438477
+"Centro Sur","Acurenam",2019,100.402992248535
+"Centro Sur","Acurenam",2020,48.471248626709
+"Centro Sur","Acurenam",2021,51.8903427124023
+"Centro Sur","Acurenam",2022,230.558456420898
+"Centro Sur","Acurenam",2023,814.55810546875
+"Centro Sur","Acurenam",2024,86.4475784301758
+"Centro Sur","Bicurga",2012,20.6436004638672
+"Centro Sur","Bicurga",2013,88.9833297729492
+"Centro Sur","Bicurga",2014,116.986038208008
+"Centro Sur","Bicurga",2015,63.7185211181641
+"Centro Sur","Bicurga",2016,31.791633605957
+"Centro Sur","Bicurga",2017,35.515022277832
+"Centro Sur","Bicurga",2018,42.8112869262695
+"Centro Sur","Bicurga",2019,41.7653350830078
+"Centro Sur","Bicurga",2020,28.152042388916
+"Centro Sur","Bicurga",2021,29.060131072998
+"Centro Sur","Bicurga",2022,23.6396923065186
+"Centro Sur","Bicurga",2023,93.7449951171875
+"Centro Sur","Bicurga",2024,46.4063873291016
+"Centro Sur","Evinayong",2012,151.709030151367
+"Centro Sur","Evinayong",2013,244.618270874023
+"Centro Sur","Evinayong",2014,341.446929931641
+"Centro Sur","Evinayong",2015,853.044982910156
+"Centro Sur","Evinayong",2016,722.378234863281
+"Centro Sur","Evinayong",2017,632.369018554688
+"Centro Sur","Evinayong",2018,538.612609863281
+"Centro Sur","Evinayong",2019,601.608703613281
+"Centro Sur","Evinayong",2020,385.996734619141
+"Centro Sur","Evinayong",2021,422.929412841797
+"Centro Sur","Evinayong",2022,460.082794189453
+"Centro Sur","Evinayong",2023,1029.79333496094
+"Centro Sur","Evinayong",2024,441.121887207031
+"Centro Sur","Niefang",2012,159.064926147461
+"Centro Sur","Niefang",2013,213.161087036133
+"Centro Sur","Niefang",2014,344.670257568359
+"Centro Sur","Niefang",2015,367.592620849609
+"Centro Sur","Niefang",2016,256.579620361328
+"Centro Sur","Niefang",2017,238.45735168457
+"Centro Sur","Niefang",2018,209.422393798828
+"Centro Sur","Niefang",2019,171.352737426758
+"Centro Sur","Niefang",2020,103.517570495605
+"Centro Sur","Niefang",2021,160.577377319336
+"Centro Sur","Niefang",2022,256.838653564453
+"Centro Sur","Niefang",2023,221.428298950195
+"Centro Sur","Niefang",2024,204.647659301758
+"Centro Sur","Nkimi",2012,24.2770671844482
+"Centro Sur","Nkimi",2013,48.4798316955566
+"Centro Sur","Nkimi",2014,54.6576843261719
+"Centro Sur","Nkimi",2015,50.952522277832
+"Centro Sur","Nkimi",2016,33.6144866943359
+"Centro Sur","Nkimi",2017,32.8096084594727
+"Centro Sur","Nkimi",2018,31.1925525665283
+"Centro Sur","Nkimi",2019,20.044994354248
+"Centro Sur","Nkimi",2020,13.4560146331787
+"Centro Sur","Nkimi",2021,29.0375270843506
+"Centro Sur","Nkimi",2022,60.8433227539062
+"Centro Sur","Nkimi",2023,56.1732444763184
+"Centro Sur","Nkimi",2024,50.8801651000977
+"Kié-Ntem","Bidjabidjan",2012,0
+"Kié-Ntem","Bidjabidjan",2013,0
+"Kié-Ntem","Bidjabidjan",2014,0.506228148937225
+"Kié-Ntem","Bidjabidjan",2015,0
+"Kié-Ntem","Bidjabidjan",2016,0
+"Kié-Ntem","Bidjabidjan",2017,0.529199540615082
+"Kié-Ntem","Bidjabidjan",2018,0
+"Kié-Ntem","Bidjabidjan",2019,0.504133760929108
+"Kié-Ntem","Bidjabidjan",2020,0
+"Kié-Ntem","Bidjabidjan",2021,0
+"Kié-Ntem","Bidjabidjan",2022,0
+"Kié-Ntem","Bidjabidjan",2023,3.7156937122345
+"Kié-Ntem","Bidjabidjan",2024,0.518357396125793
+"Kié-Ntem","Ebebiyin",2012,117.45484161377
+"Kié-Ntem","Ebebiyin",2013,194.121627807617
+"Kié-Ntem","Ebebiyin",2014,403.05517578125
+"Kié-Ntem","Ebebiyin",2015,657.158996582031
+"Kié-Ntem","Ebebiyin",2016,414.300872802734
+"Kié-Ntem","Ebebiyin",2017,609.051147460938
+"Kié-Ntem","Ebebiyin",2018,405.803375244141
+"Kié-Ntem","Ebebiyin",2019,491.652954101562
+"Kié-Ntem","Ebebiyin",2020,354.731201171875
+"Kié-Ntem","Ebebiyin",2021,306.246978759766
+"Kié-Ntem","Ebebiyin",2022,375.951232910156
+"Kié-Ntem","Ebebiyin",2023,441.336944580078
+"Kié-Ntem","Ebebiyin",2024,278.524261474609
+"Kié-Ntem","Micomeseng",2012,251.200546264648
+"Kié-Ntem","Micomeseng",2013,170.685455322266
+"Kié-Ntem","Micomeseng",2014,115.885559082031
+"Kié-Ntem","Micomeseng",2015,98.3865051269531
+"Kié-Ntem","Micomeseng",2016,59.5295104980469
+"Kié-Ntem","Micomeseng",2017,98.2004470825195
+"Kié-Ntem","Micomeseng",2018,92.9248886108398
+"Kié-Ntem","Micomeseng",2019,73.6644897460938
+"Kié-Ntem","Micomeseng",2020,73.4404983520508
+"Kié-Ntem","Micomeseng",2021,91.7974700927734
+"Kié-Ntem","Micomeseng",2022,106.210800170898
+"Kié-Ntem","Micomeseng",2023,216.007278442383
+"Kié-Ntem","Micomeseng",2024,157.072006225586
+"Kié-Ntem","Nasng",2012,40.5990982055664
+"Kié-Ntem","Nasng",2013,40.8195533752441
+"Kié-Ntem","Nasng",2014,56.26171875
+"Kié-Ntem","Nasng",2015,78.5715560913086
+"Kié-Ntem","Nasng",2016,27.6051483154297
+"Kié-Ntem","Nasng",2017,31.9951934814453
+"Kié-Ntem","Nasng",2018,54.6099739074707
+"Kié-Ntem","Nasng",2019,55.7718238830566
+"Kié-Ntem","Nasng",2020,27.6091804504395
+"Kié-Ntem","Nasng",2021,20.6553344726562
+"Kié-Ntem","Nasng",2022,36.5423583984375
+"Kié-Ntem","Nasng",2023,141.899871826172
+"Kié-Ntem","Nasng",2024,45.5838279724121
+"Kié-Ntem","Nkue",2012,46.2304573059082
+"Kié-Ntem","Nkue",2013,12.5473718643188
+"Kié-Ntem","Nkue",2014,0
+"Kié-Ntem","Nkue",2015,0.516332268714905
+"Kié-Ntem","Nkue",2016,0
+"Kié-Ntem","Nkue",2017,0
+"Kié-Ntem","Nkue",2018,0.513903141021729
+"Kié-Ntem","Nkue",2019,0.500390768051147
+"Kié-Ntem","Nkue",2020,0
+"Kié-Ntem","Nkue",2021,1.23408567905426
+"Kié-Ntem","Nkue",2022,1.05291271209717
+"Kié-Ntem","Nkue",2023,56.7589950561523
+"Kié-Ntem","Nkue",2024,3.24949669837952
+"Kié-Ntem","Nsok-Nsomo",2012,53.4753150939941
+"Kié-Ntem","Nsok-Nsomo",2013,110.283615112305
+"Kié-Ntem","Nsok-Nsomo",2014,199.769256591797
+"Kié-Ntem","Nsok-Nsomo",2015,135.511871337891
+"Kié-Ntem","Nsok-Nsomo",2016,48.2952270507812
+"Kié-Ntem","Nsok-Nsomo",2017,81.9850082397461
+"Kié-Ntem","Nsok-Nsomo",2018,69.5137176513672
+"Kié-Ntem","Nsok-Nsomo",2019,100.247039794922
+"Kié-Ntem","Nsok-Nsomo",2020,63.1980781555176
+"Kié-Ntem","Nsok-Nsomo",2021,45.2513198852539
+"Kié-Ntem","Nsok-Nsomo",2022,63.8349609375
+"Kié-Ntem","Nsok-Nsomo",2023,123.756019592285
+"Kié-Ntem","Nsok-Nsomo",2024,69.1814956665039
+"Litoral","Bata",2012,4088.49951171875
+"Litoral","Bata",2013,5112.24169921875
+"Litoral","Bata",2014,6565.88720703125
+"Litoral","Bata",2015,7592.14501953125
+"Litoral","Bata",2016,6175.42431640625
+"Litoral","Bata",2017,7789.12353515625
+"Litoral","Bata",2018,7348.20166015625
+"Litoral","Bata",2019,7790.65576171875
+"Litoral","Bata",2020,6960.00146484375
+"Litoral","Bata",2021,6671.43896484375
+"Litoral","Bata",2022,6131.65673828125
+"Litoral","Bata",2023,6023.271484375
+"Litoral","Bata",2024,5912.1044921875
+"Litoral","Bitica",2012,0
+"Litoral","Bitica",2013,4.80177736282349
+"Litoral","Bitica",2014,1.02010440826416
+"Litoral","Bitica",2015,0.669963598251343
+"Litoral","Bitica",2016,1.43879449367523
+"Litoral","Bitica",2017,0.518795847892761
+"Litoral","Bitica",2018,0
+"Litoral","Bitica",2019,0
+"Litoral","Bitica",2020,0
+"Litoral","Bitica",2021,0
+"Litoral","Bitica",2022,5.83947896957397
+"Litoral","Bitica",2023,4.94533205032349
+"Litoral","Bitica",2024,0
+"Litoral","Cogo",2012,54.2847290039062
+"Litoral","Cogo",2013,167.473678588867
+"Litoral","Cogo",2014,77.0139389038086
+"Litoral","Cogo",2015,57.3762397766113
+"Litoral","Cogo",2016,84.2272491455078
+"Litoral","Cogo",2017,77.6365051269531
+"Litoral","Cogo",2018,144.111801147461
+"Litoral","Cogo",2019,110.197212219238
+"Litoral","Cogo",2020,85.1857604980469
+"Litoral","Cogo",2021,73.3385543823242
+"Litoral","Cogo",2022,105.201110839844
+"Litoral","Cogo",2023,272.155395507812
+"Litoral","Cogo",2024,198.662536621094
+"Litoral","Corisco",2012,8.26881885528564
+"Litoral","Corisco",2013,11.9041891098022
+"Litoral","Corisco",2014,17.387357711792
+"Litoral","Corisco",2015,8.25831127166748
+"Litoral","Corisco",2016,2.00170946121216
+"Litoral","Corisco",2017,3.0963408946991
+"Litoral","Corisco",2018,3.12480044364929
+"Litoral","Corisco",2019,0
+"Litoral","Corisco",2020,0
+"Litoral","Corisco",2021,0
+"Litoral","Corisco",2022,0.237026542425156
+"Litoral","Corisco",2023,0.274808615446091
+"Litoral","Corisco",2024,0.992820143699646
+"Litoral","Machinda",2012,376.271636962891
+"Litoral","Machinda",2013,565.083923339844
+"Litoral","Machinda",2014,673.578552246094
+"Litoral","Machinda",2015,723.877624511719
+"Litoral","Machinda",2016,568.308898925781
+"Litoral","Machinda",2017,603.001098632812
+"Litoral","Machinda",2018,530.042724609375
+"Litoral","Machinda",2019,407.386352539062
+"Litoral","Machinda",2020,358.956909179688
+"Litoral","Machinda",2021,315.14794921875
+"Litoral","Machinda",2022,468.853729248047
+"Litoral","Machinda",2023,485.749328613281
+"Litoral","Machinda",2024,444.334991455078
+"Litoral","Mbini",2012,104.773376464844
+"Litoral","Mbini",2013,133.793380737305
+"Litoral","Mbini",2014,196.94856262207
+"Litoral","Mbini",2015,167.185470581055
+"Litoral","Mbini",2016,107.168739318848
+"Litoral","Mbini",2017,117.60619354248
+"Litoral","Mbini",2018,86.3240966796875
+"Litoral","Mbini",2019,90.3285064697266
+"Litoral","Mbini",2020,88.2792816162109
+"Litoral","Mbini",2021,70.3742446899414
+"Litoral","Mbini",2022,174.296051025391
+"Litoral","Mbini",2023,242.036239624023
+"Litoral","Mbini",2024,162.550399780273
+"Litoral","Rio Campo",2012,2.74824523925781
+"Litoral","Rio Campo",2013,23.955099105835
+"Litoral","Rio Campo",2014,18.5991382598877
+"Litoral","Rio Campo",2015,1.8419201374054
+"Litoral","Rio Campo",2016,15.7412233352661
+"Litoral","Rio Campo",2017,0
+"Litoral","Rio Campo",2018,7.87634563446045
+"Litoral","Rio Campo",2019,1.04429793357849
+"Litoral","Rio Campo",2020,0
+"Litoral","Rio Campo",2021,0
+"Litoral","Rio Campo",2022,1.63160014152527
+"Litoral","Rio Campo",2023,12.3960828781128
+"Litoral","Rio Campo",2024,1.0960179567337
+"Wele-Nzas","Aconibe",2012,3.61185693740845
+"Wele-Nzas","Aconibe",2013,11.6618766784668
+"Wele-Nzas","Aconibe",2014,14.2401628494263
+"Wele-Nzas","Aconibe",2015,19.3417835235596
+"Wele-Nzas","Aconibe",2016,14.0149564743042
+"Wele-Nzas","Aconibe",2017,19.7665824890137
+"Wele-Nzas","Aconibe",2018,14.2340745925903
+"Wele-Nzas","Aconibe",2019,22.4387130737305
+"Wele-Nzas","Aconibe",2020,4.79979181289673
+"Wele-Nzas","Aconibe",2021,7.39913082122803
+"Wele-Nzas","Aconibe",2022,23.2550354003906
+"Wele-Nzas","Aconibe",2023,37.7420921325684
+"Wele-Nzas","Aconibe",2024,26.4020347595215
+"Wele-Nzas","Ayene",2012,14.042085647583
+"Wele-Nzas","Ayene",2013,29.2009449005127
+"Wele-Nzas","Ayene",2014,19.0979518890381
+"Wele-Nzas","Ayene",2015,16.3657283782959
+"Wele-Nzas","Ayene",2016,18.6602535247803
+"Wele-Nzas","Ayene",2017,10.5477066040039
+"Wele-Nzas","Ayene",2018,6.24643850326538
+"Wele-Nzas","Ayene",2019,25.631383895874
+"Wele-Nzas","Ayene",2020,1.32086992263794
+"Wele-Nzas","Ayene",2021,1.38174414634705
+"Wele-Nzas","Ayene",2022,27.4964008331299
+"Wele-Nzas","Ayene",2023,118.330909729004
+"Wele-Nzas","Ayene",2024,19.0314826965332
+"Wele-Nzas","Añisok",2012,463.133422851562
+"Wele-Nzas","Añisok",2013,737.512817382812
+"Wele-Nzas","Añisok",2014,1090.94580078125
+"Wele-Nzas","Añisok",2015,1148.24963378906
+"Wele-Nzas","Añisok",2016,1002.14489746094
+"Wele-Nzas","Añisok",2017,927.125122070312
+"Wele-Nzas","Añisok",2018,722.369262695312
+"Wele-Nzas","Añisok",2019,794.626342773438
+"Wele-Nzas","Añisok",2020,653.676879882812
+"Wele-Nzas","Añisok",2021,473.646484375
+"Wele-Nzas","Añisok",2022,551.389465332031
+"Wele-Nzas","Añisok",2023,1105.91271972656
+"Wele-Nzas","Añisok",2024,808.074462890625
+"Wele-Nzas","Ciudad Nueva Oyala",2012,52.8933410644531
+"Wele-Nzas","Ciudad Nueva Oyala",2013,39.1069107055664
+"Wele-Nzas","Ciudad Nueva Oyala",2014,61.623706817627
+"Wele-Nzas","Ciudad Nueva Oyala",2015,76.7635345458984
+"Wele-Nzas","Ciudad Nueva Oyala",2016,27.0340366363525
+"Wele-Nzas","Ciudad Nueva Oyala",2017,14.6469116210938
+"Wele-Nzas","Ciudad Nueva Oyala",2018,7.44640254974365
+"Wele-Nzas","Ciudad Nueva Oyala",2019,10.4518041610718
+"Wele-Nzas","Ciudad Nueva Oyala",2020,48.6317825317383
+"Wele-Nzas","Ciudad Nueva Oyala",2021,24.2395420074463
+"Wele-Nzas","Ciudad Nueva Oyala",2022,10.1509237289429
+"Wele-Nzas","Ciudad Nueva Oyala",2023,124.774185180664
+"Wele-Nzas","Ciudad Nueva Oyala",2024,133.90934753418
+"Wele-Nzas","Mongomeyen",2012,27.9735240936279
+"Wele-Nzas","Mongomeyen",2013,164.656616210938
+"Wele-Nzas","Mongomeyen",2014,166.269668579102
+"Wele-Nzas","Mongomeyen",2015,122.29231262207
+"Wele-Nzas","Mongomeyen",2016,100.924789428711
+"Wele-Nzas","Mongomeyen",2017,165.366500854492
+"Wele-Nzas","Mongomeyen",2018,137.262283325195
+"Wele-Nzas","Mongomeyen",2019,135.895797729492
+"Wele-Nzas","Mongomeyen",2020,68.1303787231445
+"Wele-Nzas","Mongomeyen",2021,81.7254104614258
+"Wele-Nzas","Mongomeyen",2022,93.2621307373047
+"Wele-Nzas","Mongomeyen",2023,178.81413269043
+"Wele-Nzas","Mongomeyen",2024,141.807174682617
+"Wele-Nzas","Mongomo",2012,1700.490234375
+"Wele-Nzas","Mongomo",2013,2601.41088867188
+"Wele-Nzas","Mongomo",2014,3964.1904296875
+"Wele-Nzas","Mongomo",2015,4003.03198242188
+"Wele-Nzas","Mongomo",2016,3617.61181640625
+"Wele-Nzas","Mongomo",2017,3580.2958984375
+"Wele-Nzas","Mongomo",2018,3371.60400390625
+"Wele-Nzas","Mongomo",2019,3320.60424804688
+"Wele-Nzas","Mongomo",2020,2666.03442382812
+"Wele-Nzas","Mongomo",2021,2691.21484375
+"Wele-Nzas","Mongomo",2022,2971.4296875
+"Wele-Nzas","Mongomo",2023,3287.63818359375
+"Wele-Nzas","Mongomo",2024,3077.80517578125
+"Wele-Nzas","Nsork",2012,89.9645233154297
+"Wele-Nzas","Nsork",2013,116.625152587891
+"Wele-Nzas","Nsork",2014,91.053840637207
+"Wele-Nzas","Nsork",2015,87.6688995361328
+"Wele-Nzas","Nsork",2016,66.048454284668
+"Wele-Nzas","Nsork",2017,115.65168762207
+"Wele-Nzas","Nsork",2018,103.65015411377
+"Wele-Nzas","Nsork",2019,95.3149871826172
+"Wele-Nzas","Nsork",2020,42.0042190551758
+"Wele-Nzas","Nsork",2021,43.3809623718262
+"Wele-Nzas","Nsork",2022,48.0784683227539
+"Wele-Nzas","Nsork",2023,47.5407447814941
+"Wele-Nzas","Nsork",2024,44.586669921875

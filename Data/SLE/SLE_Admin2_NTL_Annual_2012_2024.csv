@@ -1,0 +1,183 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Eastern","Kailahun",2012,0
+"Eastern","Kailahun",2013,0.507113754749298
+"Eastern","Kailahun",2014,15.9828948974609
+"Eastern","Kailahun",2015,11.7215394973755
+"Eastern","Kailahun",2016,8.75854301452637
+"Eastern","Kailahun",2017,8.22580814361572
+"Eastern","Kailahun",2018,30.4526042938232
+"Eastern","Kailahun",2019,34.3531112670898
+"Eastern","Kailahun",2020,23.0989208221436
+"Eastern","Kailahun",2021,27.7505531311035
+"Eastern","Kailahun",2022,46.2800598144531
+"Eastern","Kailahun",2023,33.1100959777832
+"Eastern","Kailahun",2024,26.1100368499756
+"Eastern","Kenema",2012,66.2562713623047
+"Eastern","Kenema",2013,62.727123260498
+"Eastern","Kenema",2014,84.5470504760742
+"Eastern","Kenema",2015,86.2712478637695
+"Eastern","Kenema",2016,98.903923034668
+"Eastern","Kenema",2017,80.5939636230469
+"Eastern","Kenema",2018,57.7264862060547
+"Eastern","Kenema",2019,47.4231147766113
+"Eastern","Kenema",2020,64.7970733642578
+"Eastern","Kenema",2021,46.053783416748
+"Eastern","Kenema",2022,189.600296020508
+"Eastern","Kenema",2023,237.058135986328
+"Eastern","Kenema",2024,217.91618347168
+"Eastern","Kono",2012,189.915466308594
+"Eastern","Kono",2013,331.740386962891
+"Eastern","Kono",2014,363.795227050781
+"Eastern","Kono",2015,337.082275390625
+"Eastern","Kono",2016,278.716339111328
+"Eastern","Kono",2017,225.413375854492
+"Eastern","Kono",2018,189.025451660156
+"Eastern","Kono",2019,184.105697631836
+"Eastern","Kono",2020,160.983322143555
+"Eastern","Kono",2021,179.747329711914
+"Eastern","Kono",2022,272.998229980469
+"Eastern","Kono",2023,352.382019042969
+"Eastern","Kono",2024,370.491119384766
+"Northern","Bombali",2012,51.0831985473633
+"Northern","Bombali",2013,90.9516754150391
+"Northern","Bombali",2014,192.748580932617
+"Northern","Bombali",2015,164.70475769043
+"Northern","Bombali",2016,167.871704101562
+"Northern","Bombali",2017,131.006439208984
+"Northern","Bombali",2018,134.623840332031
+"Northern","Bombali",2019,139.049621582031
+"Northern","Bombali",2020,149.208084106445
+"Northern","Bombali",2021,164.483963012695
+"Northern","Bombali",2022,230.044052124023
+"Northern","Bombali",2023,307.900207519531
+"Northern","Bombali",2024,327.349243164062
+"Northern","Kambia",2012,2.74921274185181
+"Northern","Kambia",2013,0
+"Northern","Kambia",2014,9.66170787811279
+"Northern","Kambia",2015,8.69947052001953
+"Northern","Kambia",2016,12.868914604187
+"Northern","Kambia",2017,8.72676181793213
+"Northern","Kambia",2018,1.00773012638092
+"Northern","Kambia",2019,2.31009125709534
+"Northern","Kambia",2020,2.22967767715454
+"Northern","Kambia",2021,1.94959497451782
+"Northern","Kambia",2022,3.78069019317627
+"Northern","Kambia",2023,5.44285678863525
+"Northern","Kambia",2024,3.67155909538269
+"Northern","Koinadugu",2012,0
+"Northern","Koinadugu",2013,1.56648778915405
+"Northern","Koinadugu",2014,25.4596176147461
+"Northern","Koinadugu",2015,15.9214658737183
+"Northern","Koinadugu",2016,22.1425952911377
+"Northern","Koinadugu",2017,15.2328548431396
+"Northern","Koinadugu",2018,7.82119846343994
+"Northern","Koinadugu",2019,0.641354143619537
+"Northern","Koinadugu",2020,0
+"Northern","Koinadugu",2021,0
+"Northern","Koinadugu",2022,2.19749474525452
+"Northern","Koinadugu",2023,6.22714519500732
+"Northern","Koinadugu",2024,7.98220300674438
+"Northern","Port Loko",2012,326.417663574219
+"Northern","Port Loko",2013,550.295654296875
+"Northern","Port Loko",2014,630.567321777344
+"Northern","Port Loko",2015,473.866302490234
+"Northern","Port Loko",2016,410.448547363281
+"Northern","Port Loko",2017,301.605438232422
+"Northern","Port Loko",2018,359.400482177734
+"Northern","Port Loko",2019,348.4794921875
+"Northern","Port Loko",2020,209.357696533203
+"Northern","Port Loko",2021,262.678009033203
+"Northern","Port Loko",2022,479.485137939453
+"Northern","Port Loko",2023,638.645690917969
+"Northern","Port Loko",2024,624.7451171875
+"Northern","Tonkolili",2012,361.029998779297
+"Northern","Tonkolili",2013,536.087890625
+"Northern","Tonkolili",2014,640.833862304688
+"Northern","Tonkolili",2015,434.623016357422
+"Northern","Tonkolili",2016,516.311889648438
+"Northern","Tonkolili",2017,494.909790039062
+"Northern","Tonkolili",2018,390.353729248047
+"Northern","Tonkolili",2019,282.264282226562
+"Northern","Tonkolili",2020,155.760269165039
+"Northern","Tonkolili",2021,140.819732666016
+"Northern","Tonkolili",2022,230.839462280273
+"Northern","Tonkolili",2023,306.089691162109
+"Northern","Tonkolili",2024,478.771026611328
+"Southern","Bo",2012,76.7517776489258
+"Southern","Bo",2013,88.0930786132812
+"Southern","Bo",2014,86.4474945068359
+"Southern","Bo",2015,96.072883605957
+"Southern","Bo",2016,126.235420227051
+"Southern","Bo",2017,78.4127883911133
+"Southern","Bo",2018,61.5662727355957
+"Southern","Bo",2019,79.1390686035156
+"Southern","Bo",2020,71.2163848876953
+"Southern","Bo",2021,64.1891708374023
+"Southern","Bo",2022,238.291427612305
+"Southern","Bo",2023,322.48974609375
+"Southern","Bo",2024,344.630310058594
+"Southern","Bonthe",2012,41.9154052734375
+"Southern","Bonthe",2013,58.684986114502
+"Southern","Bonthe",2014,65.2187576293945
+"Southern","Bonthe",2015,57.363697052002
+"Southern","Bonthe",2016,87.3573608398438
+"Southern","Bonthe",2017,75.5203857421875
+"Southern","Bonthe",2018,94.7684860229492
+"Southern","Bonthe",2019,126.851150512695
+"Southern","Bonthe",2020,131.401123046875
+"Southern","Bonthe",2021,120.581283569336
+"Southern","Bonthe",2022,190.525817871094
+"Southern","Bonthe",2023,209.412048339844
+"Southern","Bonthe",2024,235.335205078125
+"Southern","Moyamba",2012,5.37154388427734
+"Southern","Moyamba",2013,4.29923677444458
+"Southern","Moyamba",2014,15.1991624832153
+"Southern","Moyamba",2015,14.4549417495728
+"Southern","Moyamba",2016,15.619441986084
+"Southern","Moyamba",2017,12.1745986938477
+"Southern","Moyamba",2018,16.5978813171387
+"Southern","Moyamba",2019,18.7782897949219
+"Southern","Moyamba",2020,13.5096921920776
+"Southern","Moyamba",2021,21.4628143310547
+"Southern","Moyamba",2022,35.2729988098145
+"Southern","Moyamba",2023,30.0282554626465
+"Southern","Moyamba",2024,41.8297119140625
+"Southern","Pujehun",2012,0
+"Southern","Pujehun",2013,3.12569665908813
+"Southern","Pujehun",2014,11.1280822753906
+"Southern","Pujehun",2015,7.5248498916626
+"Southern","Pujehun",2016,13.8227739334106
+"Southern","Pujehun",2017,8.79922580718994
+"Southern","Pujehun",2018,7.71362781524658
+"Southern","Pujehun",2019,3.7905912399292
+"Southern","Pujehun",2020,3.71991181373596
+"Southern","Pujehun",2021,10.6876707077026
+"Southern","Pujehun",2022,9.16422939300537
+"Southern","Pujehun",2023,18.8977031707764
+"Southern","Pujehun",2024,19.071102142334
+"Western","Western Rural",2012,129.313461303711
+"Western","Western Rural",2013,83.5779647827148
+"Western","Western Rural",2014,119.521263122559
+"Western","Western Rural",2015,170.069885253906
+"Western","Western Rural",2016,217.469131469727
+"Western","Western Rural",2017,235.74543762207
+"Western","Western Rural",2018,440.370086669922
+"Western","Western Rural",2019,548.769836425781
+"Western","Western Rural",2020,579.970581054688
+"Western","Western Rural",2021,703.763549804688
+"Western","Western Rural",2022,1060.83666992188
+"Western","Western Rural",2023,1158.05969238281
+"Western","Western Rural",2024,1054.26782226562
+"Western","Western Urban",2012,1101.21276855469
+"Western","Western Urban",2013,935.105895996094
+"Western","Western Urban",2014,1013.69097900391
+"Western","Western Urban",2015,1049.24694824219
+"Western","Western Urban",2016,1131.45129394531
+"Western","Western Urban",2017,1138.43908691406
+"Western","Western Urban",2018,1431.39428710938
+"Western","Western Urban",2019,1590.19689941406
+"Western","Western Urban",2020,1649.91979980469
+"Western","Western Urban",2021,1956.16674804688
+"Western","Western Urban",2022,2260.32006835938
+"Western","Western Urban",2023,2493.05444335938
+"Western","Western Urban",2024,2430.14965820312

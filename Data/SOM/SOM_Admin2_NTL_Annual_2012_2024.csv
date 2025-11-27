@@ -1,0 +1,963 @@
+"NAME_1","NAME_2","date","ntl_mean"
+"Awdal","Baki",2012,0
+"Awdal","Baki",2013,0
+"Awdal","Baki",2014,0
+"Awdal","Baki",2015,0
+"Awdal","Baki",2016,0
+"Awdal","Baki",2017,0
+"Awdal","Baki",2018,0
+"Awdal","Baki",2019,0
+"Awdal","Baki",2020,0
+"Awdal","Baki",2021,0
+"Awdal","Baki",2022,0
+"Awdal","Baki",2023,0
+"Awdal","Baki",2024,0
+"Awdal","Boorama",2012,79.8616714477539
+"Awdal","Boorama",2013,108.392219543457
+"Awdal","Boorama",2014,100.712821960449
+"Awdal","Boorama",2015,97.5694274902344
+"Awdal","Boorama",2016,93.9432525634766
+"Awdal","Boorama",2017,121.459434509277
+"Awdal","Boorama",2018,164.8544921875
+"Awdal","Boorama",2019,213.89501953125
+"Awdal","Boorama",2020,312.590423583984
+"Awdal","Boorama",2021,476.075836181641
+"Awdal","Boorama",2022,589.261840820312
+"Awdal","Boorama",2023,625.412353515625
+"Awdal","Boorama",2024,716.605651855469
+"Awdal","Lughaya",2012,0
+"Awdal","Lughaya",2013,0
+"Awdal","Lughaya",2014,0
+"Awdal","Lughaya",2015,0
+"Awdal","Lughaya",2016,0
+"Awdal","Lughaya",2017,0
+"Awdal","Lughaya",2018,0
+"Awdal","Lughaya",2019,0
+"Awdal","Lughaya",2020,0
+"Awdal","Lughaya",2021,0
+"Awdal","Lughaya",2022,0
+"Awdal","Lughaya",2023,0
+"Awdal","Lughaya",2024,0
+"Awdal","Zeylac",2012,0.0445996895432472
+"Awdal","Zeylac",2013,0
+"Awdal","Zeylac",2014,0
+"Awdal","Zeylac",2015,0
+"Awdal","Zeylac",2016,0.0404183566570282
+"Awdal","Zeylac",2017,0
+"Awdal","Zeylac",2018,0.0949703752994537
+"Awdal","Zeylac",2019,0.0810679569840431
+"Awdal","Zeylac",2020,0.492022693157196
+"Awdal","Zeylac",2021,2.65673089027405
+"Awdal","Zeylac",2022,6.27165365219116
+"Awdal","Zeylac",2023,5.80857372283936
+"Awdal","Zeylac",2024,7.79174900054932
+"Bakool","Ceel Barde",2012,0
+"Bakool","Ceel Barde",2013,0
+"Bakool","Ceel Barde",2014,0
+"Bakool","Ceel Barde",2015,0
+"Bakool","Ceel Barde",2016,0
+"Bakool","Ceel Barde",2017,0
+"Bakool","Ceel Barde",2018,0
+"Bakool","Ceel Barde",2019,0
+"Bakool","Ceel Barde",2020,0
+"Bakool","Ceel Barde",2021,0
+"Bakool","Ceel Barde",2022,0
+"Bakool","Ceel Barde",2023,0
+"Bakool","Ceel Barde",2024,2.63843250274658
+"Bakool","Rab Dhuure",2012,0
+"Bakool","Rab Dhuure",2013,0
+"Bakool","Rab Dhuure",2014,0
+"Bakool","Rab Dhuure",2015,0
+"Bakool","Rab Dhuure",2016,0
+"Bakool","Rab Dhuure",2017,0
+"Bakool","Rab Dhuure",2018,0
+"Bakool","Rab Dhuure",2019,0
+"Bakool","Rab Dhuure",2020,0
+"Bakool","Rab Dhuure",2021,0
+"Bakool","Rab Dhuure",2022,0
+"Bakool","Rab Dhuure",2023,0
+"Bakool","Rab Dhuure",2024,0
+"Bakool","Tiyeeglow",2012,0
+"Bakool","Tiyeeglow",2013,0
+"Bakool","Tiyeeglow",2014,0
+"Bakool","Tiyeeglow",2015,0
+"Bakool","Tiyeeglow",2016,0
+"Bakool","Tiyeeglow",2017,0
+"Bakool","Tiyeeglow",2018,0
+"Bakool","Tiyeeglow",2019,0
+"Bakool","Tiyeeglow",2020,0
+"Bakool","Tiyeeglow",2021,0
+"Bakool","Tiyeeglow",2022,0
+"Bakool","Tiyeeglow",2023,0
+"Bakool","Tiyeeglow",2024,0
+"Bakool","Wajid",2012,0
+"Bakool","Wajid",2013,0
+"Bakool","Wajid",2014,0
+"Bakool","Wajid",2015,0
+"Bakool","Wajid",2016,0
+"Bakool","Wajid",2017,0
+"Bakool","Wajid",2018,0
+"Bakool","Wajid",2019,0
+"Bakool","Wajid",2020,0
+"Bakool","Wajid",2021,0
+"Bakool","Wajid",2022,0
+"Bakool","Wajid",2023,0
+"Bakool","Wajid",2024,5.05920457839966
+"Bakool","Xudur",2012,0
+"Bakool","Xudur",2013,0
+"Bakool","Xudur",2014,0
+"Bakool","Xudur",2015,0
+"Bakool","Xudur",2016,0
+"Bakool","Xudur",2017,5.46889638900757
+"Bakool","Xudur",2018,0
+"Bakool","Xudur",2019,0
+"Bakool","Xudur",2020,1.10944759845734
+"Bakool","Xudur",2021,1.19488716125488
+"Bakool","Xudur",2022,2.45239973068237
+"Bakool","Xudur",2023,4.05357503890991
+"Bakool","Xudur",2024,5.40495872497559
+"Banaadir","Mogadisho",2012,288.610443115234
+"Banaadir","Mogadisho",2013,506.123596191406
+"Banaadir","Mogadisho",2014,885.682922363281
+"Banaadir","Mogadisho",2015,897.919311523438
+"Banaadir","Mogadisho",2016,936.720947265625
+"Banaadir","Mogadisho",2017,1085.55859375
+"Banaadir","Mogadisho",2018,1459.88830566406
+"Banaadir","Mogadisho",2019,1897.18103027344
+"Banaadir","Mogadisho",2020,2154.47045898438
+"Banaadir","Mogadisho",2021,2313.59790039062
+"Banaadir","Mogadisho",2022,2527.98486328125
+"Banaadir","Mogadisho",2023,2783.4443359375
+"Banaadir","Mogadisho",2024,3355.78466796875
+"Bari","Bander-Beyla",2012,0
+"Bari","Bander-Beyla",2013,0
+"Bari","Bander-Beyla",2014,0
+"Bari","Bander-Beyla",2015,2.77135968208313
+"Bari","Bander-Beyla",2016,0.516293227672577
+"Bari","Bander-Beyla",2017,0
+"Bari","Bander-Beyla",2018,0
+"Bari","Bander-Beyla",2019,0
+"Bari","Bander-Beyla",2020,0
+"Bari","Bander-Beyla",2021,0
+"Bari","Bander-Beyla",2022,0
+"Bari","Bander-Beyla",2023,0
+"Bari","Bander-Beyla",2024,0
+"Bari","Bosaaso",2012,294.43603515625
+"Bari","Bosaaso",2013,350.829986572266
+"Bari","Bosaaso",2014,374.154846191406
+"Bari","Bosaaso",2015,449.836364746094
+"Bari","Bosaaso",2016,461.358612060547
+"Bari","Bosaaso",2017,424.908386230469
+"Bari","Bosaaso",2018,485.795257568359
+"Bari","Bosaaso",2019,501.999786376953
+"Bari","Bosaaso",2020,532.338684082031
+"Bari","Bosaaso",2021,679.707458496094
+"Bari","Bosaaso",2022,827.57080078125
+"Bari","Bosaaso",2023,841.799987792969
+"Bari","Bosaaso",2024,954.462219238281
+"Bari","Calawla",2012,0
+"Bari","Calawla",2013,0
+"Bari","Calawla",2014,0
+"Bari","Calawla",2015,0
+"Bari","Calawla",2016,0
+"Bari","Calawla",2017,0
+"Bari","Calawla",2018,0
+"Bari","Calawla",2019,0
+"Bari","Calawla",2020,0
+"Bari","Calawla",2021,0
+"Bari","Calawla",2022,0.0690819919109344
+"Bari","Calawla",2023,0
+"Bari","Calawla",2024,0
+"Bari","Iskushuban",2012,0
+"Bari","Iskushuban",2013,0
+"Bari","Iskushuban",2014,0
+"Bari","Iskushuban",2015,1.22580456733704
+"Bari","Iskushuban",2016,0.607470631599426
+"Bari","Iskushuban",2017,0
+"Bari","Iskushuban",2018,0
+"Bari","Iskushuban",2019,0
+"Bari","Iskushuban",2020,0
+"Bari","Iskushuban",2021,0
+"Bari","Iskushuban",2022,0
+"Bari","Iskushuban",2023,0
+"Bari","Iskushuban",2024,0
+"Bari","Qandala",2012,3.04961061477661
+"Bari","Qandala",2013,0
+"Bari","Qandala",2014,0
+"Bari","Qandala",2015,0
+"Bari","Qandala",2016,0
+"Bari","Qandala",2017,0
+"Bari","Qandala",2018,0
+"Bari","Qandala",2019,0
+"Bari","Qandala",2020,0
+"Bari","Qandala",2021,0.738125681877136
+"Bari","Qandala",2022,2.39721298217773
+"Bari","Qandala",2023,5.86329650878906
+"Bari","Qandala",2024,7.29989576339722
+"Bari","Qardho",2012,31.9058818817139
+"Bari","Qardho",2013,21.0650386810303
+"Bari","Qardho",2014,62.8470306396484
+"Bari","Qardho",2015,162.61979675293
+"Bari","Qardho",2016,197.962799072266
+"Bari","Qardho",2017,199.365646362305
+"Bari","Qardho",2018,179.911682128906
+"Bari","Qardho",2019,180.727523803711
+"Bari","Qardho",2020,168.207946777344
+"Bari","Qardho",2021,199.752700805664
+"Bari","Qardho",2022,253.021377563477
+"Bari","Qardho",2023,237.177093505859
+"Bari","Qardho",2024,254.733734130859
+"Bay","Baydhabo",2012,12.7597312927246
+"Bay","Baydhabo",2013,25.3437728881836
+"Bay","Baydhabo",2014,24.1478061676025
+"Bay","Baydhabo",2015,30.8949584960938
+"Bay","Baydhabo",2016,60.5084381103516
+"Bay","Baydhabo",2017,40.5089492797852
+"Bay","Baydhabo",2018,72.9753646850586
+"Bay","Baydhabo",2019,94.3763580322266
+"Bay","Baydhabo",2020,115.316070556641
+"Bay","Baydhabo",2021,161.068984985352
+"Bay","Baydhabo",2022,184.330093383789
+"Bay","Baydhabo",2023,185.690216064453
+"Bay","Baydhabo",2024,256.043365478516
+"Bay","Buur Xakaba",2012,0
+"Bay","Buur Xakaba",2013,0
+"Bay","Buur Xakaba",2014,0
+"Bay","Buur Xakaba",2015,0
+"Bay","Buur Xakaba",2016,0
+"Bay","Buur Xakaba",2017,0
+"Bay","Buur Xakaba",2018,0
+"Bay","Buur Xakaba",2019,1.95222210884094
+"Bay","Buur Xakaba",2020,2.97734785079956
+"Bay","Buur Xakaba",2021,3.15392112731934
+"Bay","Buur Xakaba",2022,2.79064512252808
+"Bay","Buur Xakaba",2023,2.18505620956421
+"Bay","Buur Xakaba",2024,3.46337842941284
+"Bay","Diinsoor",2012,0
+"Bay","Diinsoor",2013,0
+"Bay","Diinsoor",2014,0
+"Bay","Diinsoor",2015,0
+"Bay","Diinsoor",2016,0
+"Bay","Diinsoor",2017,3.62756490707397
+"Bay","Diinsoor",2018,1.66395545005798
+"Bay","Diinsoor",2019,0
+"Bay","Diinsoor",2020,0
+"Bay","Diinsoor",2021,0
+"Bay","Diinsoor",2022,0
+"Bay","Diinsoor",2023,0
+"Bay","Diinsoor",2024,0
+"Bay","Qansax Dheere",2012,0
+"Bay","Qansax Dheere",2013,0
+"Bay","Qansax Dheere",2014,0
+"Bay","Qansax Dheere",2015,0
+"Bay","Qansax Dheere",2016,0
+"Bay","Qansax Dheere",2017,0
+"Bay","Qansax Dheere",2018,0
+"Bay","Qansax Dheere",2019,0
+"Bay","Qansax Dheere",2020,0
+"Bay","Qansax Dheere",2021,0
+"Bay","Qansax Dheere",2022,0
+"Bay","Qansax Dheere",2023,0
+"Bay","Qansax Dheere",2024,0
+"Galguduud","Caabudwaaq",2012,0
+"Galguduud","Caabudwaaq",2013,0
+"Galguduud","Caabudwaaq",2014,0
+"Galguduud","Caabudwaaq",2015,0
+"Galguduud","Caabudwaaq",2016,0
+"Galguduud","Caabudwaaq",2017,0
+"Galguduud","Caabudwaaq",2018,0
+"Galguduud","Caabudwaaq",2019,0
+"Galguduud","Caabudwaaq",2020,0
+"Galguduud","Caabudwaaq",2021,0
+"Galguduud","Caabudwaaq",2022,0
+"Galguduud","Caabudwaaq",2023,0
+"Galguduud","Caabudwaaq",2024,0
+"Galguduud","Cadaado",2012,0
+"Galguduud","Cadaado",2013,0
+"Galguduud","Cadaado",2014,1.11920547485352
+"Galguduud","Cadaado",2015,7.43067264556885
+"Galguduud","Cadaado",2016,10.97483253479
+"Galguduud","Cadaado",2017,8.32635021209717
+"Galguduud","Cadaado",2018,6.96789884567261
+"Galguduud","Cadaado",2019,18.1172924041748
+"Galguduud","Cadaado",2020,20.7047863006592
+"Galguduud","Cadaado",2021,26.3007144927979
+"Galguduud","Cadaado",2022,50.1621322631836
+"Galguduud","Cadaado",2023,53.8968505859375
+"Galguduud","Cadaado",2024,61.4592132568359
+"Galguduud","Ceel Buur",2012,0
+"Galguduud","Ceel Buur",2013,0
+"Galguduud","Ceel Buur",2014,0
+"Galguduud","Ceel Buur",2015,0
+"Galguduud","Ceel Buur",2016,0
+"Galguduud","Ceel Buur",2017,0
+"Galguduud","Ceel Buur",2018,0
+"Galguduud","Ceel Buur",2019,0
+"Galguduud","Ceel Buur",2020,0
+"Galguduud","Ceel Buur",2021,0
+"Galguduud","Ceel Buur",2022,0
+"Galguduud","Ceel Buur",2023,0
+"Galguduud","Ceel Buur",2024,0
+"Galguduud","Ceel Dheer",2012,0
+"Galguduud","Ceel Dheer",2013,0
+"Galguduud","Ceel Dheer",2014,0
+"Galguduud","Ceel Dheer",2015,0
+"Galguduud","Ceel Dheer",2016,0
+"Galguduud","Ceel Dheer",2017,0
+"Galguduud","Ceel Dheer",2018,0
+"Galguduud","Ceel Dheer",2019,0
+"Galguduud","Ceel Dheer",2020,0
+"Galguduud","Ceel Dheer",2021,0
+"Galguduud","Ceel Dheer",2022,0
+"Galguduud","Ceel Dheer",2023,0
+"Galguduud","Ceel Dheer",2024,0
+"Galguduud","Dhuusamareeb",2012,0
+"Galguduud","Dhuusamareeb",2013,0.521065711975098
+"Galguduud","Dhuusamareeb",2014,4.64347505569458
+"Galguduud","Dhuusamareeb",2015,19.6265525817871
+"Galguduud","Dhuusamareeb",2016,25.5443954467773
+"Galguduud","Dhuusamareeb",2017,24.9374866485596
+"Galguduud","Dhuusamareeb",2018,19.6682434082031
+"Galguduud","Dhuusamareeb",2019,17.3807697296143
+"Galguduud","Dhuusamareeb",2020,26.2087078094482
+"Galguduud","Dhuusamareeb",2021,36.5914306640625
+"Galguduud","Dhuusamareeb",2022,64.0925521850586
+"Galguduud","Dhuusamareeb",2023,67.1716003417969
+"Galguduud","Dhuusamareeb",2024,83.9639205932617
+"Gedo","Baar-Dheere",2012,0
+"Gedo","Baar-Dheere",2013,0
+"Gedo","Baar-Dheere",2014,0
+"Gedo","Baar-Dheere",2015,0
+"Gedo","Baar-Dheere",2016,0
+"Gedo","Baar-Dheere",2017,0
+"Gedo","Baar-Dheere",2018,14.3582162857056
+"Gedo","Baar-Dheere",2019,8.52631282806396
+"Gedo","Baar-Dheere",2020,5.43898391723633
+"Gedo","Baar-Dheere",2021,11.0863170623779
+"Gedo","Baar-Dheere",2022,14.2096834182739
+"Gedo","Baar-Dheere",2023,15.9646577835083
+"Gedo","Baar-Dheere",2024,9.95617294311523
+"Gedo","Beled Xaawo",2012,0
+"Gedo","Beled Xaawo",2013,0
+"Gedo","Beled Xaawo",2014,0
+"Gedo","Beled Xaawo",2015,0
+"Gedo","Beled Xaawo",2016,0
+"Gedo","Beled Xaawo",2017,0
+"Gedo","Beled Xaawo",2018,0
+"Gedo","Beled Xaawo",2019,0
+"Gedo","Beled Xaawo",2020,0
+"Gedo","Beled Xaawo",2021,0
+"Gedo","Beled Xaawo",2022,0
+"Gedo","Beled Xaawo",2023,0
+"Gedo","Beled Xaawo",2024,0
+"Gedo","Ceel Waaq",2012,0
+"Gedo","Ceel Waaq",2013,0
+"Gedo","Ceel Waaq",2014,0
+"Gedo","Ceel Waaq",2015,0
+"Gedo","Ceel Waaq",2016,0
+"Gedo","Ceel Waaq",2017,0
+"Gedo","Ceel Waaq",2018,0
+"Gedo","Ceel Waaq",2019,0
+"Gedo","Ceel Waaq",2020,0
+"Gedo","Ceel Waaq",2021,0
+"Gedo","Ceel Waaq",2022,0
+"Gedo","Ceel Waaq",2023,0
+"Gedo","Ceel Waaq",2024,0
+"Gedo","Dolow",2012,0.0992099121212959
+"Gedo","Dolow",2013,0
+"Gedo","Dolow",2014,0.108173184096813
+"Gedo","Dolow",2015,0.667684435844421
+"Gedo","Dolow",2016,1.23687434196472
+"Gedo","Dolow",2017,20.3263816833496
+"Gedo","Dolow",2018,24.7946891784668
+"Gedo","Dolow",2019,19.9253215789795
+"Gedo","Dolow",2020,19.4780616760254
+"Gedo","Dolow",2021,22.8100357055664
+"Gedo","Dolow",2022,31.9250659942627
+"Gedo","Dolow",2023,35.5770492553711
+"Gedo","Dolow",2024,48.6699447631836
+"Gedo","Garbahaaray",2012,0
+"Gedo","Garbahaaray",2013,0
+"Gedo","Garbahaaray",2014,0
+"Gedo","Garbahaaray",2015,0
+"Gedo","Garbahaaray",2016,0
+"Gedo","Garbahaaray",2017,0
+"Gedo","Garbahaaray",2018,0
+"Gedo","Garbahaaray",2019,0
+"Gedo","Garbahaaray",2020,0
+"Gedo","Garbahaaray",2021,0
+"Gedo","Garbahaaray",2022,0
+"Gedo","Garbahaaray",2023,0
+"Gedo","Garbahaaray",2024,1.77436172962189
+"Gedo","Luuk",2012,0
+"Gedo","Luuk",2013,0
+"Gedo","Luuk",2014,0
+"Gedo","Luuk",2015,0
+"Gedo","Luuk",2016,0
+"Gedo","Luuk",2017,1.74932241439819
+"Gedo","Luuk",2018,0
+"Gedo","Luuk",2019,1.62824869155884
+"Gedo","Luuk",2020,3.0234911441803
+"Gedo","Luuk",2021,6.01610231399536
+"Gedo","Luuk",2022,5.36529064178467
+"Gedo","Luuk",2023,4.68456888198853
+"Gedo","Luuk",2024,4.67125082015991
+"Hiiraan","Beled Weyn",2012,0
+"Hiiraan","Beled Weyn",2013,0
+"Hiiraan","Beled Weyn",2014,4.18887996673584
+"Hiiraan","Beled Weyn",2015,23.9221248626709
+"Hiiraan","Beled Weyn",2016,28.2560482025146
+"Hiiraan","Beled Weyn",2017,34.2082214355469
+"Hiiraan","Beled Weyn",2018,88.6562652587891
+"Hiiraan","Beled Weyn",2019,128.660278320312
+"Hiiraan","Beled Weyn",2020,128.110336303711
+"Hiiraan","Beled Weyn",2021,165.965927124023
+"Hiiraan","Beled Weyn",2022,192.314697265625
+"Hiiraan","Beled Weyn",2023,194.889907836914
+"Hiiraan","Beled Weyn",2024,235.074798583984
+"Hiiraan","Buulo Burdo",2012,0
+"Hiiraan","Buulo Burdo",2013,0
+"Hiiraan","Buulo Burdo",2014,0
+"Hiiraan","Buulo Burdo",2015,0
+"Hiiraan","Buulo Burdo",2016,0
+"Hiiraan","Buulo Burdo",2017,0
+"Hiiraan","Buulo Burdo",2018,0
+"Hiiraan","Buulo Burdo",2019,0
+"Hiiraan","Buulo Burdo",2020,1.24848008155823
+"Hiiraan","Buulo Burdo",2021,2.43110466003418
+"Hiiraan","Buulo Burdo",2022,9.53708744049072
+"Hiiraan","Buulo Burdo",2023,12.4265060424805
+"Hiiraan","Buulo Burdo",2024,29.8218803405762
+"Hiiraan","Jalalaqsi",2012,0
+"Hiiraan","Jalalaqsi",2013,0
+"Hiiraan","Jalalaqsi",2014,0
+"Hiiraan","Jalalaqsi",2015,0
+"Hiiraan","Jalalaqsi",2016,0
+"Hiiraan","Jalalaqsi",2017,0
+"Hiiraan","Jalalaqsi",2018,0
+"Hiiraan","Jalalaqsi",2019,0
+"Hiiraan","Jalalaqsi",2020,0
+"Hiiraan","Jalalaqsi",2021,0
+"Hiiraan","Jalalaqsi",2022,8.31840419769287
+"Hiiraan","Jalalaqsi",2023,22.398609161377
+"Hiiraan","Jalalaqsi",2024,21.1805267333984
+"Jubbada Dhexe","Bu'aale",2012,0
+"Jubbada Dhexe","Bu'aale",2013,0
+"Jubbada Dhexe","Bu'aale",2014,0
+"Jubbada Dhexe","Bu'aale",2015,0
+"Jubbada Dhexe","Bu'aale",2016,0
+"Jubbada Dhexe","Bu'aale",2017,0
+"Jubbada Dhexe","Bu'aale",2018,0
+"Jubbada Dhexe","Bu'aale",2019,0
+"Jubbada Dhexe","Bu'aale",2020,0
+"Jubbada Dhexe","Bu'aale",2021,0
+"Jubbada Dhexe","Bu'aale",2022,0
+"Jubbada Dhexe","Bu'aale",2023,0
+"Jubbada Dhexe","Bu'aale",2024,0
+"Jubbada Dhexe","Jilib",2012,0
+"Jubbada Dhexe","Jilib",2013,0
+"Jubbada Dhexe","Jilib",2014,0
+"Jubbada Dhexe","Jilib",2015,0
+"Jubbada Dhexe","Jilib",2016,0
+"Jubbada Dhexe","Jilib",2017,0
+"Jubbada Dhexe","Jilib",2018,0
+"Jubbada Dhexe","Jilib",2019,2.1312952041626
+"Jubbada Dhexe","Jilib",2020,3.66648745536804
+"Jubbada Dhexe","Jilib",2021,6.84878349304199
+"Jubbada Dhexe","Jilib",2022,11.5336971282959
+"Jubbada Dhexe","Jilib",2023,10.385721206665
+"Jubbada Dhexe","Jilib",2024,13.4467744827271
+"Jubbada Dhexe","Saakow",2012,0
+"Jubbada Dhexe","Saakow",2013,0
+"Jubbada Dhexe","Saakow",2014,0
+"Jubbada Dhexe","Saakow",2015,0
+"Jubbada Dhexe","Saakow",2016,0
+"Jubbada Dhexe","Saakow",2017,0
+"Jubbada Dhexe","Saakow",2018,0
+"Jubbada Dhexe","Saakow",2019,0
+"Jubbada Dhexe","Saakow",2020,0
+"Jubbada Dhexe","Saakow",2021,0
+"Jubbada Dhexe","Saakow",2022,0
+"Jubbada Dhexe","Saakow",2023,0
+"Jubbada Dhexe","Saakow",2024,0
+"Jubbada Hoose","Afmadow",2012,0
+"Jubbada Hoose","Afmadow",2013,0
+"Jubbada Hoose","Afmadow",2014,0
+"Jubbada Hoose","Afmadow",2015,0.503505647182465
+"Jubbada Hoose","Afmadow",2016,0.602157056331635
+"Jubbada Hoose","Afmadow",2017,0.655474007129669
+"Jubbada Hoose","Afmadow",2018,0.665839493274689
+"Jubbada Hoose","Afmadow",2019,1.40272808074951
+"Jubbada Hoose","Afmadow",2020,5.03453731536865
+"Jubbada Hoose","Afmadow",2021,14.5223617553711
+"Jubbada Hoose","Afmadow",2022,17.9373683929443
+"Jubbada Hoose","Afmadow",2023,22.7863101959229
+"Jubbada Hoose","Afmadow",2024,21.1270122528076
+"Jubbada Hoose","Badhaadhe",2012,0
+"Jubbada Hoose","Badhaadhe",2013,0
+"Jubbada Hoose","Badhaadhe",2014,0
+"Jubbada Hoose","Badhaadhe",2015,0
+"Jubbada Hoose","Badhaadhe",2016,0
+"Jubbada Hoose","Badhaadhe",2017,0
+"Jubbada Hoose","Badhaadhe",2018,0
+"Jubbada Hoose","Badhaadhe",2019,0
+"Jubbada Hoose","Badhaadhe",2020,0
+"Jubbada Hoose","Badhaadhe",2021,0
+"Jubbada Hoose","Badhaadhe",2022,0
+"Jubbada Hoose","Badhaadhe",2023,0
+"Jubbada Hoose","Badhaadhe",2024,0
+"Jubbada Hoose","Jamaame",2012,0
+"Jubbada Hoose","Jamaame",2013,0
+"Jubbada Hoose","Jamaame",2014,0
+"Jubbada Hoose","Jamaame",2015,0
+"Jubbada Hoose","Jamaame",2016,0
+"Jubbada Hoose","Jamaame",2017,0
+"Jubbada Hoose","Jamaame",2018,0
+"Jubbada Hoose","Jamaame",2019,0
+"Jubbada Hoose","Jamaame",2020,0
+"Jubbada Hoose","Jamaame",2021,0
+"Jubbada Hoose","Jamaame",2022,0
+"Jubbada Hoose","Jamaame",2023,0
+"Jubbada Hoose","Jamaame",2024,0
+"Jubbada Hoose","Kismaayo",2012,0
+"Jubbada Hoose","Kismaayo",2013,4.29642963409424
+"Jubbada Hoose","Kismaayo",2014,38.8067436218262
+"Jubbada Hoose","Kismaayo",2015,52.2938117980957
+"Jubbada Hoose","Kismaayo",2016,64.5924758911133
+"Jubbada Hoose","Kismaayo",2017,78.0626525878906
+"Jubbada Hoose","Kismaayo",2018,98.9152069091797
+"Jubbada Hoose","Kismaayo",2019,137.397476196289
+"Jubbada Hoose","Kismaayo",2020,179.110610961914
+"Jubbada Hoose","Kismaayo",2021,224.90592956543
+"Jubbada Hoose","Kismaayo",2022,278.230407714844
+"Jubbada Hoose","Kismaayo",2023,272.726715087891
+"Jubbada Hoose","Kismaayo",2024,288.534027099609
+"Mudug","Gaalkacayo",2012,82.7948379516602
+"Mudug","Gaalkacayo",2013,94.7214813232422
+"Mudug","Gaalkacayo",2014,113.289276123047
+"Mudug","Gaalkacayo",2015,156.893508911133
+"Mudug","Gaalkacayo",2016,145.643493652344
+"Mudug","Gaalkacayo",2017,132.658096313477
+"Mudug","Gaalkacayo",2018,124.47477722168
+"Mudug","Gaalkacayo",2019,167.627334594727
+"Mudug","Gaalkacayo",2020,216.018966674805
+"Mudug","Gaalkacayo",2021,283.178192138672
+"Mudug","Gaalkacayo",2022,386.608062744141
+"Mudug","Gaalkacayo",2023,451.275939941406
+"Mudug","Gaalkacayo",2024,450.631988525391
+"Mudug","Goldogob",2012,0.0578066781163216
+"Mudug","Goldogob",2013,1.55678749084473
+"Mudug","Goldogob",2014,3.33433198928833
+"Mudug","Goldogob",2015,1.94102871417999
+"Mudug","Goldogob",2016,1.67848944664001
+"Mudug","Goldogob",2017,1.6444411277771
+"Mudug","Goldogob",2018,4.48051166534424
+"Mudug","Goldogob",2019,8.36336135864258
+"Mudug","Goldogob",2020,14.2326641082764
+"Mudug","Goldogob",2021,22.39772605896
+"Mudug","Goldogob",2022,40.7646369934082
+"Mudug","Goldogob",2023,47.1402359008789
+"Mudug","Goldogob",2024,47.7718048095703
+"Mudug","Hobyo",2012,0
+"Mudug","Hobyo",2013,0
+"Mudug","Hobyo",2014,0
+"Mudug","Hobyo",2015,0
+"Mudug","Hobyo",2016,0
+"Mudug","Hobyo",2017,0
+"Mudug","Hobyo",2018,0
+"Mudug","Hobyo",2019,0
+"Mudug","Hobyo",2020,3.56167721748352
+"Mudug","Hobyo",2021,11.5870161056519
+"Mudug","Hobyo",2022,14.2266550064087
+"Mudug","Hobyo",2023,11.4561700820923
+"Mudug","Hobyo",2024,20.6350765228271
+"Mudug","Jariiban",2012,0
+"Mudug","Jariiban",2013,0
+"Mudug","Jariiban",2014,0
+"Mudug","Jariiban",2015,0
+"Mudug","Jariiban",2016,0
+"Mudug","Jariiban",2017,0
+"Mudug","Jariiban",2018,0
+"Mudug","Jariiban",2019,0
+"Mudug","Jariiban",2020,0
+"Mudug","Jariiban",2021,0
+"Mudug","Jariiban",2022,1.35414028167725
+"Mudug","Jariiban",2023,5.58646106719971
+"Mudug","Jariiban",2024,6.42845058441162
+"Mudug","Xarardheere",2012,0
+"Mudug","Xarardheere",2013,0
+"Mudug","Xarardheere",2014,0
+"Mudug","Xarardheere",2015,0
+"Mudug","Xarardheere",2016,0
+"Mudug","Xarardheere",2017,0
+"Mudug","Xarardheere",2018,0
+"Mudug","Xarardheere",2019,0
+"Mudug","Xarardheere",2020,0
+"Mudug","Xarardheere",2021,0
+"Mudug","Xarardheere",2022,0
+"Mudug","Xarardheere",2023,1.15175306797028
+"Mudug","Xarardheere",2024,2.33139085769653
+"Nugaal","Burtinle",2012,1.14316737651825
+"Nugaal","Burtinle",2013,4.18518829345703
+"Nugaal","Burtinle",2014,10.6824083328247
+"Nugaal","Burtinle",2015,9.69594192504883
+"Nugaal","Burtinle",2016,8.91884803771973
+"Nugaal","Burtinle",2017,8.11831092834473
+"Nugaal","Burtinle",2018,12.4588212966919
+"Nugaal","Burtinle",2019,15.8290357589722
+"Nugaal","Burtinle",2020,15.3065977096558
+"Nugaal","Burtinle",2021,19.5099487304688
+"Nugaal","Burtinle",2022,25.1837139129639
+"Nugaal","Burtinle",2023,29.978443145752
+"Nugaal","Burtinle",2024,33.9237442016602
+"Nugaal","Eyl",2012,0
+"Nugaal","Eyl",2013,0
+"Nugaal","Eyl",2014,0
+"Nugaal","Eyl",2015,0
+"Nugaal","Eyl",2016,0
+"Nugaal","Eyl",2017,0
+"Nugaal","Eyl",2018,0
+"Nugaal","Eyl",2019,0
+"Nugaal","Eyl",2020,0
+"Nugaal","Eyl",2021,0
+"Nugaal","Eyl",2022,0
+"Nugaal","Eyl",2023,0.562452375888824
+"Nugaal","Eyl",2024,0
+"Nugaal","Garoowe",2012,139.426345825195
+"Nugaal","Garoowe",2013,149.050369262695
+"Nugaal","Garoowe",2014,198.613067626953
+"Nugaal","Garoowe",2015,192.937118530273
+"Nugaal","Garoowe",2016,254.609909057617
+"Nugaal","Garoowe",2017,274.468292236328
+"Nugaal","Garoowe",2018,271.294158935547
+"Nugaal","Garoowe",2019,321.941680908203
+"Nugaal","Garoowe",2020,438.059112548828
+"Nugaal","Garoowe",2021,572.067687988281
+"Nugaal","Garoowe",2022,771.424743652344
+"Nugaal","Garoowe",2023,818.576171875
+"Nugaal","Garoowe",2024,912.151977539062
+"Sanaag","Badhan",2012,0
+"Sanaag","Badhan",2013,0
+"Sanaag","Badhan",2014,0
+"Sanaag","Badhan",2015,0
+"Sanaag","Badhan",2016,1.13088500499725
+"Sanaag","Badhan",2017,15.2725086212158
+"Sanaag","Badhan",2018,16.9539394378662
+"Sanaag","Badhan",2019,16.949047088623
+"Sanaag","Badhan",2020,24.1915588378906
+"Sanaag","Badhan",2021,55.4625930786133
+"Sanaag","Badhan",2022,83.1441955566406
+"Sanaag","Badhan",2023,112.579643249512
+"Sanaag","Badhan",2024,148.265960693359
+"Sanaag","Ceel-Afwein",2012,0
+"Sanaag","Ceel-Afwein",2013,0
+"Sanaag","Ceel-Afwein",2014,0
+"Sanaag","Ceel-Afwein",2015,0
+"Sanaag","Ceel-Afwein",2016,0
+"Sanaag","Ceel-Afwein",2017,0
+"Sanaag","Ceel-Afwein",2018,0
+"Sanaag","Ceel-Afwein",2019,0
+"Sanaag","Ceel-Afwein",2020,1.59817790985107
+"Sanaag","Ceel-Afwein",2021,17.4400310516357
+"Sanaag","Ceel-Afwein",2022,21.6710567474365
+"Sanaag","Ceel-Afwein",2023,16.7690238952637
+"Sanaag","Ceel-Afwein",2024,14.6338567733765
+"Sanaag","Ceerigaabo",2012,12.5926933288574
+"Sanaag","Ceerigaabo",2013,10.0725698471069
+"Sanaag","Ceerigaabo",2014,15.4782409667969
+"Sanaag","Ceerigaabo",2015,14.1812343597412
+"Sanaag","Ceerigaabo",2016,17.5420608520508
+"Sanaag","Ceerigaabo",2017,17.7497596740723
+"Sanaag","Ceerigaabo",2018,23.4084205627441
+"Sanaag","Ceerigaabo",2019,43.2683296203613
+"Sanaag","Ceerigaabo",2020,58.0442886352539
+"Sanaag","Ceerigaabo",2021,115.778579711914
+"Sanaag","Ceerigaabo",2022,141.945892333984
+"Sanaag","Ceerigaabo",2023,168.411880493164
+"Sanaag","Ceerigaabo",2024,206.687835693359
+"Shabeellaha Dhexe","Aadan",2012,0
+"Shabeellaha Dhexe","Aadan",2013,0
+"Shabeellaha Dhexe","Aadan",2014,0
+"Shabeellaha Dhexe","Aadan",2015,0
+"Shabeellaha Dhexe","Aadan",2016,0
+"Shabeellaha Dhexe","Aadan",2017,0
+"Shabeellaha Dhexe","Aadan",2018,0
+"Shabeellaha Dhexe","Aadan",2019,0
+"Shabeellaha Dhexe","Aadan",2020,0
+"Shabeellaha Dhexe","Aadan",2021,0
+"Shabeellaha Dhexe","Aadan",2022,0
+"Shabeellaha Dhexe","Aadan",2023,0
+"Shabeellaha Dhexe","Aadan",2024,0
+"Shabeellaha Dhexe","Balcad",2012,0
+"Shabeellaha Dhexe","Balcad",2013,0
+"Shabeellaha Dhexe","Balcad",2014,5.62007904052734
+"Shabeellaha Dhexe","Balcad",2015,5.54400396347046
+"Shabeellaha Dhexe","Balcad",2016,7.83826208114624
+"Shabeellaha Dhexe","Balcad",2017,9.66599559783936
+"Shabeellaha Dhexe","Balcad",2018,9.99311256408691
+"Shabeellaha Dhexe","Balcad",2019,14.259952545166
+"Shabeellaha Dhexe","Balcad",2020,16.1500396728516
+"Shabeellaha Dhexe","Balcad",2021,17.974214553833
+"Shabeellaha Dhexe","Balcad",2022,27.3450756072998
+"Shabeellaha Dhexe","Balcad",2023,31.9467353820801
+"Shabeellaha Dhexe","Balcad",2024,42.6538467407227
+"Shabeellaha Dhexe","Cadale",2012,0
+"Shabeellaha Dhexe","Cadale",2013,0
+"Shabeellaha Dhexe","Cadale",2014,0
+"Shabeellaha Dhexe","Cadale",2015,0
+"Shabeellaha Dhexe","Cadale",2016,0.518203616142273
+"Shabeellaha Dhexe","Cadale",2017,0
+"Shabeellaha Dhexe","Cadale",2018,0
+"Shabeellaha Dhexe","Cadale",2019,0
+"Shabeellaha Dhexe","Cadale",2020,0
+"Shabeellaha Dhexe","Cadale",2021,0
+"Shabeellaha Dhexe","Cadale",2022,0.661778032779694
+"Shabeellaha Dhexe","Cadale",2023,0.570868909358978
+"Shabeellaha Dhexe","Cadale",2024,3.8756799697876
+"Shabeellaha Dhexe","Jawhar",2012,1.92095065116882
+"Shabeellaha Dhexe","Jawhar",2013,5.00934648513794
+"Shabeellaha Dhexe","Jawhar",2014,7.88576412200928
+"Shabeellaha Dhexe","Jawhar",2015,10.9972372055054
+"Shabeellaha Dhexe","Jawhar",2016,13.0462894439697
+"Shabeellaha Dhexe","Jawhar",2017,11.1201639175415
+"Shabeellaha Dhexe","Jawhar",2018,15.7850847244263
+"Shabeellaha Dhexe","Jawhar",2019,28.1320362091064
+"Shabeellaha Dhexe","Jawhar",2020,33.5838394165039
+"Shabeellaha Dhexe","Jawhar",2021,37.7624130249023
+"Shabeellaha Dhexe","Jawhar",2022,72.0272674560547
+"Shabeellaha Dhexe","Jawhar",2023,87.1637649536133
+"Shabeellaha Dhexe","Jawhar",2024,80.8270721435547
+"Shabeellaha Hoose","Afgooye",2012,59.705135345459
+"Shabeellaha Hoose","Afgooye",2013,165.502471923828
+"Shabeellaha Hoose","Afgooye",2014,277.881988525391
+"Shabeellaha Hoose","Afgooye",2015,305.196624755859
+"Shabeellaha Hoose","Afgooye",2016,326.631317138672
+"Shabeellaha Hoose","Afgooye",2017,503.261932373047
+"Shabeellaha Hoose","Afgooye",2018,867.482727050781
+"Shabeellaha Hoose","Afgooye",2019,1173.12524414062
+"Shabeellaha Hoose","Afgooye",2020,1454.63720703125
+"Shabeellaha Hoose","Afgooye",2021,1853.06896972656
+"Shabeellaha Hoose","Afgooye",2022,2337.96801757812
+"Shabeellaha Hoose","Afgooye",2023,2639.56176757812
+"Shabeellaha Hoose","Afgooye",2024,3218.12451171875
+"Shabeellaha Hoose","Baraawe",2012,0
+"Shabeellaha Hoose","Baraawe",2013,0
+"Shabeellaha Hoose","Baraawe",2014,0
+"Shabeellaha Hoose","Baraawe",2015,0
+"Shabeellaha Hoose","Baraawe",2016,14.0755929946899
+"Shabeellaha Hoose","Baraawe",2017,7.35606050491333
+"Shabeellaha Hoose","Baraawe",2018,4.26273584365845
+"Shabeellaha Hoose","Baraawe",2019,6.39455509185791
+"Shabeellaha Hoose","Baraawe",2020,5.50969123840332
+"Shabeellaha Hoose","Baraawe",2021,6.90851545333862
+"Shabeellaha Hoose","Baraawe",2022,14.1989707946777
+"Shabeellaha Hoose","Baraawe",2023,16.15185546875
+"Shabeellaha Hoose","Baraawe",2024,13.3292112350464
+"Shabeellaha Hoose","Kuntuwaaray",2012,0
+"Shabeellaha Hoose","Kuntuwaaray",2013,0
+"Shabeellaha Hoose","Kuntuwaaray",2014,0
+"Shabeellaha Hoose","Kuntuwaaray",2015,0
+"Shabeellaha Hoose","Kuntuwaaray",2016,0
+"Shabeellaha Hoose","Kuntuwaaray",2017,0
+"Shabeellaha Hoose","Kuntuwaaray",2018,0
+"Shabeellaha Hoose","Kuntuwaaray",2019,0
+"Shabeellaha Hoose","Kuntuwaaray",2020,0
+"Shabeellaha Hoose","Kuntuwaaray",2021,0
+"Shabeellaha Hoose","Kuntuwaaray",2022,0
+"Shabeellaha Hoose","Kuntuwaaray",2023,0
+"Shabeellaha Hoose","Kuntuwaaray",2024,0
+"Shabeellaha Hoose","Marka",2012,0
+"Shabeellaha Hoose","Marka",2013,1.72578704357147
+"Shabeellaha Hoose","Marka",2014,1.9000118970871
+"Shabeellaha Hoose","Marka",2015,1.13284432888031
+"Shabeellaha Hoose","Marka",2016,1.77887535095215
+"Shabeellaha Hoose","Marka",2017,3.18864107131958
+"Shabeellaha Hoose","Marka",2018,2.21662759780884
+"Shabeellaha Hoose","Marka",2019,18.4046325683594
+"Shabeellaha Hoose","Marka",2020,23.0390605926514
+"Shabeellaha Hoose","Marka",2021,28.322021484375
+"Shabeellaha Hoose","Marka",2022,31.5745983123779
+"Shabeellaha Hoose","Marka",2023,36.7929191589355
+"Shabeellaha Hoose","Marka",2024,36.8930015563965
+"Shabeellaha Hoose","Qoryooley",2012,0
+"Shabeellaha Hoose","Qoryooley",2013,0
+"Shabeellaha Hoose","Qoryooley",2014,0
+"Shabeellaha Hoose","Qoryooley",2015,0
+"Shabeellaha Hoose","Qoryooley",2016,0
+"Shabeellaha Hoose","Qoryooley",2017,0
+"Shabeellaha Hoose","Qoryooley",2018,0.595055103302002
+"Shabeellaha Hoose","Qoryooley",2019,1.42137515544891
+"Shabeellaha Hoose","Qoryooley",2020,1.74710702896118
+"Shabeellaha Hoose","Qoryooley",2021,6.99934959411621
+"Shabeellaha Hoose","Qoryooley",2022,9.147629737854
+"Shabeellaha Hoose","Qoryooley",2023,8.79221820831299
+"Shabeellaha Hoose","Qoryooley",2024,6.20769262313843
+"Shabeellaha Hoose","Sablale",2012,0
+"Shabeellaha Hoose","Sablale",2013,0
+"Shabeellaha Hoose","Sablale",2014,0
+"Shabeellaha Hoose","Sablale",2015,0
+"Shabeellaha Hoose","Sablale",2016,0
+"Shabeellaha Hoose","Sablale",2017,0
+"Shabeellaha Hoose","Sablale",2018,0
+"Shabeellaha Hoose","Sablale",2019,0
+"Shabeellaha Hoose","Sablale",2020,0
+"Shabeellaha Hoose","Sablale",2021,0
+"Shabeellaha Hoose","Sablale",2022,0
+"Shabeellaha Hoose","Sablale",2023,0
+"Shabeellaha Hoose","Sablale",2024,0
+"Shabeellaha Hoose","Wanla Weyn",2012,0
+"Shabeellaha Hoose","Wanla Weyn",2013,0
+"Shabeellaha Hoose","Wanla Weyn",2014,1.64041602611542
+"Shabeellaha Hoose","Wanla Weyn",2015,1.6208815574646
+"Shabeellaha Hoose","Wanla Weyn",2016,13.7828073501587
+"Shabeellaha Hoose","Wanla Weyn",2017,7.4345383644104
+"Shabeellaha Hoose","Wanla Weyn",2018,7.38563346862793
+"Shabeellaha Hoose","Wanla Weyn",2019,13.6584396362305
+"Shabeellaha Hoose","Wanla Weyn",2020,13.7931184768677
+"Shabeellaha Hoose","Wanla Weyn",2021,17.6001167297363
+"Shabeellaha Hoose","Wanla Weyn",2022,20.8733253479004
+"Shabeellaha Hoose","Wanla Weyn",2023,18.2620391845703
+"Shabeellaha Hoose","Wanla Weyn",2024,24.4726104736328
+"Sool","Caynabo",2012,0
+"Sool","Caynabo",2013,0
+"Sool","Caynabo",2014,0
+"Sool","Caynabo",2015,0
+"Sool","Caynabo",2016,0
+"Sool","Caynabo",2017,0
+"Sool","Caynabo",2018,0
+"Sool","Caynabo",2019,1.03747153282166
+"Sool","Caynabo",2020,2.93224000930786
+"Sool","Caynabo",2021,6.67445182800293
+"Sool","Caynabo",2022,8.48531341552734
+"Sool","Caynabo",2023,11.8166828155518
+"Sool","Caynabo",2024,20.9373149871826
+"Sool","Lascaanod",2012,11.7882213592529
+"Sool","Lascaanod",2013,51.5880088806152
+"Sool","Lascaanod",2014,70.8623275756836
+"Sool","Lascaanod",2015,70.3266448974609
+"Sool","Lascaanod",2016,86.4976196289062
+"Sool","Lascaanod",2017,86.6738739013672
+"Sool","Lascaanod",2018,90.5667953491211
+"Sool","Lascaanod",2019,106.05158996582
+"Sool","Lascaanod",2020,143.105041503906
+"Sool","Lascaanod",2021,188.787063598633
+"Sool","Lascaanod",2022,236.120849609375
+"Sool","Lascaanod",2023,144.271087646484
+"Sool","Lascaanod",2024,266.542755126953
+"Sool","Taleex",2012,0
+"Sool","Taleex",2013,0
+"Sool","Taleex",2014,0
+"Sool","Taleex",2015,0
+"Sool","Taleex",2016,0
+"Sool","Taleex",2017,0
+"Sool","Taleex",2018,0
+"Sool","Taleex",2019,0
+"Sool","Taleex",2020,0
+"Sool","Taleex",2021,0
+"Sool","Taleex",2022,3.5084056854248
+"Sool","Taleex",2023,5.62094736099243
+"Sool","Taleex",2024,5.13880205154419
+"Sool","Xudun",2012,0
+"Sool","Xudun",2013,0
+"Sool","Xudun",2014,0
+"Sool","Xudun",2015,0
+"Sool","Xudun",2016,0
+"Sool","Xudun",2017,0
+"Sool","Xudun",2018,0
+"Sool","Xudun",2019,0
+"Sool","Xudun",2020,0.604445934295654
+"Sool","Xudun",2021,11.1462697982788
+"Sool","Xudun",2022,10.8065872192383
+"Sool","Xudun",2023,6.05071973800659
+"Sool","Xudun",2024,4.71231174468994
+"Togdheer","Burao",2012,161.363983154297
+"Togdheer","Burao",2013,162.412506103516
+"Togdheer","Burao",2014,179.682250976562
+"Togdheer","Burao",2015,179.694534301758
+"Togdheer","Burao",2016,197.493316650391
+"Togdheer","Burao",2017,243.299346923828
+"Togdheer","Burao",2018,308.347412109375
+"Togdheer","Burao",2019,438.790252685547
+"Togdheer","Burao",2020,528.757202148438
+"Togdheer","Burao",2021,683.1953125
+"Togdheer","Burao",2022,829.753295898438
+"Togdheer","Burao",2023,847.493103027344
+"Togdheer","Burao",2024,922.16455078125
+"Togdheer","Buuhoodle",2012,2.61963939666748
+"Togdheer","Buuhoodle",2013,2.565514087677
+"Togdheer","Buuhoodle",2014,3.2552924156189
+"Togdheer","Buuhoodle",2015,3.26169538497925
+"Togdheer","Buuhoodle",2016,3.52952885627747
+"Togdheer","Buuhoodle",2017,6.7636399269104
+"Togdheer","Buuhoodle",2018,18.5595855712891
+"Togdheer","Buuhoodle",2019,38.2647895812988
+"Togdheer","Buuhoodle",2020,65.5602340698242
+"Togdheer","Buuhoodle",2021,94.1160736083984
+"Togdheer","Buuhoodle",2022,118.607635498047
+"Togdheer","Buuhoodle",2023,127.50904083252
+"Togdheer","Buuhoodle",2024,119.515785217285
+"Togdheer","Oodweyne",2012,0
+"Togdheer","Oodweyne",2013,0
+"Togdheer","Oodweyne",2014,0
+"Togdheer","Oodweyne",2015,0
+"Togdheer","Oodweyne",2016,0
+"Togdheer","Oodweyne",2017,1.27482748031616
+"Togdheer","Oodweyne",2018,2.43642687797546
+"Togdheer","Oodweyne",2019,2.30809235572815
+"Togdheer","Oodweyne",2020,3.56724429130554
+"Togdheer","Oodweyne",2021,5.88141679763794
+"Togdheer","Oodweyne",2022,8.28899097442627
+"Togdheer","Oodweyne",2023,10.9883108139038
+"Togdheer","Oodweyne",2024,17.8589839935303
+"Togdheer","Sheekh",2012,0
+"Togdheer","Sheekh",2013,0
+"Togdheer","Sheekh",2014,1.56108689308167
+"Togdheer","Sheekh",2015,2.93830442428589
+"Togdheer","Sheekh",2016,1.77935528755188
+"Togdheer","Sheekh",2017,2.083092212677
+"Togdheer","Sheekh",2018,2.88082814216614
+"Togdheer","Sheekh",2019,6.62532758712769
+"Togdheer","Sheekh",2020,10.9062099456787
+"Togdheer","Sheekh",2021,23.7715454101562
+"Togdheer","Sheekh",2022,45.862548828125
+"Togdheer","Sheekh",2023,46.5154685974121
+"Togdheer","Sheekh",2024,43.0099182128906
+"Woqooyi Galbeed","Berbera",2012,192.74821472168
+"Woqooyi Galbeed","Berbera",2013,215.643096923828
+"Woqooyi Galbeed","Berbera",2014,206.439178466797
+"Woqooyi Galbeed","Berbera",2015,217.372833251953
+"Woqooyi Galbeed","Berbera",2016,231.957168579102
+"Woqooyi Galbeed","Berbera",2017,257.813842773438
+"Woqooyi Galbeed","Berbera",2018,377.213989257812
+"Woqooyi Galbeed","Berbera",2019,434.910858154297
+"Woqooyi Galbeed","Berbera",2020,573.763000488281
+"Woqooyi Galbeed","Berbera",2021,981.562866210938
+"Woqooyi Galbeed","Berbera",2022,1325.02844238281
+"Woqooyi Galbeed","Berbera",2023,1628.78295898438
+"Woqooyi Galbeed","Berbera",2024,1598.15698242188
+"Woqooyi Galbeed","Gabiley",2012,13.0235948562622
+"Woqooyi Galbeed","Gabiley",2013,17.3609294891357
+"Woqooyi Galbeed","Gabiley",2014,21.3142051696777
+"Woqooyi Galbeed","Gabiley",2015,36.7193489074707
+"Woqooyi Galbeed","Gabiley",2016,50.9745750427246
+"Woqooyi Galbeed","Gabiley",2017,67.9765548706055
+"Woqooyi Galbeed","Gabiley",2018,81.9659118652344
+"Woqooyi Galbeed","Gabiley",2019,133.111968994141
+"Woqooyi Galbeed","Gabiley",2020,238.915237426758
+"Woqooyi Galbeed","Gabiley",2021,361.192474365234
+"Woqooyi Galbeed","Gabiley",2022,393.654205322266
+"Woqooyi Galbeed","Gabiley",2023,425.249420166016
+"Woqooyi Galbeed","Gabiley",2024,431.166839599609
+"Woqooyi Galbeed","Hargeysa",2012,1199.19604492188
+"Woqooyi Galbeed","Hargeysa",2013,1171.67199707031
+"Woqooyi Galbeed","Hargeysa",2014,1314.41760253906
+"Woqooyi Galbeed","Hargeysa",2015,1491.55163574219
+"Woqooyi Galbeed","Hargeysa",2016,1589.08752441406
+"Woqooyi Galbeed","Hargeysa",2017,1858.41101074219
+"Woqooyi Galbeed","Hargeysa",2018,2305
+"Woqooyi Galbeed","Hargeysa",2019,2734.38696289062
+"Woqooyi Galbeed","Hargeysa",2020,3471.83178710938
+"Woqooyi Galbeed","Hargeysa",2021,4406.28759765625
+"Woqooyi Galbeed","Hargeysa",2022,5389.89990234375
+"Woqooyi Galbeed","Hargeysa",2023,5902.8662109375
+"Woqooyi Galbeed","Hargeysa",2024,6436.7412109375
