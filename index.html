@@ -6,119 +6,368 @@
 <title>Africa Nighttime Lights Atlas – Country Reports</title>
 <style>
   :root{
-    --bg:#f7faf9;
+    --bg:#020617;
     --card:#ffffff;
-    --ink:#0f2222;
-    --muted:#637b7b;
-    --accent:#0BA37F;           /* AfDB green vibe */
+    --ink:#0f172a;
+    --muted:#64748b;
+    --accent:#0BA37F;
     --accent-2:#0f8e6e;
     --chip:#e7f4f0;
     --ring:#dfe9e6;
+    --pdf:#0f6652;
+    --data:#145b8c;
   }
   *{box-sizing:border-box}
   body{
-    margin:0; background:var(--bg); color:var(--ink);
+    margin:0;
+    background:radial-gradient(120% 160% at 10% 0%,#020617 0,#020617 35%,#020617 60%,#020617 100%);
+    color:var(--ink);
     font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
   }
-  header{
-    position:sticky; top:0; z-index:10;
-    background:linear-gradient(180deg,#fff 0%, #fff8 85%, transparent);
-    backdrop-filter: blur(6px);
-    border-bottom:1px solid #eef3f1;
-  }
-  .wrap{max-width:1200px; margin:0 auto; padding:18px 20px;}
-  .hero{
-    display:flex; align-items:center; gap:14px; flex-wrap:wrap;
-  }
-  .hero .brand{
-    display:flex; align-items:center; gap:10px;
-  }
-  .brand img{height:38px; width:auto; filter: drop-shadow(0 0 0 rgba(0,0,0,0.0));}
-  h1{font-size:clamp(20px,3vw,28px); margin:0; font-weight:800; letter-spacing:.2px}
-  .subtitle{color:var(--muted); margin-top:2px; font-size:14px}
-  .cta{
-    margin-left:auto; display:flex; gap:10px; flex-wrap:wrap;
-  }
-  .btn{
-    background: var(--accent);
-    color:#fff; text-decoration:none; font-weight:600; font-size:14px;
-    padding:10px 14px; border-radius:10px; border:1px solid #08906f;
-    box-shadow: 0 1px 0 #0a7a60 inset, 0 2px 8px rgba(0,0,0,.06);
-    display:inline-flex; align-items:center; gap:8px;
-  }
-  .btn:hover{background:var(--accent-2)}
-  .toolbar{
-    margin-top:14px; display:flex; gap:10px; flex-wrap:wrap; align-items:center;
-  }
-  .search{
-    flex:1 1 320px; position:relative;
-  }
-  .search input{
-    width:100%; padding:12px 14px 12px 40px; border-radius:12px; border:1px solid var(--ring);
-    outline:none; background:#fff; color:var(--ink); font-size:15px;
-    box-shadow: 0 1px 0 #fff inset, 0 1px 6px rgba(16,36,36,.04);
-  }
-  .search svg{position:absolute; left:12px; top:50%; transform:translateY(-50%); opacity:.55}
-  .az{display:flex; flex-wrap:wrap; gap:6px}
-  .chip{
-    padding:8px 10px; font-size:13px; border-radius:999px; color:#0d3a31; background:var(--chip);
-    border:1px solid var(--ring); cursor:pointer; user-select:none;
-  }
-  .chip.active{background:var(--accent); color:#fff; border-color:#0a7a60}
 
-  main{max-width:1200px; margin:12px auto 60px; padding:0 20px;}
+  /* HEADER – no more sticky */
+  header{
+    position:relative;
+    z-index:2;
+  }
+
+  .wrap{max-width:1200px; margin:0 auto; padding:18px 20px 12px;}
+
+  /* HERO */
+  .hero-banner{
+    position:relative;
+    border-radius:22px;
+    overflow:hidden;
+    min-height:230px;
+    display:flex;
+    align-items:stretch;
+    justify-content:space-between;
+    padding:22px 22px 20px;
+    color:#f9fafb;
+    box-shadow:0 18px 50px rgba(15,23,42,.65);
+    background:radial-gradient(circle at top left,#020617 0,#020617 45%,#020617 100%);
+    gap:22px;
+  }
+
+  .hero-brand{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    max-width:520px;
+    z-index:1;
+  }
+
+  .brand-row{display:flex;align-items:center;gap:10px;}
+  .brand-row img{
+    height:40px;width:auto;
+    filter:drop-shadow(0 4px 12px rgba(0,0,0,.55));
+  }
+
+  h1{
+    font-size:clamp(22px,3vw,30px);
+    margin:0;
+    font-weight:800;
+    letter-spacing:.2px;
+  }
+
+  .subtitle{
+    color:#e2e8f0;
+    margin-top:4px;
+    font-size:14px;
+  }
+
+  .hero-tags{
+    margin-top:10px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+
+  .hero-tag{
+    padding:6px 9px;
+    border-radius:999px;
+    border:1px solid rgba(148,163,184,.7);
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:.11em;
+    color:#cbd5f5;
+    background:linear-gradient(120deg,rgba(15,23,42,.85),rgba(15,23,42,.45));
+  }
+
+  .cta{
+    margin-top:16px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+
+  .btn{
+    background:var(--accent);
+    color:#fff;
+    text-decoration:none;
+    font-weight:600;
+    font-size:14px;
+    padding:10px 14px;
+    border-radius:999px;
+    border:1px solid #08906f;
+    box-shadow:0 1px 0 #0a7a60 inset,0 2px 12px rgba(15,23,42,.4);
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+  }
+  .btn span.icon{font-size:16px}
+  .btn:hover{background:var(--accent-2);}
+
+  .hero-note{
+    margin-top:4px;
+    font-size:11px;
+    color:#cbd5f5;
+    opacity:.92;
+  }
+
+  /* HERO IMAGE BLOCK */
+  .hero-image{
+    flex:0 0 320px;
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+  }
+
+  .hero-image-card{
+    width:100%;
+    max-width:360px;
+    border-radius:26px;
+    overflow:hidden;
+    border:1px solid rgba(148,163,184,.65);
+    box-shadow:0 26px 60px rgba(15,23,42,.9);
+    background:#020617;
+  }
+
+  .hero-image-card img{
+    display:block;
+    width:100%;
+    height:320px;
+    object-fit:cover;
+    object-position:center;
+  }
+
+  @media (max-width:900px){
+    .hero-banner{
+      flex-direction:column;
+      align-items:flex-start;
+    }
+    .hero-image{
+      flex:initial;
+      width:100%;
+      justify-content:center;
+      margin-top:10px;
+    }
+    .hero-image-card{
+      max-width:320px;
+    }
+  }
+
+  /* TOOLBAR */
+  .toolbar{
+    margin-top:18px;
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+  .search{flex:1 1 320px;position:relative;}
+  .search input{
+    width:100%;
+    padding:12px 14px 12px 40px;
+    border-radius:12px;
+    border:1px solid #0f172a33;
+    outline:none;
+    background:#020617;
+    color:#e2e8f0;
+    font-size:15px;
+    box-shadow:0 0 0 1px rgba(148,163,184,.35),0 16px 40px rgba(15,23,42,.85) inset;
+  }
+  .search input::placeholder{color:#64748b;}
+  .search svg{
+    position:absolute;
+    left:12px;
+    top:50%;
+    transform:translateY(-50%);
+    opacity:.65;
+    color:#94a3b8;
+  }
+
+  .az{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+  }
+
+  .chip{
+    padding:7px 10px;
+    font-size:12px;
+    border-radius:999px;
+    color:#e2e8f0;
+    background:rgba(15,23,42,.85);
+    border:1px solid rgba(148,163,184,.7);
+    cursor:pointer;
+    user-select:none;
+  }
+  .chip.active{
+    background:var(--accent);
+    color:#ecfdf5;
+    border-color:#22c55e;
+  }
+
+  /* GRID */
+  main{
+    max-width:1200px;
+    margin:12px auto 60px;
+    padding:0 20px;
+  }
+
   .grid{
     display:grid;
-    grid-template-columns: repeat(auto-fill,minmax(220px,1fr));
+    grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
     gap:16px;
   }
+
   .card{
-    background:var(--card); border:1px solid var(--ring); border-radius:16px;
-    overflow:hidden; box-shadow: 0 2px 10px rgba(0,0,0,.04);
-    transition:.2s transform ease, .2s box-shadow ease;
+    background:radial-gradient(circle at top,#f9fafb 0,#e2e8f0 32%,#e5f5f0 100%);
+    border-radius:18px;
+    overflow:hidden;
+    border:1px solid rgba(148,163,184,.55);
+    box-shadow:0 18px 40px rgba(15,23,42,.30);
+    transition:.22s transform ease,.22s box-shadow ease,.22s border-color ease;
   }
-  .card:hover{transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0,0,0,.08)}
+  .card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 26px 55px rgba(15,23,42,.55);
+    border-color:rgba(34,197,94,.75);
+  }
+
   .flag{
-    width:100%; height:120px; display:flex; align-items:center; justify-content:center; background:#f2f5f4;
-    border-bottom:1px solid var(--ring);
+    width:100%;
+    height:120px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:radial-gradient(circle at 0 0,#0b1120 0,#020617 40%,#020617 100%);
+    border-bottom:1px solid rgba(15,23,42,.55);
   }
-  .flag img{max-height:90px; width:auto; object-fit:contain}
-  .meta{padding:12px 14px}
-  .name{font-weight:800; font-size:16px; margin:0 0 2px}
-  .iso{color:var(--muted); font-size:12px; letter-spacing:.4px}
+  .flag img{
+    max-height:90px;
+    width:auto;
+    object-fit:contain;
+    filter:drop-shadow(0 6px 18px rgba(0,0,0,.65));
+  }
+
+  .meta{
+    padding:10px 14px 8px;
+  }
+  .name{
+    font-weight:800;
+    font-size:16px;
+    margin:0 0 2px;
+    color:#0f172a;
+  }
+  .iso{
+    color:#475569;
+    font-size:12px;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+  }
+
+  .actions{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    padding:0 14px 14px;
+  }
   .link{
-    display:block; margin:10px 14px 14px; text-decoration:none; text-align:center;
-    background:#0f6652; color:#fff; padding:9px 10px; border-radius:10px; font-weight:700; font-size:14px;
-    border:1px solid #0b5443;
+    text-decoration:none;
+    text-align:center;
+    padding:9px 10px;
+    border-radius:12px;
+    font-weight:700;
+    font-size:13px;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
   }
-  .link:hover{background:#0d5948}
-  footer{max-width:1200px; margin:30px auto 50px; padding:0 20px; color:var(--muted); font-size:13px}
+  .link-primary{
+    background:var(--pdf);
+    color:#ecfdf5;
+    border:1px solid #064e3b;
+    box-shadow:0 10px 18px rgba(4,120,87,.6);
+  }
+  .link-primary:hover{background:#0d5948;}
+  .link-secondary{
+    background:#e2f3ff;
+    color:var(--data);
+    border:1px solid #93c5fd;
+  }
+  .link-secondary:hover{background:#dbeafe;}
+
+  footer{
+    max-width:1200px;
+    margin:0 auto 40px;
+    padding:0 20px 10px;
+    color:#94a3b8;
+    font-size:13px;
+    text-align:left;
+  }
+  footer strong{color:#e5e7eb;}
 </style>
 </head>
 <body>
 
 <header>
   <div class="wrap">
-    <div class="hero">
-      <div class="brand">
-        <!-- Put your AfDB logo in the same folder or adjust the path -->
-        <img src="Logo_Afrikanische_Entwicklungsbank.svg.png" alt="AfDB" onerror="this.style.display='none'">
-        <div>
-          <h1>Africa Nighttime Lights Atlas</h1>
-          <div class="subtitle">2012–2024 Edition · Country PDF Reports</div>
+    <section class="hero-banner">
+      <!-- LEFT TEXT BLOCK -->
+      <div class="hero-brand">
+        <div class="brand-row">
+          <img src="ImagesNTL/Logo_AfDB.png"
+               alt="African Development Bank" onerror="this.style.display='none'">
+          <div>
+            <h1>Africa Nighttime Lights Atlas</h1>
+            <div class="subtitle">
+              High-resolution VIIRS Black Marble insights for all 54 African countries, 2012–2024.
+            </div>
+          </div>
+        </div>
+        <div class="hero-tags">
+          <span class="hero-tag">Nighttime Lights · VIIRS Black Marble</span>
+          <span class="hero-tag">Sub-national analytics · Admin 0–3</span>
+          <span class="hero-tag">Africa-wide coverage · 13 years</span>
+        </div>
+        <div class="cta">
+          <a class="btn" href="Description.pdf" target="_blank">
+            <span class="icon">📘</span><span>NTL Data Overview & Insights</span>
+          </a>
+        </div>
+        <div class="hero-note">
+          Explore each country’s PDF atlas and download the underlying CSV datasets directly from this page.
         </div>
       </div>
-      <div class="cta">
-        <!-- If you produce a merged atlas, name it like this or change the href -->
-        <a class="btn" href="NTL_Africa_Atlas_merged.pdf" target="_blank" title="Open merged atlas">
-          📘 Merged Atlas
-        </a>
-      </div>
-    </div>
 
+      <!-- RIGHT IMAGE BLOCK -->
+      <div class="hero-image">
+        <div class="hero-image-card">
+          <img src="ImagesNTL/Africa.png" alt="Africa Nighttime Lights Visualization">
+        </div>
+      </div>
+    </section>
+
+    <!-- SEARCH & A–Z FILTER -->
     <div class="toolbar">
       <div class="search">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M21 21l-4.3-4.3m2.3-5.2a7.5 7.5 0 11-15 0 7.5 7.5 0 0115 0z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+          <path d="M21 21l-4.3-4.3m2.3-5.2a7.5 7.5 0 11-15 0 7.5 7.5 0 0115 0z"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
         <input id="q" type="search" placeholder="Search by country or ISO (e.g., Kenya, KEN)…" />
       </div>
       <div class="az" id="az"></div>
@@ -131,18 +380,16 @@
 </main>
 
 <footer>
-  Built for offline use. Make sure your files follow the pattern:
-  <code>Insights/NTL_&lt;ISO3&gt;_Atlas.pdf</code> and <code>flags/&lt;ISO3&gt;.png</code>.
+  This platform was designed and generated by the <strong>Data Innovation Lab (DIL)</strong>
+  of the <strong>African Development Bank (AfDB)</strong> as part of the Africa Nighttime Lights
+  Analytics Program (2012–2024). It provides offline access to country-level Nighttime Lights
+  PDF reports and the corresponding annual CSV datasets (Admin 0–3, where available).
 </footer>
 
 <script>
-  // --------- CONFIGURE YOUR FOLDERS HERE ----------
-  const PDF_DIR   = "Insights";   // where your per-country PDFs live
-  const FLAG_DIR  = "flags";      // where flags live
-  // ------------------------------------------------
+  const PDF_DIR  = "Insights";
+  const FLAG_DIR = "flags";
 
-  // Minimal but complete list (ISO3 -> Name). Edit as needed.
-  // You can paste your own mapping or generate it from african_countries.txt.
   const COUNTRIES = [
     ["AGO","Angola"],["BDI","Burundi"],["BEN","Benin"],["BFA","Burkina Faso"],["BWA","Botswana"],
     ["CAF","Central African Republic"],["CIV","Côte d’Ivoire"],["CMR","Cameroon"],["COD","Congo, Dem. Rep."],
@@ -157,25 +404,29 @@
     ["UGA","Uganda"],["ZAF","South Africa"],["ZMB","Zambia"],["ZWE","Zimbabwe"],
   ];
 
-  // Sort A→Z by name
+  // Sort by country name
   COUNTRIES.sort((a,b)=>a[1].localeCompare(b[1],'en',{sensitivity:'base'}));
 
   const grid = document.getElementById('grid');
-  const q = document.getElementById('q');
+  const q    = document.getElementById('q');
 
   function cardHTML(iso, name){
-    const pdf = `${PDF_DIR}/NTL_${iso}_Atlas.pdf`;
-    const flag = `${FLAG_DIR}/${iso}.png`;
+    const pdf   = `${PDF_DIR}/NTL_${iso}_Atlas.pdf`;
+    const flag  = `${FLAG_DIR}/${iso}.png`;
+    const dataPage = `data_country.html?iso=${iso}`;
     return `
-      <article class="card" data-name="${name.toLowerCase()}" data-iso="${iso}">
+      <article class="card">
         <div class="flag">
           <img src="${flag}" alt="${name} flag" onerror="this.style.display='none'">
         </div>
         <div class="meta">
           <h3 class="name">${name}</h3>
-          <div class="iso">ISO3: ${iso}</div>
+          <div class="iso">ISO3 · ${iso}</div>
         </div>
-        <a class="link" href="${pdf}" target="_blank" title="Open ${name} report">Open report</a>
+        <div class="actions">
+          <a class="link link-primary" href="${pdf}" target="_blank">📑 Country atlas (PDF)</a>
+          <a class="link link-secondary" href="${dataPage}">📊 Data files (CSV)</a>
+        </div>
       </article>
     `;
   }
@@ -183,20 +434,18 @@
   function render(list){
     grid.innerHTML = list.map(([iso,name])=>cardHTML(iso,name)).join('');
   }
-
-  // Initial render
   render(COUNTRIES);
 
-  // Search
+  // Search box
   q.addEventListener('input', ()=>{
     const s = q.value.trim().toLowerCase();
-    const filtered = COUNTRIES.filter(([iso,name])=>
+    const filtered = COUNTRIES.filter(([iso,name]) =>
       iso.toLowerCase().includes(s) || name.toLowerCase().includes(s)
     );
     render(filtered);
   });
 
-  // A–Z filter chips
+  // A–Z chips
   const az = document.getElementById('az');
   const letters = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
   let activeLetter = null;
@@ -215,6 +464,7 @@
       });
     });
   }
+
   function filterByLetter(){
     const s = q.value.trim().toLowerCase();
     let rows = COUNTRIES;
@@ -222,7 +472,7 @@
       rows = rows.filter(([iso,name])=>name.toUpperCase().startsWith(activeLetter));
     }
     if(s){
-      rows = rows.filter(([iso,name])=>
+      rows = rows.filter(([iso,name]) =>
         iso.toLowerCase().includes(s) || name.toLowerCase().includes(s)
       );
     }

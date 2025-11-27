@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Nighttime Lights Data Files – Africa</title>
+
+<style>
+  :root {
+    --bg: #020617;
+    --card: #ffffff;
+    --ink: #0f172a;
+    --muted: #64748b;
+    --accent: #0BA37F;
+    --accent-2: #0f8e6e;
+    --data: #145b8c;
+  }
+
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, sans-serif;
+    background: radial-gradient(120% 160% at 10% 0%, #020617 0, #020617 40%, #020617 100%);
+    color: var(--ink);
+  }
+
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 18px 20px 40px; }
+
+  /* HERO ------------------------------------------------------------ */
+  .hero {
+    margin-top: 10px;
+    padding: 20px 22px;
+    border-radius: 22px;
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    color: #fff;
+    box-shadow: 0 18px 50px rgba(15, 23, 42, .65);
+    background-image:
+      linear-gradient(135deg, rgba(0, 0, 0, .80), rgba(15, 23, 42, .4)),
+      url("Sans titre 8.jpg");
+    background-size: cover;
+    background-position: 60% center;
+  }
+
+  .hero-main { max-width: 560px; display: flex; flex-direction: column; gap: 8px; }
+  .hero-top { display: flex; align-items: center; gap: 12px; }
+
+  /* FLAG BLOCK ------------------------------------------------------ */
+  .flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at 0 0, #0b1120 0, #020617 40%);
+    padding: 6px 8px;
+    border-radius: 8px;
+    border: 1px solid rgba(148, 163, 184, .4);
+    box-shadow: 0 6px 18px rgba(15, 23, 42, .55);
+  }
+
+  .flag img {
+    height: 40px;
+    width: auto;
+    filter: drop-shadow(0 4px 10px rgba(0, 0, 0, .6));
+  }
+
+  .hero-title { font-size: clamp(20px, 3vw, 26px); font-weight: 800; margin: 0; }
+  .hero-sub { font-size: 14px; color: #e2e8f0; }
+  .pill {
+    padding: 4px 8px; border-radius: 999px; font-size: 11px;
+    color: #e5e7eb; border: 1px solid rgba(148,163,184,.7);
+    background: rgba(15,23,42,.6); text-transform: uppercase;
+    letter-spacing: .12em;
+  }
+
+  .hero-meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+  .hero-actions { margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap; }
+
+  .btn {
+    text-decoration: none;
+    padding: 9px 13px;
+    font-size: 13px; font-weight: 600;
+    border-radius: 999px;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+
+  .btn-primary {
+    background: var(--accent); color: #fff; border: 1px solid #08906f;
+    box-shadow: 0 1px 0 #0a7a60 inset, 0 2px 10px rgba(0,0,0,.5);
+  }
+  .btn-primary:hover { background: var(--accent-2); }
+
+  .btn-ghost {
+    background: rgba(15,23,42,.6);
+    color: #e2e8f0;
+    border: 1px solid rgba(148,163,184,.7);
+  }
+  .btn-ghost:hover { background: rgba(15,23,42,.85); }
+
+  /* SIDE IMAGE ------------------------------------------------------ */
+  .hero-side {
+    flex: 0 0 220px;
+    height: 120px;
+    border-radius: 16px;
+    background-image:
+      linear-gradient(150deg, rgba(8,47,73,.4), rgba(8,47,73,.1)),
+      url("Sans titre 7.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 1px solid rgba(148,163,184,.5);
+    box-shadow: 0 12px 32px rgba(15,23,42,.9);
+    position: relative;
+  }
+
+  .hero-side::after {
+    content: "Global nighttime lights context";
+    position: absolute;
+    left: 10px; bottom: 8px;
+    font-size: 10px;
+    letter-spacing: .14em;
+    color: #e5e7eb;
+    text-transform: uppercase;
+    text-shadow: 0 2px 8px rgba(0,0,0,1);
+  }
+
+  /* FILE CARDS ------------------------------------------------------ */
+  h2 { color: #e5e7eb; }
+  p.desc { color: #cbd5f5; }
+
+  .files {
+    margin-top: 14px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px,1fr));
+    gap: 14px;
+  }
+
+  .file-card {
+    background: white;
+    border-radius: 16px;
+    padding: 12px 14px;
+    box-shadow: 0 10px 30px rgba(15,23,42,.35);
+    border: 1px solid rgba(148,163,184,.6);
+  }
+
+  .file-level { font-size: 14px; font-weight: 700; }
+  .file-name { font-size: 12px; color: #64748b; }
+  .file-info { font-size: 12px; color:#475569; }
+
+  .file-actions {
+    margin-top: 6px;
+    display: flex; justify-content: flex-end;
+  }
+
+  .file-actions a {
+    background: #e2f3ff;
+    color: var(--data);
+    border: 1px solid #93c5fd;
+    padding: 6px 10px;
+    border-radius: 999px;
+    font-size: 12px; font-weight: 600;
+    text-decoration: none;
+  }
+
+  .file-actions a:hover { background: #dbeafe; }
+
+  footer {
+    margin-top: 30px;
+    font-size: 12px;
+    color: #94a3b8;
+  }
+  footer strong { color: #e5e7eb; }
+</style>
+</head>
+
+<body>
+
+<div class="wrap">
+
+  <!-- HERO SECTION ------------------------------------------------------ -->
+  <section class="hero">
+    <div class="hero-main">
+
+      <div class="hero-top">
+        <div class="flag">
+          <img id="flag" src="" alt="Country flag" onerror="this.style.display='none'">
+        </div>
+
+        <div>
+          <h1 class="hero-title" id="title">Nighttime Lights Data Files</h1>
+          <div class="hero-sub" id="subtitle">
+            Annual VIIRS Black Marble statistics by administrative level (2012–2024).
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-meta">
+        <span class="pill" id="pill-iso">Country code · ISO3</span>
+        <span class="pill">Format · CSV</span>
+        <span class="pill">Admin levels 1–3</span>
+      </div>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="index5.html">⬅ Back to main atlas</a>
+        <a class="btn btn-ghost" id="open-folder" href="#" target="_blank">📁 Open data folder</a>
+      </div>
+    </div>
+
+    <div class="hero-side"></div>
+  </section>
+
+  <!-- FILE LIST --------------------------------------------------------- -->
+  <main>
+    <h2>Available CSV files</h2>
+    <p class="desc">Annual nighttime lights intensity aggregated at different administrative levels.</p>
+
+    <div class="files" id="files"></div>
+  </main>
+
+  <footer>
+    Generated by the <strong>Data Innovation Lab (DIL)</strong> of the
+    <strong>African Development Bank (AfDB)</strong> – Africa Nighttime Lights Analytics Program.
+  </footer>
+
+</div>
+
+<!-- AUTO-GENERATED MANIFEST --------------------------------------------- -->
+<script src="data_manifest.js"></script>
+
+<script>
+  /* COUNTRY NAME DICTIONARY ------------------------------------------- */
+  const COUNTRY_NAMES = {
+    AGO:"Angola", BDI:"Burundi", BEN:"Benin", BFA:"Burkina Faso", BWA:"Botswana",
+    CAF:"Central African Republic", CIV:"Côte d’Ivoire", CMR:"Cameroon", COD:"Congo, Dem. Rep.",
+    COG:"Congo, Rep.", COM:"Comoros", CPV:"Cabo Verde", DJI:"Djibouti", DZA:"Algeria",
+    EGY:"Egypt", ERI:"Eritrea", ESH:"Western Sahara", ETH:"Ethiopia", GAB:"Gabon",
+    GHA:"Ghana", GIN:"Guinea", GMB:"Gambia", GNB:"Guinea-Bissau", GNQ:"Equatorial Guinea",
+    KEN:"Kenya", LBR:"Liberia", LBY:"Libya", LSO:"Lesotho", MAR:"Morocco", MDG:"Madagascar",
+    MLI:"Mali", MOZ:"Mozambique", MRT:"Mauritania", MWI:"Malawi", NAM:"Namibia",
+    NER:"Niger", NGA:"Nigeria", RWA:"Rwanda", SDN:"Sudan", SEN:"Senegal", SLE:"Sierra Leone",
+    SOM:"Somalia", SSD:"South Sudan", STP:"São Tomé and Príncipe", SWZ:"Eswatini",
+    SYC:"Seychelles", TCD:"Chad", TGO:"Togo", TUN:"Tunisia", TZA:"Tanzania",
+    UGA:"Uganda", ZAF:"South Africa", ZMB:"Zambia", ZWE:"Zimbabwe"
+  };
+
+  /* GET ISO PARAM ------------------------------------------------------ */
+  const params = new URLSearchParams(window.location.search);
+  const iso = (params.get("iso") || "").toUpperCase();
+
+  const name = COUNTRY_NAMES[iso] || iso || "Unknown country";
+
+  document.getElementById("title").textContent = `${name} – Nighttime Lights Data Files`;
+  document.getElementById("subtitle").textContent =
+    `Annual VIIRS Black Marble statistics for ${name}.`;
+  document.getElementById("pill-iso").textContent = `Country code · ${iso}`;
+
+  /* FLAG --------------------------------------------------------------- */
+  document.getElementById("flag").src = `flags/${iso}.png`;
+
+  /* OPEN FOLDER BUTTON ------------------------------------------------- */
+  document.getElementById("open-folder").href = `Data/${iso}/`;
+
+  /* LOAD FILES FROM MANIFEST ------------------------------------------ */
+  const filesContainer = document.getElementById("files");
+  const manifest = (typeof NTL_DATA_MANIFEST !== "undefined") ? NTL_DATA_MANIFEST : {};
+  const files = manifest[iso] || [];
+
+  const LABELS = {
+    Admin1: {level:"Admin 1", desc:"First administrative level"},
+    Admin2: {level:"Admin 2", desc:"Second administrative level"},
+    Admin3: {level:"Admin 3", desc:"Third administrative level"},
+  };
+
+  if (!files.length) {
+    filesContainer.innerHTML = `<p class="desc">No CSV files found for <strong>${name}</strong>.</p>`;
+  } else {
+    filesContainer.innerHTML = files.map(fname => {
+      let label = LABELS.Admin1;
+      if      (fname.includes("_Admin2_")) label = LABELS.Admin2;
+      else if (fname.includes("_Admin3_")) label = LABELS.Admin3;
+
+      return `
+        <article class="file-card">
+          <div class="file-header">
+            <div class="file-level">${label.level}</div>
+            <span class="badge">CSV · 2012–2024</span>
+          </div>
+          <div class="file-name">${fname}</div>
+          <div class="file-info">${label.desc}</div>
+          <div class="file-actions">
+            <a href="Data/${iso}/${fname}" download>⬇ Download</a>
+          </div>
+        </article>
+      `;
+    }).join("");
+  }
+
+</script>
+</body>
+</html>
